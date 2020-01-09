@@ -1,0 +1,237 @@
+# translation of rellinks.po to Khmer
+# translation of rellinks.po to
+#
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2006, 2007, 2008.
+# Auk Piseth <piseth_dv@khmeros.info>, 2007, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: rellinks\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2008-12-19 08:59+0700\n"
+"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
+"Language-Team: Khmer <support@khmeros.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"\n"
+
+#: plugin_rellinks.cpp:56
+msgid "Rellinks"
+msgstr "​Rellinks"
+
+#: plugin_rellinks.cpp:71
+msgid "&Top"
+msgstr "​កំពូល"
+
+#: plugin_rellinks.cpp:74
+msgid "<p>This link references a home page or the top of some hierarchy.</p>"
+msgstr "<p>តំណ​នេះ​​​យោង​តាម​​គេហទំព័រ​​ ឬ​កំពូល​របស់​​ឋានានុក្រម​មួយ​ចំនួន​​ ។</p>"
+
+#: plugin_rellinks.cpp:79
+msgid "&Up"
+msgstr "​ឡើងលើ"
+
+#: plugin_rellinks.cpp:82
+msgid ""
+"<p>This link references the immediate parent of the current document.</p>"
+msgstr "​<p>តំណ​នេះ​យោង​តាម​​មេ​​​​​ឯកសារ​បច្ចុប្បន្ន​ភ្លាមៗ ។</p>"
+
+#: plugin_rellinks.cpp:89
+msgid "&First"
+msgstr "​ដំបូង"
+
+#: plugin_rellinks.cpp:92
+msgid ""
+"<p>This link type tells search engines which document is considered by the "
+"author to be the starting point of the collection.</p>"
+msgstr ""
+"<p>ប្រភេទ​តំណ​នេះ​ប្រាប់​​ម៉ាស៊ីន​ស្វែងរក​​ថាតើ​​ឯកសារ​មួយ​ណា​​ត្រូវ​បាន​ពិចារណា​ដោយ​អ្នក​និពន្ធ ​ថា​ជា​​ចំណុច​​ចាប់ផ្តើម​​"
+"នៃ​ការ​ប្រមូល​ផ្ដុំ ។</p>"
+
+#: plugin_rellinks.cpp:97
+msgid "&Previous"
+msgstr "មុន"
+
+#: plugin_rellinks.cpp:101
+msgid ""
+"<p>This link references the previous document in an ordered series of "
+"documents.</p>"
+msgstr "<p>តំណ​នេះ​យោង​តាម​ឯកសារ​មុន​នៅ​​ក្នុង​​ស៊េរី​ដែល​មាន​លំដាប់​​របស់​ឯកសារ ។</p>"
+
+#: plugin_rellinks.cpp:105
+msgid "&Next"
+msgstr "​បន្ទាប់"
+
+#: plugin_rellinks.cpp:108
+msgid ""
+"<p>This link references the next document in an ordered series of documents."
+"</p>"
+msgstr "<p>តំណ​នេះ​យោង​តាម​​ឯកសារ​បន្ទាប់​​នៅ​ក្នុង​​ស៊េរី​​ដែល​មាន​លំដាប់​​របស់​​​ឯកសារ ។</p>"
+
+#: plugin_rellinks.cpp:113
+msgid "&Last"
+msgstr "​ចុង​ក្រោយ"
+
+#: plugin_rellinks.cpp:117
+msgid "<p>This link references the end of a sequence of documents.</p>"
+msgstr "<p>តំណ​នេះ​យោង​តាម​​​​លំដាប់​ខាង​​ចុង​របស់​​ឯកសារ ។</p>"
+
+#: plugin_rellinks.cpp:122
+msgid "&Search"
+msgstr "​ស្វែង​រក"
+
+#: plugin_rellinks.cpp:125
+msgid "<p>This link references the search.</p>"
+msgstr "<p>តំណ​នេះ​យោង​តាម​​ការ​ស្វែង​រក ។</p>"
+
+#: plugin_rellinks.cpp:130
+msgid "Document"
+msgstr "​ឯកសារ"
+
+#: plugin_rellinks.cpp:132
+msgid "<p>This menu contains the links referring the document information.</p>"
+msgstr "<p>ម៉ឺនុយ​នេះ​មាន​​​តំណ​ដែល​សំអាង​លើ​​ព័ត៌មាន​ឯកសារ ។</p>"
+
+#: plugin_rellinks.cpp:136
+msgid "Table of &Contents"
+msgstr "​តារាង​មាតិកា"
+
+#: plugin_rellinks.cpp:138
+msgid "<p>This link references the table of contents.</p>"
+msgstr "<p>តំណ​នេះ​យោង​តាម​​តារាង​​​មាតិកា ។</p>"
+
+#: plugin_rellinks.cpp:143
+msgid "Chapters"
+msgstr "ជំពូក​"
+
+#: plugin_rellinks.cpp:148
+msgid "<p>This menu references the chapters of the document.</p>"
+msgstr "<p>ម៉ឺនុយ​នេះ​យោង​តាម​​ជំពូក​​​ឯកសារ ។</p>"
+
+#: plugin_rellinks.cpp:151
+msgid "Sections"
+msgstr "ផ្នែក"
+
+#: plugin_rellinks.cpp:157
+msgid "<p>This menu references the sections of the document.</p>"
+msgstr "<p>ម៉ឺនុយ​នេះ​យោង​តាម​​ផ្នែក​របស់​​​ឯកសារ ។</p>"
+
+#: plugin_rellinks.cpp:160
+msgid "Subsections"
+msgstr "ផ្នែក​រង"
+
+#: plugin_rellinks.cpp:165
+msgid "<p>This menu references the subsections of the document.</p>"
+msgstr "<p>ម៉ឺនុយ​នេះ​យោង​តាម​​ផ្នែក​រង​របស់​​​​ឯកសារ ។</p>"
+
+#: plugin_rellinks.cpp:168
+msgid "Appendix"
+msgstr "សេចក្តី​បន្ថែម"
+
+#: plugin_rellinks.cpp:173
+msgid "<p>This link references the appendix.</p>"
+msgstr "<p>តំណ​នេះ​យោង​តាម​​​សេចក្តី​បន្ថែម ។</p>"
+
+#: plugin_rellinks.cpp:177
+msgid "&Glossary"
+msgstr "សទ្ទានុក្រម"
+
+#: plugin_rellinks.cpp:180
+msgid "<p>This link references the glossary.</p>"
+msgstr "<p>តំណ​នេះ​យោង​តាម​​សទ្ទានុក្រម ។</p>"
+
+#: plugin_rellinks.cpp:185
+msgid "&Index"
+msgstr "លិបិក្រម"
+
+#: plugin_rellinks.cpp:187
+msgid "<p>This link references the index.</p>"
+msgstr "<p>តំណ​នេះ​យោង​តាម​​លិបិក្រម ។</p>"
+
+#: plugin_rellinks.cpp:193
+msgid "More"
+msgstr "ផ្សេង​ទៀត"
+
+#: plugin_rellinks.cpp:195
+msgid "<p>This menu contains other important links.</p>"
+msgstr "<p>ម៉ឺនុយ​នេះ​មាន​តំណ​សំខាន់ៗ​ផ្សេង​ទៀត ។</p>"
+
+#: plugin_rellinks.cpp:199
+msgid "&Help"
+msgstr "ជំនួយ"
+
+#: plugin_rellinks.cpp:202
+msgid "<p>This link references the help.</p>"
+msgstr "<p>តំណ​នេះ​យោង​តាម​​ជំនួយ ។</p>"
+
+#: plugin_rellinks.cpp:208
+msgid "&Authors"
+msgstr "អ្នក​និពន្ធ"
+
+#: plugin_rellinks.cpp:211
+msgid "<p>This link references the author.</p>"
+msgstr "<p>តំណ​នេះ​យោង​តាម​​អ្នក​និពន្ធ ។</p>"
+
+#: plugin_rellinks.cpp:217
+msgid "Copy&right"
+msgstr "រក្សា​សិទ្ធិ"
+
+#: plugin_rellinks.cpp:220
+msgid "<p>This link references the copyright.</p>"
+msgstr "<p>តំណ​នេះ​យោង​តាម​​ការ​រក្សាសិទ្ធិ ។</p>"
+
+#: plugin_rellinks.cpp:225
+msgid "Bookmarks"
+msgstr "ចំណាំ"
+
+#: plugin_rellinks.cpp:228
+msgid "<p>This menu references the bookmarks.</p>"
+msgstr "<p>ម៉ឺនុយ​នេះ​យោង​តាម​​ចំណាំ ។</p>"
+
+#: plugin_rellinks.cpp:232
+msgid "Other Versions"
+msgstr "កំណែ​ផ្សេងៗ"
+
+#: plugin_rellinks.cpp:235
+msgid "<p>This link references the alternate versions of this document.</p>"
+msgstr "<p>តំណ​នេះ​យោង​តាម​​កំណែ​ជំនួស​របស់​​​​ឯកសារ​នេះ ។</p>"
+
+#: plugin_rellinks.cpp:240
+msgid "Miscellaneous"
+msgstr "ផ្សេងៗ"
+
+#: plugin_rellinks.cpp:243
+msgid "<p>Miscellaneous links.</p>"
+msgstr "<p>តំណ​ផ្សេងៗ ។</p>"
+
+#: plugin_rellinks.cpp:471 plugin_rellinks.cpp:485
+#, kde-format
+msgid "[Autodetected] %1"
+msgstr "[បាន​រកឃើញ​ដោយ​ស្វ័យប្រវត្តិ] %1"
+
+#. i18n: file: plugin_rellinks.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "ឧបករណ៍"
+
+#. i18n: file: plugin_rellinks.rc:5
+#. i18n: ectx: Menu (rellinksMenu)
+#. i18n: file: plugin_rellinks.rc:21
+#. i18n: ectx: ToolBar (rellinksToolBar)
+#: rc.cpp:6 rc.cpp:9
+msgid "Document Relations"
+msgstr "ទំនាក់ទំនង​ឯកសារ"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ខឹម សុខែម, អេង វណ្ណៈ, អោក ពិសិដ្ឋ​​"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "khoemsokhem@khmeros.info,​​evannak@khmeros.info,piseth_dv@khmeros.info"

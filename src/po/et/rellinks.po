@@ -1,0 +1,233 @@
+# translation of rellinks.po to Estonian
+# Marek Laane <bald@starman.ee>, 2004-2005,2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: rellinks\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2007-10-06 20:44+0300\n"
+"Last-Translator: Marek Laane <bald@starman.ee>\n"
+"Language-Team: Estonian <kde-et@linux.ee>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: plugin_rellinks.cpp:56
+msgid "Rellinks"
+msgstr "Rellinks"
+
+#: plugin_rellinks.cpp:71
+msgid "&Top"
+msgstr "&Ülemine"
+
+#: plugin_rellinks.cpp:74
+msgid "<p>This link references a home page or the top of some hierarchy.</p>"
+msgstr "<p>See viit viitab koduleheküljele või mingi hierarhia tipule.</p>"
+
+#: plugin_rellinks.cpp:79
+msgid "&Up"
+msgstr "Ü&les"
+
+#: plugin_rellinks.cpp:82
+msgid ""
+"<p>This link references the immediate parent of the current document.</p>"
+msgstr "<p>See viit viitab aktiivse dokumendi vahetule eellasele.</p>"
+
+#: plugin_rellinks.cpp:89
+msgid "&First"
+msgstr "&Esimene"
+
+#: plugin_rellinks.cpp:92
+msgid ""
+"<p>This link type tells search engines which document is considered by the "
+"author to be the starting point of the collection.</p>"
+msgstr ""
+"<p>See viidatüüp annab otsingumootoritele teada, millist dokumenti peab "
+"autor oma dokumentidekogu alguspunktiks.</p>"
+
+#: plugin_rellinks.cpp:97
+msgid "&Previous"
+msgstr "&Eelmine"
+
+#: plugin_rellinks.cpp:101
+msgid ""
+"<p>This link references the previous document in an ordered series of "
+"documents.</p>"
+msgstr "<p>See viit viitab dokumendijada eelmisele elemendile.</p>"
+
+#: plugin_rellinks.cpp:105
+msgid "&Next"
+msgstr "&Järgmine"
+
+#: plugin_rellinks.cpp:108
+msgid ""
+"<p>This link references the next document in an ordered series of documents."
+"</p>"
+msgstr "<p>See viit viitab dokumentidejada järgmisele elemendile.</p>"
+
+#: plugin_rellinks.cpp:113
+msgid "&Last"
+msgstr "&Viimane"
+
+#: plugin_rellinks.cpp:117
+msgid "<p>This link references the end of a sequence of documents.</p>"
+msgstr "<p>See viit viitab dokumendijada viimasele elemendile.</p>"
+
+#: plugin_rellinks.cpp:122
+msgid "&Search"
+msgstr "&Otsi"
+
+#: plugin_rellinks.cpp:125
+msgid "<p>This link references the search.</p>"
+msgstr "<p>See viit viitab otsingule.</p>"
+
+#: plugin_rellinks.cpp:130
+msgid "Document"
+msgstr "Dokument"
+
+#: plugin_rellinks.cpp:132
+msgid "<p>This menu contains the links referring the document information.</p>"
+msgstr "<p>See menüü sisaldab dokumendiinfole viitavaid viitu.</p>"
+
+#: plugin_rellinks.cpp:136
+msgid "Table of &Contents"
+msgstr "Sisu&kord"
+
+#: plugin_rellinks.cpp:138
+msgid "<p>This link references the table of contents.</p>"
+msgstr "<p>See viit viitab sisukorrale.</p>"
+
+#: plugin_rellinks.cpp:143
+msgid "Chapters"
+msgstr "Peatükid"
+
+#: plugin_rellinks.cpp:148
+msgid "<p>This menu references the chapters of the document.</p>"
+msgstr "<p>See menüü viitab dokumendi peatükkidele.</p>"
+
+#: plugin_rellinks.cpp:151
+msgid "Sections"
+msgstr "Sektsioonid"
+
+#: plugin_rellinks.cpp:157
+msgid "<p>This menu references the sections of the document.</p>"
+msgstr "<p>See menüü viitab dokumendi sektsioonidele.</p>"
+
+#: plugin_rellinks.cpp:160
+msgid "Subsections"
+msgstr "Alamsektsioonid"
+
+#: plugin_rellinks.cpp:165
+msgid "<p>This menu references the subsections of the document.</p>"
+msgstr "<p>See menüü viitab dokumendi alamsektsioonidele.</p>"
+
+#: plugin_rellinks.cpp:168
+msgid "Appendix"
+msgstr "Lisa"
+
+#: plugin_rellinks.cpp:173
+msgid "<p>This link references the appendix.</p>"
+msgstr "<p>See viit viitab lisale.</p>"
+
+#: plugin_rellinks.cpp:177
+msgid "&Glossary"
+msgstr "Sõ&naraamat"
+
+#: plugin_rellinks.cpp:180
+msgid "<p>This link references the glossary.</p>"
+msgstr "<p>See viit viitab sõnaraamatule.</p>"
+
+#: plugin_rellinks.cpp:185
+msgid "&Index"
+msgstr "&Indeks"
+
+#: plugin_rellinks.cpp:187
+msgid "<p>This link references the index.</p>"
+msgstr "<p>See viit viitab indeksile.</p>"
+
+#: plugin_rellinks.cpp:193
+msgid "More"
+msgstr "Veel"
+
+#: plugin_rellinks.cpp:195
+msgid "<p>This menu contains other important links.</p>"
+msgstr "<p>See menüü sisaldab muid olulisi viitu.</p>"
+
+#: plugin_rellinks.cpp:199
+msgid "&Help"
+msgstr "&Abi"
+
+#: plugin_rellinks.cpp:202
+msgid "<p>This link references the help.</p>"
+msgstr "<p>See viit viitab abile.</p>"
+
+#: plugin_rellinks.cpp:208
+msgid "&Authors"
+msgstr "&Autorid"
+
+#: plugin_rellinks.cpp:211
+msgid "<p>This link references the author.</p>"
+msgstr "<p>See viit viitab autorile.</p>"
+
+#: plugin_rellinks.cpp:217
+msgid "Copy&right"
+msgstr "Auto&riõigus"
+
+#: plugin_rellinks.cpp:220
+msgid "<p>This link references the copyright.</p>"
+msgstr "<p>See viit viitab autoriõigusele.</p>"
+
+#: plugin_rellinks.cpp:225
+msgid "Bookmarks"
+msgstr "Järjehoidjad"
+
+#: plugin_rellinks.cpp:228
+msgid "<p>This menu references the bookmarks.</p>"
+msgstr "<p>See menüü viitab järjehoidjatele.</p>"
+
+#: plugin_rellinks.cpp:232
+msgid "Other Versions"
+msgstr "Muud versioonid"
+
+#: plugin_rellinks.cpp:235
+msgid "<p>This link references the alternate versions of this document.</p>"
+msgstr "<p>See viit viitab dokumendi erinevatele versioonidele.</p>"
+
+#: plugin_rellinks.cpp:240
+msgid "Miscellaneous"
+msgstr "Muud"
+
+#: plugin_rellinks.cpp:243
+msgid "<p>Miscellaneous links.</p>"
+msgstr "<p>Mitmesugused viidad.</p>"
+
+#: plugin_rellinks.cpp:471 plugin_rellinks.cpp:485
+#, kde-format
+msgid "[Autodetected] %1"
+msgstr "[Automaatselt tuvastatud] %1"
+
+#. i18n: file: plugin_rellinks.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Tööriistad"
+
+#. i18n: file: plugin_rellinks.rc:5
+#. i18n: ectx: Menu (rellinksMenu)
+#. i18n: file: plugin_rellinks.rc:21
+#. i18n: ectx: ToolBar (rellinksToolBar)
+#: rc.cpp:6 rc.cpp:9
+msgid "Document Relations"
+msgstr "Dokumendi relatsioonid"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Marek Laane"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "bald@starman.ee"

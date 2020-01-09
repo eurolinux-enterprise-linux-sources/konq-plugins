@@ -1,0 +1,183 @@
+# translation of babelfish.po to Lithuanian
+#
+# Ričardas Čepas <rch@richard.eu.org>, 2003.
+# Donatas Glodenis <dgvirtual@akl.lt>, 2005.
+msgid ""
+msgstr ""
+"Project-Id-Version: babelfish\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-17 07:03+0200\n"
+"PO-Revision-Date: 2009-09-16 18:41+0300\n"
+"Last-Translator: Andrius Štikonas <stikonas@gmail.com>\n"
+"Language-Team: Lithuanian <kde-i18n-lt@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10==1 && n%100!=11 ? 1 : n%"
+"10>=2 && (n%100<10 || n%100>=20) ? 2 : 3);\n"
+
+#: plugin_babelfish.cpp:50
+msgid "Translate Web Page"
+msgstr "Versti tinklalapį"
+
+#: plugin_babelfish.cpp:60
+msgid "Translate Web &Page"
+msgstr "&Versti tinklalapį"
+
+#: plugin_babelfish.cpp:66
+msgid "&English To"
+msgstr "Iš &anglų į "
+
+#: plugin_babelfish.cpp:69
+msgid "&French To"
+msgstr "Iš &prancūzų į"
+
+#: plugin_babelfish.cpp:72
+msgid "&German To"
+msgstr "Iš &vokiečių į"
+
+#: plugin_babelfish.cpp:76
+#, fuzzy
+msgid "&Spanish To"
+msgstr "Iš ispanų į anglų"
+
+#: plugin_babelfish.cpp:80
+#, fuzzy
+msgid "&Portuguese To"
+msgstr "Iš portugalų į anglų"
+
+#: plugin_babelfish.cpp:84
+#, fuzzy
+msgid "&Italian To"
+msgstr "Iš italų į anglų"
+
+#: plugin_babelfish.cpp:88
+msgid "&Dutch To"
+msgstr ""
+
+#: plugin_babelfish.cpp:94
+msgid "&Chinese (Simplified)"
+msgstr "&Kinų (supaprastinta)"
+
+#: plugin_babelfish.cpp:95
+msgid "Chinese (&Traditional)"
+msgstr "Kinų (&Tradicinė)"
+
+#: plugin_babelfish.cpp:96 plugin_babelfish.cpp:107
+msgid "&Dutch"
+msgstr "&Olandų"
+
+#: plugin_babelfish.cpp:97 plugin_babelfish.cpp:114 plugin_babelfish.cpp:116
+#: plugin_babelfish.cpp:118 plugin_babelfish.cpp:120 plugin_babelfish.cpp:122
+msgid "&French"
+msgstr "&Prancūzų"
+
+#: plugin_babelfish.cpp:98 plugin_babelfish.cpp:109
+msgid "&German"
+msgstr "&Vokiečių"
+
+#: plugin_babelfish.cpp:99 plugin_babelfish.cpp:110
+msgid "&Italian"
+msgstr "&Italų"
+
+#: plugin_babelfish.cpp:100
+msgid "&Japanese"
+msgstr "&Japonų"
+
+#: plugin_babelfish.cpp:101
+msgid "&Korean"
+msgstr "&Koriejėčių"
+
+#: plugin_babelfish.cpp:102
+msgid "&Norwegian"
+msgstr "&Norvegų"
+
+#: plugin_babelfish.cpp:103 plugin_babelfish.cpp:111
+msgid "&Portuguese"
+msgstr "&Portugalų"
+
+#: plugin_babelfish.cpp:104
+msgid "&Russian"
+msgstr "&Rusų"
+
+#: plugin_babelfish.cpp:105 plugin_babelfish.cpp:112
+msgid "&Spanish"
+msgstr "I&spanų"
+
+#: plugin_babelfish.cpp:106
+msgid "T&hai"
+msgstr ""
+
+#: plugin_babelfish.cpp:108 plugin_babelfish.cpp:113 plugin_babelfish.cpp:115
+#: plugin_babelfish.cpp:117 plugin_babelfish.cpp:119 plugin_babelfish.cpp:121
+msgid "&English"
+msgstr "&Anglų"
+
+#: plugin_babelfish.cpp:123 plugin_babelfish.cpp:142
+msgid "&Chinese (Simplified) to English"
+msgstr "Iš &kinų (supaprastintos) į anglų"
+
+#: plugin_babelfish.cpp:124 plugin_babelfish.cpp:147
+msgid "Chinese (&Traditional) to English"
+msgstr "Iš kinų (&tradicinės) į anglų"
+
+#: plugin_babelfish.cpp:158
+msgid "&Japanese to English"
+msgstr "Iš &japonų į anglų"
+
+#: plugin_babelfish.cpp:163
+msgid "&Korean to English"
+msgstr "Iš &korėjiečių į anglų"
+
+#: plugin_babelfish.cpp:170
+msgid "&Russian to English"
+msgstr "Iš &rusų į anglų"
+
+#: plugin_babelfish.cpp:214
+msgid "Cannot Translate Source"
+msgstr "Nepavyko išversti šaltinio"
+
+#: plugin_babelfish.cpp:215
+msgid "Only web pages can be translated using this plugin."
+msgstr "Naudojant šį priedą gali būt išversti tik tinklalapiai."
+
+#: plugin_babelfish.cpp:261
+#, fuzzy
+msgid "Only full webpages can be translated for this language pair."
+msgstr "Naudojant šį priedą gali būt išversti tik tinklalapiai."
+
+#: plugin_babelfish.cpp:261
+msgid "Translation Error"
+msgstr "Vertimo klaida"
+
+#: plugin_babelfish.cpp:269
+msgid "Malformed URL"
+msgstr "Blogas URL"
+
+#: plugin_babelfish.cpp:270
+#, fuzzy
+msgid "The URL you entered is not valid, please correct it and try again."
+msgstr ""
+"Jūsų įrašytas URL nėra teisingas, pataisykite ir pakartokite tikrinimą."
+
+#. i18n: file: plugin_babelfish.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "Įrank&iai"
+
+#. i18n: file: plugin_babelfish.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Papildoma įrankių juosta"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Andrius Štikonas"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "stikonas@gmail.com"

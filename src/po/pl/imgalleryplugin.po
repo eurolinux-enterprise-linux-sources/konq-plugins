@@ -1,0 +1,251 @@
+# translation of imgalleryplugin.po to
+# Version: $Revision: 904973 $
+# Copyright (C) 2002,2003, 2004, 2005, 2006, 2007 Free Software Foundation, Inc.
+#
+# Marcin Giedz <mgiedz@elka.pw.edu.pl>, 2002.
+# Mikolaj Machowski <mikmach@wp.pl>, 2004.
+# Michal Rudolf <mrudolf@kdewebdev.org>, 2004.
+# Krzysztof Lichota <lichota@mimuw.edu.pl>, 2005, 2006.
+# Marta Rybczyńska <kde-i18n@rybczynska.net>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: imgalleryplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2007-12-28 23:35+0100\n"
+"Last-Translator: Marta Rybczyńska <kde-i18n@rybczynska.net>\n"
+"Language-Team:  <pl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#: imgallerydialog.cpp:53
+msgid "Configure"
+msgstr "Konfiguruj"
+
+#: imgallerydialog.cpp:61
+msgid "Create Image Gallery"
+msgstr "Utwórz galerię obrazków"
+
+#: imgallerydialog.cpp:62
+msgid "Create"
+msgstr "Utwórz"
+
+#: imgallerydialog.cpp:72 imgallerydialog.cpp:113
+#, kde-format
+msgid "Image Gallery for %1"
+msgstr "Galeria obrazków dla %1"
+
+#: imgallerydialog.cpp:99
+msgid "Look"
+msgstr "Wygląd"
+
+#: imgallerydialog.cpp:100
+msgid "Page Look"
+msgstr "Wygląd strony"
+
+#: imgallerydialog.cpp:110
+msgid "&Page title:"
+msgstr "Tytuł stro&ny:"
+
+#: imgallerydialog.cpp:120
+msgid "I&mages per row:"
+msgstr "Obrazkó&w na wiersz:"
+
+#: imgallerydialog.cpp:128
+msgid "Show image file &name"
+msgstr "Pokaż nazwę obra&zka"
+
+#: imgallerydialog.cpp:132
+msgid "Show image file &size"
+msgstr "Pokaż &rozmiar pliku obrazka"
+
+#: imgallerydialog.cpp:136
+msgid "Show image &dimensions"
+msgstr "Pokaż w&ymiary obrazka"
+
+#: imgallerydialog.cpp:149
+msgid "Fon&t name:"
+msgstr "Nazwa czcion&ki:"
+
+#: imgallerydialog.cpp:161
+msgid "Font si&ze:"
+msgstr "Wie&lkość czcionki:"
+
+#: imgallerydialog.cpp:173
+msgid "&Foreground color:"
+msgstr "K&olor pierwszoplanowy:"
+
+#: imgallerydialog.cpp:185
+msgid "&Background color:"
+msgstr "Kolor tł&a:"
+
+#: imgallerydialog.cpp:196 imgallerydialog.cpp:197
+msgid "Folders"
+msgstr "Katalogi"
+
+#: imgallerydialog.cpp:206
+msgid "&Save to HTML file:"
+msgstr "&Zapisz do pliku HTML:"
+
+#: imgallerydialog.cpp:209
+msgid "<p>The name of the HTML file this gallery will be saved to.</p>"
+msgstr "<p>Nazwa pliku HTML do jakiego zapisana będzie ta galeria.</p>"
+
+#: imgallerydialog.cpp:220
+msgid "&Recurse subfolders"
+msgstr "&Wchodź do podkatalogów"
+
+#: imgallerydialog.cpp:222
+msgid ""
+"<p>Whether subfolders should be included for the image gallery creation or "
+"not.</p>"
+msgstr ""
+"<p>Decyduje czy podkatalogi powinny być włączone do tworzonej galerii "
+"obrazków.</p>"
+
+#: imgallerydialog.cpp:230
+msgid "Rec&ursion depth:"
+msgstr "Pozio&m schodzenia:"
+
+#: imgallerydialog.cpp:232
+msgid "Endless"
+msgstr "Nieskończone"
+
+#: imgallerydialog.cpp:234
+msgid ""
+"<p>You can limit the number of folders the image gallery creator will "
+"traverse to by setting an upper bound for the recursion depth.</p>"
+msgstr ""
+"<p>Możesz ograniczyć liczbę katalogów jakie asystent tworzenia galerii "
+"obrazków przejrzy ustawiając górną granicę głębokości wchodzenia.</p>"
+
+#: imgallerydialog.cpp:246
+msgid "Copy or&iginal files"
+msgstr "Kop&iuj oryginalne pliki"
+
+#: imgallerydialog.cpp:249
+msgid ""
+"<p>This makes a copy of all images and the gallery will refer to these "
+"copies instead of the original images.</p>"
+msgstr ""
+"<p>Tworzy kopie wszystkich obrazków i galeria będzie się odwoływać do tych "
+"kopii zamiast oryginalnych obrazków.</p>"
+
+#: imgallerydialog.cpp:255
+msgid "Use &comment file"
+msgstr "Użyj pliku komenta&rza"
+
+#: imgallerydialog.cpp:259
+msgid ""
+"<p>If you enable this option you can specify a comment file which will be "
+"used for generating subtitles for the images.</p><p>For details about the "
+"file format please see the \"What's This?\" help below.</p>"
+msgstr ""
+"<p>Jeśli zaznaczysz tę opcję możesz określić plik komentarza, który zostanie "
+"wykorzystany do utworzenia podpisów dla obrazków.</p><p>Szczegółowy opis "
+"formatu pliku w pomocy \"Co to jest?\" poniżej.</p>"
+
+#: imgallerydialog.cpp:266
+msgid "Comments &file:"
+msgstr "Plik komentarz&y:"
+
+#: imgallerydialog.cpp:269
+msgid ""
+"<p>You can specify the name of the comment file here. The comment file "
+"contains the subtitles for the images. The format of this file is:</"
+"p><p>FILENAME1:<br />Description<br /><br />FILENAME2:<br />Description<br /"
+"><br />and so on</p>"
+msgstr ""
+"<p>Możesz określić nazwę pliku komentarza. Plik komentarza zawiera podpisy "
+"do obrazków. Format pliku:</p> <p>NAZWAPLIKU1:<br />Opis<br /><br /> "
+"NAZWAPLIKU2:<br />Opis<br /><br /> i tak dalej</p>"
+
+#: imgallerydialog.cpp:297 imgallerydialog.cpp:298
+msgid "Thumbnails"
+msgstr "Miniaturki"
+
+#: imgallerydialog.cpp:317
+msgid "Image format f&or the thumbnails:"
+msgstr "F&ormat pliku miniaturek:"
+
+#: imgallerydialog.cpp:325
+msgid "Thumbnail size:"
+msgstr "Wielkość miniaturek:"
+
+#: imgallerydialog.cpp:337
+msgid "&Set different color depth:"
+msgstr "U&staw inną głębię kolorów:"
+
+#: imgalleryplugin.cpp:59
+msgid "&Create Image Gallery..."
+msgstr "&Utwórz galerię obrazków..."
+
+#: imgalleryplugin.cpp:70
+msgid "Could not create the plugin, please report a bug."
+msgstr "Nie można utworzyć wtyczki, proszę zgłosić błąd."
+
+#: imgalleryplugin.cpp:76
+msgid "Creating an image gallery works only on local folders."
+msgstr "Tworzenie galerii obrazków działa jedynie w katalogach lokalnych."
+
+#: imgalleryplugin.cpp:95
+msgid "Creating thumbnails"
+msgstr "Tworzenie miniaturek"
+
+#: imgalleryplugin.cpp:116 imgalleryplugin.cpp:279
+#, kde-format
+msgid "Could not create folder: %1"
+msgstr "Nie można utworzyć katalogu: %1"
+
+#: imgalleryplugin.cpp:177
+#, kde-format
+msgid "<i>Number of images</i>: %1"
+msgstr "<i>Liczba obrazków</i>: %1"
+
+#: imgalleryplugin.cpp:178
+#, kde-format
+msgid "<i>Created on</i>: %1"
+msgstr "<i>Data utworzenia </i>: %1"
+
+#: imgalleryplugin.cpp:183
+msgid "<i>Subfolders</i>:"
+msgstr "<i>Podkatalogi</i>:"
+
+#: imgalleryplugin.cpp:216
+#, kde-format
+msgid ""
+"Created thumbnail for: \n"
+"%1"
+msgstr ""
+"Utworzono miniaturkę dla: \n"
+"%1"
+
+#: imgalleryplugin.cpp:219
+#, kde-format
+msgid ""
+"Creating thumbnail for: \n"
+"%1\n"
+" failed"
+msgstr ""
+"Tworzenie miniaturki dla: \n"
+"%1\n"
+" nie powiodło się"
+
+#: imgalleryplugin.cpp:237
+msgid "KB"
+msgstr "KB"
+
+#: imgalleryplugin.cpp:333 imgalleryplugin.cpp:428
+#, kde-format
+msgid "Could not open file: %1"
+msgstr "Nie można otworzyć pliku: %1"
+
+#. i18n: file: kimgalleryplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Narzędzia"

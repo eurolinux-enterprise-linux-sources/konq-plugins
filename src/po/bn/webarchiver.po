@@ -1,0 +1,180 @@
+# translation of webarchiver.po to Bengali
+# Deepayan Sarkar <deepayan.sarkar@gmail.com>, 2006.#.
+# ______________________________________________________________
+# Preliminary translation for this file was done by "Anubadok",
+# A Free (as in Freedom) machine translator for Bengali (Bangla).
+# ______________________________________________________________#
+# Bangla translation of PACKAGE VERSION.
+# Copyright (C) 2006, Free Software Foundation, Inc.
+# comments
+msgid ""
+msgstr ""
+"Project-Id-Version: webarchiver\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-23 11:42+0200\n"
+"PO-Revision-Date: 2006-05-14 11:46-0500\n"
+"Last-Translator: Deepayan Sarkar <deepayan.sarkar@gmail.com>\n"
+"Language-Team: Bengali <kde-translation@bengalinux.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: archiveviewbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
+#: archivedialog.cpp:151 rc.cpp:3
+msgid "Web Archiver"
+msgstr "ওয়েব আর্কাইভার"
+
+#: archivedialog.cpp:161
+#, fuzzy
+#| msgid "State"
+msgid "Status"
+msgstr "অবস্থা"
+
+#: archivedialog.cpp:162
+msgid "Url"
+msgstr ""
+
+#: archivedialog.cpp:230
+msgid "Unable to Open Web-Archive"
+msgstr "ওয়েব-আর্কাইভ খুলতে অক্ষম"
+
+#: archivedialog.cpp:231
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing."
+msgstr ""
+"লেখার জন্য\n"
+"%1\n"
+"খুলতে অক্ষম।"
+
+#: archivedialog.cpp:362
+msgid "Downloading"
+msgstr "ডাউনলোড চলছে"
+
+#: archivedialog.cpp:383
+msgid "Error"
+msgstr ""
+
+#: archivedialog.cpp:383
+msgid "Ok"
+msgstr "বেশ"
+
+#: archivedialog.cpp:411
+#, kde-format
+msgid "I/O error occurred while writing to web archive file %1."
+msgstr ""
+
+#: plugin_webarchiver.cpp:58
+msgid "Archive &Web Page..."
+msgstr "&ওয়েব পেজ আর্কাইভ (সংরক্ষণ) করো"
+
+#: plugin_webarchiver.cpp:77
+msgid "Untitled"
+msgstr ""
+
+#: plugin_webarchiver.cpp:94
+msgid "*.war *.tgz|Web Archives"
+msgstr "*.war *.tgz|ওয়েব আর্কাইভ"
+
+#: plugin_webarchiver.cpp:95
+msgid "Save Page as Web-Archive"
+msgstr "পেজ ওয়েব-আর্কাইভ হিসেবে সংরক্ষণ করো"
+
+#: plugin_webarchiver.cpp:100
+msgid "Invalid URL"
+msgstr "অবৈধ ইউ-আর-এল"
+
+#: plugin_webarchiver.cpp:101
+#, kde-format
+msgid ""
+"The URL\n"
+"%1\n"
+"is not valid."
+msgstr ""
+"%1\n"
+"ইউ-আর-এল-টি\n"
+"অবৈধ।"
+
+#: plugin_webarchiver.cpp:115
+msgid "File Exists"
+msgstr "ফাইল আগে থেকেই আছে"
+
+#: plugin_webarchiver.cpp:116
+#, kde-format
+msgid ""
+"Do you really want to overwrite:\n"
+"%1?"
+msgstr ""
+"আপনি কি সত্যিই মুছে লিখতে চান:\n"
+"%1?"
+
+#: plugin_webarchiver.cpp:117
+msgid "Overwrite"
+msgstr "মুছে লেখ"
+
+#. i18n: file: archiveviewbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, targetLabel)
+#: rc.cpp:6
+msgid "Local File"
+msgstr "স্থানীয় ফাইল"
+
+#. i18n: file: archiveviewbase.ui:55
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:9
+#, fuzzy
+msgid "To:"
+msgstr "তে:"
+
+#. i18n: file: archiveviewbase.ui:65
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:12
+#, fuzzy
+msgid "Archiving:"
+msgstr "আর্কাইভে সংরক্ষণ:"
+
+#. i18n: file: archiveviewbase.ui:81
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#: rc.cpp:15
+msgid "Original URL"
+msgstr "মূল ইউ-আর-এল"
+
+#. i18n: file: archiveviewbase.ui:109
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:18
+msgid "1"
+msgstr ""
+
+#. i18n: file: archiveviewbase.ui:114
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:21
+msgid "2"
+msgstr ""
+
+#. i18n: file: plugin_webarchiver.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: plugin_webarchiver.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "অতিরিক্ত টুলবার"
+
+#~ msgid "Archiving webpage completed."
+#~ msgstr "ওয়েবপেজ আর্কাইভ (সংরক্ষণ) করা সম্পন্ন।"
+
+#~ msgid "URL"
+#~ msgstr "ইউ-আর-এল"
+
+#~ msgid "Could Not Open Temporary File"
+#~ msgstr "অস্থায়ী ফাইল খোলা যায়নি"
+
+#~ msgid "Could not open a temporary file"
+#~ msgstr "একটি অস্থায়ী ফাইল খুলতে পারা যায়নি"

@@ -1,0 +1,378 @@
+# translation of fsview.po to Icelandic
+# Icelandic translation of fsview
+# Copyright (C) 2004, 2005 Free Software Foundation, Inc.
+# Richard Allen <ra@ra.is>, 2004.
+# Stígur Snæsson <stigur@vortex.is>, 2004.
+# Arnar Leosson <leosson@frisurf.no>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fsview\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-11-01 06:25+0100\n"
+"PO-Revision-Date: 2005-02-01 11:08-0500\n"
+"Last-Translator: Arnar Leosson <leosson@frisurf.no>\n"
+"Language-Team: Icelandic <kde-isl@molar.is>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: fsview.cpp:52 fsview.cpp:390
+msgid "Name"
+msgstr "Nafn"
+
+#: fsview.cpp:53
+msgid "Size"
+msgstr "Stærð"
+
+#: fsview.cpp:54
+msgid "File Count"
+msgstr "Skráafjöldi"
+
+#: fsview.cpp:55
+msgid "Directory Count"
+msgstr "Möppufjöldi"
+
+#: fsview.cpp:56
+msgid "Last Modified"
+msgstr "Síðast breytt"
+
+#: fsview.cpp:57 fsview.cpp:391
+msgid "Owner"
+msgstr "Eigandi"
+
+#: fsview.cpp:58 fsview.cpp:392
+msgid "Group"
+msgstr "Hópur"
+
+#: fsview.cpp:59 fsview.cpp:393
+msgid "Mime Type"
+msgstr "MIME tegund"
+
+#: fsview.cpp:281
+msgid "Go To"
+msgstr "Fara til"
+
+#: fsview.cpp:283
+msgid "Go Up"
+msgstr "Fara Uppu"
+
+#: fsview.cpp:285
+msgid "Stop Refresh"
+msgstr "Stöðva uppfærslu"
+
+#: fsview.cpp:287
+msgid "Refresh"
+msgstr "Uppfæra"
+
+#: fsview.cpp:290
+#, kde-format
+msgid "Refresh '%1'"
+msgstr "Uppfæra '%1'"
+
+#: fsview.cpp:293 fsview_part.cpp:131
+msgid "Stop at Depth"
+msgstr "Stöðva við dýpt"
+
+#: fsview.cpp:295 fsview_part.cpp:128
+msgid "Stop at Area"
+msgstr "Stöðva við flatarmál"
+
+#: fsview.cpp:297
+msgid "Stop at Name"
+msgstr "Stöðva við nafn"
+
+#: fsview.cpp:303 fsview_part.cpp:138
+msgid "Color Mode"
+msgstr "Litahamur"
+
+#: fsview.cpp:306 fsview_part.cpp:134
+msgid "Visualization"
+msgstr "Birting"
+
+#: fsview.cpp:388
+msgid "None"
+msgstr "Ekkert"
+
+#: fsview.cpp:389
+msgid "Depth"
+msgstr "Dýpt"
+
+#: fsview_part.cpp:82
+#, fuzzy, kde-format
+msgid "Read 1 folder, in %2"
+msgid_plural "Read %1 folders, in %2"
+msgstr[0] "Las eina möppu í %2"
+msgstr[1] "Read %1 möppur í %2"
+
+#: fsview_part.cpp:87
+#, fuzzy, kde-format
+msgid "1 folder"
+msgid_plural "%1 folders"
+msgstr[0] "Ein mappa"
+msgstr[1] "%1 möppur"
+
+#: fsview_part.cpp:96 main.cpp:21
+msgid "FSView"
+msgstr "FSView"
+
+#: fsview_part.cpp:97
+msgid "Filesystem Utilization Viewer"
+msgstr "Skráakerfisnotkunarskoðari"
+
+#: fsview_part.cpp:99
+msgid "(c) 2003-2005, Josef Weidendorfer"
+msgstr "(c) 2003-2005, Josef Weidendorfer"
+
+#: fsview_part.cpp:112
+msgid ""
+"<p>This is the FSView plugin, a graphical browsing mode showing filesystem "
+"utilization by using a tree map visualization.</p><p>Note that in this mode, "
+"automatic updating when filesystem changes are made is intentionally <b>not</"
+"b> done.</p><p>For details on usage and options available, see the online "
+"help under menu 'Help/FSView Manual'.</p>"
+msgstr ""
+"<p>Þetta er FSView íforritið, grafískur flettihamur sem sýnir "
+"skráakerfisnýtingu með því að birta skráatré á myndrænan hátt.</p><p>Athugið "
+"að í þessum ham er viljandi <b>ekki</b> gerð sjálfvirk uppfærsla við "
+"breytingar á skráakerfi.</p><p>Nánari upplýsingar og tiltækir valkostir, sjá "
+"tengda hjálp undir valmynd 'Help/FSView Manual'.</p>"
+
+#: fsview_part.cpp:144
+msgid "&FSView Manual"
+msgstr "&FSView handbók"
+
+#: fsview_part.cpp:146
+msgid "Show FSView manual"
+msgstr "Sýna handbók FSView"
+
+#: fsview_part.cpp:147
+msgid "Opens the help browser with the FSView documentation"
+msgstr "Opnar skjölun FSView í hjálparvafranum"
+
+#: fsview_part.cpp:187
+msgctxt "@action:inmenu File"
+msgid "Move to Trash"
+msgstr ""
+
+#: fsview_part.cpp:195
+msgctxt "@action:inmenu File"
+msgid "Delete"
+msgstr ""
+
+#: fsview_part.cpp:200
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr ""
+
+#: fsview_part.cpp:204
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr ""
+
+#: fsview_part.cpp:245
+msgid ""
+"FSView intentionally does not support automatic updates when changes are "
+"made to files or directories, currently visible in FSView, from the "
+"outside.\n"
+"For details, see the 'Help/FSView Manual'."
+msgstr ""
+"Það er með vilja gert að FSView styður ekki sjálfvirka uppfærslu við að ytri "
+"breytingar eru gerðar á skrám og möppum sem sýnilegar eru FSView.\n"
+"Ítarlegri upplýsingar í 'Help/FSView Manual'."
+
+#: main.cpp:22
+msgid "Filesystem Viewer"
+msgstr "Skráarkerfisbirtir"
+
+#: main.cpp:24
+msgid "(c) 2002, Josef Weidendorfer"
+msgstr "(c) 2002, Josef Weidendorfer"
+
+#: main.cpp:28
+msgid "View filesystem starting from this folder"
+msgstr "Skoða skráarkerfið frá þessari möppu"
+
+#. i18n: file: fsview_part.rc:4
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:3
+msgid "&Edit"
+msgstr ""
+
+#. i18n: file: fsview_part.rc:13
+#. i18n: ectx: Menu (view)
+#: rc.cpp:6
+#, fuzzy
+msgid "&View"
+msgstr "FSView"
+
+#. i18n: file: fsview_part.rc:20
+#. i18n: ectx: Menu (help)
+#: rc.cpp:9
+msgid "&Help"
+msgstr ""
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Richard Allen, Stígur Snæsson"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ra@ra.is, stigur@vortex.is"
+
+#: treemap.cpp:1328
+#, kde-format
+msgid "Text %1"
+msgstr "Texti %1"
+
+#: treemap.cpp:2860
+msgid "Recursive Bisection"
+msgstr "Endurkvæm tvískipting"
+
+#: treemap.cpp:2861
+msgid "Columns"
+msgstr "Dálkar"
+
+#: treemap.cpp:2862
+msgid "Rows"
+msgstr "Raðir"
+
+#: treemap.cpp:2863
+msgid "Always Best"
+msgstr "Alltaf best"
+
+#: treemap.cpp:2864
+msgid "Best"
+msgstr "Best"
+
+#: treemap.cpp:2865
+msgid "Alternate (V)"
+msgstr "Aukalegt (V)"
+
+#: treemap.cpp:2866
+msgid "Alternate (H)"
+msgstr "Aukalegt (H)"
+
+#: treemap.cpp:2867
+msgid "Horizontal"
+msgstr ""
+
+#: treemap.cpp:2868
+msgid "Vertical"
+msgstr ""
+
+#: treemap.cpp:2923
+msgid "Nesting"
+msgstr "Hreiðrun"
+
+#: treemap.cpp:2925
+msgid "Border"
+msgstr ""
+
+#: treemap.cpp:2926
+msgid "Correct Borders Only"
+msgstr "Leiðrétta ramma eingöngu"
+
+#: treemap.cpp:2928 treemap.cpp:2929 treemap.cpp:2930 treemap.cpp:2931
+#, kde-format
+msgid "Width %1"
+msgstr "Breidd %1"
+
+#: treemap.cpp:2938
+msgid "Allow Rotation"
+msgstr "Leyfa útskiptingar"
+
+#: treemap.cpp:2940
+msgid "Shading"
+msgstr "Skygging"
+
+#: treemap.cpp:2953
+msgid "Visible"
+msgstr "Sýnilegt"
+
+#: treemap.cpp:2954
+msgid "Take Space From Children"
+msgstr "Taka pláss frá íflekk"
+
+#: treemap.cpp:2956
+msgid "Top Left"
+msgstr "Efst til vinstri"
+
+#: treemap.cpp:2957
+msgid "Top Center"
+msgstr "Efst fyrir miðju"
+
+#: treemap.cpp:2958
+msgid "Top Right"
+msgstr "Efst til hægri"
+
+#: treemap.cpp:2959
+msgid "Bottom Left"
+msgstr "Neðst til vinstri"
+
+#: treemap.cpp:2960
+msgid "Bottom Center"
+msgstr "Neðst fyrir miðju"
+
+#: treemap.cpp:2961
+msgid "Bottom Right"
+msgstr "Neðst til hægri"
+
+#: treemap.cpp:3038
+#, kde-format
+msgid "No %1 Limit"
+msgstr "Engin %1 takmörk"
+
+#: treemap.cpp:3090
+msgid "No Area Limit"
+msgstr "Engin svæðistakmörk"
+
+#: treemap.cpp:3096
+#, kde-format
+msgid "Area of '%1' (%2)"
+msgstr "Svæði '%1' (%2)"
+
+#: treemap.cpp:3107 treemap.cpp:3118
+#, fuzzy, kde-format
+msgid "1 Pixel"
+msgid_plural "%1 Pixels"
+msgstr[0] "1 Díll"
+msgstr[1] "%1 Dílar"
+
+#: treemap.cpp:3122
+#, kde-format
+msgid "Double Area Limit (to %1)"
+msgstr "Tvöfalda flatarmálstakmörk (to %1)"
+
+#: treemap.cpp:3124
+#, kde-format
+msgid "Halve Area Limit (to %1)"
+msgstr "Helminga flatarmálstakmörk (til %1)"
+
+#: treemap.cpp:3155
+msgid "No Depth Limit"
+msgstr "Engin dýptartakmörk"
+
+#: treemap.cpp:3161
+#, kde-format
+msgid "Depth of '%1' (%2)"
+msgstr "Dýpt '%1' (%2)"
+
+#: treemap.cpp:3172 treemap.cpp:3183
+#, kde-format
+msgid "Depth %1"
+msgstr "Dýpt %1"
+
+#: treemap.cpp:3187
+#, kde-format
+msgid "Decrement (to %1)"
+msgstr "Minnka (til %1)"
+
+#: treemap.cpp:3189
+#, kde-format
+msgid "Increment (to %1)"
+msgstr "Auka (til %1)"

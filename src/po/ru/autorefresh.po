@@ -1,0 +1,74 @@
+# KDE3 - kdeaddons/autorefresh.po Russian translation.
+# Copyright (C) 2004, KDE Team.
+#
+# Nick Shafff <shafff@ukr.net>, 2003.
+# Nick Shafff <linux@l10n.org.ua>, 2004.
+# Artem Sereda <overmind88@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: autorefresh\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-07-07 11:39+0200\n"
+"PO-Revision-Date: 2008-10-21 22:00+0300\n"
+"Last-Translator: Artem Sereda <overmind88@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: autorefresh.cpp:42
+msgid "&Auto Refresh"
+msgstr "&Автообновление"
+
+#: autorefresh.cpp:46
+msgid "None"
+msgstr "Нет"
+
+#: autorefresh.cpp:47
+msgid "Every 15 Seconds"
+msgstr "Каждые 15 секунд"
+
+#: autorefresh.cpp:48
+msgid "Every 30 Seconds"
+msgstr "Каждые 30 секунд"
+
+#: autorefresh.cpp:49
+msgid "Every Minute"
+msgstr "Каждую минуту"
+
+#: autorefresh.cpp:50
+msgid "Every 5 Minutes"
+msgstr "Каждые 5 минут"
+
+#: autorefresh.cpp:51
+msgid "Every 10 Minutes"
+msgstr "Каждые 10 минут"
+
+#: autorefresh.cpp:52
+msgid "Every 15 Minutes"
+msgstr "Каждые 15 минут"
+
+#: autorefresh.cpp:53
+msgid "Every 30 Minutes"
+msgstr "Каждые 30 минут"
+
+#: autorefresh.cpp:54
+msgid "Every 60 Minutes"
+msgstr "Каждый час"
+
+#: autorefresh.cpp:105
+msgid "Cannot Refresh Source"
+msgstr "Не удалось обновить источник"
+
+#: autorefresh.cpp:106
+msgid "<qt>This plugin cannot auto-refresh the current part.</qt>"
+msgstr "<qt>Этот модуль не может автоматически обновлять текущую часть.</qt>"
+
+#. i18n: file: autorefresh.rc:5
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "С&ервис"

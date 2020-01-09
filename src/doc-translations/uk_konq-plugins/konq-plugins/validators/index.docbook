@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.2-Based Variant V1.1//EN"
+"dtd/kdex.dtd" [
+<!ENTITY % addindex "IGNORE">
+<!ENTITY % Ukrainian "INCLUDE"
+> <!-- change language only here -->
+]>
+
+<article lang="&language;">
+
+<sect1 id="validators">
+<sect1info>
+
+<authorgroup>
+<author
+><firstname
+>Gardner</firstname
+> <surname
+>Bell</surname
+> <affiliation
+><address
+><email
+>gbell72@rogers.com</email
+></address
+></affiliation>
+</author>
+
+<othercredit role="translator"
+><firstname
+>Юрій</firstname
+><surname
+>Чорноіван</surname
+><affiliation
+><address
+><email
+>yurchor@ukr.net</email
+></address
+></affiliation
+><contrib
+>Переклад українською</contrib
+></othercredit
+>  
+</authorgroup>
+<date
+>10.01.2006</date
+> <releaseinfo
+>3.5.1</releaseinfo
+> <abstract
+> <para
+>Додаток засобів перевірки до &konqueror; призначено для перевірки ваших документів &CSS; і &HTML; на відповідність рекомендаціям та іншим стандартам, розробленим W3C.</para>
+</abstract>
+
+<keywordset>
+<keyword
+>KDE</keyword>
+<keyword
+>kdeaddons</keyword>
+<keyword
+>konqueror</keyword>
+<keyword
+>додатки</keyword>
+<keyword
+>засоби перевірки</keyword>
+</keywordset>
+
+</sect1info>
+
+<title
+>Додаток засобів для перевірки</title>
+
+<sect2>
+<title
+>Користування додатком засобів для перевірки</title>
+
+<para
+>Доступ до додатка засобів перевірки можна отримати за допомогою смужки меню &konqueror;, зокрема пункту <menuchoice
+><guimenu
+>Інструменти</guimenu
+> <guimenuitem
+>Перевірити веб-сторінку</guimenuitem
+></menuchoice
+>. Опис кожного з пунктів цього підменю наведено далі за текстом.</para>
+
+<variablelist>
+<varlistentry>
+<term
+><guimenuitem
+>Перевірити &HTML;</guimenuitem
+></term>
+<listitem
+><para
+>За допомогою пункту перевірки &HTML; ви можете перевірити ваш документ &HTML; на відповідність визначеному синтаксису &HTML; і отримати звіт про виявлені помилки. Перевірка вашого &HTML; забезпечить його правильний показ у будь-яких переглядачах.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Перевірити CSS</guimenuitem
+></term>
+<listitem
+><para
+>Цей пункт надає вам змогу перевірити вашу таблицю стилів &CSS;, яку вбудовано у документ &HTML; або&XHTML;. Наявність коректної таблиці &CSS; є дуже важливою для правильного показу вашого веб-сайта у різних переглядачах.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Перевірити посилання</guimenuitem
+></term>
+<listitem
+><para
+>Надає вам змогу переконатися, що всі посилання на вашому сайті не містять переспрямувань і що всі ці посилання є чинними посиланнями на відповідні ресурси. За допомогою цього пункту ви можете запустити рекурсивну перевірку посилань на сайті.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Налаштувати засіб для перевірки</guimenuitem
+></term>
+<listitem
+><para
+>За допомогою пункту налаштування засобів перевірки ви можете переглянути список засобів перевірки, які можна використати для перевірки &HTML; і &CSS; у ваших документах.</para
+></listitem>
+</varlistentry>
+</variablelist>
+
+</sect2>
+
+<sect2>
+<title
+>Подяки</title>
+
+<para
+>Авторські права на додаток засобів для перевірки належать &copy; 2001 Richard Moore and Andreas Schlapbach &Richard.J.Moore.mail; <email
+>schlpbch@iam.unibe.ch</email
+></para>
+</sect2>
+
+</sect1>
+</article>

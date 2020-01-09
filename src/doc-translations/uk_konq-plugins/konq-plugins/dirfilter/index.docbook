@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.2-Based Variant V1.1//EN"
+"dtd/kdex.dtd" [
+<!ENTITY % addindex "IGNORE">
+<!ENTITY % Ukrainian "INCLUDE"
+> <!-- change language only here -->
+]>
+
+<article lang="&language;">
+
+<sect1 id="dirfilter">
+<sect1info>
+
+<authorgroup>
+<author
+><firstname
+>Gardner</firstname
+> <surname
+>Bell</surname
+> <affiliation
+><address
+><email
+>gbell72@rogers.com</email
+></address
+></affiliation>
+</author>
+
+<othercredit role="translator"
+><firstname
+>Юрій</firstname
+><surname
+>Чорноіван</surname
+><affiliation
+><address
+><email
+>yurchor@ukr.net</email
+></address
+></affiliation
+><contrib
+>Переклад українською</contrib
+></othercredit
+>  
+</authorgroup>
+<date
+>15.09.2004</date
+> <releaseinfo
+>3.10.00</releaseinfo
+> <abstract
+> <para
+>За допомогою фільтра перегляду каталогів ви зможете обрати елементи у каталозі, які буде показано.</para>
+</abstract>
+
+<keywordset>
+<keyword
+>KDE</keyword>
+<keyword
+>kdeaddons</keyword>
+<keyword
+>konqueror</keyword>
+<keyword
+>додатки</keyword>
+<keyword
+>dirfilter</keyword>
+</keywordset>
+
+</sect1info>
+
+<title
+>Фільтр перегляду</title>
+
+<sect2>
+<title
+>Користування фільтром перегляду</title>
+
+<para
+>Доступ до додатка фільтра перегляду (також відомого як <quote
+>dirfilter</quote
+>) можна отримати за допомогою смужки меню &konqueror;, зокрема пункту <menuchoice
+><guimenu
+>Інструменти</guimenu
+> <guimenuitem
+>Фільтр перегляду</guimenuitem
+></menuchoice
+>. За допомогою цього додатка ви зможете фільтрувати вміст поточного робочого каталогу &konqueror; у декілька способів.</para>
+
+</sect2>
+
+<sect2>
+<title
+>Подяки</title>
+
+<para
+>Авторські права на додаток dirfilter належать &copy; 2000-2002 Dawit Alemayehu <email
+>adawit@kde.org</email
+>.</para>
+</sect2>
+
+</sect1>
+</article>

@@ -1,0 +1,200 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2009-01-19 18:26+0200\n"
+"Last-Translator: Omer Ensari <oensari@gmail.com>\n"
+"Language-Team: Kurdish <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural= n != 1;\n"
+"X-Poedit-Language: Kurdish\n"
+"X-Poedit-SourceCharset: utf8\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Veavakirina - Metabar"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Hêman"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Veke bi:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Çalakî:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "Xuyakirin"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Guherandina-mezinahiyê zindî bike"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Pêşekên servîsê nîşan bide"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Dirb"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Dirbê Nû Saz Bike..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Nû..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "Jê Bibe"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Serast Bike..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Nav"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Navnîşan"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Giştî"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Çalakî"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Girêdan"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Parve Bike"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Girêdan Biafirîne"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Girêdana nû"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Nav:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "URL:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Girêdanê Serast Bike"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Zêdetir"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "%1 Bide Xebitandin"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Sepanê Hilbijêre"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Cure"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Mezinahî"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Bikarhêner"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Kom"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Destûr"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Guhertî"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Hat Gihîştin"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "Hedefa girêdanê"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "Pel"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Peldank"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Hemû Têketin"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Ji bo pêşdîtinê bitikîne"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Pêşdîtin tê afirandin"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Metabar Veava Bike..."
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Kêmtir"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Peldankekî Torê Lê Zêde Bike"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Bide Xebitandin"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Şîrove"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Gerînendeyê root hewce ye"

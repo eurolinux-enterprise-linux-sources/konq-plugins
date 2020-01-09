@@ -1,0 +1,175 @@
+# translation of adblock.po to Arabic
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# zayed <zayed.alsaidi@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: adblock\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-31 06:46+0100\n"
+"PO-Revision-Date: 2008-12-30 20:31+0400\n"
+"Last-Translator: zayed <zayed.alsaidi@gmail.com>\n"
+"Language-Team: Arabic <linuxac-kde-arabic-team@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: adblock.cpp:71
+msgid "Adblock"
+msgstr "مانع الإعلانات"
+
+#: adblock.cpp:77
+#, fuzzy
+#| msgid "Show Elements..."
+msgid "Show Blockable Elements..."
+msgstr "اظهر العناصر..."
+
+#: adblock.cpp:82 adblockdialog.cpp:96
+#, fuzzy
+#| msgid "Configure..."
+msgid "Configure Filters..."
+msgstr "اضبط..."
+
+#: adblock.cpp:91
+#, fuzzy
+#| msgid "Disable for this page"
+msgid "No blocking for this page"
+msgstr "عطّلها لهذه الصفحة"
+
+#: adblock.cpp:96
+#, fuzzy
+#| msgid "Disable for this site"
+msgid "No blocking for this site"
+msgstr "عطّلها لهذا الموقع"
+
+#: adblock.cpp:172
+msgid "Please enable Konqueror's Adblock"
+msgstr "الرجاء فعل مانع الإعلانات للكونكيور"
+
+#: adblock.cpp:173
+msgid "Adblock disabled"
+msgstr "مانع الإعلانات معطل"
+
+#: adblock.cpp:206
+msgid "script"
+msgstr "نص برمجي"
+
+#: adblock.cpp:207 adblock.cpp:208
+msgid "object"
+msgstr "كائن"
+
+#: adblock.cpp:210
+msgid "frame"
+msgstr ""
+
+#: adblock.cpp:231
+msgid "image"
+msgstr "صورة"
+
+#: adblock.cpp:290
+#, kde-format
+msgid "Blocked by %1"
+msgstr ""
+
+#: adblock.cpp:293
+#, kde-format
+msgid "Allowed by %1"
+msgstr ""
+
+#: adblockdialog.cpp:93
+#, fuzzy
+#| msgid "All blockable items in this page:"
+msgid "Blockable items on this page"
+msgstr "كل العناصر  القابلة للمنع في هذه الصفحة:"
+
+#: adblockdialog.cpp:98
+msgid "Add filter"
+msgstr ""
+
+#: adblockdialog.cpp:107
+msgid "Search:"
+msgstr ""
+
+#: adblockdialog.cpp:114
+#, fuzzy
+#| msgid "All blockable items in this page:"
+msgid "Blockable items:"
+msgstr "كل العناصر  القابلة للمنع في هذه الصفحة:"
+
+#: adblockdialog.cpp:123
+msgid "Source"
+msgstr "المصدر"
+
+#: adblockdialog.cpp:123
+msgid "Category"
+msgstr "التصنيف"
+
+#: adblockdialog.cpp:123
+msgid "Tag"
+msgstr ""
+
+#: adblockdialog.cpp:150
+msgid ""
+"New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
+"@@ for white list):"
+msgstr ""
+
+#: adblockdialog.cpp:170
+msgid "Filter this item"
+msgstr "رشح هذا العنصرِّح"
+
+#: adblockdialog.cpp:171
+msgid "Filter all items at same path"
+msgstr "رشح كل العناصر في نفس المسار"
+
+#: adblockdialog.cpp:172
+#, fuzzy
+#| msgid "Filter all items at same path"
+msgid "Filter all items from same host"
+msgstr "رشح كل العناصر في نفس المسار"
+
+#: adblockdialog.cpp:173
+#, fuzzy
+#| msgid "Filter all items at same path"
+msgid "Filter all items from same domain"
+msgstr "رشح كل العناصر في نفس المسار"
+
+#: adblockdialog.cpp:175
+msgid "Add this item to white list"
+msgstr "أضف هذا العنصر في القائمة البيضاء"
+
+#: adblockdialog.cpp:177
+msgid "Copy Link Address"
+msgstr "انسخ عنوان الوصلة"
+
+#: adblockdialog.cpp:180
+msgid "View item"
+msgstr ""
+
+#. i18n: file: plugin_adblock.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "أ&دوات"
+
+#. i18n: file: plugin_adblock.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "شريط أدوات إضافي"
+
+#~ msgid "Adblock dialog"
+#~ msgstr "حوار مانع الإعلانات"
+
+#~ msgid "Node Name"
+#~ msgstr "اسم العقدة"
+
+#~ msgid "New filter (use * as a wildcard):"
+#~ msgstr "مرشح جديد (استخدم * كعلامة رمزية):"
+
+#~ msgid "Show it"
+#~ msgstr "اظهرها"

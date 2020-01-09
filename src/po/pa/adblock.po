@@ -1,0 +1,174 @@
+# translation of adblock.po to Panjabi
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: adblock\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-31 06:46+0100\n"
+"PO-Revision-Date: 2008-11-22 21:18+0530\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi <pa@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: adblock.cpp:71
+msgid "Adblock"
+msgstr "ਐਡ-ਬਲਾਕ"
+
+#: adblock.cpp:77
+#, fuzzy
+#| msgid "Show Elements..."
+msgid "Show Blockable Elements..."
+msgstr "ਐਲੀਮੈਂਟ ਵੇਖੋ..."
+
+#: adblock.cpp:82 adblockdialog.cpp:96
+#, fuzzy
+#| msgid "Configure..."
+msgid "Configure Filters..."
+msgstr "ਸੰਰਚਨਾ..."
+
+#: adblock.cpp:91
+#, fuzzy
+#| msgid "Disable for this page"
+msgid "No blocking for this page"
+msgstr "ਇਹ ਪੇਜ਼ ਲਈ ਆਯੋਗ"
+
+#: adblock.cpp:96
+#, fuzzy
+#| msgid "Disable for this site"
+msgid "No blocking for this site"
+msgstr "ਇਹ ਸਾਈਟ ਲਈ ਆਯੋਗ"
+
+#: adblock.cpp:172
+msgid "Please enable Konqueror's Adblock"
+msgstr "ਕੋਨਕਿਊਰੋਰ ਦਾ ਐਡ-ਬਲਾਕ ਯੋਗ ਕਰੋ ਜੀ"
+
+#: adblock.cpp:173
+msgid "Adblock disabled"
+msgstr "ਐਡਬਲਾਕ ਆਯੋਗ ਹੈ"
+
+#: adblock.cpp:206
+msgid "script"
+msgstr "ਸਕ੍ਰਿਪਟ"
+
+#: adblock.cpp:207 adblock.cpp:208
+msgid "object"
+msgstr "ਆਬਜੈਕਟ"
+
+#: adblock.cpp:210
+msgid "frame"
+msgstr ""
+
+#: adblock.cpp:231
+msgid "image"
+msgstr "ਚਿੱਤਰ"
+
+#: adblock.cpp:290
+#, kde-format
+msgid "Blocked by %1"
+msgstr ""
+
+#: adblock.cpp:293
+#, kde-format
+msgid "Allowed by %1"
+msgstr ""
+
+#: adblockdialog.cpp:93
+#, fuzzy
+#| msgid "All blockable items in this page:"
+msgid "Blockable items on this page"
+msgstr "ਇਹ ਪੇਜ਼ ਵਿੱਚ ਸਭ ਬਲਾਕ ਕਰਨ ਯੋਗ ਆਈਟਮਾਂ:"
+
+#: adblockdialog.cpp:98
+msgid "Add filter"
+msgstr ""
+
+#: adblockdialog.cpp:107
+msgid "Search:"
+msgstr ""
+
+#: adblockdialog.cpp:114
+#, fuzzy
+#| msgid "All blockable items in this page:"
+msgid "Blockable items:"
+msgstr "ਇਹ ਪੇਜ਼ ਵਿੱਚ ਸਭ ਬਲਾਕ ਕਰਨ ਯੋਗ ਆਈਟਮਾਂ:"
+
+#: adblockdialog.cpp:123
+msgid "Source"
+msgstr "ਸਰੋਤ"
+
+#: adblockdialog.cpp:123
+msgid "Category"
+msgstr "ਕੈਟਾਗਰੀ"
+
+#: adblockdialog.cpp:123
+msgid "Tag"
+msgstr ""
+
+#: adblockdialog.cpp:150
+msgid ""
+"New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
+"@@ for white list):"
+msgstr ""
+
+#: adblockdialog.cpp:170
+msgid "Filter this item"
+msgstr "ਇਹ ਆਈਟਮ ਫਿਲਟਰ ਕਰੋ"
+
+#: adblockdialog.cpp:171
+msgid "Filter all items at same path"
+msgstr "ਇਹੋ ਪਾਥ ਉੱਤੇ ਸਭ ਆਈਟਮਾਂ ਫਿਲਟਰ ਕਰੋ"
+
+#: adblockdialog.cpp:172
+#, fuzzy
+#| msgid "Filter all items at same path"
+msgid "Filter all items from same host"
+msgstr "ਇਹੋ ਪਾਥ ਉੱਤੇ ਸਭ ਆਈਟਮਾਂ ਫਿਲਟਰ ਕਰੋ"
+
+#: adblockdialog.cpp:173
+#, fuzzy
+#| msgid "Filter all items at same path"
+msgid "Filter all items from same domain"
+msgstr "ਇਹੋ ਪਾਥ ਉੱਤੇ ਸਭ ਆਈਟਮਾਂ ਫਿਲਟਰ ਕਰੋ"
+
+#: adblockdialog.cpp:175
+msgid "Add this item to white list"
+msgstr "ਇਹ ਆਈਟਮ ਨੂੰ ਸਾਫ਼ ਲਿਸਟ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ"
+
+#: adblockdialog.cpp:177
+msgid "Copy Link Address"
+msgstr "ਲਿੰਕ ਐਡਰੈੱਸ ਕਾਪੀ ਕਰੋ"
+
+#: adblockdialog.cpp:180
+msgid "View item"
+msgstr ""
+
+#. i18n: file: plugin_adblock.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "ਟੂਲ(&T)"
+
+#. i18n: file: plugin_adblock.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "ਵਾਧੂ ਟੂਲਬਾਰ"
+
+#~ msgid "Adblock dialog"
+#~ msgstr "ਐਡਬਲਾਕ ਡਾਈਲਾਗ"
+
+#~ msgid "Node Name"
+#~ msgstr "ਨੋਡ ਨਾਂ"
+
+#~ msgid "New filter (use * as a wildcard):"
+#~ msgstr "ਨਵਾਂ ਫਿਲਟਰ (* ਨੂੰ ਵਾਈਲਡਕਾਰਡ ਵਜੋਂ ਵਰਤੋਂ):"
+
+#~ msgid "Show it"
+#~ msgstr "ਇਹ ਵੇਖੋ"

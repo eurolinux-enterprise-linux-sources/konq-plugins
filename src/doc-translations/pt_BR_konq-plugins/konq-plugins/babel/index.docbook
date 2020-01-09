@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.2-Based Variant V1.1//EN"
+"dtd/kdex.dtd" [
+<!ENTITY % addindex "IGNORE">
+<!ENTITY % Brazilian-Portuguese "INCLUDE"
+> <!-- change language only here -->
+]>
+
+<article lang="&language;">
+
+<sect1 id="babel">
+<sect1info>
+
+<authorgroup>
+<author
+><firstname
+>Lauri</firstname
+> <surname
+>Watts</surname
+> <affiliation
+><address
+>&Lauri.Watts.mail;</address
+></affiliation>
+</author>
+
+<othercredit role="translator"
+><firstname
+>José</firstname
+> <surname
+>Monteiro</surname
+><affiliation
+><address
+> <email
+>monteiro@ajato.com.br</email
+></address
+></affiliation
+><contrib
+> Tradução</contrib
+></othercredit
+>  
+</authorgroup>
+<date
+>26-02-2006</date
+> <releaseinfo
+>3.5.1</releaseinfo
+> <abstract
+> <para
+>O plug-in Babel para o &konqueror; lhe dá rápido aceso o serviço de tradução Babelfish.</para>
+</abstract>
+
+<keywordset>
+<keyword
+>KDE</keyword>
+<keyword
+>kdeaddons</keyword>
+<keyword
+>konqueror</keyword>
+<keyword
+>plug-ins</keyword>
+<keyword
+>babelfish</keyword>
+<keyword
+>tradução</keyword>
+</keywordset>
+</sect1info>
+
+<title
+>Plug-in Babel para o &konqueror;</title>
+
+<sect2>
+<title
+>Usando o plug-in Babelfish</title>
+
+<para
+>O Babelfish é uma maquina de serviço de tradução fornecida pelo <ulink url="http://babel.altavista.com/"
+>AltaVista</ulink
+>.</para>
+
+<para
+>O plug-in permite que você automaticamente traduza paginas da Internet entre vários idiomas.</para>
+
+<para
+>O plug-in do Babelfish pode ser acessado na barra de menu do &konqueror; em <menuchoice
+><guimenu
+>Ferramentas</guimenu
+> <guimenuitem
+>Traduzir página da Internet</guimenuitem
+></menuchoice
+>. Selecione na lista suspensa o idioma de origem e o idioma a ser traduzido.</para>
+
+<para
+>Se você tem uma porção de texto selecionado na página, ele será traduzido em vez de toda a &URL;.</para>
+
+<para
+>Nem todos os idiomas estão disponíveis no serviço do Babelfish.</para>
+
+<important>
+<para
+>Tradução por máquina não é uma ciência perfeita! Babelfish irá da melhor forma lhe dar uma tradução aproximada, e no pior caso, uma leitura muito engraçada. Não baseie decisões importantes em coisas que você leu em uma página traduzida pelo Babelfish, sem confirmar que a tradução é realmente correta.</para>
+</important>
+
+<note
+> 
+<para
+>Você pode traduzir somente paginas da Internet que estão acessíveis na rede mundial. Para traduzir qualquer outro texto, você deve ir diretamente ao site do Babelfish, onde você pode colar o texto para tradução.</para>
+</note>
+
+</sect2>
+
+<sect2>
+<title
+>Créditos</title>
+
+<para
+>Direitos autorais do plug-in Babelfish (C) 2001 &Kurt.Granroth; &Kurt.Granroth.mail;</para>
+
+<para
+>Direitos autorais da documentação 2002 &Lauri.Watts; &Lauri.Watts.mail;</para>
+
+<para
+>Tradução de José Monteiro <email
+>monteiro@ajato.com.br</email
+></para
+> 
+
+</sect2>
+</sect1>
+</article>

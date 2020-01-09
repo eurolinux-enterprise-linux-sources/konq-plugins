@@ -1,0 +1,82 @@
+# translation of dirfilterplugin.po to greek
+# Copyright (C) 2002, 2003, 2005, 2007 Free Software Foundation, Inc.
+#
+# Stergios Dramis <sdramis@egnatia.ee.auth.gr>, 2002-2003.
+# Spiros Georgaras <sng@hellug.gr>, 2005, 2007.
+# Toussis Manolis <manolis@koppermind.homelinux.org>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: dirfilterplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2007-09-04 14:21+0300\n"
+"Last-Translator: Toussis Manolis <manolis@koppermind.homelinux.org>\n"
+"Language-Team: greek <kde-i18n-el@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "&Φίλτρο προβολής"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr ""
+"Να επιτρέπεται το φιλτράρισμα των εμφανιζόμενων αντικειμένων κατά τύπο "
+"αρχείου."
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr "Πεδίο φίλτρου"
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "Προβολή μόνο αντικειμένων του τύπου"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "Χρήση πολλαπλών φίλτρων"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "Εμφάνιση μέτρησης"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "Μηδενισμός"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "Ερ&γαλεία"
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Eπιπρόσθετη γραμμή εργαλείων"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "Γραμμή εργαλείων φίλτρων"
+
+#~ msgid "Clear Filter Field"
+#~ msgstr "Καθαρισμός πεδίου φίλτρου"
+
+#~ msgid "Clear filter field<p>Clears the content of the filter field.</p>"
+#~ msgstr ""
+#~ "Καθαρισμός πεδίου φίλτρου<p>Καθαρισμός των περιεχομένων του πεδίου "
+#~ "φίλτρου.</p>"
+
+#~ msgid ""
+#~ "Enter here a text which an item in the view must contain anywhere to be "
+#~ "shown."
+#~ msgstr ""
+#~ "Δώστε εδώ το κείμενο που πρέπει να περιέχει ένα αντικείμενο για να "
+#~ "εμφανίζεται στην προβολή."

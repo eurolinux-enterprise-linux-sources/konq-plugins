@@ -1,0 +1,174 @@
+# translation of webarchiver.po to Romanian
+# translation of @PACKAGE.po to @LANGUAGE
+# Copyright (C) 2004 Free Software Foundation, Inc.
+#
+# Claudiu Costin <claudiuc@kde.org>, 2003, 2004.
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: webarchiver\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-23 11:42+0200\n"
+"PO-Revision-Date: 2009-04-04 21:35+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > "
+"0 && n%100 < 20)) ? 1 : 2;\n"
+
+#. i18n: file: archiveviewbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
+#: archivedialog.cpp:151 rc.cpp:3
+msgid "Web Archiver"
+msgstr "Arhivator web"
+
+#: archivedialog.cpp:161
+msgid "Status"
+msgstr "Stare"
+
+#: archivedialog.cpp:162
+msgid "Url"
+msgstr "Url"
+
+#: archivedialog.cpp:230
+msgid "Unable to Open Web-Archive"
+msgstr "Nu am putut deschide arhiva web"
+
+#: archivedialog.cpp:231
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing."
+msgstr ""
+"Nu am putut deschide \n"
+" %1\n"
+" pentru scriere."
+
+#: archivedialog.cpp:362
+msgid "Downloading"
+msgstr "Descarc"
+
+#: archivedialog.cpp:383
+msgid "Error"
+msgstr "Eroare"
+
+#: archivedialog.cpp:383
+msgid "Ok"
+msgstr "OK"
+
+#: archivedialog.cpp:411
+#, kde-format
+msgid "I/O error occurred while writing to web archive file %1."
+msgstr "A intervenit o eroare I/E la scrierea în fișierul-arhivă web %1."
+
+#: plugin_webarchiver.cpp:58
+msgid "Archive &Web Page..."
+msgstr "&Arhivează pagina de web..."
+
+#: plugin_webarchiver.cpp:77
+msgid "Untitled"
+msgstr "Fără titlu"
+
+#: plugin_webarchiver.cpp:94
+msgid "*.war *.tgz|Web Archives"
+msgstr "*.war *.tgz|Arhive web"
+
+#: plugin_webarchiver.cpp:95
+msgid "Save Page as Web-Archive"
+msgstr "Salvează pagina ca arhivă web"
+
+#: plugin_webarchiver.cpp:100
+msgid "Invalid URL"
+msgstr "URL nevalid"
+
+#: plugin_webarchiver.cpp:101
+#, kde-format
+msgid ""
+"The URL\n"
+"%1\n"
+"is not valid."
+msgstr ""
+"URL-ul\n"
+"%1\n"
+"nu este valid."
+
+#: plugin_webarchiver.cpp:115
+msgid "File Exists"
+msgstr "Fișierul există"
+
+#: plugin_webarchiver.cpp:116
+#, kde-format
+msgid ""
+"Do you really want to overwrite:\n"
+"%1?"
+msgstr ""
+"Doriți într-adevăr să suprascrieți:\n"
+"%1?"
+
+#: plugin_webarchiver.cpp:117
+msgid "Overwrite"
+msgstr "Suprascrie"
+
+#. i18n: file: archiveviewbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, targetLabel)
+#: rc.cpp:6
+msgid "Local File"
+msgstr "Fișier local"
+
+#. i18n: file: archiveviewbase.ui:55
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:9
+msgid "To:"
+msgstr "În:"
+
+#. i18n: file: archiveviewbase.ui:65
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:12
+msgid "Archiving:"
+msgstr "Arhivare:"
+
+#. i18n: file: archiveviewbase.ui:81
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#: rc.cpp:15
+msgid "Original URL"
+msgstr "URL original"
+
+#. i18n: file: archiveviewbase.ui:109
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:18
+msgid "1"
+msgstr "1"
+
+#. i18n: file: archiveviewbase.ui:114
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:21
+msgid "2"
+msgstr "2"
+
+#. i18n: file: plugin_webarchiver.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr "&Unelte"
+
+#. i18n: file: plugin_webarchiver.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "Bară de unelte suplimentară"
+
+#~ msgid "Archiving webpage completed."
+#~ msgstr "Arhivarea paginii de web s-a terminat."
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Could Not Open Temporary File"
+#~ msgstr "Eroare fişier temporar"
+
+#~ msgid "Could not open a temporary file"
+#~ msgstr "Nu am putut deschide un fişier temporar"

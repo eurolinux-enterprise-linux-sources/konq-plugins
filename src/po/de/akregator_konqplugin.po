@@ -1,0 +1,49 @@
+# translation of akregator_konqplugin.po to german
+#
+# Thomas Fischer <th.fischer@gmx.net>, 2005.
+# Thomas Fischer <thomas.fischer@t-fischer.net>, 2005.
+# Stephan Johach <hunsum@gmx.de>, 2005.
+# Frederik Schwarzer <schwarzerf@gmail.com>, 2007.
+# Burkhard Lück <lueck@hube-lueck.de>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: akregator_konqplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-05 07:02+0200\n"
+"PO-Revision-Date: 2009-10-30 17:04+0100\n"
+"Last-Translator: Burkhard Lück <lueck@hube-lueck.de>\n"
+"Language-Team: German <kde-i18n-de@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 1.0\n"
+
+#: akregatorplugin.cpp:87 konqfeedicon.cpp:119
+msgid "Add Feed to Akregator"
+msgstr "Nachrichtenquelle zu Akregator hinzufügen"
+
+#: konqfeedicon.cpp:123
+msgid "Add Feeds to Akregator"
+msgstr "Nachrichtenquellen zu Akregator hinzufügen"
+
+#: konqfeedicon.cpp:133
+msgid "Add All Found Feeds to Akregator"
+msgstr "Alle gefundenen Nachrichtenquellen zu Akregator hinzufügen"
+
+#: konqfeedicon.cpp:156
+msgid "Subscribe to site updates (using news feed)"
+msgstr ""
+"Diese Webseite auf Aktualisierungen überwachen (Nachrichtenquellen verwenden)"
+
+#: konqfeedicon.cpp:202 pluginbase.cpp:54 pluginbase.cpp:64
+msgid "Imported Feeds"
+msgstr "Importierte Nachrichtenquellen"
+
+#: pluginbase.cpp:56
+msgid "Akregator feed icon - DBus Call failed"
+msgstr "Akregator Nachrichtenquellensymbol - DBus-Aufruf fehlgeschlagen"
+
+#: pluginbase.cpp:57
+msgid "The DBus call addFeedToGroup failed"
+msgstr "Der DBus-Aufruf addFeedToGroup ist fehlgeschlagen"

@@ -1,0 +1,77 @@
+# translation of searchbarplugin.po to greek
+#
+# Filippos Slavik <fsla@forthnet.gr>, 2005.
+# Spiros Georgaras <sng@hellug.gr>, 2005, 2006, 2007.
+# Toussis Manolis <manolis@koppermind.homelinux.org>, 2007.
+# Petros Vidalis <p_vidalis@hotmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: searchbarplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-11 06:35+0200\n"
+"PO-Revision-Date: 2009-10-23 12:58+0300\n"
+"Last-Translator: Petros Vidalis <p_vidalis@hotmail.com>\n"
+"Language-Team: Ελληνικά <i18ngr@lists.hellug.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: searchbar.rc:3
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:3
+msgid "Search Toolbar"
+msgstr "Γραμμή εργαλείων αναζήτησης"
+
+#: searchbar.cpp:82
+msgid ""
+"Search Bar<p>Enter a search term. Click on the icon to change search mode or "
+"provider.</p>"
+msgstr ""
+"Γραμμή αναζήτησης <p>Εισάγετε έναν όρο αναζήτησης. Κάντε κλικ στο εικονίδιο "
+"για να αλλάξετε τύπο αναζήτησης ή πάροχο.</p>"
+
+#: searchbar.cpp:90
+msgid "Search Bar"
+msgstr "Γραμμή αναζήτησης "
+
+#: searchbar.cpp:95
+msgid "Focus Searchbar"
+msgstr "Εστίαση στη μπάρα Αναζήτησης"
+
+#: searchbar.cpp:318
+msgid "Find in This Page"
+msgstr "Αναζήτηση σε αυτήν τη σελίδα"
+
+#: searchbar.cpp:347
+msgid "Select Search Engines..."
+msgstr "Επιλογή μηχανής Αναζήτησης..."
+
+#: searchbar.cpp:367
+msgid "Add "
+msgstr "Προσθήκη "
+
+#: searchbar.cpp:631
+msgid "Enable Suggestion"
+msgstr "Ενεργοποίηση συμπλήρωσης"
+
+#: WebShortcutWidget.cpp:43
+msgid "Set Uri Shortcuts"
+msgstr "Θέστε συντομεύσεις Uri"
+
+#: WebShortcutWidget.cpp:57
+msgid "Name:"
+msgstr "Όνομα:"
+
+#: WebShortcutWidget.cpp:61
+msgid "Shortcuts:"
+msgstr "Συντομεύσεις:"
+
+#: WebShortcutWidget.cpp:71
+msgid "Ok"
+msgstr "Εντάξει"
+
+#: WebShortcutWidget.cpp:76
+msgid "Cancel"
+msgstr "Ακύρωση"

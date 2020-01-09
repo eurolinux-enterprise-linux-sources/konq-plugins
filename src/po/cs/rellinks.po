@@ -1,0 +1,236 @@
+# translation of rellinks.po to
+# translation of rellinks.po to Czech
+# Lukáš Tinkl <lukas@kde.org>, 2004, 2005.
+# SUSE CR <cihlarov@suse.cz>, 2005.
+# David Kolibac <kolibac@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: rellinks\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2008-10-23 22:24+0200\n"
+"Last-Translator: David Kolibac <kolibac@gmail.com>\n"
+"Language-Team: Czech <kde-czech-apps@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LoKalize 0.2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: plugin_rellinks.cpp:56
+msgid "Rellinks"
+msgstr "Relativní odkazy"
+
+#: plugin_rellinks.cpp:71
+msgid "&Top"
+msgstr "Začá&tek"
+
+#: plugin_rellinks.cpp:74
+msgid "<p>This link references a home page or the top of some hierarchy.</p>"
+msgstr "<p>Odkaz na domovskou stránku nebo nejvyšší dokument.</p>"
+
+#: plugin_rellinks.cpp:79
+msgid "&Up"
+msgstr "Nahor&u"
+
+#: plugin_rellinks.cpp:82
+msgid ""
+"<p>This link references the immediate parent of the current document.</p>"
+msgstr "<p>Odkaz na rodiče aktuálního dokumentu.</p>"
+
+#: plugin_rellinks.cpp:89
+msgid "&First"
+msgstr "&První"
+
+#: plugin_rellinks.cpp:92
+msgid ""
+"<p>This link type tells search engines which document is considered by the "
+"author to be the starting point of the collection.</p>"
+msgstr ""
+"<p>Odkaz informující vyhledávače, který dokument autor označil jako výchozí."
+"</p>"
+
+#: plugin_rellinks.cpp:97
+msgid "&Previous"
+msgstr "&Předchozí"
+
+#: plugin_rellinks.cpp:101
+msgid ""
+"<p>This link references the previous document in an ordered series of "
+"documents.</p>"
+msgstr "<p>Odkaz na předchozí dokument v sérii dokumentů.</p>"
+
+#: plugin_rellinks.cpp:105
+msgid "&Next"
+msgstr "&Následující"
+
+#: plugin_rellinks.cpp:108
+msgid ""
+"<p>This link references the next document in an ordered series of documents."
+"</p>"
+msgstr "<p>Odkaz na následující dokument v sérii dokumentů.</p>"
+
+#: plugin_rellinks.cpp:113
+msgid "&Last"
+msgstr "Pos&lední"
+
+#: plugin_rellinks.cpp:117
+msgid "<p>This link references the end of a sequence of documents.</p>"
+msgstr "<p>Odkaz na konec série dokumentů.</p>"
+
+#: plugin_rellinks.cpp:122
+msgid "&Search"
+msgstr "&Hledat"
+
+#: plugin_rellinks.cpp:125
+msgid "<p>This link references the search.</p>"
+msgstr "<p>Odkaz na vyhledávání.</p>"
+
+#: plugin_rellinks.cpp:130
+msgid "Document"
+msgstr "Dokument"
+
+#: plugin_rellinks.cpp:132
+msgid "<p>This menu contains the links referring the document information.</p>"
+msgstr "<p>Tato nabídka odkazuje na informace o dokumentu.</p>"
+
+#: plugin_rellinks.cpp:136
+msgid "Table of &Contents"
+msgstr "O&bsah"
+
+#: plugin_rellinks.cpp:138
+msgid "<p>This link references the table of contents.</p>"
+msgstr "<p>Odkaz na obsah.</p>"
+
+#: plugin_rellinks.cpp:143
+msgid "Chapters"
+msgstr "Kapitoly"
+
+#: plugin_rellinks.cpp:148
+msgid "<p>This menu references the chapters of the document.</p>"
+msgstr "<p>Tato nabídka odkazuje na kapitoly dokumentu.</p>"
+
+#: plugin_rellinks.cpp:151
+msgid "Sections"
+msgstr "Sekce"
+
+#: plugin_rellinks.cpp:157
+msgid "<p>This menu references the sections of the document.</p>"
+msgstr "<p>Tato nabídka odkazuje na sekce dokumentu.</p>"
+
+#: plugin_rellinks.cpp:160
+msgid "Subsections"
+msgstr "Podsekce"
+
+#: plugin_rellinks.cpp:165
+msgid "<p>This menu references the subsections of the document.</p>"
+msgstr "<p>Tato nabídka odkazuje na podsekce dokumentu.</p>"
+
+#: plugin_rellinks.cpp:168
+msgid "Appendix"
+msgstr "Přílohy"
+
+#: plugin_rellinks.cpp:173
+msgid "<p>This link references the appendix.</p>"
+msgstr "<p>Odkaz na přílohu.</p>"
+
+#: plugin_rellinks.cpp:177
+msgid "&Glossary"
+msgstr "&Glosář"
+
+#: plugin_rellinks.cpp:180
+msgid "<p>This link references the glossary.</p>"
+msgstr "<p>Odkaz na glosář.</p>"
+
+#: plugin_rellinks.cpp:185
+msgid "&Index"
+msgstr "Re&jstřík"
+
+#: plugin_rellinks.cpp:187
+msgid "<p>This link references the index.</p>"
+msgstr "<p>Odkaz na rejstřík.</p>"
+
+#: plugin_rellinks.cpp:193
+msgid "More"
+msgstr "Více"
+
+#: plugin_rellinks.cpp:195
+msgid "<p>This menu contains other important links.</p>"
+msgstr "<p>Tato nabídka obsahuje další důležité odkazy.</p>"
+
+#: plugin_rellinks.cpp:199
+msgid "&Help"
+msgstr "Nápo&věda"
+
+#: plugin_rellinks.cpp:202
+msgid "<p>This link references the help.</p>"
+msgstr "<p>Odkaz na nápovědu.</p>"
+
+#: plugin_rellinks.cpp:208
+msgid "&Authors"
+msgstr "&Autoři"
+
+#: plugin_rellinks.cpp:211
+msgid "<p>This link references the author.</p>"
+msgstr "<p>Odkaz na autora.</p>"
+
+#: plugin_rellinks.cpp:217
+msgid "Copy&right"
+msgstr "Copy&right"
+
+#: plugin_rellinks.cpp:220
+msgid "<p>This link references the copyright.</p>"
+msgstr "<p>Odkaz na copyright.</p>"
+
+#: plugin_rellinks.cpp:225
+msgid "Bookmarks"
+msgstr "Záložky"
+
+#: plugin_rellinks.cpp:228
+msgid "<p>This menu references the bookmarks.</p>"
+msgstr "<p>Tato nabídka odkazuje na záložky.</p>"
+
+#: plugin_rellinks.cpp:232
+msgid "Other Versions"
+msgstr "Jiné verze"
+
+#: plugin_rellinks.cpp:235
+msgid "<p>This link references the alternate versions of this document.</p>"
+msgstr "<p>Odkaz na alternativní verzi této dokumentace.</p>"
+
+#: plugin_rellinks.cpp:240
+msgid "Miscellaneous"
+msgstr "Různé"
+
+#: plugin_rellinks.cpp:243
+msgid "<p>Miscellaneous links.</p>"
+msgstr "<p>Různé odkazy.</p>"
+
+#: plugin_rellinks.cpp:471 plugin_rellinks.cpp:485
+#, kde-format
+msgid "[Autodetected] %1"
+msgstr "[Automaticky zjištěno] %1"
+
+#. i18n: file: plugin_rellinks.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Nástroje"
+
+#. i18n: file: plugin_rellinks.rc:5
+#. i18n: ectx: Menu (rellinksMenu)
+#. i18n: file: plugin_rellinks.rc:21
+#. i18n: ectx: ToolBar (rellinksToolBar)
+#: rc.cpp:6 rc.cpp:9
+msgid "Document Relations"
+msgstr "Vztahy v dokumentu"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Lukáš Tinkl,David Kolibáč"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "lukas@kde.org,kolibac@gmail.com"

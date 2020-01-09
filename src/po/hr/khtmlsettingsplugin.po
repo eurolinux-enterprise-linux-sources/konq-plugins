@@ -1,0 +1,108 @@
+# Translation of khtmlsettingsplugin to Croatian
+#
+# DoDo <DoDoEntertainment@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: khtmlsettingsplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-26 10:56+0100\n"
+"PO-Revision-Date: 2009-08-29 19:20+0200\n"
+"Last-Translator: DoDo <DoDoEntertainment@gmail.com>\n"
+"Language-Team: Croatian <kde-croatia-list@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#. i18n: file: khtmlsettingsplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Alati"
+
+#. i18n: file: khtmlsettingsplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Dodatna alatna traka"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "KDE CroTeam"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kde-croatia-list@lists.sourceforge.net"
+
+#: settingsplugin.cpp:40 settingsplugin.cpp:52
+msgid "HTML Settings"
+msgstr "HTML postavke"
+
+#: settingsplugin.cpp:61
+msgid "Java&Script"
+msgstr "Java&Script"
+
+#: settingsplugin.cpp:66
+msgid "&Java"
+msgstr "&Java"
+
+#: settingsplugin.cpp:71
+msgid "&Cookies"
+msgstr "&Kolačići"
+
+#: settingsplugin.cpp:76
+msgid "&Plugins"
+msgstr "&Dodaci"
+
+#: settingsplugin.cpp:81
+msgid "Autoload &Images"
+msgstr "Automatsko učitavanje &slika"
+
+#: settingsplugin.cpp:88
+msgid "Enable Pro&xy"
+msgstr "Omogući pro&xy"
+
+#: settingsplugin.cpp:93
+msgid "Enable Cac&he"
+msgstr "Omogući po&hranu"
+
+#: settingsplugin.cpp:99
+msgid "Cache Po&licy"
+msgstr "Pravi&la pohranjivanja"
+
+#: settingsplugin.cpp:101
+msgid "&Keep Cache in Sync"
+msgstr "Usa&glasi lokalnu pohranu"
+
+#: settingsplugin.cpp:102
+msgid "&Use Cache if Possible"
+msgstr "&Upotrijebi pohranu ako je moguće"
+
+#: settingsplugin.cpp:103
+msgid "&Offline Browsing Mode"
+msgstr "Pregledavanje izvan &mreže"
+
+#: settingsplugin.cpp:187
+msgid ""
+"Cookies could not be enabled, because the cookie daemon could not be started."
+msgstr ""
+"Omogućavanje kolačića nije moguće jer uslugu kolačića nije bilo moguće "
+"pokrenuti."
+
+#: settingsplugin.cpp:189
+msgid "Cookies Disabled"
+msgstr "Kolačići su onemogućeni"
+
+#~ msgid "Disable Pro&xy"
+#~ msgstr "Onemogući pro&xy"
+
+#~ msgid "Disable Cac&he"
+#~ msgstr "Onemogući po&hranu"

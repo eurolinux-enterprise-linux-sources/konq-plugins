@@ -1,0 +1,162 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Artem Sereda <overmind88@gmail.com>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: adblock\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-31 06:46+0100\n"
+"PO-Revision-Date: 2009-09-21 23:31+0300\n"
+"Last-Translator: Artem Sereda <overmind88@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: adblock.cpp:71
+msgid "Adblock"
+msgstr "Adblock"
+
+#: adblock.cpp:77
+msgid "Show Blockable Elements..."
+msgstr "Показать блокируемые элементы..."
+
+#: adblock.cpp:82 adblockdialog.cpp:96
+msgid "Configure Filters..."
+msgstr "Настроить фильтры..."
+
+#: adblock.cpp:91
+msgid "No blocking for this page"
+msgstr "Отключить на этой странице"
+
+#: adblock.cpp:96
+msgid "No blocking for this site"
+msgstr "Отключить на этом сайте"
+
+#: adblock.cpp:172
+msgid "Please enable Konqueror's Adblock"
+msgstr "Включите Adblock"
+
+#: adblock.cpp:173
+msgid "Adblock disabled"
+msgstr "Adblock отключен"
+
+#: adblock.cpp:206
+msgid "script"
+msgstr "сценарий"
+
+#: adblock.cpp:207 adblock.cpp:208
+msgid "object"
+msgstr "объект"
+
+#: adblock.cpp:210
+msgid "frame"
+msgstr "фрейм"
+
+#: adblock.cpp:231
+msgid "image"
+msgstr "изображение"
+
+#: adblock.cpp:290
+#, kde-format
+msgid "Blocked by %1"
+msgstr ""
+
+#: adblock.cpp:293
+#, kde-format
+msgid "Allowed by %1"
+msgstr ""
+
+#: adblockdialog.cpp:93
+msgid "Blockable items on this page"
+msgstr "Блокируемые элементы на этой странице"
+
+#: adblockdialog.cpp:98
+msgid "Add filter"
+msgstr "Добавить фильтр"
+
+#: adblockdialog.cpp:107
+msgid "Search:"
+msgstr "Поиск:"
+
+#: adblockdialog.cpp:114
+msgid "Blockable items:"
+msgstr "Блокируемые элементы:"
+
+#: adblockdialog.cpp:123
+msgid "Source"
+msgstr "Источник"
+
+#: adblockdialog.cpp:123
+msgid "Category"
+msgstr "Категория"
+
+#: adblockdialog.cpp:123
+msgid "Tag"
+msgstr "Метка"
+
+#: adblockdialog.cpp:150
+#, fuzzy
+#| msgid "New filter (can use *?[] wildcards, prefix with @@ for white list):"
+msgid ""
+"New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
+"@@ for white list):"
+msgstr ""
+"Новый фильтр (можно использовать символы маски *?[],  приставку @@ для "
+"белого списка):"
+
+#: adblockdialog.cpp:170
+msgid "Filter this item"
+msgstr "Фильтровать этот элемент"
+
+#: adblockdialog.cpp:171
+msgid "Filter all items at same path"
+msgstr "Фильтровать все элементы по такому же пути"
+
+#: adblockdialog.cpp:172
+msgid "Filter all items from same host"
+msgstr "Фильтровать все элементы с такого же узла"
+
+#: adblockdialog.cpp:173
+msgid "Filter all items from same domain"
+msgstr "Фильтровать все элементы с такого же домена"
+
+#: adblockdialog.cpp:175
+msgid "Add this item to white list"
+msgstr "Добавить этот элемент в белый список"
+
+#: adblockdialog.cpp:177
+msgid "Copy Link Address"
+msgstr "Скопировать адрес ссылки"
+
+#: adblockdialog.cpp:180
+msgid "View item"
+msgstr "Показать элемент"
+
+#. i18n: file: plugin_adblock.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "С&ервис"
+
+#. i18n: file: plugin_adblock.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Дополнительная панель инструментов"
+
+#~ msgid "Adblock dialog"
+#~ msgstr "Диалог Adblock"
+
+#~ msgid "Node Name"
+#~ msgstr "Имя узла"
+
+#~ msgid "New filter (use * as a wildcard):"
+#~ msgstr "Новый фильтр (используйте * как шаблон)"
+
+#~ msgid "Show it"
+#~ msgstr "Показать"

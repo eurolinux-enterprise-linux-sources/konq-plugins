@@ -1,0 +1,200 @@
+# translation of konqsidebar_metabar.po to
+#
+# Paweł Dąbek <pdabek@onet.pl>, 2006.
+# Krzysztof Lichota <lichota@mimuw.edu.pl>, 2006.
+# Marta Rybczyńska <kde-i18n@rybczynska.net>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2007-12-28 23:32+0100\n"
+"Last-Translator: Marta Rybczyńska <kde-i18n@rybczynska.net>\n"
+"Language-Team:  <pl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Konfiguracja - Metapasek"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Pozycje"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Otwórz w:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Działania:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "Wygląd"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Animuj zmianę rozmiaru"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Pokaż menu usług"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Motywy"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Zainstaluj nowy motyw..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Nowy..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "Usuń"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Edycja..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Nazwa"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Adres"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Ogólne"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Działania"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Miejsca"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Udostępnij"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Utwórz odnośnik"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Nowy odnośnik"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Nazwa:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "URL:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Edytuj odnośnik"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Więcej"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "Uruchom %1"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Wybierz program"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Rodzaj"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Rozmiar"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Użytkownik"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Grupa"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Uprawnienia"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Zmodyfikowany"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Użyty"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "Cel odnośnika"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "Pliki"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Foldery"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Wszystkie wpisy"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Kliknij, aby zacząć podgląd"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Tworzenie podglądu"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Konfiguruj: Metapasek..."
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Mniej"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Dodaj nowy folder sieciowy"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Uruchom"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Komentarz"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Wymaga uprawnień administratora"

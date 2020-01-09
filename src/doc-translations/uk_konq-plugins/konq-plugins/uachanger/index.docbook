@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.2-Based Variant V1.1//EN"
+"dtd/kdex.dtd" [
+<!ENTITY % addindex "IGNORE">
+<!ENTITY % Ukrainian "INCLUDE"
+> <!-- change language only here -->
+]>
+
+<article lang="&language;">
+
+<sect1 id="uachanger">
+<sect1info>
+
+<authorgroup>
+<author
+><firstname
+>Gardner</firstname
+> <surname
+>Bell</surname
+> <affiliation
+><address
+><email
+>gbell72@rogers.com</email
+></address
+></affiliation>
+</author>
+
+<othercredit role="translator"
+><firstname
+>Юрій</firstname
+><surname
+>Чорноіван</surname
+><affiliation
+><address
+><email
+>yurchor@ukr.net</email
+></address
+></affiliation
+><contrib
+>Переклад українською</contrib
+></othercredit
+>  
+</authorgroup>
+<date
+>13.07.2004</date
+> <releaseinfo
+>3.10.00</releaseinfo
+> <abstract
+> <para
+>Додаток uachanger додає у &konqueror; меню, за допомогою якого ви зможете змінювати параметри ідентифікації за переглядачем (навігатором) та операційною системою для кожного окремо взятого домену. Це корисно для перегляду веб-сайтів, рушії яких обмежують доступ до сайтів лише тими користувачами, які користуються певними переглядачами Тенет.</para>
+</abstract>
+
+<keywordset>
+<keyword
+>KDE</keyword>
+<keyword
+>kdeaddons</keyword>
+<keyword
+>гkonqueror</keyword>
+<keyword
+>додатки</keyword>
+<keyword
+>uachanger</keyword>
+</keywordset>
+
+</sect1info>
+
+<title
+>Засіб для зміни поля User Agent</title>
+
+<sect2>
+<title
+>Користування засобом для зміни User Agent</title>
+
+<para
+>Доступ до додатка uachanger можна отримати за допомогою смужки меню &konqueror;, зокрема пункту <menuchoice
+><guimenu
+>Інструменти</guimenu
+> <guimenuitem
+>Змінити ідентифікацію навігатора</guimenuitem
+></menuchoice
+></para>
+<!-- ************************************ -->
+<!-- We probably need an entity for Mozilla, and I should check about -->
+<!-- trademark stuff for the MS browsers (Phil)-->
+<!-- ************************************ -->
+<variablelist>
+<varlistentry>
+<term
+><guimenuitem
+>Типова ідентифікація</guimenuitem
+></term>
+<listitem
+><para
+>Типовим заголовком User Agent для &konqueror; є Mozilla/5.0(compatible;Konqueror/3.2)(KHTML, like Gecko). Якщо ви надибаєте сайт, який заборонятиме доступ для переглядачів з таким заголовком, змініть значення вашого заголовка User Agent на один з варіантів, вказаних нижче.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Internet Explorer</guimenuitem
+></term>
+<listitem
+><para
+>Надає вам змогу змінити заголовок User Agent вашого переглядача на заголовок MSIE для сайтів, які забороняють доступ переглядачам на основі <application
+>Mozilla</application
+>. Така зміна заголовка на один з записів MSIE User Agent може знадобитися для використання &konqueror; для доступу до Hotmail.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Mozilla</guimenuitem
+></term>
+<listitem
+><para
+>Надає вам змогу змінити заголовок User Agent у &konqueror; так, щоб цей переглядач було ідентифіковано як <application
+>Mozilla</application
+> версій від 1.2.1 до 1.6</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Netscape Navigator</guimenuitem
+></term>
+<listitem
+><para
+>Сторінки, які не відповідають рекомендаціям W3C, або сторінки, які було написано за допомогою пропрієтарних елементів і атрибутів &HTML; буде показано належним чином, якщо ви надішлете ідентифікаційний User Agent цих застарілих переглядачів.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Інше</guimenuitem
+></term>
+<listitem
+><para
+>У цьому розділі містяться пункти різноманітних переглядачів, назви яких ви можете використати для зміни вашого заголовка User Agent.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Застосувати для всього сайта</guimenuitem
+></term>
+<listitem
+><para
+>За допомогою цього пункту ви можете вказати, що зміну поля User Agent слід застосовувати до кожної зі сторінок сайта, який ви відвідуєте.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Налаштувати</guimenuitem
+></term>
+<listitem
+><para
+>Вибір пункту <guimenuitem
+>Налаштувати</guimenuitem
+> надасть вам змогу вказати об’єм і характеристики інформацію, яку ви надішлете про переглядач і операційну систему, яку ви використовуєте.</para
+></listitem>
+</varlistentry>
+</variablelist>
+
+</sect2>
+
+<sect2>
+<title
+>Подяки</title>
+
+<para
+>Авторські права на додаток для зміни поля User Agent належать &copy; 2001 Dawit Alemayehu. <email
+>adawit@kde.org</email
+></para>
+</sect2>
+
+</sect1>
+</article>

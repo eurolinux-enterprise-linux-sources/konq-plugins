@@ -1,0 +1,228 @@
+<?xml version="1.0" ?>
+<!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.2-Based Variant V1.1//EN"
+"dtd/kdex.dtd" [
+<!ENTITY % addindex "IGNORE">
+<!ENTITY % Brazilian-Portuguese "INCLUDE"
+> <!-- change language only here -->
+]>
+
+<article lang="&language;">
+
+<sect1 id="khtmlsettings">
+<sect1info>
+
+<authorgroup>
+<author
+><firstname
+>Mike</firstname
+> <surname
+>Diehl</surname
+> <affiliation
+><address
+><email
+>madpenguin8@yahoo.com</email
+></address
+></affiliation>
+</author>
+
+<author
+><firstname
+>Lauri</firstname
+> <surname
+>Watts</surname
+> <affiliation
+><address
+>&Lauri.Watts.mail;</address
+></affiliation>
+</author>
+
+
+<othercredit role="translator"
+><firstname
+>José</firstname
+> <surname
+>Monteiro</surname
+><affiliation
+><address
+> <email
+>monteiro@ajato.com.br</email
+></address
+></affiliation
+><contrib
+> Tradução</contrib
+></othercredit
+> <othercredit role="translator"
+><firstname
+>Marcus</firstname
+> <surname
+>Gama</surname
+><affiliation
+><address
+> <email
+>marcus.gama@gmail.com</email
+></address
+></affiliation
+><contrib
+> Tradução</contrib
+></othercredit
+>  
+</authorgroup>
+<date
+>10-01-2006</date
+> <releaseinfo
+>3.5.1</releaseinfo
+> <abstract
+> <para
+>O plug-in de configurações &HTML; fornece uma maneira fácil de acessar as configurações &HTML; comuns do &konqueror;.</para>
+</abstract>
+
+<keywordset>
+<keyword
+>KDE</keyword>
+<keyword
+>kdeaddons</keyword>
+<keyword
+>konqueror</keyword>
+<keyword
+>plug-ins</keyword>
+</keywordset>
+
+</sect1info>
+
+<title
+>KHTMLSettings</title>
+
+<sect2>
+<title
+>Usando o KHTMLSettings</title>
+
+<para
+>O plug-in de configurações &HTML; pode ser acessado na barra de menu do &konqueror; em <menuchoice
+><guimenu
+>Ferramentas</guimenu
+><guimenuitem
+>Configurações HTML</guimenuitem
+></menuchoice
+>. Abaixo está uma lista das configurações e uma pequena descrição de cada uma.</para>
+
+<variablelist>
+<varlistentry>
+<term
+><guimenuitem
+>JavaScript</guimenuitem
+></term>
+<listitem
+><para
+>Permite ligar ou desligar o uso do JavaScript no &konqueror;.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Java</guimenuitem
+></term>
+<listitem
+><para
+>Permite ligar ou desligar o uso do &Java; no &konqueror;.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Cookies</guimenuitem
+></term>
+<listitem
+><para
+>Permite ligar ou desligar o uso de cookies no &konqueror;.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Plug-ins</guimenuitem
+></term>
+<listitem
+><para
+>Permite ligar ou desligar o uso de plug-ins que você tenha instalado no &konqueror;.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Carregar imagens automaticamente</guimenuitem
+></term>
+<listitem
+><para
+>Permite de ligar ou desligar o carregamento automárico de imagens das páginas da Internet.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Habilitar proxy</guimenuitem
+></term>
+<listitem
+><para
+>Permite habilitar ou desabilitar o uso de um proxy no navegador &konqueror;.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Habilitar cache</guimenuitem
+></term>
+<listitem
+><para
+>Permite habilitar ou desabilitar o uso de cache no navegador &konqueror;.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Política de cache</guimenuitem
+></term>
+<listitem>
+<para
+>O submenu política de cache fornece uma maneira de configurar como o &konqueror; usa a cache. As possibilidades incluem:</para>
+<itemizedlist>
+<listitem
+><para
+>Manter cache em sincronia</para
+></listitem>
+<listitem
+><para
+>Use cache se possível</para
+></listitem>
+<listitem
+><para
+>Modo de navegação offline</para
+></listitem>
+</itemizedlist>
+</listitem>
+</varlistentry>
+</variablelist>
+
+</sect2>
+
+<sect2>
+<title
+>Créditos</title>
+
+<para
+>Direitos autorais &copy; 2001 &Carsten.Pfeiffer; &Carsten.Pfeiffer.mail;</para>
+
+<para
+>Direitos autorais da documentação 2004 Mike Diehl <email
+>madpenguin8@yahoo.com</email
+></para>
+</sect2>
+
+</sect1>
+</article>

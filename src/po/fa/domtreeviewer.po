@@ -1,0 +1,477 @@
+# translation of domtreeviewer.po to Persian
+# Nazanin Kazemi <kazemi@itland.ir>, 2006, 2007.
+# MaryamSadat Razavi <razavi@itland.ir>, 2006.
+# Tahereh Dadkhahfar <dadkhahfar@itland.ir>, 2006.
+# Nasim Daniarzadeh <daniarzadeh@itland.ir>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: domtreeviewer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-01 10:41+0100\n"
+"PO-Revision-Date: 2007-06-11 08:45+0330\n"
+"Last-Translator: Nazanin Kazemi <kazemi@itland.ir>\n"
+"Language-Team: Persian <kde-i18n-fa@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: domtreecommands.cpp:33
+msgid "No error"
+msgstr "بدون خطا"
+
+#: domtreecommands.cpp:34
+msgid "Index size exceeded"
+msgstr "اندازۀ نمایۀ فراتر"
+
+#: domtreecommands.cpp:35
+msgid "DOMString size exceeded"
+msgstr "اندازۀ DOMString فراتر"
+
+#: domtreecommands.cpp:36
+msgid "Hierarchy request error"
+msgstr "سلسله مراتب خطای درخواست"
+
+#: domtreecommands.cpp:37
+msgid "Wrong document"
+msgstr "سند نادرست"
+
+#: domtreecommands.cpp:38
+msgid "Invalid character"
+msgstr "نویسۀ نامعتبر"
+
+#: domtreecommands.cpp:39
+msgid "No data allowed"
+msgstr "داده‌ای مجاز نشد"
+
+#: domtreecommands.cpp:40
+msgid "No modification allowed"
+msgstr "اجازۀ اصلاح داده نشد"
+
+#: domtreecommands.cpp:41
+msgid "Not found"
+msgstr "یافت نشد"
+
+#: domtreecommands.cpp:42
+msgid "Not supported"
+msgstr "پشتیبانی نشد"
+
+#: domtreecommands.cpp:43
+msgid "Attribute in use"
+msgstr "خصیصۀ مورد استفاده"
+
+#: domtreecommands.cpp:44
+msgid "Invalid state"
+msgstr "وضعیت نامعتبر"
+
+#: domtreecommands.cpp:45
+msgid "Syntax error"
+msgstr "خطای نحوی"
+
+#: domtreecommands.cpp:46
+msgid "Invalid modification"
+msgstr "اصلاح نامعتبر"
+
+#: domtreecommands.cpp:47
+msgid "Namespace error"
+msgstr "خطای فضای نام"
+
+#: domtreecommands.cpp:48
+msgid "Invalid access"
+msgstr "دستیابی‌ نامعتبر"
+
+#: domtreecommands.cpp:56
+#, kde-format
+msgid "Unknown Exception %1"
+msgstr "استثنای %1 ناشناخته"
+
+#: domtreecommands.cpp:296
+msgid "Add attribute"
+msgstr "افزودن خصیصه"
+
+#: domtreecommands.cpp:326
+msgid "Change attribute value"
+msgstr "تغییر مقدار خصیصه"
+
+#: domtreecommands.cpp:357
+msgid "Remove attribute"
+msgstr "حذف خصیصه"
+
+#: domtreecommands.cpp:389
+msgid "Rename attribute"
+msgstr "تغییر نام خصیصه"
+
+#: domtreecommands.cpp:425
+msgid "Change textual content"
+msgstr "تغییر محتوای متنی"
+
+#: domtreecommands.cpp:487
+msgid "Insert node"
+msgstr "درج گره"
+
+#: domtreecommands.cpp:515
+msgid "Remove node"
+msgstr "حذف گره"
+
+#: domtreecommands.cpp:561
+msgid "Move node"
+msgstr "حرکت گره"
+
+#: domtreeview.cpp:70
+msgid "Edit Element"
+msgstr "ویرایش عنصر"
+
+#: domtreeview.cpp:72 domtreeview.cpp:92
+msgid "&Append as Child"
+msgstr "&پیوستن به عنوان فرزند‌"
+
+#: domtreeview.cpp:73 domtreeview.cpp:93
+msgid "Insert &Before Current"
+msgstr "درج &قبل از جاری‌"
+
+#: domtreeview.cpp:90
+msgid "Edit Text"
+msgstr "ویرایش متن"
+
+#: domtreeview.cpp:110
+msgid "Edit Attribute"
+msgstr "ویرایش خصیصه"
+
+#: domtreeview.cpp:172
+#, kde-format
+msgid "DOM Tree for %1"
+msgstr "درخت DOM برای %1"
+
+#. i18n: file: domtreeviewbase.ui:115
+#. i18n: ectx: property (text), widget (QTreeWidget, m_listView)
+#: domtreeview.cpp:172 rc.cpp:18
+msgid "DOM Tree"
+msgstr "درخت DOM"
+
+#: domtreeview.cpp:513
+msgid "Move Nodes"
+msgstr "حرکت گره‌ها"
+
+#: domtreeview.cpp:579
+msgid "Save DOM Tree as HTML"
+msgstr "ذخیرۀ درخت DOM به عنوان زنگام"
+
+#: domtreeview.cpp:584
+msgid "File Exists"
+msgstr "پرونده وجود دارد"
+
+#: domtreeview.cpp:585
+#, kde-format
+msgid ""
+"Do you really want to overwrite: \n"
+"%1?"
+msgstr ""
+"واقعاً می‌خواهید جای‌نوشت کنید: \n"
+"%1؟"
+
+#: domtreeview.cpp:586
+msgid "Overwrite"
+msgstr "جای‌نوشت"
+
+#: domtreeview.cpp:599
+msgid "Unable to Open File"
+msgstr "قادر به باز کردن پرونده نیست"
+
+#: domtreeview.cpp:600
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing"
+msgstr ""
+"قادر به باز کردن \n"
+" %1\n"
+"برای نوشتن نیست"
+
+#: domtreeview.cpp:604
+msgid "Invalid URL"
+msgstr "نشانی وب نامعتبر"
+
+#: domtreeview.cpp:605
+#, kde-format
+msgid ""
+"This URL \n"
+" %1 \n"
+" is not valid."
+msgstr ""
+"این نشانی وب \n"
+"%1\n"
+"معتبر نیست."
+
+#: domtreeview.cpp:822
+msgid "Delete Nodes"
+msgstr "حذف گره‌ها"
+
+#: domtreeview.cpp:1033
+msgid "<Click to add>"
+msgstr ">برای افزودن فشار دهید<"
+
+#: domtreeview.cpp:1365
+msgid "Delete Attributes"
+msgstr "حذف خصیصه‌ها"
+
+#: domtreewindow.cpp:62
+msgid "Message Log"
+msgstr "ثبت پیام"
+
+#: domtreewindow.cpp:161
+#, fuzzy
+#| msgid "DOM Tree"
+msgid "Pure DOM Tree"
+msgstr "درخت DOM"
+
+#: domtreewindow.cpp:167
+#, fuzzy
+#| msgid "Show &attributes"
+msgid "Show DOM Attributes"
+msgstr "نمایش &خصیصه‌ها‌"
+
+#: domtreewindow.cpp:174
+#, fuzzy
+#| msgid "Highlight &HTML"
+msgid "Highlight HTML"
+msgstr "&زنگام مشخص‌"
+
+#: domtreewindow.cpp:182
+msgid "Show Message Log"
+msgstr "نمایش ثبت پیام"
+
+#: domtreewindow.cpp:194
+msgid "Expand"
+msgstr "بسط"
+
+#: domtreewindow.cpp:197
+msgid "Increase expansion level"
+msgstr "افزایش سطح بسط"
+
+#: domtreewindow.cpp:200
+msgid "Collapse"
+msgstr "فروپاشی"
+
+#: domtreewindow.cpp:203
+msgid "Decrease expansion level"
+msgstr "کاهش سطح بسط"
+
+#: domtreewindow.cpp:209 domtreewindow.cpp:227
+msgid "&Delete"
+msgstr "&حذف‌"
+
+#: domtreewindow.cpp:212
+msgid "Delete nodes"
+msgstr "حذف گره‌ها"
+
+#: domtreewindow.cpp:217
+#, fuzzy
+#| msgid "New &Element ..."
+msgid "New &Element..."
+msgstr "&عنصر جدید ...‌"
+
+#: domtreewindow.cpp:221
+#, fuzzy
+#| msgid "New &Text Node ..."
+msgid "New &Text Node..."
+msgstr "گره &متن جدید ...‌"
+
+#: domtreewindow.cpp:230
+msgid "Delete attributes"
+msgstr "حذف خصیصه‌ها"
+
+#: plugin_domtreeviewer.cpp:24
+msgid "Show &DOM Tree"
+msgstr "نمایش درخت &DOM‌"
+
+#. i18n: file: attributeeditwidget.ui:24
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:3
+msgid "Attribute &name:"
+msgstr "&نام خصیصه:‌"
+
+#. i18n: file: attributeeditwidget.ui:42
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:6
+msgid "Attribute &value:"
+msgstr "&مقدار خصیصه:‌"
+
+#. i18n: file: domtreeviewbase.ui:19
+#. i18n: ectx: property (windowTitle), widget (QWidget, DOMTreeViewBase)
+#: rc.cpp:9
+msgid "DOM Tree Viewer"
+msgstr "مشاهده‌گر درخت DOM"
+
+#. i18n: file: domtreeviewbase.ui:61
+#. i18n: ectx: property (text), widget (KPushButton, messageListBtn)
+#: rc.cpp:12
+msgid "&List"
+msgstr "&فهرست‌"
+
+#. i18n: file: domtreeviewbase.ui:92
+#. i18n: ectx: property (text), widget (KPushButton, messageHideBtn)
+#: rc.cpp:15
+msgid "H&ide"
+msgstr "&مخفی کردن‌"
+
+#. i18n: file: domtreeviewbase.ui:127
+#. i18n: ectx: attribute (title), widget (QWidget, domTab)
+#: rc.cpp:21
+#, fuzzy
+#| msgid "DOM Node Info"
+msgid "DOM Node"
+msgstr "اطلاعات گره DOM"
+
+#. i18n: file: domtreeviewbase.ui:138
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: rc.cpp:24
+msgid "Node &value:"
+msgstr "&مقدار گره:‌"
+
+#. i18n: file: domtreeviewbase.ui:151
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: rc.cpp:27
+msgid "Node &type:"
+msgstr "&نوع گره:‌"
+
+#. i18n: file: domtreeviewbase.ui:164
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:30
+msgid "Namespace &URI:"
+msgstr "&نشانی وب فضای نام:‌"
+
+#. i18n: file: domtreeviewbase.ui:177
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:33
+msgid "Node &name:"
+msgstr "&نام گره:‌"
+
+#. i18n: file: domtreeviewbase.ui:249
+#. i18n: ectx: property (text), widget (QTreeWidget, nodeAttributes)
+#: rc.cpp:36
+msgid "Name"
+msgstr "نام"
+
+#. i18n: file: domtreeviewbase.ui:254
+#. i18n: ectx: property (text), widget (QTreeWidget, nodeAttributes)
+#. i18n: file: domtreeviewbase.ui:344
+#. i18n: ectx: property (text), widget (QTreeWidget, cssProperties)
+#: rc.cpp:39 rc.cpp:51
+msgid "Value"
+msgstr "مقدار"
+
+#. i18n: file: domtreeviewbase.ui:287
+#. i18n: ectx: property (text), widget (QPushButton, applyContent)
+#: rc.cpp:42
+msgid "Appl&y"
+msgstr "&اعمال‌"
+
+#. i18n: file: domtreeviewbase.ui:320
+#. i18n: ectx: attribute (title), widget (QWidget, cssTab)
+#: rc.cpp:45
+msgid "Computed Style"
+msgstr ""
+
+#. i18n: file: domtreeviewbase.ui:339
+#. i18n: ectx: property (text), widget (QTreeWidget, cssProperties)
+#: rc.cpp:48
+msgid "Property"
+msgstr ""
+
+#. i18n: file: domtreeviewbase.ui:353
+#. i18n: ectx: attribute (title), widget (QWidget, styleSheetsTab)
+#: rc.cpp:54
+msgid "Stylesheets"
+msgstr ""
+
+#. i18n: file: domtreeviewbase.ui:366
+#. i18n: ectx: property (text), widget (QTreeWidget, styleSheetsTree)
+#: rc.cpp:57
+msgid "1"
+msgstr ""
+
+#. i18n: file: domtreeviewerui.rc:4
+#. i18n: ectx: Menu (file)
+#: rc.cpp:60
+msgid "&File"
+msgstr "&پرونده‌"
+
+#. i18n: file: domtreeviewerui.rc:6
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:63
+msgid "&Edit"
+msgstr "&ویرایش‌"
+
+#. i18n: file: domtreeviewerui.rc:8
+#. i18n: ectx: Menu (view)
+#: rc.cpp:66
+msgid "&View"
+msgstr "&نما‌"
+
+#. i18n: file: domtreeviewerui.rc:19
+#. i18n: ectx: Menu (go)
+#: rc.cpp:69
+msgid "&Go"
+msgstr "&برو‌"
+
+#. i18n: file: domtreeviewerui.rc:23
+#. i18n: ectx: ToolBar (mainToolBar)
+#: rc.cpp:72
+msgid "Main Toolbar"
+msgstr "میله ابزار اصلی"
+
+#. i18n: file: domtreeviewerui.rc:25
+#. i18n: ectx: ToolBar (treeToolBar)
+#: rc.cpp:75
+msgid "Tree Toolbar"
+msgstr "میله ابزار درخت"
+
+#. i18n: file: elementeditwidget.ui:24
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:78
+msgid "Element &name:"
+msgstr "&نام عنصر:‌"
+
+#. i18n: file: elementeditwidget.ui:47
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:81
+msgid "Element &namespace:"
+msgstr "&فضای نام عنصر:‌"
+
+#. i18n: file: plugin_domtreeviewer.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:84
+msgid "&Tools"
+msgstr "&ابزار‌"
+
+#. i18n: file: plugin_domtreeviewer.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:87
+msgid "Extra Toolbar"
+msgstr "میله ابزار اضافی"
+
+#. i18n: file: texteditwidget.ui:19
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:90
+msgid "Edit &text for text node:"
+msgstr "ویرایش &متن برای گرۀ متن:‌"
+
+#~ msgid "DOM Tree Options"
+#~ msgstr "گزینه‌های درخت DOM"
+
+#~ msgid "&Pure"
+#~ msgstr "&ناب‌"
+
+#~ msgid "&OK"
+#~ msgstr "&تأیید"
+
+#~ msgid "&Cancel"
+#~ msgstr "&لغو‌"
+
+#~ msgid "C&lear"
+#~ msgstr "&پاک کردن‌"
+
+#~ msgid "&Close"
+#~ msgstr "&بستن‌"

@@ -1,0 +1,160 @@
+# translation of webarchiver.po to khmer
+# translation of webarchiver.po to
+#
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2006, 2007, 2008.
+# Auk Piseth <piseth_dv@khmeros.info>, 2007, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: webarchiver\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-23 11:42+0200\n"
+"PO-Revision-Date: 2009-05-25 15:08+0700\n"
+"Last-Translator: Auk Piseth <piseth_dv@khmeros.info>\n"
+"Language-Team: khmer <support@khmeros.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. i18n: file: archiveviewbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
+#: archivedialog.cpp:151 rc.cpp:3
+msgid "Web Archiver"
+msgstr "កម្មវិធី​ទុក​បណ្ដាញ​ជា​​​ប័ណ្ណសារ"
+
+#: archivedialog.cpp:161
+msgid "Status"
+msgstr "ស្ថានភាព​​"
+
+#: archivedialog.cpp:162
+msgid "Url"
+msgstr "Url"
+
+#: archivedialog.cpp:230
+msgid "Unable to Open Web-Archive"
+msgstr "មិន​អាច​បើក​ប័ណ្ណសារ​បណ្តាញ​"
+
+#: archivedialog.cpp:231
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing."
+msgstr ""
+"មិន​អាច​បើក \n"
+" %1 \n"
+" ដើម្បី​​សរសេរ​ ។"
+
+#: archivedialog.cpp:362
+msgid "Downloading"
+msgstr "ទាញយក"
+
+#: archivedialog.cpp:383
+msgid "Error"
+msgstr "កំហុស"
+
+#: archivedialog.cpp:383
+msgid "Ok"
+msgstr "យល់ព្រម"
+
+#: archivedialog.cpp:411
+#, kde-format
+msgid "I/O error occurred while writing to web archive file %1."
+msgstr "កំហុស I/O បានកើត​ឡើង​ខណៈពេល​សរសេរ​ទៅកាន់​ឯកសារ​ប័ណ្ណសារ​បណ្ដាញ %1 ។"
+
+#: plugin_webarchiver.cpp:58
+msgid "Archive &Web Page..."
+msgstr "ទុក​ទំព័រ​បណ្តាញ​​​ជា​ប័ណ្ណសារ..."
+
+#: plugin_webarchiver.cpp:77
+msgid "Untitled"
+msgstr "គ្មាន​ចំណង​ជើង"
+
+#: plugin_webarchiver.cpp:94
+msgid "*.war *.tgz|Web Archives"
+msgstr "*.war *.tgz|ប័ណ្ណសារ​បណ្តាញ"
+
+#: plugin_webarchiver.cpp:95
+msgid "Save Page as Web-Archive"
+msgstr "រក្សាទុក​ទំព័រ​ជា​ប័ណ្ណសារ​បណ្តាញ"
+
+#: plugin_webarchiver.cpp:100
+msgid "Invalid URL"
+msgstr "URL មិន​ត្រឹមត្រូវ"
+
+#: plugin_webarchiver.cpp:101
+#, kde-format
+msgid ""
+"The URL\n"
+"%1\n"
+"is not valid."
+msgstr ""
+"URL\n"
+"%1\n"
+"​មិន​ត្រឹមត្រូវ ។"
+
+#: plugin_webarchiver.cpp:115
+msgid "File Exists"
+msgstr "ឯកសារ​មាន​រួច​ហើយ"
+
+#: plugin_webarchiver.cpp:116
+#, kde-format
+msgid ""
+"Do you really want to overwrite:\n"
+"%1?"
+msgstr ""
+"តើ​អ្នក​ពិត​ជា​ចង់​សរសេរ​ជាន់​លើ ៖\n"
+"%1 មែនទេ ?"
+
+#: plugin_webarchiver.cpp:117
+msgid "Overwrite"
+msgstr "សរសេរ​ជាន់​លើ"
+
+#. i18n: file: archiveviewbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, targetLabel)
+#: rc.cpp:6
+msgid "Local File"
+msgstr "ឯកសារ​មូលដ្ឋាន"
+
+#. i18n: file: archiveviewbase.ui:55
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:9
+msgid "To:"
+msgstr "ទៅ ៖"
+
+#. i18n: file: archiveviewbase.ui:65
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:12
+msgid "Archiving:"
+msgstr "ការ​ទុក​ជា​​ប័ណ្ណសារ ៖"
+
+#. i18n: file: archiveviewbase.ui:81
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#: rc.cpp:15
+msgid "Original URL"
+msgstr "URL ដើម"
+
+#. i18n: file: archiveviewbase.ui:109
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:18
+msgid "1"
+msgstr "១"
+
+#. i18n: file: archiveviewbase.ui:114
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:21
+msgid "2"
+msgstr "២"
+
+#. i18n: file: plugin_webarchiver.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr "ឧបករណ៍"
+
+#. i18n: file: plugin_webarchiver.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "របារ​ឧបករណ៍​បន្ថែម"

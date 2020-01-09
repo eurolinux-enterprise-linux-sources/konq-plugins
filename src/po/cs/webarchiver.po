@@ -1,0 +1,163 @@
+# translation of webarchiver.po to
+# Copyright (C) 2002, 2003, 2004, 2005, 2008 Free Software Foundation, Inc.
+#
+# Lukáš Tinkl <lukas@kde.org>, 2002, 2003, 2004, 2005.
+# Ivo Jánský <Ivo.Jansky@seznam.cz>, 2003.
+# David Kolibac <kolibac@gmail.com>, 2008.
+# Vit Pelcak <vit@pelcak.org>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: webarchiver\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-23 11:42+0200\n"
+"PO-Revision-Date: 2009-05-25 11:03+0200\n"
+"Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. i18n: file: archiveviewbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
+#: archivedialog.cpp:151 rc.cpp:3
+msgid "Web Archiver"
+msgstr "Webový archivátor"
+
+#: archivedialog.cpp:161
+msgid "Status"
+msgstr "Stav"
+
+#: archivedialog.cpp:162
+msgid "Url"
+msgstr "Url"
+
+#: archivedialog.cpp:230
+msgid "Unable to Open Web-Archive"
+msgstr "Nelze otevřít webový archív"
+
+#: archivedialog.cpp:231
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing."
+msgstr ""
+"Nelze otevřít\n"
+" %1\n"
+" pro zápis."
+
+#: archivedialog.cpp:362
+msgid "Downloading"
+msgstr "Stahování"
+
+#: archivedialog.cpp:383
+msgid "Error"
+msgstr "Chyba"
+
+#: archivedialog.cpp:383
+msgid "Ok"
+msgstr "OK"
+
+#: archivedialog.cpp:411
+#, kde-format
+msgid "I/O error occurred while writing to web archive file %1."
+msgstr ""
+"Došlo k vstupní/výstupní chybě při zápisu do souboru webového archivu %1."
+
+#: plugin_webarchiver.cpp:58
+msgid "Archive &Web Page..."
+msgstr "Archivovat &webovou stránku..."
+
+#: plugin_webarchiver.cpp:77
+msgid "Untitled"
+msgstr "Bez názvu"
+
+#: plugin_webarchiver.cpp:94
+msgid "*.war *.tgz|Web Archives"
+msgstr "*.war *.tgz|Webové archívy"
+
+#: plugin_webarchiver.cpp:95
+msgid "Save Page as Web-Archive"
+msgstr "Uložit stránku jako webový archív"
+
+#: plugin_webarchiver.cpp:100
+msgid "Invalid URL"
+msgstr "Neplatné URL"
+
+#: plugin_webarchiver.cpp:101
+#, kde-format
+msgid ""
+"The URL\n"
+"%1\n"
+"is not valid."
+msgstr ""
+"URL\n"
+"%1\n"
+"je neplatné."
+
+#: plugin_webarchiver.cpp:115
+msgid "File Exists"
+msgstr "Soubor existuje"
+
+#: plugin_webarchiver.cpp:116
+#, kde-format
+msgid ""
+"Do you really want to overwrite:\n"
+"%1?"
+msgstr ""
+"Chcete opravdu přepsat:\n"
+"%1?"
+
+#: plugin_webarchiver.cpp:117
+msgid "Overwrite"
+msgstr "Přepsat"
+
+#. i18n: file: archiveviewbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, targetLabel)
+#: rc.cpp:6
+msgid "Local File"
+msgstr "Místní soubor"
+
+#. i18n: file: archiveviewbase.ui:55
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:9
+msgid "To:"
+msgstr "Do:"
+
+#. i18n: file: archiveviewbase.ui:65
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:12
+msgid "Archiving:"
+msgstr "Archivování:"
+
+#. i18n: file: archiveviewbase.ui:81
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#: rc.cpp:15
+msgid "Original URL"
+msgstr "Původní URL"
+
+#. i18n: file: archiveviewbase.ui:109
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:18
+msgid "1"
+msgstr "1"
+
+#. i18n: file: archiveviewbase.ui:114
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:21
+msgid "2"
+msgstr "2"
+
+#. i18n: file: plugin_webarchiver.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr "Nás&troje"
+
+#. i18n: file: plugin_webarchiver.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "Extra nástrojová lišta"

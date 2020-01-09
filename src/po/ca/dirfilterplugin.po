@@ -1,0 +1,79 @@
+# Translation of dirfilterplugin.po to Catalan
+# Copyright (C)
+#
+# Antoni Bella Perez <bella5@teleline.es>, 2002, 2003.
+# Albert Astals Cid <astals11@terra.es>, 2004, 2005.
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2005, 2006, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: dirfilterplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2007-12-25 18:49+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "Vista de f&iltre"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr "Permet filtrar els elements mostrats actualment per tipus de fitxer."
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr "Camp de filtre"
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "Mostra només els elements de tipus"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "Empra múltiples filtres"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "Mostra el compte"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "Reinicia"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Eines"
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Barra d'eines extra"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "Barra d'eines de filtrat"
+
+#~ msgid "Clear Filter Field"
+#~ msgstr "Neteja el camp de filtre"
+
+#~ msgid "Clear filter field<p>Clears the content of the filter field.</p>"
+#~ msgstr ""
+#~ "Neteja el camp de filtre<p>Neteja el contingut del camp de filtrat.</p>"
+
+#~ msgid ""
+#~ "Enter here a text which an item in the view must contain anywhere to be "
+#~ "shown."
+#~ msgstr ""
+#~ "Introduïu aquí un text que ha d'estar a qualsevol lloc d'un element de la "
+#~ "vista per mostrar-lo."

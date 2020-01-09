@@ -1,0 +1,200 @@
+# translation of konqsidebar_metabar.po to Lavtian
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Viesturs Zarins <viesturs.zarins@mii.lu.lv>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2008-12-27 19:32+0200\n"
+"Last-Translator: Viesturs Zarins <viesturs.zarins@mii.lu.lv>\n"
+"Language-Team: Lavtian <locale@laka.lv>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Konfigurācija - Metabar"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Vienības"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Atvērt ar:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Darbības:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "Izskats"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Animēt izmēra maiņu"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Rādīt pakalpojumu izvēlnes"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Tēmas"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Instalēt jaunu tēmu..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Jauns..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "Dzēst"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Rediģēt..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Nosaukums"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Adrese"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Pamata"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Darbības"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Saites"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Kopīgot"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Izveidot saiti"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Jauna saite"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Nosaukums:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "URL:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Rediģēt saiti"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Vairāk"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "Palaist %1"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Izvēlieties programmu"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Tips"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Izmērs"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Lietotājs"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Gupa"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Atļaujas"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Mainīts"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Piekļūts"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "Saites mērķis"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "Faili"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Mapes"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Kopā"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Nospiediet, lai parādītu priekšapskati"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Veido priekšapskati"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Konfigurēt Metabar..."
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Mazāk"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Pievienot tīkla mapi"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Palaist"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Komentārs"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Nepieciešamas root atļaujas"

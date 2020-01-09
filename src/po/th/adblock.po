@@ -1,0 +1,173 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: adblock\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-31 06:46+0100\n"
+"PO-Revision-Date: 2008-12-14 11:47+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: adblock.cpp:71
+msgid "Adblock"
+msgstr "เครื่องมือบล็อคโฆษณา"
+
+#: adblock.cpp:77
+#, fuzzy
+#| msgid "Show Elements..."
+msgid "Show Blockable Elements..."
+msgstr "แสดงส่วนต่าง ๆ ..."
+
+#: adblock.cpp:82 adblockdialog.cpp:96
+#, fuzzy
+#| msgid "Configure..."
+msgid "Configure Filters..."
+msgstr "ปรับแต่ง..."
+
+#: adblock.cpp:91
+#, fuzzy
+#| msgid "Disable for this page"
+msgid "No blocking for this page"
+msgstr "ปิดการใช้งานกับหน้าเว็บนี้"
+
+#: adblock.cpp:96
+#, fuzzy
+#| msgid "Disable for this site"
+msgid "No blocking for this site"
+msgstr "ปิดการใช้งานกับเว็บไซต์นี้"
+
+#: adblock.cpp:172
+msgid "Please enable Konqueror's Adblock"
+msgstr "โปรดเปิดการทำงานเครื่องมือบล็อคโฆษณาของคอนเควอร์เรอร์ก่อน"
+
+#: adblock.cpp:173
+msgid "Adblock disabled"
+msgstr "เครื่องมือบล็อคโฆษณาถูกปิดการทำงานอยู่"
+
+#: adblock.cpp:206
+msgid "script"
+msgstr "สคริปต์"
+
+#: adblock.cpp:207 adblock.cpp:208
+msgid "object"
+msgstr "วัตถุ"
+
+#: adblock.cpp:210
+msgid "frame"
+msgstr ""
+
+#: adblock.cpp:231
+msgid "image"
+msgstr "รูปภาพ"
+
+#: adblock.cpp:290
+#, kde-format
+msgid "Blocked by %1"
+msgstr ""
+
+#: adblock.cpp:293
+#, kde-format
+msgid "Allowed by %1"
+msgstr ""
+
+#: adblockdialog.cpp:93
+#, fuzzy
+#| msgid "All blockable items in this page:"
+msgid "Blockable items on this page"
+msgstr "รายการทั้งหมดในหน้านี้ที่สามารถบล็อคได้:"
+
+#: adblockdialog.cpp:98
+msgid "Add filter"
+msgstr ""
+
+#: adblockdialog.cpp:107
+msgid "Search:"
+msgstr ""
+
+#: adblockdialog.cpp:114
+#, fuzzy
+#| msgid "All blockable items in this page:"
+msgid "Blockable items:"
+msgstr "รายการทั้งหมดในหน้านี้ที่สามารถบล็อคได้:"
+
+#: adblockdialog.cpp:123
+msgid "Source"
+msgstr "ต้นทาง"
+
+#: adblockdialog.cpp:123
+msgid "Category"
+msgstr "หมวดหมู่"
+
+#: adblockdialog.cpp:123
+msgid "Tag"
+msgstr ""
+
+#: adblockdialog.cpp:150
+msgid ""
+"New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
+"@@ for white list):"
+msgstr ""
+
+#: adblockdialog.cpp:170
+msgid "Filter this item"
+msgstr "กรองรายการนี้"
+
+#: adblockdialog.cpp:171
+msgid "Filter all items at same path"
+msgstr "กรองรายการทั้งหมดที่มีพาธเดียวกันนี้"
+
+#: adblockdialog.cpp:172
+#, fuzzy
+#| msgid "Filter all items at same path"
+msgid "Filter all items from same host"
+msgstr "กรองรายการทั้งหมดที่มีพาธเดียวกันนี้"
+
+#: adblockdialog.cpp:173
+#, fuzzy
+#| msgid "Filter all items at same path"
+msgid "Filter all items from same domain"
+msgstr "กรองรายการทั้งหมดที่มีพาธเดียวกันนี้"
+
+#: adblockdialog.cpp:175
+msgid "Add this item to white list"
+msgstr "เพิ่มรายการนี้ไปยังรายการที่อนุญาต"
+
+#: adblockdialog.cpp:177
+msgid "Copy Link Address"
+msgstr "คัดลอกที่อยู่ของส่วนเชื่อมโยง"
+
+#: adblockdialog.cpp:180
+msgid "View item"
+msgstr ""
+
+#. i18n: file: plugin_adblock.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "เ&ครื่องมือ"
+
+#. i18n: file: plugin_adblock.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "แถบเครื่องมือพิเศษ"
+
+#~ msgid "Adblock dialog"
+#~ msgstr "เครื่องมือบล็อคโฆษณา"
+
+#~ msgid "Node Name"
+#~ msgstr "ชื่อโหนด"
+
+#~ msgid "New filter (use * as a wildcard):"
+#~ msgstr "การกรองตัวใหม่ (ใช้ * แทนทั้งหมด):"
+
+#~ msgid "Show it"
+#~ msgstr "แสดงมัน"

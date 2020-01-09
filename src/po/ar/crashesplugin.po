@@ -1,0 +1,51 @@
+# translation of crashesplugin.po to Arabic
+# translation of crashesplugin.po to
+# Copyright (C) 2002, 2004, 2006, 2007, 2008 Free Software Foundation, Inc.
+#
+# Isam Bayazidi <bayazidi@arabeyes.org>, 2002.
+# Mohammed Gamal <f2c2001@yahoo.com>, 2004.
+# محمد سعد  Mohamed SAAD <metehyi@free.fr>, 2006.
+# Youssef Chahibi <chahibi@gmail.com>, 2007.
+# zayed <zayed.alsaidi@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: crashesplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-08-25 09:12+0200\n"
+"PO-Revision-Date: 2008-12-30 20:32+0400\n"
+"Last-Translator: zayed <zayed.alsaidi@gmail.com>\n"
+"Language-Team: Arabic <linuxac-kde-arabic-team@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: crashesplugin.cpp:48
+msgid "&Crashes"
+msgstr "ا&نهيارات"
+
+#: crashesplugin.cpp:95 crashesplugin.cpp:119
+msgid "All Pages of This Crash"
+msgstr "كلّ صفحات هذا الانهيار"
+
+#: crashesplugin.cpp:125
+msgid "No Recovered Crashes"
+msgstr "لا يوجد انهيارات مستعادة"
+
+#: crashesplugin.cpp:137
+msgid "&Clear List of Crashes"
+msgstr "&أمح لائحة الانهيارات"
+
+#. i18n: file: crashesplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "أ&دوات"
+
+#. i18n: file: crashesplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "شريط أدوات إضافي"

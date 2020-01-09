@@ -1,0 +1,173 @@
+# Vietnamese translation for Web Archiver.
+# Copyright © 2006 KDE i18n Project for Vietnamese.
+# Clytie Siddall <clytie@riverland.net.au>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: webarchiver\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-23 11:42+0200\n"
+"PO-Revision-Date: 2006-11-01 17:48+1030\n"
+"Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
+"Language-Team: Vietnamese <kde-l10n-vi@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LocFactoryEditor 1.6fc1\n"
+
+#. i18n: file: archiveviewbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
+#: archivedialog.cpp:151 rc.cpp:3
+msgid "Web Archiver"
+msgstr "Bộ tạo kho nén Mạng"
+
+#: archivedialog.cpp:161
+#, fuzzy
+#| msgid "State"
+msgid "Status"
+msgstr "Tình trạng"
+
+#: archivedialog.cpp:162
+msgid "Url"
+msgstr ""
+
+#: archivedialog.cpp:230
+msgid "Unable to Open Web-Archive"
+msgstr "Không thể mở kho nén Mạng"
+
+#: archivedialog.cpp:231
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing."
+msgstr ""
+"Không thể mở \n"
+" %1 \n"
+" để ghi."
+
+#: archivedialog.cpp:362
+msgid "Downloading"
+msgstr "Đang tải xuống"
+
+#: archivedialog.cpp:383
+msgid "Error"
+msgstr ""
+
+#: archivedialog.cpp:383
+msgid "Ok"
+msgstr "Được"
+
+#: archivedialog.cpp:411
+#, kde-format
+msgid "I/O error occurred while writing to web archive file %1."
+msgstr ""
+
+#: plugin_webarchiver.cpp:58
+msgid "Archive &Web Page..."
+msgstr "Nén trang &Mạng..."
+
+#: plugin_webarchiver.cpp:77
+msgid "Untitled"
+msgstr ""
+
+#: plugin_webarchiver.cpp:94
+msgid "*.war *.tgz|Web Archives"
+msgstr "Kho nén Mạng"
+
+#: plugin_webarchiver.cpp:95
+msgid "Save Page as Web-Archive"
+msgstr "Cất trang web bằng Web ARchive"
+
+#: plugin_webarchiver.cpp:100
+msgid "Invalid URL"
+msgstr "URL không hợp lệ"
+
+#: plugin_webarchiver.cpp:101
+#, kde-format
+msgid ""
+"The URL\n"
+"%1\n"
+"is not valid."
+msgstr ""
+"Địa chỉ URL\n"
+"%1\n"
+"không phải hợp lệ."
+
+#: plugin_webarchiver.cpp:115
+msgid "File Exists"
+msgstr "Tập tin đã có"
+
+#: plugin_webarchiver.cpp:116
+#, kde-format
+msgid ""
+"Do you really want to overwrite:\n"
+"%1?"
+msgstr ""
+"Bạn thực sự muốn ghi đè lên:\n"
+"%1 không?"
+
+#: plugin_webarchiver.cpp:117
+msgid "Overwrite"
+msgstr "Ghi đè"
+
+#. i18n: file: archiveviewbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, targetLabel)
+#: rc.cpp:6
+msgid "Local File"
+msgstr "Tập tin cục bộ"
+
+#. i18n: file: archiveviewbase.ui:55
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:9
+msgid "To:"
+msgstr "Tới:"
+
+#. i18n: file: archiveviewbase.ui:65
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:12
+msgid "Archiving:"
+msgstr "Đang nén:"
+
+#. i18n: file: archiveviewbase.ui:81
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#: rc.cpp:15
+msgid "Original URL"
+msgstr "URL gốc"
+
+#. i18n: file: archiveviewbase.ui:109
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:18
+msgid "1"
+msgstr ""
+
+#. i18n: file: archiveviewbase.ui:114
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:21
+msgid "2"
+msgstr ""
+
+#. i18n: file: plugin_webarchiver.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: plugin_webarchiver.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "Thanh công cụ thêm"
+
+#~ msgid "Archiving webpage completed."
+#~ msgstr "Mới nén xong trang Mạng."
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Could Not Open Temporary File"
+#~ msgstr "Không thể mở tập tin tạm thời"
+
+#~ msgid "Could not open a temporary file"
+#~ msgstr "Không thể mở một tập tin tạm thời"

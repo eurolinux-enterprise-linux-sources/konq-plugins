@@ -1,0 +1,214 @@
+<?xml version="1.0" ?>
+<!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.2-Based Variant V1.1//EN"
+"dtd/kdex.dtd" [
+<!ENTITY % addindex "IGNORE">
+<!ENTITY % Ukrainian "INCLUDE"
+> <!-- change language only here -->
+]>
+
+<article lang="&language;">
+
+<sect1 id="khtmlsettings">
+<sect1info>
+
+<authorgroup>
+<author
+><firstname
+>Mike</firstname
+> <surname
+>Diehl</surname
+> <affiliation
+><address
+><email
+>madpenguin8@yahoo.com</email
+></address
+></affiliation>
+</author>
+
+<author
+><firstname
+>Lauri</firstname
+> <surname
+>Watts</surname
+> <affiliation
+><address
+>&Lauri.Watts.mail;</address
+></affiliation>
+</author>
+
+
+<othercredit role="translator"
+><firstname
+>Юрій</firstname
+><surname
+>Чорноіван</surname
+><affiliation
+><address
+><email
+>yurchor@ukr.net</email
+></address
+></affiliation
+><contrib
+>Переклад українською</contrib
+></othercredit
+>  
+</authorgroup>
+<date
+>10.01.2006</date
+> <releaseinfo
+>3.5.1</releaseinfo
+> <abstract
+> <para
+>За допомогою додатка «Параметри &HTML;» ви зможете спростити доступ до зміни звичайних параметрів &HTML; у &konqueror;.</para>
+</abstract>
+
+<keywordset>
+<keyword
+>KDE</keyword>
+<keyword
+>kdeaddons</keyword>
+<keyword
+>konqueror</keyword>
+<keyword
+>додатки</keyword>
+</keywordset>
+
+</sect1info>
+
+<title
+>KHTMLSettings</title>
+
+<sect2>
+<title
+>Користування KHTMLSettings</title>
+
+<para
+>Доступ до додатка «Параметри &HTML;» можна отримати за допомогою смужки меню &konqueror;, зокрема пункту <menuchoice
+><guimenu
+>Інструменти</guimenu
+> <guimenuitem
+>Параметри HTML</guimenuitem
+></menuchoice
+>. Далі за текстом ви знайдете список параметрів з коротеньким описом кожного з них.</para>
+
+<variablelist>
+<varlistentry>
+<term
+><guimenuitem
+>JavaScript</guimenuitem
+></term>
+<listitem
+><para
+>Надає вам змогу увімкнути або вимкнути JavaScript у &konqueror;.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Java</guimenuitem
+></term>
+<listitem
+><para
+>Надає вам змогу увімкнути або вимкнути &Java; у &konqueror;.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Куки</guimenuitem
+></term>
+<listitem
+><para
+>Надає вам змогу увімкнути або вимкнути куки у &konqueror;.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Втулки</guimenuitem
+></term>
+<listitem
+><para
+>Надає вам змогу увімкнути або вимкнути встановлені вами втулки &konqueror;.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Автозавантаження зображень</guimenuitem
+></term>
+<listitem
+><para
+>Надає вам змогу увімкнути або вимкнути завантаження зображень на веб-сторінках.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Ввімкнути проксі</guimenuitem
+></term>
+<listitem
+><para
+>Надає вам змогу увімкнути або вимкнути використання проксі сервера у переглядачі &konqueror;.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Увімкнути кеш</guimenuitem
+></term>
+<listitem
+><para
+>Надає вам змогу увімкнути або вимкнути використання кешу у переглядачі &konqueror;.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Правила кешування</guimenuitem
+></term>
+<listitem>
+<para
+>За допомогою підменю «Правила кешування» ви можете налаштувати спосіб, у який &konqueror; використовуватиме кеш. Серед можливих пунктів керування кешем:</para>
+<itemizedlist>
+<listitem
+><para
+>Підтримувати актуальність кешу</para
+></listitem>
+<listitem
+><para
+>Використовувати кеш за можливості</para
+></listitem>
+<listitem
+><para
+>Автономний режим навігації</para
+></listitem>
+</itemizedlist>
+</listitem>
+</varlistentry>
+</variablelist>
+
+</sect2>
+
+<sect2>
+<title
+>Подяки</title>
+
+<para
+>Авторські права на програму належать &copy; 2001 &Carsten.Pfeiffer; &Carsten.Pfeiffer.mail;</para>
+
+<para
+>Авторські права на документацію належать © 2004 Mike Diehl <email
+>madpenguin8@yahoo.com</email
+></para>
+</sect2>
+
+</sect1>
+</article>

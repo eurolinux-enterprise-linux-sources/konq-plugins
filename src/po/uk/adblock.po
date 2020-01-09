@@ -1,0 +1,161 @@
+# translation of adblock.po to Ukrainian
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Yuri Chornoivan <yurchor@ukr.net>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: adblock\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-31 06:46+0100\n"
+"PO-Revision-Date: 2009-10-31 08:48+0200\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Language-Team: Ukrainian <translation@linux.org.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: adblock.cpp:71
+msgid "Adblock"
+msgstr "Блокування реклами"
+
+#: adblock.cpp:77
+msgid "Show Blockable Elements..."
+msgstr "Показати елементи блокування..."
+
+#: adblock.cpp:82 adblockdialog.cpp:96
+msgid "Configure Filters..."
+msgstr "Налаштувати фільтри..."
+
+#: adblock.cpp:91
+msgid "No blocking for this page"
+msgstr "Не блокувати на цій сторінці"
+
+#: adblock.cpp:96
+msgid "No blocking for this site"
+msgstr "Не блокувати для цього сайта"
+
+#: adblock.cpp:172
+msgid "Please enable Konqueror's Adblock"
+msgstr "Будь ласка, увімкніть блокування реклами у Konqueror"
+
+#: adblock.cpp:173
+msgid "Adblock disabled"
+msgstr "Блокування реклами вимкнено"
+
+#: adblock.cpp:206
+msgid "script"
+msgstr "скрипт"
+
+#: adblock.cpp:207 adblock.cpp:208
+msgid "object"
+msgstr "об'єкт"
+
+#: adblock.cpp:210
+msgid "frame"
+msgstr "фрейм"
+
+#: adblock.cpp:231
+msgid "image"
+msgstr "зображення"
+
+#: adblock.cpp:290
+#, kde-format
+msgid "Blocked by %1"
+msgstr "Заблоковано %1"
+
+#: adblock.cpp:293
+#, kde-format
+msgid "Allowed by %1"
+msgstr "Дозволено %1"
+
+#: adblockdialog.cpp:93
+msgid "Blockable items on this page"
+msgstr "Елементи блокування цієї сторінки"
+
+#: adblockdialog.cpp:98
+msgid "Add filter"
+msgstr "Додати фільтр"
+
+#: adblockdialog.cpp:107
+msgid "Search:"
+msgstr "Пошук:"
+
+#: adblockdialog.cpp:114
+msgid "Blockable items:"
+msgstr "Елементи блокування:"
+
+#: adblockdialog.cpp:123
+msgid "Source"
+msgstr "Джерело"
+
+#: adblockdialog.cpp:123
+msgid "Category"
+msgstr "Категорія"
+
+#: adblockdialog.cpp:123
+msgid "Tag"
+msgstr "Мітка"
+
+#: adblockdialog.cpp:150
+msgid ""
+"New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
+"@@ for white list):"
+msgstr ""
+"Новий фільтр (з шаблонами заміни *?[], /RE/ — формальним виразом, префікс @@ "
+"— білий список):"
+
+#: adblockdialog.cpp:170
+msgid "Filter this item"
+msgstr "Блокувати цей елемент"
+
+#: adblockdialog.cpp:171
+msgid "Filter all items at same path"
+msgstr "Блокувати всі елементи за цією адресою"
+
+#: adblockdialog.cpp:172
+msgid "Filter all items from same host"
+msgstr "Блокувати всі елементи з одного вузла"
+
+#: adblockdialog.cpp:173
+msgid "Filter all items from same domain"
+msgstr "Блокувати всі елементи з однаковим доменом"
+
+#: adblockdialog.cpp:175
+msgid "Add this item to white list"
+msgstr "Додати цей елемент до «білого» списку"
+
+#: adblockdialog.cpp:177
+msgid "Copy Link Address"
+msgstr "Скопіювати адресу посилання"
+
+#: adblockdialog.cpp:180
+msgid "View item"
+msgstr "Переглянути елемент"
+
+#. i18n: file: plugin_adblock.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Інструменти"
+
+#. i18n: file: plugin_adblock.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Додатковий пенал"
+
+#~ msgid "Adblock dialog"
+#~ msgstr "Діалогове вікно блокування реклами"
+
+#~ msgid "Node Name"
+#~ msgstr "Назва вузла"
+
+#~ msgid "New filter (use * as a wildcard):"
+#~ msgstr "Новий фільтр (користуйтеся шаблоном заміни *):"
+
+#~ msgid "Show it"
+#~ msgstr "Показати"

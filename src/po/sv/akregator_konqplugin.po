@@ -1,0 +1,44 @@
+# translation of akregator_konqplugin.po to Swedish
+#
+# Stefan Asserhäll <stefan.asserhall@comhem.se>, 2004, 2005, 2006, 2007, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: akregator_konqplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-05 07:02+0200\n"
+"PO-Revision-Date: 2009-09-06 11:47+0200\n"
+"Last-Translator: Stefan Asserhäll <stefan.asserhall@comhem.se>\n"
+"Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: akregatorplugin.cpp:87 konqfeedicon.cpp:119
+msgid "Add Feed to Akregator"
+msgstr "Lägg till kanal i Akregator"
+
+#: konqfeedicon.cpp:123
+msgid "Add Feeds to Akregator"
+msgstr "Lägg till kanaler i Akregator"
+
+#: konqfeedicon.cpp:133
+msgid "Add All Found Feeds to Akregator"
+msgstr "Lägg till alla hittade kanaler i Akregator"
+
+#: konqfeedicon.cpp:156
+msgid "Subscribe to site updates (using news feed)"
+msgstr "Prenumerera på platsuppdatering (med nyhetskanaler)"
+
+#: konqfeedicon.cpp:202 pluginbase.cpp:54 pluginbase.cpp:64
+msgid "Imported Feeds"
+msgstr "Importerade kanaler"
+
+#: pluginbase.cpp:56
+msgid "Akregator feed icon - DBus Call failed"
+msgstr "Akregator kanalikon - D-Bus anrop misslyckades"
+
+#: pluginbase.cpp:57
+msgid "The DBus call addFeedToGroup failed"
+msgstr "D-Bus anropet  addFeedToGroup misslyckades"

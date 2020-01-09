@@ -1,0 +1,197 @@
+# translation of konqsidebar_metabar.po to Estonian
+#
+# Marek Laane <bald@starman.ee>, 2005-2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2007-10-06 20:40+0200\n"
+"Last-Translator: Marek Laane <bald@starman.ee>\n"
+"Language-Team: Estonian <kde-et@linux.ee>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Seadistamine - Metabar"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Elemendid"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Ava rakendusega:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Toimingud:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "Välimus"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Animatsioon suuruse muutmisel"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Näidatakse teenuste menüüsid"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Teemad"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Paigalda uus teema..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Uus..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "Kustuta"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Muuda..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Nimi"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Aadress"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Üldine"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Toimingud"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Lingid"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Jaga"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Lingi loomine"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Uus link"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Nimi:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "URL:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Lingi muutmine"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Rohkem"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "Käivita %1"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Rakenduse valik"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Tüüp"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Suurus"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Kasutaja"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Grupp"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Õigused"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Muudetud"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Loetud"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "Lingi sihtmärk"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "Failid"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Kataloogid"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Kokku kirjeid"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Klõpsa eelvaatluse käivitamiseks"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Eelvaatluse loomine"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Seadista Metabari..."
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Vähem"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Võrgukataloogi lisamine"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Käivita"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Kommentaar"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Vajab administraatori õiguseid"

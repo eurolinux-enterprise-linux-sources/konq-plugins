@@ -1,0 +1,213 @@
+# Danish translation of konqsidebar_metabar
+#
+# Erik Kjær Pedersen <erik@binghamton.edu>, 2005, 2006.
+# Martin Schlander <mschlander@opensuse.org>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2008-03-31 16:28+0200\n"
+"Last-Translator: Martin Schlander <mschlander@opensuse.org>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LoKalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Indstilling - Metabjælke"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Punkter"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Åbn med:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Handlinger:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "Udseende"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Ændr animeringsstørrelse"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Vis tjenestemenuer"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Temaer"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Installér nyt tema..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Ny..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "Slet"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Redigér..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Navn"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Adresse"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Generelt"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Handlinger"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Link"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Share"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Opret link"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Nyt link"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Navn:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "URL:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Redigér link"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Mere"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "Kør %1"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Vælg program"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Type"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Størrelse"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Bruger"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Gruppe"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Tilladelser"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Ændret"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Besøgt"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "Linkmål"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "Filer"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Mapper"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Totalt antal indgange"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Klik for at starte forhåndsvisning"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Opretter forhåndsvisning"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Indstil metabjælke..."
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Mindre"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Tilføj en netværksmappe"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Kør"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Kommentar"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Kræver root-privilegier"
+
+#~ msgid "Show frame"
+#~ msgstr "Vis ramme"
+
+#~ msgid "Configure %1..."
+#~ msgstr "Indstil %1..."
+
+#~ msgid "Reload Theme"
+#~ msgstr "Genindlæs tema"
+
+#~ msgid "%1 Elements"
+#~ msgstr "%1 Elementer"
+
+#~ msgid "%1 Folders, %2 Files"
+#~ msgstr "%1 mapper, %2 filer"

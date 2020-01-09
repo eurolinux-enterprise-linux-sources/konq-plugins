@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.2-Based Variant V1.1//EN"
+"dtd/kdex.dtd" [
+<!ENTITY % addindex "IGNORE">
+<!ENTITY % Ukrainian "INCLUDE"
+> <!-- change language only here -->
+]>
+
+<article lang="&language;">
+
+<sect1 id="babel">
+<sect1info>
+
+<authorgroup>
+<author
+><firstname
+>Lauri</firstname
+> <surname
+>Watts</surname
+> <affiliation
+><address
+>&Lauri.Watts.mail;</address
+></affiliation>
+</author>
+
+<othercredit role="translator"
+><firstname
+>Юрій</firstname
+><surname
+>Чорноіван</surname
+><affiliation
+><address
+><email
+>yurchor@ukr.net</email
+></address
+></affiliation
+><contrib
+>Переклад українською</contrib
+></othercredit
+>  
+</authorgroup>
+<date
+>26.02.2006</date
+> <releaseinfo
+>3.5.1</releaseinfo
+> <abstract
+> <para
+>За допомогою додатка Babel до &konqueror; ви зможете пришвидшити доступ до служби перекладу Babelfish.</para>
+</abstract>
+
+<keywordset>
+<keyword
+>KDE</keyword>
+<keyword
+>kdeaddons</keyword>
+<keyword
+>konqueror</keyword>
+<keyword
+>додатки</keyword>
+<keyword
+>babelfish</keyword>
+<keyword
+>перекласти</keyword>
+</keywordset>
+</sect1info>
+
+<title
+>Додаток до &konqueror; Babel</title>
+
+<sect2>
+<title
+>Користування додатком Babelfish</title>
+
+<para
+>Babelfish — це служба комп’ютерного перекладу, яка підтримується <ulink url="http://babel.altavista.com/"
+>AltaVista</ulink
+>.</para>
+
+<para
+>За допомогою цього додатка ви зможете автоматично перекладати веб-сторінки декількома мовами.</para>
+
+<para
+>Доступ до додатка Babelfish можна отримати за допомогою смужки меню &konqueror;, зокрема пункту <menuchoice
+><guimenu
+>Інструменти</guimenu
+> <guimenuitem
+>Перекласти веб-сторінку</guimenuitem
+></menuchoice
+>. Зі спадного списку ви зможете обрати мову, з якої буде здійснено переклад, та мову, якою буде здійснено переклад.</para>
+
+<para
+>Якщо ви вже обрали на сторінці певну частину тексту, буде перекладено саме цей текст, а не всю сторінку.</para>
+
+<para
+>Служба Babelfish підтримує далеко не всі мови.</para>
+
+<important>
+<para
+>Комп’ютерний переклад все ще далекий від досконалості! Максимум, на що здатний Babelfish, це грубий переклад, у гіршому випадку, такий переклад може лише насмішити вас. Не робіть ніяких важливих висновків на основі тексту, який ви прочитали після перекладу за допомогою Babelfish, якщо ви не певні, що цей переклад насправді є точним.</para>
+</important>
+
+<note
+> 
+<para
+>Ви можете перекладати лише сторінки, доступ до яких відкрито з всесвітніх Тенет (world wide web). Щоб перекласти будь-який інший текст, вам слід перейти безпосередньо на сайт Babelfish, де ви зможете вставити текст, який слід перекласти.</para>
+</note>
+
+</sect2>
+
+<sect2>
+<title
+>Подяки</title>
+
+<para
+>Авторські права на додаток Babelfish належать © 2001 &Kurt.Granroth; &Kurt.Granroth.mail;</para>
+
+<para
+>Авторські права на документацію належать © 2002 &Lauri.Watts; &Lauri.Watts.mail;</para>
+
+<para
+>Переклад українською: Юрій Чорноіван<email
+>yurchor@ukr.net</email
+></para
+> 
+
+</sect2>
+</sect1>
+</article>

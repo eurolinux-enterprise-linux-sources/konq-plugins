@@ -1,0 +1,103 @@
+# translation of khtmlsettingsplugin.po to Bulgarian
+# Bulgarian translation of KDE.
+# This file is licensed under the GPL.
+#
+# $Id: khtmlsettingsplugin.po 974473 2009-05-29 13:31:16Z scripty $
+#
+# Zlatko Popov <zlatkopopov@fsa-bg.org>, 2006, 2007.
+# Aleksandar Yordanov <punkin.drublik@gmail.com>, 2007.
+# Yasen Pramatarov <yasen@lindeas.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: khtmlsettingsplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-26 10:56+0100\n"
+"PO-Revision-Date: 2009-05-29 09:40+0300\n"
+"Last-Translator: Yasen Pramatarov <yasen@lindeas.com>\n"
+"Language-Team: Bulgarian <dict@fsa-bg.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: khtmlsettingsplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Инструменти"
+
+#. i18n: file: khtmlsettingsplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Допълнителна лента с инструменти"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Радостин Раднев, Александър Йорданов"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "radnev@yahoo.com, punkin.drublik@gmail.com"
+
+#: settingsplugin.cpp:40 settingsplugin.cpp:52
+msgid "HTML Settings"
+msgstr "Настройки на HTML"
+
+#: settingsplugin.cpp:61
+msgid "Java&Script"
+msgstr "Java&Script"
+
+#: settingsplugin.cpp:66
+msgid "&Java"
+msgstr "&Java"
+
+#: settingsplugin.cpp:71
+msgid "&Cookies"
+msgstr "&Бисквитки"
+
+#: settingsplugin.cpp:76
+msgid "&Plugins"
+msgstr "&Приставки"
+
+#: settingsplugin.cpp:81
+msgid "Autoload &Images"
+msgstr "&Автоматично зареждане на изображения"
+
+#: settingsplugin.cpp:88
+msgid "Enable Pro&xy"
+msgstr "Включване на п&роксито"
+
+#: settingsplugin.cpp:93
+msgid "Enable Cac&he"
+msgstr "Включване на к&еш-паметта"
+
+#: settingsplugin.cpp:99
+msgid "Cache Po&licy"
+msgstr "Правила на ке&ш-паметта"
+
+#: settingsplugin.cpp:101
+msgid "&Keep Cache in Sync"
+msgstr "&Синхронизиране на кеш-паметта"
+
+#: settingsplugin.cpp:102
+msgid "&Use Cache if Possible"
+msgstr "&Използване кеш-паметта, когато е възможно"
+
+#: settingsplugin.cpp:103
+msgid "&Offline Browsing Mode"
+msgstr "Ре&жим \"Без връзка с мрежата\""
+
+#: settingsplugin.cpp:187
+msgid ""
+"Cookies could not be enabled, because the cookie daemon could not be started."
+msgstr ""
+"Бисквитките не могат да бъдат включени, понеже демонът им не може да бъде "
+"стартиран."
+
+#: settingsplugin.cpp:189
+msgid "Cookies Disabled"
+msgstr "Бисквитките са изключени"

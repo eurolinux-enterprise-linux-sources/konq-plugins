@@ -1,0 +1,77 @@
+# translation of searchbarplugin.po to Spanish
+# Rafael Osuna <rosuna@wol.es>, 2004.
+# santi <santi@kde-es.org>, 2005.
+# Pablo de Vicente <pablo.devicente@gmail.com>, 2006.
+# Santiago Fernández Sancho <santi@kde-es.org>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: searchbarplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-11 06:35+0200\n"
+"PO-Revision-Date: 2009-10-23 11:31-0000\n"
+"Last-Translator: Cristina Yenyxe González García <the.blue.valkyrie@gmail."
+"com>\n"
+"Language-Team: Spanish <kde-es@kybs.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: searchbar.rc:3
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:3
+msgid "Search Toolbar"
+msgstr "Barra de búsqueda"
+
+#: searchbar.cpp:82
+msgid ""
+"Search Bar<p>Enter a search term. Click on the icon to change search mode or "
+"provider.</p>"
+msgstr ""
+"Barra de búsqueda<p>Introduzca el término a buscar. Pulse sobre el icono "
+"para cambiar el modo de búsqueda o el proveedor.</p>"
+
+#: searchbar.cpp:90
+msgid "Search Bar"
+msgstr "Barra de búsqueda"
+
+#: searchbar.cpp:95
+msgid "Focus Searchbar"
+msgstr "Foco de la barra de búsqueda"
+
+#: searchbar.cpp:318
+msgid "Find in This Page"
+msgstr "Buscar en esta página"
+
+#: searchbar.cpp:347
+msgid "Select Search Engines..."
+msgstr "Seleccionar motor de búsqueda..."
+
+#: searchbar.cpp:367
+msgid "Add "
+msgstr "Añadir"
+
+#: searchbar.cpp:631
+msgid "Enable Suggestion"
+msgstr "Activar sugerencias"
+
+#: WebShortcutWidget.cpp:43
+msgid "Set Uri Shortcuts"
+msgstr ""
+
+#: WebShortcutWidget.cpp:57
+msgid "Name:"
+msgstr "Nombre:"
+
+#: WebShortcutWidget.cpp:61
+msgid "Shortcuts:"
+msgstr "Atajos:"
+
+#: WebShortcutWidget.cpp:71
+msgid "Ok"
+msgstr "Aceptar"
+
+#: WebShortcutWidget.cpp:76
+msgid "Cancel"
+msgstr "Cancelar"

@@ -1,0 +1,173 @@
+# Translation of adblock into Japanese.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: adblock\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-31 06:46+0100\n"
+"PO-Revision-Date: 2008-11-30 23:27+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <Kdeveloper@kde.gr.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: adblock.cpp:71
+msgid "Adblock"
+msgstr "Adblock"
+
+#: adblock.cpp:77
+#, fuzzy
+#| msgid "Show Elements..."
+msgid "Show Blockable Elements..."
+msgstr "要素を表示..."
+
+#: adblock.cpp:82 adblockdialog.cpp:96
+#, fuzzy
+#| msgid "Configure..."
+msgid "Configure Filters..."
+msgstr "設定..."
+
+#: adblock.cpp:91
+#, fuzzy
+#| msgid "Disable for this page"
+msgid "No blocking for this page"
+msgstr "このページでは無効にする"
+
+#: adblock.cpp:96
+#, fuzzy
+#| msgid "Disable for this site"
+msgid "No blocking for this site"
+msgstr "このサイトでは無効にする"
+
+#: adblock.cpp:172
+msgid "Please enable Konqueror's Adblock"
+msgstr "Konqueror の Adblock を有効にしてください"
+
+# error
+#: adblock.cpp:173
+msgid "Adblock disabled"
+msgstr "Adblock が無効になっています"
+
+#: adblock.cpp:206
+msgid "script"
+msgstr "スクリプト"
+
+#: adblock.cpp:207 adblock.cpp:208
+msgid "object"
+msgstr "オブジェクト"
+
+#: adblock.cpp:210
+msgid "frame"
+msgstr ""
+
+#: adblock.cpp:231
+msgid "image"
+msgstr "画像"
+
+#: adblock.cpp:290
+#, kde-format
+msgid "Blocked by %1"
+msgstr ""
+
+#: adblock.cpp:293
+#, kde-format
+msgid "Allowed by %1"
+msgstr ""
+
+#: adblockdialog.cpp:93
+#, fuzzy
+#| msgid "All blockable items in this page:"
+msgid "Blockable items on this page"
+msgstr "このページでブロック可能なすべてのアイテム:"
+
+#: adblockdialog.cpp:98
+msgid "Add filter"
+msgstr ""
+
+#: adblockdialog.cpp:107
+msgid "Search:"
+msgstr ""
+
+#: adblockdialog.cpp:114
+#, fuzzy
+#| msgid "All blockable items in this page:"
+msgid "Blockable items:"
+msgstr "このページでブロック可能なすべてのアイテム:"
+
+#: adblockdialog.cpp:123
+msgid "Source"
+msgstr "ソース"
+
+#: adblockdialog.cpp:123
+msgid "Category"
+msgstr "カテゴリ"
+
+#: adblockdialog.cpp:123
+msgid "Tag"
+msgstr ""
+
+#: adblockdialog.cpp:150
+msgid ""
+"New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
+"@@ for white list):"
+msgstr ""
+
+#: adblockdialog.cpp:170
+msgid "Filter this item"
+msgstr "このアイテムをフィルタに追加"
+
+#: adblockdialog.cpp:171
+msgid "Filter all items at same path"
+msgstr "同じパスのすべてのアイテムをフィルタに追加"
+
+#: adblockdialog.cpp:172
+#, fuzzy
+#| msgid "Filter all items at same path"
+msgid "Filter all items from same host"
+msgstr "同じパスのすべてのアイテムをフィルタに追加"
+
+#: adblockdialog.cpp:173
+#, fuzzy
+#| msgid "Filter all items at same path"
+msgid "Filter all items from same domain"
+msgstr "同じパスのすべてのアイテムをフィルタに追加"
+
+#: adblockdialog.cpp:175
+msgid "Add this item to white list"
+msgstr "このアイテムをホワイトリストに追加"
+
+#: adblockdialog.cpp:177
+msgid "Copy Link Address"
+msgstr "リンクアドレスをコピー"
+
+#: adblockdialog.cpp:180
+msgid "View item"
+msgstr ""
+
+#. i18n: file: plugin_adblock.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "ツール(&T)"
+
+#. i18n: file: plugin_adblock.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "拡張ツールバー"
+
+#~ msgid "Adblock dialog"
+#~ msgstr "Adblock ダイアログ"
+
+#~ msgid "Node Name"
+#~ msgstr "ノード名"
+
+#~ msgid "New filter (use * as a wildcard):"
+#~ msgstr "新しいフィルタ (* をワイルドカードとして使います):"
+
+#~ msgid "Show it"
+#~ msgstr "このアイテムを表示"

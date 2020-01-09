@@ -1,0 +1,99 @@
+# translation of uachangerplugin.po to Uzbek
+#
+# Abdurahmonov Nurali <mavnur@gmail.com>, 2006.
+# Mashrab Kuvatov <kmashrab@uni-bremen.de>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: uachangerplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-05-05 11:29+0200\n"
+"PO-Revision-Date: 2006-04-02 12:00+0200\n"
+"Last-Translator: Mashrab Kuvatov <kmashrab@uni-bremen.de>\n"
+"Language-Team: Uzbek <floss-uz-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. i18n: file: uachangerplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: uachangerplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Қўшимча асбоблар панели"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Нурали Абдураҳмонов"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "mavnur@gmail.com"
+
+#: uachangerplugin.cpp:47
+#, fuzzy
+msgid "Change Browser Identification"
+msgstr "Броузер идентификациясини ўзгартириш"
+
+#: uachangerplugin.cpp:63
+#, fuzzy
+msgid "Change Browser &Identification"
+msgstr "Броузер &идентификациясини ўзгартириш"
+
+#: uachangerplugin.cpp:133
+msgid "Other"
+msgstr "Бошқа"
+
+#: uachangerplugin.cpp:164
+#, fuzzy, kde-format
+#| msgid "Version %1"
+msgctxt "%1 = browser version (e.g. 2.0)"
+msgid "Version %1"
+msgstr "Версияси %1"
+
+#: uachangerplugin.cpp:167
+#, kde-format
+msgctxt "%1 = browser name, %2 = browser version (e.g. Firefox, 2.0)"
+msgid "%1 %2"
+msgstr ""
+
+#: uachangerplugin.cpp:173
+#, fuzzy, kde-format
+#| msgid "Version %1"
+msgctxt "%1 = browser version, %2 = platform (e.g. 2.0, Windows XP)"
+msgid "Version %1 on %2"
+msgstr "Версияси %1"
+
+#: uachangerplugin.cpp:176
+#, kde-format
+msgctxt ""
+"%1 = browser name, %2 = browser version, %3 = platform (e.g. Firefox, 2.0, "
+"Windows XP)"
+msgid "%1 %2 on %3"
+msgstr ""
+
+#: uachangerplugin.cpp:232
+#, fuzzy
+msgid "Identify As"
+msgstr "Қуйидагича идентификациялаш"
+
+#: uachangerplugin.cpp:238
+#, fuzzy
+msgid "Default Identification"
+msgstr "Андоза идентификациялаш"
+
+#: uachangerplugin.cpp:266
+msgid "Apply to Entire Site"
+msgstr "Бутун саҳифага қўллаш"
+
+#: uachangerplugin.cpp:271
+msgid "Configure..."
+msgstr "Мослаш..."

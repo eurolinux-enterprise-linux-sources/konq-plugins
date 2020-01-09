@@ -1,0 +1,75 @@
+# translation of dirfilterplugin.po to Latvian
+# Copyright (C) 2008 Free Software Foundation, Inc.
+#
+# Viesturs Zarins <viesturs.zarins@mii.lu.lv>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: dirfilterplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2008-02-23 21:00+0200\n"
+"Last-Translator: Viesturs Zarins <viesturs.zarins@mii.lu.lv>\n"
+"Language-Team: Latvian <locale@laka.lv>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "Skatīt &filtru"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr "Ļaut filtrēt šibrīd rādītās vienības pēc faila tipa."
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr "Filtra lauks"
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "Rādīt tikai vienības ar tipu"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "Izmantot vairākus filtrus"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "Rādīt skaitu"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "Atstatīt"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Rīki"
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Papildus rīkjosla"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "Filtra rīkjosla"
+
+#~ msgid "Clear Filter Field"
+#~ msgstr "Tīrīt filtra lauku"
+
+#~ msgid "Clear filter field<p>Clears the content of the filter field.</p>"
+#~ msgstr "Tīrīt filtra lauku<p>Izdzēš filtra lauka saturu.</p>"
+
+#~ msgid ""
+#~ "Enter here a text which an item in the view must contain anywhere to be "
+#~ "shown."
+#~ msgstr "Šeit ievadiet tekstu, ko kautkur jāsatur visām redzamajām vienībām."

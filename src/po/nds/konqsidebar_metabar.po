@@ -1,0 +1,198 @@
+# Translation of konqsidebar_metabar.po to Low Saxon
+#
+# Manfred Wiese <m.j.wiese@web.de>, 2006.
+# Sönke Dibbern <s_dibbern@web.de>, 2006, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2007-03-07 01:48+0100\n"
+"Last-Translator: Sönke Dibbern <s_dibbern@web.de>\n"
+"Language-Team: Low Saxon <kde-i18n-nds@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Instellen för Metabar"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Indrääg"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Opmaken mit:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Akschonen:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "Utsehn"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Gröttännern animeren"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Deenstmenüs wiesen"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Mustern"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Nieg Muster installeren..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Nieg..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "Wegdoon"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Bewerken..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Naam"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Adress"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Allgemeen"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Akschonen"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Links"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Freegeven"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Link opstellen"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Nieg Link"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Naam:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "URL:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Link bewerken"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Mehr"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "\"%1\" utföhren"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Programm utsöken"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Typ"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Grött"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Bruker"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Koppel"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Verlöven"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Ännert"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Togrepen"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "Linkteel"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "Dateien"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Ornern"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Indrääg tosamen"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Klick hier för en Vöransicht"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Vöransicht warrt opstellt"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Metabar instellen..."
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Weniger"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Nettwarkorner tofögen"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Utföhren"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Kommentar"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Bruukt Systeemplegerverlöven"

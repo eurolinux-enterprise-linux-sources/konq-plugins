@@ -1,0 +1,150 @@
+# translation of adblock.po to
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Yasen Pramatarov <yasen@lindeas.com>, 2009.
+# Ясен Праматаров <yasen@lindeas.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: adblock\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-31 06:46+0100\n"
+"PO-Revision-Date: 2009-08-06 00:37+0300\n"
+"Last-Translator: Ясен Праматаров <yasen@lindeas.com>\n"
+"Language-Team:  <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: adblock.cpp:71
+msgid "Adblock"
+msgstr "Блокиране на реклами"
+
+#: adblock.cpp:77
+msgid "Show Blockable Elements..."
+msgstr "Показване на блокируемите елементи..."
+
+#: adblock.cpp:82 adblockdialog.cpp:96
+msgid "Configure Filters..."
+msgstr "Настройки на филтрите..."
+
+#: adblock.cpp:91
+msgid "No blocking for this page"
+msgstr "Изключване за тази страница"
+
+#: adblock.cpp:96
+msgid "No blocking for this site"
+msgstr "Изключване за този сайт"
+
+#: adblock.cpp:172
+msgid "Please enable Konqueror's Adblock"
+msgstr "Включете блокирането на реклами за Konqueror"
+
+#: adblock.cpp:173
+msgid "Adblock disabled"
+msgstr "Блокирането на реклами е изключено"
+
+#: adblock.cpp:206
+msgid "script"
+msgstr "скрипт"
+
+#: adblock.cpp:207 adblock.cpp:208
+msgid "object"
+msgstr "обект"
+
+#: adblock.cpp:210
+msgid "frame"
+msgstr "рамка"
+
+#: adblock.cpp:231
+msgid "image"
+msgstr "изображение"
+
+#: adblock.cpp:290
+#, kde-format
+msgid "Blocked by %1"
+msgstr ""
+
+#: adblock.cpp:293
+#, kde-format
+msgid "Allowed by %1"
+msgstr ""
+
+#: adblockdialog.cpp:93
+msgid "Blockable items on this page"
+msgstr "Блокируеми обекти на тази страница:"
+
+#: adblockdialog.cpp:98
+msgid "Add filter"
+msgstr "Добавяне на филтър"
+
+#: adblockdialog.cpp:107
+msgid "Search:"
+msgstr "Търсене:"
+
+#: adblockdialog.cpp:114
+msgid "Blockable items:"
+msgstr "Блокируеми обекти:"
+
+#: adblockdialog.cpp:123
+msgid "Source"
+msgstr "Източник"
+
+#: adblockdialog.cpp:123
+msgid "Category"
+msgstr "Категория"
+
+#: adblockdialog.cpp:123
+msgid "Tag"
+msgstr "Етикет"
+
+#: adblockdialog.cpp:150
+#, fuzzy
+#| msgid "New filter (can use *?[] wildcards, prefix with @@ for white list):"
+msgid ""
+"New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
+"@@ for white list):"
+msgstr ""
+"Нов филтър (може да ползвате маските *?[] и представка @@ за белия списък):"
+
+#: adblockdialog.cpp:170
+msgid "Filter this item"
+msgstr "Филтриране на този обект"
+
+#: adblockdialog.cpp:171
+msgid "Filter all items at same path"
+msgstr "Филтриране на всички обекти със същия път"
+
+#: adblockdialog.cpp:172
+msgid "Filter all items from same host"
+msgstr "Филтриране на всички обекти от същия сървър"
+
+#: adblockdialog.cpp:173
+msgid "Filter all items from same domain"
+msgstr "Филтриране на всички обекти от същия домейн"
+
+#: adblockdialog.cpp:175
+msgid "Add this item to white list"
+msgstr "Добавяне на този обект в бял списък"
+
+#: adblockdialog.cpp:177
+msgid "Copy Link Address"
+msgstr "Копиране адреса на препратката"
+
+#: adblockdialog.cpp:180
+msgid "View item"
+msgstr "Преглед на обект"
+
+#. i18n: file: plugin_adblock.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Инструменти"
+
+#. i18n: file: plugin_adblock.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Допълнителна лента с инструменти"

@@ -1,0 +1,38 @@
+# translation of konqsidebar_mediaplayer.po to Greek
+# Copyright (C) 2002, 2003, 2004, 2007 Free Software Foundation, Inc.
+#
+# Stergios Dramis <sdramis@egnatia.ee.auth.gr>, 2002-2004.
+# Spiros Georgaras <sng@hellug.gr>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_mediaplayer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2006-05-02 09:40+0200\n"
+"PO-Revision-Date: 2007-03-06 22:50+0200\n"
+"Last-Translator: Spiros Georgaras <sng@hellug.gr>\n"
+"Language-Team: Greek <i18ngr@lists.hellug.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: mediaplayer.cpp:67
+msgid "Media Player"
+msgstr "Αναπαραγωγέας μέσων"
+
+#: mediawidget.cpp:66
+msgid "Play"
+msgstr "Αναπαραγωγή"
+
+#: mediawidget.cpp:67
+msgid "Pause"
+msgstr "Παύση"
+
+#: mediawidget.cpp:68
+msgid "Stop"
+msgstr "Σταμάτημα"
+
+#: mediawidget.cpp:136
+msgid "Not a sound file"
+msgstr "Όχι αρχείο ήχου"

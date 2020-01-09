@@ -1,0 +1,108 @@
+# translation of khtmlsettingsplugin.po to Nederlands
+# Nederlandse vertaling van khtmlsettingsplugin
+# Copyright (C) 2001-2002 KDE e.v..
+# KDE-vertaalgroep Nederlands <www.kde.nl>
+# Proefgelezen 23-01-2002 Marcel Koonen <m.e.e.j.koonen@tue.nl>
+# Rinse de Vries <Rinse@kde.nl>, 2001.
+# Rinse de Vries <rinse@kde.nl>, 2003.
+# Rinse de Vries <rinsedevries@kde.nl>, 2004, 2007, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: khtmlsettingsplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-26 10:56+0100\n"
+"PO-Revision-Date: 2009-04-27 21:34+0200\n"
+"Last-Translator: Rinse de Vries <rinsedevries@kde.nl>\n"
+"Language-Team: Dutch <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: khtmlsettingsplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "H&ulpmiddelen"
+
+#. i18n: file: khtmlsettingsplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Extra werkbalk"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Rinse de Vries"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "rinsedevries@kde.nl"
+
+#: settingsplugin.cpp:40 settingsplugin.cpp:52
+msgid "HTML Settings"
+msgstr "HTML-instellingen"
+
+#: settingsplugin.cpp:61
+msgid "Java&Script"
+msgstr "Java&Script"
+
+#: settingsplugin.cpp:66
+msgid "&Java"
+msgstr "&Java"
+
+#: settingsplugin.cpp:71
+msgid "&Cookies"
+msgstr "&Cookies"
+
+#: settingsplugin.cpp:76
+msgid "&Plugins"
+msgstr "&Plugins"
+
+#: settingsplugin.cpp:81
+msgid "Autoload &Images"
+msgstr "Afbeeld&ingen automatisch laden"
+
+#: settingsplugin.cpp:88
+msgid "Enable Pro&xy"
+msgstr "Pro&xy activeren"
+
+#: settingsplugin.cpp:93
+msgid "Enable Cac&he"
+msgstr "Ca&che activeren"
+
+#: settingsplugin.cpp:99
+msgid "Cache Po&licy"
+msgstr "Cachebe&leid"
+
+#: settingsplugin.cpp:101
+msgid "&Keep Cache in Sync"
+msgstr "Cache synchroon &houden"
+
+#: settingsplugin.cpp:102
+msgid "&Use Cache if Possible"
+msgstr "Cache gebr&uiken, indien mogelijk"
+
+#: settingsplugin.cpp:103
+msgid "&Offline Browsing Mode"
+msgstr "&Offline browsingmodus"
+
+#: settingsplugin.cpp:187
+msgid ""
+"Cookies could not be enabled, because the cookie daemon could not be started."
+msgstr ""
+"Cookies konden niet worden geactiveerd omdat de cookie-daemon niet kon "
+"worden opgestart."
+
+#: settingsplugin.cpp:189
+msgid "Cookies Disabled"
+msgstr "Cookies uitgeschakeld"
+
+#~ msgid "Disable Pro&xy"
+#~ msgstr "Pro&xy deactiveren"
+
+#~ msgid "Disable Cac&he"
+#~ msgstr "Ca&che deactiveren"

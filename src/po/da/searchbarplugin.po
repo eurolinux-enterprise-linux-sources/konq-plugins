@@ -1,0 +1,77 @@
+# Danish translation of searchbarplugin
+# Erik Kjær Pedersen <erik@binghamton.edu>, 2004, 2005, 2006.
+# Martin Schlander <mschlander@opensuse.org>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: searchbarplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-11 06:35+0200\n"
+"PO-Revision-Date: 2009-09-01 16:43+0200\n"
+"Last-Translator: Martin Schlander <mschlander@opensuse.org>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: searchbar.rc:3
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:3
+msgid "Search Toolbar"
+msgstr "Søgeværktøjslinje"
+
+#: searchbar.cpp:82
+msgid ""
+"Search Bar<p>Enter a search term. Click on the icon to change search mode or "
+"provider.</p>"
+msgstr ""
+"Søgelinje<p>Indtast et søgeudtryk. Klik på ikonen for at ændre søgetilstand "
+"eller søgetjeneste.</p>"
+
+#: searchbar.cpp:90
+msgid "Search Bar"
+msgstr "Søgelinje"
+
+#: searchbar.cpp:95
+msgid "Focus Searchbar"
+msgstr "Fokusér søgelinje"
+
+#: searchbar.cpp:318
+msgid "Find in This Page"
+msgstr "Find på denne side"
+
+#: searchbar.cpp:347
+msgid "Select Search Engines..."
+msgstr "Vælg søgemaskiner..."
+
+#: searchbar.cpp:367
+msgid "Add "
+msgstr "Tilføj "
+
+#: searchbar.cpp:631
+msgid "Enable Suggestion"
+msgstr "Aktivér foreslag"
+
+#: WebShortcutWidget.cpp:43
+msgid "Set Uri Shortcuts"
+msgstr "Angiv URI-genveje"
+
+#: WebShortcutWidget.cpp:57
+msgid "Name:"
+msgstr "Navn:"
+
+#: WebShortcutWidget.cpp:61
+msgid "Shortcuts:"
+msgstr "Genveje:"
+
+#: WebShortcutWidget.cpp:71
+msgid "Ok"
+msgstr "O.k."
+
+#: WebShortcutWidget.cpp:76
+msgid "Cancel"
+msgstr "Annullér"
+
+#~ msgid "%1 Search"
+#~ msgstr "Søg %1"

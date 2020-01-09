@@ -1,0 +1,374 @@
+# translation of fsview.po to Hindi
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Ravishankar Shrivastava <raviratlami@yahoo.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: fsview\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-11-01 06:25+0100\n"
+"PO-Revision-Date: 2008-03-27 12:32+0530\n"
+"Last-Translator: Ravishankar Shrivastava <raviratlami@yahoo.com>\n"
+"Language-Team: Hindi <indlinux-hindi@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: fsview.cpp:52 fsview.cpp:390
+msgid "Name"
+msgstr "नाम"
+
+#: fsview.cpp:53
+msgid "Size"
+msgstr "आकार"
+
+#: fsview.cpp:54
+msgid "File Count"
+msgstr "फ़ाइल गणना"
+
+#: fsview.cpp:55
+msgid "Directory Count"
+msgstr "डिरेक्ट्री गणना"
+
+#: fsview.cpp:56
+msgid "Last Modified"
+msgstr "पिछली मर्तबा परिवर्धित"
+
+#: fsview.cpp:57 fsview.cpp:391
+msgid "Owner"
+msgstr "मालिक"
+
+#: fsview.cpp:58 fsview.cpp:392
+msgid "Group"
+msgstr "समूह"
+
+#: fsview.cpp:59 fsview.cpp:393
+msgid "Mime Type"
+msgstr "माइम क़िस्म"
+
+#: fsview.cpp:281
+msgid "Go To"
+msgstr " पर जाएं"
+
+#: fsview.cpp:283
+msgid "Go Up"
+msgstr "ऊपर जाएं"
+
+#: fsview.cpp:285
+msgid "Stop Refresh"
+msgstr "री-फ्रेश बन्द करें"
+
+#: fsview.cpp:287
+msgid "Refresh"
+msgstr "ताज़ा करें"
+
+#: fsview.cpp:290
+#, kde-format
+msgid "Refresh '%1'"
+msgstr " '%1'  ताज़ा करें"
+
+#: fsview.cpp:293 fsview_part.cpp:131
+msgid "Stop at Depth"
+msgstr "गहराई पर रूकें"
+
+#: fsview.cpp:295 fsview_part.cpp:128
+msgid "Stop at Area"
+msgstr "क्षेत्र पर रूकें"
+
+#: fsview.cpp:297
+msgid "Stop at Name"
+msgstr "नाम पर रूकें"
+
+#: fsview.cpp:303 fsview_part.cpp:138
+msgid "Color Mode"
+msgstr "रंग मोड"
+
+#: fsview.cpp:306 fsview_part.cpp:134
+msgid "Visualization"
+msgstr "विज़ुअलाइज़ेशन"
+
+#: fsview.cpp:388
+msgid "None"
+msgstr "कुछ नहीं"
+
+#: fsview.cpp:389
+msgid "Depth"
+msgstr "गहराई"
+
+#: fsview_part.cpp:82
+#, kde-format
+msgid "Read 1 folder, in %2"
+msgid_plural "Read %1 folders, in %2"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fsview_part.cpp:87
+#, kde-format
+msgid "1 folder"
+msgid_plural "%1 folders"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fsview_part.cpp:96 main.cpp:21
+msgid "FSView"
+msgstr "एफएस-व्यू"
+
+#: fsview_part.cpp:97
+msgid "Filesystem Utilization Viewer"
+msgstr "फ़ाइल-सिस्टम यूटिलाइजेशन प्रदर्शक"
+
+#: fsview_part.cpp:99
+msgid "(c) 2003-2005, Josef Weidendorfer"
+msgstr "(c) 2003-2005, जोसफ़ वेइदेनदार्फर"
+
+#: fsview_part.cpp:112
+msgid ""
+"<p>This is the FSView plugin, a graphical browsing mode showing filesystem "
+"utilization by using a tree map visualization.</p><p>Note that in this mode, "
+"automatic updating when filesystem changes are made is intentionally <b>not</"
+"b> done.</p><p>For details on usage and options available, see the online "
+"help under menu 'Help/FSView Manual'.</p>"
+msgstr ""
+"<p>यह एफ़एसव्यू प्लगइन है, एक चित्रमय ब्राउजिंग मोड जो फ़ाइलसिस्टम यूटिलाइज़ेशन को ट्री मैप "
+"विज़ुअलाइज़ेशन के द्वारा दिखाता है.</p><p>टीप लें कि इस मोड में जब फ़ाइलसिस्टम में परिवर्तन "
+"होते हैं तो स्वचालित अद्यतन करना जान बूझ कर <b>नहीं</b> किया गया है.</p><p>उपयोग के "
+"विवरणों तथा उपलब्ध विकल्पों के लिए ऑन लाइन मदद देखें- 'मदद/एफ़एसव्यू मेन्युअल'.</p>"
+
+#: fsview_part.cpp:144
+msgid "&FSView Manual"
+msgstr "एफएस-व्यू मैनुअल (&F)"
+
+#: fsview_part.cpp:146
+msgid "Show FSView manual"
+msgstr "एफएस-व्यू मैनुअल दिखाएँ"
+
+#: fsview_part.cpp:147
+msgid "Opens the help browser with the FSView documentation"
+msgstr "वेब ब्राउज़र को एफएस-व्यू दस्तावेज़ के साथ खोले"
+
+#: fsview_part.cpp:187
+msgctxt "@action:inmenu File"
+msgid "Move to Trash"
+msgstr ""
+
+#: fsview_part.cpp:195
+msgctxt "@action:inmenu File"
+msgid "Delete"
+msgstr ""
+
+#: fsview_part.cpp:200
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr ""
+
+#: fsview_part.cpp:204
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr ""
+
+#: fsview_part.cpp:245
+msgid ""
+"FSView intentionally does not support automatic updates when changes are "
+"made to files or directories, currently visible in FSView, from the "
+"outside.\n"
+"For details, see the 'Help/FSView Manual'."
+msgstr ""
+"जब फ़ाइलों में तथा डिरेक्ट्रीज़ में परिवर्तन किए जाते हैं तो एफ़एसव्यू जानबूझकर स्वचालित अद्यतनों "
+"को समर्थित नहीं करता है, जो वर्तमान में एफ़एसव्यू में दिखाई दे रहा है - बाहर से\n"
+" विवरण के लिए देखें - 'मदद/एफ़एसव्यू मेन्युअल'"
+
+#: main.cpp:22
+msgid "Filesystem Viewer"
+msgstr "फ़ाइल-सिस्टम प्रदर्शक"
+
+#: main.cpp:24
+msgid "(c) 2002, Josef Weidendorfer"
+msgstr "(c), 2002, जोसेफ वाइडेनडॉर्फर"
+
+#: main.cpp:28
+msgid "View filesystem starting from this folder"
+msgstr "इस फ़ोल्डर से प्रारंभ कर फ़ाइल-सिस्टम दिखाएँ"
+
+#. i18n: file: fsview_part.rc:4
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:3
+msgid "&Edit"
+msgstr ""
+
+#. i18n: file: fsview_part.rc:13
+#. i18n: ectx: Menu (view)
+#: rc.cpp:6
+msgid "&View"
+msgstr "देखें (&V)"
+
+#. i18n: file: fsview_part.rc:20
+#. i18n: ectx: Menu (help)
+#: rc.cpp:9
+msgid "&Help"
+msgstr "मदद (&H)"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "रविशंकर श्रीवास्तव, जी. करूणाकर"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "raviratlami@aol.in"
+
+#: treemap.cpp:1328
+#, kde-format
+msgid "Text %1"
+msgstr "पाठ %1"
+
+#: treemap.cpp:2860
+msgid "Recursive Bisection"
+msgstr "रिकर्सिव बाइसेक्शन"
+
+#: treemap.cpp:2861
+msgid "Columns"
+msgstr "स्तम्भ"
+
+#: treemap.cpp:2862
+msgid "Rows"
+msgstr "पंक्तियाँ"
+
+#: treemap.cpp:2863
+msgid "Always Best"
+msgstr "हमेशा उत्तम"
+
+#: treemap.cpp:2864
+msgid "Best"
+msgstr "उत्तम"
+
+#: treemap.cpp:2865
+msgid "Alternate (V)"
+msgstr "वैकल्पिक (V)"
+
+#: treemap.cpp:2866
+msgid "Alternate (H)"
+msgstr "वैकल्पिक (H)"
+
+#: treemap.cpp:2867
+msgid "Horizontal"
+msgstr "आड़ा"
+
+#: treemap.cpp:2868
+msgid "Vertical"
+msgstr "खड़ा"
+
+#: treemap.cpp:2923
+msgid "Nesting"
+msgstr "नेस्टिंग"
+
+#: treemap.cpp:2925
+msgid "Border"
+msgstr "किनारा"
+
+#: treemap.cpp:2926
+msgid "Correct Borders Only"
+msgstr "सिर्फ सही किनारें"
+
+#: treemap.cpp:2928 treemap.cpp:2929 treemap.cpp:2930 treemap.cpp:2931
+#, kde-format
+msgid "Width %1"
+msgstr "चौड़ाई %1"
+
+#: treemap.cpp:2938
+msgid "Allow Rotation"
+msgstr "घूर्णन स्वीकारें"
+
+#: treemap.cpp:2940
+msgid "Shading"
+msgstr "शेडिंग"
+
+#: treemap.cpp:2953
+msgid "Visible"
+msgstr "दृष्टिगोचर"
+
+#: treemap.cpp:2954
+msgid "Take Space From Children"
+msgstr "बच्चों से जगह लें"
+
+#: treemap.cpp:2956
+msgid "Top Left"
+msgstr "ऊपरी बायाँ "
+
+#: treemap.cpp:2957
+msgid "Top Center"
+msgstr "ऊपरी मध्य"
+
+#: treemap.cpp:2958
+msgid "Top Right"
+msgstr "ऊपरी दायाँ "
+
+#: treemap.cpp:2959
+msgid "Bottom Left"
+msgstr "निचला बायाँ "
+
+#: treemap.cpp:2960
+msgid "Bottom Center"
+msgstr "निचला मध्य"
+
+#: treemap.cpp:2961
+msgid "Bottom Right"
+msgstr "निचला दायाँ "
+
+#: treemap.cpp:3038
+#, kde-format
+msgid "No %1 Limit"
+msgstr "कोई सीमा %1 नहीं"
+
+#: treemap.cpp:3090
+msgid "No Area Limit"
+msgstr "आकार सीमा नहीं"
+
+#: treemap.cpp:3096
+#, kde-format
+msgid "Area of '%1' (%2)"
+msgstr " '%1' का क्षेत्रफल (%2)"
+
+#: treemap.cpp:3107 treemap.cpp:3118
+#, kde-format
+msgid "1 Pixel"
+msgid_plural "%1 Pixels"
+msgstr[0] ""
+msgstr[1] ""
+
+#: treemap.cpp:3122
+#, kde-format
+msgid "Double Area Limit (to %1)"
+msgstr "दुगना क्षेत्रफल सीमा (को %1)"
+
+#: treemap.cpp:3124
+#, kde-format
+msgid "Halve Area Limit (to %1)"
+msgstr "आधा क्षेत्रफल सीमा (को %1)"
+
+#: treemap.cpp:3155
+msgid "No Depth Limit"
+msgstr "गहराई सीमा नहीं"
+
+#: treemap.cpp:3161
+#, kde-format
+msgid "Depth of '%1' (%2)"
+msgstr "की गहराई '%1' (%2)"
+
+#: treemap.cpp:3172 treemap.cpp:3183
+#, kde-format
+msgid "Depth %1"
+msgstr "गहराई %1"
+
+#: treemap.cpp:3187
+#, kde-format
+msgid "Decrement (to %1)"
+msgstr "पदावनति (को %1)"
+
+#: treemap.cpp:3189
+#, kde-format
+msgid "Increment (to %1)"
+msgstr "वृद्धि (को %1)"

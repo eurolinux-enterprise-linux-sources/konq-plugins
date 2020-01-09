@@ -1,0 +1,389 @@
+# translation of fsview.po to Serbian
+# Bojan Bozovic <bole89@infosky.net>, 2003.
+# Toplica Tanaskovic <toptan@kde.org.yu>, 2003, 2004.
+# Chusslove Illich <caslav.ilic@gmx.net>, 2005.
+# Slobodan Simic <simicsl@verat.net>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: fsview\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-11-01 06:25+0100\n"
+"PO-Revision-Date: 2009-09-27 17:21+0200\n"
+"Last-Translator: Slobodan Simic <simicsl@verat.net>\n"
+"Language-Team: Serbian <kde-i18n-sr@kde.org>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Environment: kde\n"
+
+#: fsview.cpp:52 fsview.cpp:390
+msgid "Name"
+msgstr "Име"
+
+#: fsview.cpp:53
+msgid "Size"
+msgstr "Величина"
+
+#: fsview.cpp:54
+msgid "File Count"
+msgstr "Број фајлова"
+
+#: fsview.cpp:55
+msgid "Directory Count"
+msgstr "Број директоријума"
+
+#: fsview.cpp:56
+msgid "Last Modified"
+msgstr "Последња измена"
+
+#: fsview.cpp:57 fsview.cpp:391
+msgid "Owner"
+msgstr "Власник"
+
+#: fsview.cpp:58 fsview.cpp:392
+msgid "Group"
+msgstr "Група"
+
+#: fsview.cpp:59 fsview.cpp:393
+msgid "Mime Type"
+msgstr "МИМЕ тип"
+
+#: fsview.cpp:281
+msgid "Go To"
+msgstr "Иди на"
+
+#: fsview.cpp:283
+msgid "Go Up"
+msgstr "Иди горе"
+
+#: fsview.cpp:285
+msgid "Stop Refresh"
+msgstr "Заустави освежавање"
+
+#: fsview.cpp:287
+msgid "Refresh"
+msgstr "Освежи"
+
+#: fsview.cpp:290
+#, kde-format
+msgid "Refresh '%1'"
+msgstr "Освежи „%1“"
+
+#: fsview.cpp:293 fsview_part.cpp:131
+msgid "Stop at Depth"
+msgstr "Стани на дубини"
+
+#: fsview.cpp:295 fsview_part.cpp:128
+msgid "Stop at Area"
+msgstr "Стани на области"
+
+#: fsview.cpp:297
+msgid "Stop at Name"
+msgstr "Стани на имену"
+
+#: fsview.cpp:303 fsview_part.cpp:138
+msgid "Color Mode"
+msgstr "Режим боја"
+
+#: fsview.cpp:306 fsview_part.cpp:134
+msgid "Visualization"
+msgstr "Визуелизација"
+
+#: fsview.cpp:388
+msgid "None"
+msgstr "Ниједан"
+
+#: fsview.cpp:389
+msgid "Depth"
+msgstr "Дубина"
+
+#: fsview_part.cpp:82
+#, kde-format
+msgid "Read 1 folder, in %2"
+msgid_plural "Read %1 folders, in %2"
+msgstr[0] "Прочитана %1 фасцикла у %2"
+msgstr[1] "Прочитане %1 фасцикле у %2"
+msgstr[2] "Прочитано %1 фасцикли у %2"
+msgstr[3] "Прочитана једна фасцикла у %2"
+
+#: fsview_part.cpp:87
+#, kde-format
+msgid "1 folder"
+msgid_plural "%1 folders"
+msgstr[0] "%1 фасцикла"
+msgstr[1] "%1 фасцикле"
+msgstr[2] "%1 фасцикли"
+msgstr[3] "Једна фасцикла"
+
+#: fsview_part.cpp:96 main.cpp:21
+msgid "FSView"
+msgstr "~@¦ФС‑вју¦FSView¦"
+
+#: fsview_part.cpp:97
+msgid "Filesystem Utilization Viewer"
+msgstr "Приказивач искоришћења фајл система"
+
+#: fsview_part.cpp:99
+msgid "(c) 2003-2005, Josef Weidendorfer"
+msgstr "© 2003-2005, Јозеф Вајдендорфер"
+
+#: fsview_part.cpp:112
+msgid ""
+"<p>This is the FSView plugin, a graphical browsing mode showing filesystem "
+"utilization by using a tree map visualization.</p><p>Note that in this mode, "
+"automatic updating when filesystem changes are made is intentionally <b>not</"
+"b> done.</p><p>For details on usage and options available, see the online "
+"help under menu 'Help/FSView Manual'.</p>"
+msgstr ""
+"<html><p>Прикључак ~@¦ФС‑вјуа¦FSViewa¦, графички прегледачки режим који "
+"приказује искоришћење фајл система визуелно помоћу стаблолике мапе.</"
+"p><p>Имајте у виду да у овом режиму намерно <b>не</b> долази до аутоматског "
+"ажурирања по променама у фајл систему.</p><p>За детаље о коришћењу и "
+"доступним опцијама, погледајте помоћ на вези путем менија <interface>Помоћ-"
+">Упутство за ~@¦ФС‑вју¦FSView¦</interface>.</p></html>"
+
+#: fsview_part.cpp:144
+msgid "&FSView Manual"
+msgstr "&Упутство за ~@¦ФС‑вју¦FSView¦"
+
+#: fsview_part.cpp:146
+msgid "Show FSView manual"
+msgstr "Прикажи упутство за ~@¦ФС‑вју¦FSView¦"
+
+#: fsview_part.cpp:147
+msgid "Opens the help browser with the FSView documentation"
+msgstr "Отвара прегледач помоћи са документацијом ~@¦ФС‑вјуа¦FSViewa¦"
+
+#: fsview_part.cpp:187
+msgctxt "@action:inmenu File"
+msgid "Move to Trash"
+msgstr ""
+
+#: fsview_part.cpp:195
+msgctxt "@action:inmenu File"
+msgid "Delete"
+msgstr ""
+
+#: fsview_part.cpp:200
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr ""
+
+#: fsview_part.cpp:204
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr ""
+
+#: fsview_part.cpp:245
+msgid ""
+"FSView intentionally does not support automatic updates when changes are "
+"made to files or directories, currently visible in FSView, from the "
+"outside.\n"
+"For details, see the 'Help/FSView Manual'."
+msgstr ""
+"~@¦ФС‑вју¦FSView¦ намерно не подржава аутоматско ажурирање када се ураде "
+"измене над фајловима или директоријумима који се тренутно приказују у њему.\n"
+"За детаље погледајте <interface>Помоћ->Упутство за ~@¦ФС‑вју¦FSView¦</"
+"interface>."
+
+#: main.cpp:22
+msgid "Filesystem Viewer"
+msgstr "Приказивач фајл система"
+
+#: main.cpp:24
+msgid "(c) 2002, Josef Weidendorfer"
+msgstr "© 2002, Јозеф Вајдендорфер"
+
+#: main.cpp:28
+msgid "View filesystem starting from this folder"
+msgstr "Прикажи фајл систем почев од ове фасцикле"
+
+#. i18n: file: fsview_part.rc:4
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:3
+msgid "&Edit"
+msgstr "Ур&еђивање"
+
+#. i18n: file: fsview_part.rc:13
+#. i18n: ectx: Menu (view)
+#: rc.cpp:6
+msgid "&View"
+msgstr "П&риказ"
+
+#. i18n: file: fsview_part.rc:20
+#. i18n: ectx: Menu (help)
+#: rc.cpp:9
+msgid "&Help"
+msgstr "&Помоћ"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Бојан Божовић,Часлав Илић"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "bole89@infosky.net,caslav.ilic@gmx.net"
+
+#: treemap.cpp:1328
+#, kde-format
+msgid "Text %1"
+msgstr "Текст %1"
+
+#: treemap.cpp:2860
+msgid "Recursive Bisection"
+msgstr "Рекурзивна бисекција"
+
+#: treemap.cpp:2861
+msgid "Columns"
+msgstr "Колоне"
+
+#: treemap.cpp:2862
+msgid "Rows"
+msgstr "Врсте"
+
+#: treemap.cpp:2863
+msgid "Always Best"
+msgstr "Увек најбоље"
+
+#: treemap.cpp:2864
+msgid "Best"
+msgstr "Најбоље"
+
+#: treemap.cpp:2865
+msgid "Alternate (V)"
+msgstr "Алтернативно (У)"
+
+#: treemap.cpp:2866
+msgid "Alternate (H)"
+msgstr "Алтернативно (В)"
+
+#: treemap.cpp:2867
+msgid "Horizontal"
+msgstr "Водоравно"
+
+#: treemap.cpp:2868
+msgid "Vertical"
+msgstr "Усправно"
+
+#: treemap.cpp:2923
+msgid "Nesting"
+msgstr "Угњежђивање"
+
+#: treemap.cpp:2925
+msgid "Border"
+msgstr "Ивице"
+
+#: treemap.cpp:2926
+msgid "Correct Borders Only"
+msgstr "Само исправне ивице"
+
+#: treemap.cpp:2928 treemap.cpp:2929 treemap.cpp:2930 treemap.cpp:2931
+#, kde-format
+msgid "Width %1"
+msgstr "Ширина %1"
+
+#: treemap.cpp:2938
+msgid "Allow Rotation"
+msgstr "Дозволи ротацију"
+
+#: treemap.cpp:2940
+msgid "Shading"
+msgstr "Сенчење"
+
+#: treemap.cpp:2953
+msgid "Visible"
+msgstr "Видљиво"
+
+# skip-rule: space
+#: treemap.cpp:2954
+msgid "Take Space From Children"
+msgstr "Преузми простор од деце"
+
+#: treemap.cpp:2956
+msgid "Top Left"
+msgstr "Горе лево"
+
+#: treemap.cpp:2957
+msgid "Top Center"
+msgstr "Горе средина"
+
+#: treemap.cpp:2958
+msgid "Top Right"
+msgstr "Горе десно"
+
+#: treemap.cpp:2959
+msgid "Bottom Left"
+msgstr "Доле лево"
+
+#: treemap.cpp:2960
+msgid "Bottom Center"
+msgstr "Доле средина"
+
+#: treemap.cpp:2961
+msgid "Bottom Right"
+msgstr "Доле десно"
+
+#: treemap.cpp:3038
+#, kde-format
+msgid "No %1 Limit"
+msgstr "Нема %1 ограничења"
+
+#: treemap.cpp:3090
+msgid "No Area Limit"
+msgstr "Нема границе области"
+
+#: treemap.cpp:3096
+#, kde-format
+msgid "Area of '%1' (%2)"
+msgstr "Област „%1“ (%2)"
+
+#: treemap.cpp:3107 treemap.cpp:3118
+#, kde-format
+msgid "1 Pixel"
+msgid_plural "%1 Pixels"
+msgstr[0] "%1 пиксел"
+msgstr[1] "%1 пиксела"
+msgstr[2] "%1 пиксела"
+msgstr[3] "1 пиксел"
+
+#: treemap.cpp:3122
+#, kde-format
+msgid "Double Area Limit (to %1)"
+msgstr "Удвостручи ограничење површине (на %1)"
+
+#: treemap.cpp:3124
+#, kde-format
+msgid "Halve Area Limit (to %1)"
+msgstr "Преполови ограничење површине (на %1)"
+
+#: treemap.cpp:3155
+msgid "No Depth Limit"
+msgstr "Без ограничења дубине"
+
+#: treemap.cpp:3161
+#, kde-format
+msgid "Depth of '%1' (%2)"
+msgstr "Дубина „%1“ (%2)"
+
+#: treemap.cpp:3172 treemap.cpp:3183
+#, kde-format
+msgid "Depth %1"
+msgstr "Дубина %1"
+
+#: treemap.cpp:3187
+#, kde-format
+msgid "Decrement (to %1)"
+msgstr "Умањи (на %1)"
+
+#: treemap.cpp:3189
+#, kde-format
+msgid "Increment (to %1)"
+msgstr "Увећај (на %1)"

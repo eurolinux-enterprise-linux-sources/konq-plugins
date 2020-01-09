@@ -1,0 +1,166 @@
+# translation of webarchiver.po to Lithuanian
+# Ričardas Čepas <rch@richard.eu.org>, 2003.
+# Donatas Glodenis <dgvirtual@akl.lt>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: webarchiver\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-23 11:42+0200\n"
+"PO-Revision-Date: 2005-09-02 17:27+0300\n"
+"Last-Translator: Donatas Glodenis <dgvirtual@akl.lt>\n"
+"Language-Team: Lithuanian <kde-i18n-lt@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10==1 && n%100!=11 ? 1 : n%"
+"10>=2 && (n%100<10 || n%100>=20) ? 2 : 3);\n"
+
+#. i18n: file: archiveviewbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
+#: archivedialog.cpp:151 rc.cpp:3
+#, fuzzy
+msgid "Web Archiver"
+msgstr "Tinklalapių archyvai"
+
+#: archivedialog.cpp:161
+#, fuzzy
+#| msgid "State"
+msgid "Status"
+msgstr "Būsena"
+
+#: archivedialog.cpp:162
+msgid "Url"
+msgstr ""
+
+#: archivedialog.cpp:230
+#, fuzzy
+msgid "Unable to Open Web-Archive"
+msgstr "Negalima atidaryti tinklalapio archyvo"
+
+#: archivedialog.cpp:231
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing."
+msgstr ""
+"Nepavyksta atverti \n"
+" %1 \n"
+" įrašymui."
+
+#: archivedialog.cpp:362
+msgid "Downloading"
+msgstr "Atsisiunčiama"
+
+#: archivedialog.cpp:383
+msgid "Error"
+msgstr "Klaida"
+
+#: archivedialog.cpp:383
+msgid "Ok"
+msgstr "Gerai"
+
+#: archivedialog.cpp:411
+#, kde-format
+msgid "I/O error occurred while writing to web archive file %1."
+msgstr ""
+
+#: plugin_webarchiver.cpp:58
+msgid "Archive &Web Page..."
+msgstr "Ar&chyvuoti tinklalapį..."
+
+#: plugin_webarchiver.cpp:77
+msgid "Untitled"
+msgstr "Be pavadinimo"
+
+#: plugin_webarchiver.cpp:94
+#, fuzzy
+msgid "*.war *.tgz|Web Archives"
+msgstr "Tinklalapių archyvai"
+
+#: plugin_webarchiver.cpp:95
+msgid "Save Page as Web-Archive"
+msgstr "Įrašyti puslapį kaip tinklalapio archyvą"
+
+#: plugin_webarchiver.cpp:100
+msgid "Invalid URL"
+msgstr "Neteisingas URL"
+
+#: plugin_webarchiver.cpp:101
+#, fuzzy, kde-format
+msgid ""
+"The URL\n"
+"%1\n"
+"is not valid."
+msgstr ""
+"Šis URL \n"
+" %1 \n"
+" nėra teisingas."
+
+#: plugin_webarchiver.cpp:115
+#, fuzzy
+msgid "File Exists"
+msgstr "Failas jau yra"
+
+#: plugin_webarchiver.cpp:116
+#, fuzzy, kde-format
+msgid ""
+"Do you really want to overwrite:\n"
+"%1?"
+msgstr ""
+"Ar tikrai norite perrašyti: \n"
+"%1?"
+
+#: plugin_webarchiver.cpp:117
+msgid "Overwrite"
+msgstr "Perrašyti"
+
+#. i18n: file: archiveviewbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, targetLabel)
+#: rc.cpp:6
+msgid "Local File"
+msgstr "Vietinis failas"
+
+#. i18n: file: archiveviewbase.ui:55
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:9
+msgid "To:"
+msgstr "Kam:"
+
+#. i18n: file: archiveviewbase.ui:65
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:12
+msgid "Archiving:"
+msgstr "Archyvuojama:"
+
+#. i18n: file: archiveviewbase.ui:81
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#: rc.cpp:15
+#, fuzzy
+msgid "Original URL"
+msgstr "Neteisingas URL"
+
+#. i18n: file: archiveviewbase.ui:109
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:18
+msgid "1"
+msgstr ""
+
+#. i18n: file: archiveviewbase.ui:114
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:21
+msgid "2"
+msgstr ""
+
+#. i18n: file: plugin_webarchiver.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr "Įrank&iai"
+
+#. i18n: file: plugin_webarchiver.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "Papildoma įrankių juosta"

@@ -1,0 +1,180 @@
+# translation of webarchiver.po to Slovenian
+# Translation of webarchiver.po to Slovenian
+# SLOVENIAN TRANSLATION OF WEBARCHIVER.
+# Copyright (C) 2001, 2003, 2004, 2006 Free Software Foundation, Inc.
+# $Id: webarchiver.po 985787 2009-06-23 13:46:20Z scripty $
+# $Source$
+#
+# Gregor Rakar <gregor.rakar@kiss.uni-lj.si>, 2001.
+# Gregor Rakar <gregor.rakar@kiss.si>, 2003, 2004.
+# Jure Repinc <jlp@holodeck1.com>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: webarchiver\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-23 11:42+0200\n"
+"PO-Revision-Date: 2006-07-23 18:15+0200\n"
+"Last-Translator: Jure Repinc <jlp@holodeck1.com>\n"
+"Language-Team: Slovenian <sl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+
+#. i18n: file: archiveviewbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
+#: archivedialog.cpp:151 rc.cpp:3
+msgid "Web Archiver"
+msgstr "Spletni arhivator"
+
+#: archivedialog.cpp:161
+#, fuzzy
+#| msgid "State"
+msgid "Status"
+msgstr "Stanje"
+
+#: archivedialog.cpp:162
+msgid "Url"
+msgstr ""
+
+#: archivedialog.cpp:230
+msgid "Unable to Open Web-Archive"
+msgstr "Ni moč odpreti spletnega arhiva"
+
+#: archivedialog.cpp:231
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing."
+msgstr ""
+"Ni moč odpreti \n"
+" %1 \n"
+" za pisanje."
+
+#: archivedialog.cpp:362
+msgid "Downloading"
+msgstr "Prenašanje"
+
+#: archivedialog.cpp:383
+msgid "Error"
+msgstr ""
+
+#: archivedialog.cpp:383
+msgid "Ok"
+msgstr "V redu"
+
+#: archivedialog.cpp:411
+#, kde-format
+msgid "I/O error occurred while writing to web archive file %1."
+msgstr ""
+
+#: plugin_webarchiver.cpp:58
+msgid "Archive &Web Page..."
+msgstr "&Arhiviraj spletno stran ..."
+
+#: plugin_webarchiver.cpp:77
+msgid "Untitled"
+msgstr ""
+
+#: plugin_webarchiver.cpp:94
+msgid "*.war *.tgz|Web Archives"
+msgstr "*.war *.tgz|Spletni arhivi"
+
+#: plugin_webarchiver.cpp:95
+msgid "Save Page as Web-Archive"
+msgstr "Shrani stran kot spletni arhiv"
+
+#: plugin_webarchiver.cpp:100
+msgid "Invalid URL"
+msgstr "Neveljaven URL"
+
+#: plugin_webarchiver.cpp:101
+#, kde-format
+msgid ""
+"The URL\n"
+"%1\n"
+"is not valid."
+msgstr ""
+"Ta URL \n"
+" %1 \n"
+" ni veljaven."
+
+#: plugin_webarchiver.cpp:115
+msgid "File Exists"
+msgstr "Datoteka obstaja"
+
+#: plugin_webarchiver.cpp:116
+#, kde-format
+msgid ""
+"Do you really want to overwrite:\n"
+"%1?"
+msgstr ""
+"Ali zares želite nadomestiti: \n"
+"%1?"
+
+#: plugin_webarchiver.cpp:117
+msgid "Overwrite"
+msgstr "Nadomesti"
+
+#. i18n: file: archiveviewbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, targetLabel)
+#: rc.cpp:6
+msgid "Local File"
+msgstr "Lokalna datoteka"
+
+#. i18n: file: archiveviewbase.ui:55
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:9
+msgid "To:"
+msgstr "V:"
+
+#. i18n: file: archiveviewbase.ui:65
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:12
+msgid "Archiving:"
+msgstr "Arhiviranje:"
+
+#. i18n: file: archiveviewbase.ui:81
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#: rc.cpp:15
+msgid "Original URL"
+msgstr "Originalni URL"
+
+#. i18n: file: archiveviewbase.ui:109
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:18
+msgid "1"
+msgstr ""
+
+#. i18n: file: archiveviewbase.ui:114
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:21
+msgid "2"
+msgstr ""
+
+#. i18n: file: plugin_webarchiver.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: plugin_webarchiver.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "Dodatna orodjarna"
+
+#~ msgid "Archiving webpage completed."
+#~ msgstr "Arhiviranje spletne strani končano."
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Could Not Open Temporary File"
+#~ msgstr "Ni moč odpreti začasne datoteke"
+
+#~ msgid "Could not open a temporary file"
+#~ msgstr "Ni moč odpreti začasne datoteke"

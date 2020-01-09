@@ -1,0 +1,169 @@
+# translation of webarchiver.po to Finnish
+# Copyright (C) 2003, 2005, 2008 Free Software Foundation, Inc.
+#
+# Mikko Ikola <kola@netikka.fi>, 2003.
+# Teemu Rytilahti <teemu.rytilahti@kde-fi.org>, 2003, 2008.
+# Ilpo Kantonen <ilpo@iki.fi>, 2005.
+# Teemu Rytilahti <teemu.rytilahti@d5k.net>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: webarchiver\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-23 11:42+0200\n"
+"PO-Revision-Date: 2008-11-03 09:49+0200\n"
+"Last-Translator: Teemu Rytilahti <teemu.rytilahti@d5k.net>\n"
+"Language-Team: Finnish <kde-i18n-doc@lists.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: archiveviewbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
+#: archivedialog.cpp:151 rc.cpp:3
+msgid "Web Archiver"
+msgstr "Verkkoarkistoija"
+
+#: archivedialog.cpp:161
+msgid "Status"
+msgstr "Tila"
+
+#: archivedialog.cpp:162
+msgid "Url"
+msgstr "Verkko-osoite"
+
+#: archivedialog.cpp:230
+msgid "Unable to Open Web-Archive"
+msgstr "Verkkosivuarkistoa ei voitu avata"
+
+#: archivedialog.cpp:231
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing."
+msgstr ""
+"Ei voitu avata tiedostoa \n"
+"%1 \n"
+"kirjoitettavaksi."
+
+#: archivedialog.cpp:362
+msgid "Downloading"
+msgstr "Ladataan"
+
+#: archivedialog.cpp:383
+msgid "Error"
+msgstr "Virhe"
+
+#: archivedialog.cpp:383
+msgid "Ok"
+msgstr "OK"
+
+#: archivedialog.cpp:411
+#, fuzzy, kde-format
+#| msgid "I/O error occured while writing to web archive file %1"
+msgid "I/O error occurred while writing to web archive file %1."
+msgstr "I/O-virhe kirjoitettaessa arkistotiedostoa %1"
+
+#: plugin_webarchiver.cpp:58
+msgid "Archive &Web Page..."
+msgstr "&Arkistoi verkkosivu..."
+
+#: plugin_webarchiver.cpp:77
+msgid "Untitled"
+msgstr "Nimeämätön"
+
+#: plugin_webarchiver.cpp:94
+msgid "*.war *.tgz|Web Archives"
+msgstr "*.war *.tgz|Verkkosivuarkistot"
+
+#: plugin_webarchiver.cpp:95
+msgid "Save Page as Web-Archive"
+msgstr "Tallenna sivu verkkosivuarkistoksi"
+
+#: plugin_webarchiver.cpp:100
+msgid "Invalid URL"
+msgstr "Virheellinen verkko-osoite"
+
+#: plugin_webarchiver.cpp:101
+#, kde-format
+msgid ""
+"The URL\n"
+"%1\n"
+"is not valid."
+msgstr ""
+"Verkko-osoite\n"
+"%1\n"
+"ei ole oikean muotoinen."
+
+#: plugin_webarchiver.cpp:115
+msgid "File Exists"
+msgstr "Tiedosto on olemassa"
+
+#: plugin_webarchiver.cpp:116
+#, kde-format
+msgid ""
+"Do you really want to overwrite:\n"
+"%1?"
+msgstr ""
+"Haluatko varmasti ylikirjoittaa tiedoston:\n"
+"%1?"
+
+#: plugin_webarchiver.cpp:117
+msgid "Overwrite"
+msgstr "Korvaa"
+
+#. i18n: file: archiveviewbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, targetLabel)
+#: rc.cpp:6
+msgid "Local File"
+msgstr "Paikallinen tiedosto"
+
+#. i18n: file: archiveviewbase.ui:55
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:9
+msgid "To:"
+msgstr "Tiedostoon:"
+
+#. i18n: file: archiveviewbase.ui:65
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:12
+msgid "Archiving:"
+msgstr "Arkistoidaan:"
+
+#. i18n: file: archiveviewbase.ui:81
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#: rc.cpp:15
+msgid "Original URL"
+msgstr "Alkuperäinen verkko-osoite"
+
+#. i18n: file: archiveviewbase.ui:109
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:18
+msgid "1"
+msgstr "1"
+
+#. i18n: file: archiveviewbase.ui:114
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:21
+msgid "2"
+msgstr "2"
+
+#. i18n: file: plugin_webarchiver.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr "&Työkalut"
+
+#. i18n: file: plugin_webarchiver.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "Lisätyökalurivi"
+
+#~ msgid "Archiving webpage completed."
+#~ msgstr "Verkkosivun arkistointi valmis."
+
+#~ msgid "URL"
+#~ msgstr "Verkko-osoite"

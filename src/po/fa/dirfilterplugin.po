@@ -1,0 +1,76 @@
+# translation of dirfilterplugin.po to Persian
+# Nazanin Kazemi <kazemi@itland.ir>, 2006, 2007.
+# MaryamSadat Razavi <razavi@itland.ir>, 2006.
+# Tahereh Dadkhahfar <dadkhahfar@itland.ir>, 2006.
+# Nasim Daniarzadeh <daniarzadeh@itland.ir>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: dirfilterplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2007-09-02 11:35+0330\n"
+"Last-Translator: Nazanin Kazemi <kazemi@itland.ir>\n"
+"Language-Team: Persian <kde-i18n-fa@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "&پالایۀ نما‌"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr "اجازۀ پالایش فقره‌های نمایش داده‌شدۀ جاری را توسط نوع پرونده می‌دهد."
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr "حوزۀ پالایش"
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "فقط نمایش فقره‌های نوع"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "استفاده از چند پالایه"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "نمایش شمارش"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "بازنشانی"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&ابزارها‌"
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "میله ابزار اضافی"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "میله ابزار پالایش"
+
+#~ msgid "Clear Filter Field"
+#~ msgstr "پاک کردن حوزۀ پالایش"
+
+#~ msgid "Clear filter field<p>Clears the content of the filter field.</p>"
+#~ msgstr "پاک کردن حوزۀ پالایش<p>محتوای حوزۀ پالایش را پاک می‌کند.</p>"
+
+#~ msgid ""
+#~ "Enter here a text which an item in the view must contain anywhere to be "
+#~ "shown."
+#~ msgstr ""
+#~ "در اینجا متنی را وارد کنید، که یک فقره در نما باید در آنجا نمایش داده شود."

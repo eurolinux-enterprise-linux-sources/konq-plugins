@@ -1,0 +1,180 @@
+# translation of babelfish.po to Persian
+# Nazanin Kazemi <kazemi@itland.ir>, 2006, 2007.
+# MaryamSadat Razavi <razavi@itland.ir>, 2006.
+# Tahereh Dadkhahfar <dadkhahfar@itland.ir>, 2006.
+# Nasim Daniarzadeh <daniarzadeh@itland.ir>, 2006.
+# translation obelfish.po to Persian
+msgid ""
+msgstr ""
+"Project-Id-Version: babelfish\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-17 07:03+0200\n"
+"PO-Revision-Date: 2007-06-11 08:32+0330\n"
+"Last-Translator: Nazanin Kazemi <kazemi@itland.ir>\n"
+"Language-Team: Persian <kde-i18n-fa@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: plugin_babelfish.cpp:50
+msgid "Translate Web Page"
+msgstr "ترجمۀ صفحۀ وب"
+
+#: plugin_babelfish.cpp:60
+msgid "Translate Web &Page"
+msgstr "ترجمۀ صفحۀ ‌&وب‌"
+
+#: plugin_babelfish.cpp:66
+msgid "&English To"
+msgstr "&انگلیسی به‌"
+
+#: plugin_babelfish.cpp:69
+msgid "&French To"
+msgstr "&فرانسوی به‌"
+
+#: plugin_babelfish.cpp:72
+msgid "&German To"
+msgstr "&آلمانی به‌"
+
+#: plugin_babelfish.cpp:76
+msgid "&Spanish To"
+msgstr "&اسپانیایی به‌"
+
+#: plugin_babelfish.cpp:80
+msgid "&Portuguese To"
+msgstr "&پرتغالی به‌"
+
+#: plugin_babelfish.cpp:84
+msgid "&Italian To"
+msgstr "&ایتالیایی به‌"
+
+#: plugin_babelfish.cpp:88
+msgid "&Dutch To"
+msgstr "&هلندی به‌"
+
+#: plugin_babelfish.cpp:94
+msgid "&Chinese (Simplified)"
+msgstr "&چینی )ساده‌شده(‌"
+
+#: plugin_babelfish.cpp:95
+msgid "Chinese (&Traditional)"
+msgstr "چینی )&سنتی(‌"
+
+#: plugin_babelfish.cpp:96 plugin_babelfish.cpp:107
+msgid "&Dutch"
+msgstr "&هلندی‌"
+
+#: plugin_babelfish.cpp:97 plugin_babelfish.cpp:114 plugin_babelfish.cpp:116
+#: plugin_babelfish.cpp:118 plugin_babelfish.cpp:120 plugin_babelfish.cpp:122
+msgid "&French"
+msgstr "&فرانسوی‌"
+
+#: plugin_babelfish.cpp:98 plugin_babelfish.cpp:109
+msgid "&German"
+msgstr "&آلمانی‌"
+
+#: plugin_babelfish.cpp:99 plugin_babelfish.cpp:110
+msgid "&Italian"
+msgstr "&ایتالیایی‌"
+
+#: plugin_babelfish.cpp:100
+msgid "&Japanese"
+msgstr "&ژاپنی‌"
+
+#: plugin_babelfish.cpp:101
+msgid "&Korean"
+msgstr "&کره‌ای‌"
+
+#: plugin_babelfish.cpp:102
+msgid "&Norwegian"
+msgstr "&نروژی‌"
+
+#: plugin_babelfish.cpp:103 plugin_babelfish.cpp:111
+msgid "&Portuguese"
+msgstr "&پرتغالی‌"
+
+#: plugin_babelfish.cpp:104
+msgid "&Russian"
+msgstr "&روسی‌"
+
+#: plugin_babelfish.cpp:105 plugin_babelfish.cpp:112
+msgid "&Spanish"
+msgstr "&اسپانیایی‌"
+
+#: plugin_babelfish.cpp:106
+msgid "T&hai"
+msgstr "&تایلندی‌"
+
+#: plugin_babelfish.cpp:108 plugin_babelfish.cpp:113 plugin_babelfish.cpp:115
+#: plugin_babelfish.cpp:117 plugin_babelfish.cpp:119 plugin_babelfish.cpp:121
+msgid "&English"
+msgstr "&انگلیسی‌"
+
+#: plugin_babelfish.cpp:123 plugin_babelfish.cpp:142
+msgid "&Chinese (Simplified) to English"
+msgstr "&چینی )ساده‌شده( به انگلیسی‌"
+
+#: plugin_babelfish.cpp:124 plugin_babelfish.cpp:147
+msgid "Chinese (&Traditional) to English"
+msgstr "چینی )&سنتی( به انگلیسی‌"
+
+#: plugin_babelfish.cpp:158
+msgid "&Japanese to English"
+msgstr "&ژاپنی به انگلیسی‌"
+
+#: plugin_babelfish.cpp:163
+msgid "&Korean to English"
+msgstr "&کره‌ای به انگلیسی‌"
+
+#: plugin_babelfish.cpp:170
+msgid "&Russian to English"
+msgstr "&روسی به انگلیسی‌"
+
+#: plugin_babelfish.cpp:214
+msgid "Cannot Translate Source"
+msgstr "متن را نمی‌توان ترجمه کرد"
+
+#: plugin_babelfish.cpp:215
+msgid "Only web pages can be translated using this plugin."
+msgstr "فقط صفحه‌های وب را می‌توان با استفاده از این وصله ترجمه کرد."
+
+#: plugin_babelfish.cpp:261
+msgid "Only full webpages can be translated for this language pair."
+msgstr "فقط صفحه‌های وب کامل را می‌توان برای این دو زبان ترجمه کرد."
+
+#: plugin_babelfish.cpp:261
+msgid "Translation Error"
+msgstr "خطای ترجمه"
+
+#: plugin_babelfish.cpp:269
+msgid "Malformed URL"
+msgstr "نشانی وب بدشکل"
+
+#: plugin_babelfish.cpp:270
+msgid "The URL you entered is not valid, please correct it and try again."
+msgstr ""
+"نشانی وبی که وارد کردید، معتبر نیست، لطفاً آن را اصلاح کرده و دوباره سعی کنید."
+
+#. i18n: file: plugin_babelfish.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&ابزارها‌"
+
+#. i18n: file: plugin_babelfish.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "میله ابزار اضافی"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "نازنین کاظمی"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kazemi@itland.ir"

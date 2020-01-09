@@ -1,0 +1,216 @@
+# Translation of konqsidebar_metabar to Croatian
+#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2007-03-05 01:39+0100\n"
+"Last-Translator: Renato Pavicic <renato@translator-shop.org>\n"
+"Language-Team: Croatian <kde-croatia-list@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Konfiguriranje – Metabar"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Stavke"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Otvori s:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Aktivnosti:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "Izgled"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Animirana promjena veličine"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Prikaži izbornike usluga"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Teme"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Instaliraj novu temu …"
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Novo …"
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "Izbriši"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Uredi …"
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Naziv"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Adresa"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Opće"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Aktivnosti"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Veze"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Razmijeni"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Izradi vezu"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Nova veza"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Naziv:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "URL:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Uredi vezu"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Više"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "Pokreni %1"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Odaberi aplikaciju"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Vrsta"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Veličina"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Korisnik"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Grupa"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Dopuštenja"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Izmijenjeno"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Pristupljeno"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "Poveži cilj"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "Datoteke"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Mape"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Ukupno stavaka"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Kliknite za početak pregleda"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Izrada pregleda"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Konfiguriranje Metabara …"
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Manje"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Dodaj mrežnu mapu"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Pokreni"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Komentar"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Potrebne su privilegije korijenskog korisnika"
+
+#~ msgid "Show frame"
+#~ msgstr "Prikaži okvir"
+
+#~ msgid "Configure %1..."
+#~ msgstr "Konfiguriranje %1..."
+
+#~ msgid "Reload Theme"
+#~ msgstr "Ponovno učitaj temu"
+
+#~ msgid "%1 Elements"
+#~ msgstr "Elemenata: %1"
+
+#~ msgid "%1 Folders, %2 Files"
+#~ msgstr "Mapa: %1, datoteka: %2"

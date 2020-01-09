@@ -1,0 +1,73 @@
+# translation of autorefresh.po to euskara
+# translation of autorefresh.po to basque
+# Copyright (C) 2003, 2004 Free Software Foundation, Inc.
+# Marcos Goienetxe <marcos@euskalgnu.org>, 2003.
+# Juan Irigoien <juanirigoien@yahoo.es>, 2004.
+# Iñigo Salvador Azurmendi <xalba@euskalnet.net>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: autorefresh\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-07-07 11:39+0200\n"
+"PO-Revision-Date: 2009-02-10 07:22+0100\n"
+"Last-Translator: Iñigo Salvador Azurmendi <xalba@euskalnet.net>\n"
+"Language-Team: American English <kde-i18n-doc@lists.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: autorefresh.cpp:42
+msgid "&Auto Refresh"
+msgstr "&Auto freskatu"
+
+#: autorefresh.cpp:46
+msgid "None"
+msgstr "Bat ere ez"
+
+#: autorefresh.cpp:47
+msgid "Every 15 Seconds"
+msgstr "15 segunduro"
+
+#: autorefresh.cpp:48
+msgid "Every 30 Seconds"
+msgstr "30 segunduro"
+
+#: autorefresh.cpp:49
+msgid "Every Minute"
+msgstr "Minuturo"
+
+#: autorefresh.cpp:50
+msgid "Every 5 Minutes"
+msgstr "5 minuturo"
+
+#: autorefresh.cpp:51
+msgid "Every 10 Minutes"
+msgstr "10 minuturo"
+
+#: autorefresh.cpp:52
+msgid "Every 15 Minutes"
+msgstr "15 minuturo"
+
+#: autorefresh.cpp:53
+msgid "Every 30 Minutes"
+msgstr "30 minuturo"
+
+#: autorefresh.cpp:54
+msgid "Every 60 Minutes"
+msgstr "60 minuturo"
+
+#: autorefresh.cpp:105
+msgid "Cannot Refresh Source"
+msgstr "Ezin iturburua freskatu"
+
+#: autorefresh.cpp:106
+msgid "<qt>This plugin cannot auto-refresh the current part.</qt>"
+msgstr "<qt>Plugin honek ezin du zati hau automatikoki freskatu.</qt>"
+
+#. i18n: file: autorefresh.rc:5
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Tresnak"

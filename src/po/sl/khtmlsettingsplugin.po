@@ -1,0 +1,111 @@
+# Translation of khtmlsettingsplugin.po to Slovenian
+# SLOVENIAN TRANSLATION OF KHTMLSETTINGSPLUGIN.
+# Copyright (C) 2001, 2003, 2004 Free Software Foundation, Inc.
+# $Id: khtmlsettingsplugin.po 944923 2009-03-26 14:09:03Z scripty $
+# $Source$
+# Gregor Rakar <gregor.rakar@kiss.uni-lj.si>, 2001.
+# Gregor Rakar <gregor.rakar@kiss.si>, 2003, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: khtmlsettingsplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-26 10:56+0100\n"
+"PO-Revision-Date: 2004-07-25 19:34+0200\n"
+"Last-Translator: Gregor Rakar <gregor.rakar@kiss.si>\n"
+"Language-Team: Slovenian <translation-team-sl@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+
+#. i18n: file: khtmlsettingsplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: khtmlsettingsplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Dodatna orodjarna"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Gregor Rakar"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "gregor.rakar@kiss.si"
+
+#: settingsplugin.cpp:40 settingsplugin.cpp:52
+msgid "HTML Settings"
+msgstr "Nastavitve HTML"
+
+#: settingsplugin.cpp:61
+msgid "Java&Script"
+msgstr "Java&scipt"
+
+#: settingsplugin.cpp:66
+msgid "&Java"
+msgstr "&Java"
+
+#: settingsplugin.cpp:71
+msgid "&Cookies"
+msgstr "&Piškotki"
+
+#: settingsplugin.cpp:76
+msgid "&Plugins"
+msgstr "&Vstavki"
+
+#: settingsplugin.cpp:81
+msgid "Autoload &Images"
+msgstr "Samonaloži s&like"
+
+#: settingsplugin.cpp:88
+msgid "Enable Pro&xy"
+msgstr "Omogoči posre&dnika"
+
+#: settingsplugin.cpp:93
+msgid "Enable Cac&he"
+msgstr "Omogoči pr&edpomnilnik"
+
+#: settingsplugin.cpp:99
+msgid "Cache Po&licy"
+msgstr "Ra&vnanje s predpomnilnikom"
+
+#: settingsplugin.cpp:101
+msgid "&Keep Cache in Sync"
+msgstr "Pus&ti predpomnilnik sinhroniziran"
+
+#: settingsplugin.cpp:102
+msgid "&Use Cache if Possible"
+msgstr "&Uporabi predpomnilnik, če je možno"
+
+#: settingsplugin.cpp:103
+msgid "&Offline Browsing Mode"
+msgstr "&Način brskanja brez povezave"
+
+#: settingsplugin.cpp:187
+#, fuzzy
+#| msgid ""
+#| "I can't enable cookies, because the cookie daemon could not be started."
+msgid ""
+"Cookies could not be enabled, because the cookie daemon could not be started."
+msgstr ""
+"Ni moč omogočiti piškotkov, ker demon za piškotke ni mogel biti pognan."
+
+#: settingsplugin.cpp:189
+msgid "Cookies Disabled"
+msgstr "Piškotki onemogočeni"
+
+#~ msgid "Disable Pro&xy"
+#~ msgstr "Onemogoči posre&dnika"
+
+#~ msgid "Disable Cac&he"
+#~ msgstr "Onemogoči pr&edpomnilnik"

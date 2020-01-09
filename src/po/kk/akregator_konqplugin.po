@@ -1,0 +1,45 @@
+# translation of akregator_konqplugin.po to Kazakh
+#
+# Sairan Kikkarin <sairan@computer.org>, 2006, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: akregator_konqplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-05 07:02+0200\n"
+"PO-Revision-Date: 2007-03-15 15:04+0600\n"
+"Last-Translator: Sairan Kikkarin <sairan@computer.org>\n"
+"Language-Team: Kazakh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"\n"
+
+#: akregatorplugin.cpp:87 konqfeedicon.cpp:119
+msgid "Add Feed to Akregator"
+msgstr "Akregator-ға ақпарды қосу"
+
+#: konqfeedicon.cpp:123
+msgid "Add Feeds to Akregator"
+msgstr "Akregator-ға ақпарларды қосу"
+
+#: konqfeedicon.cpp:133
+msgid "Add All Found Feeds to Akregator"
+msgstr "Akregator-ға барлық табылған ақпарларды қосу"
+
+#: konqfeedicon.cpp:156
+msgid "Subscribe to site updates (using news feed)"
+msgstr "Бұл сайттағы жаңалықтарды бақылау (RSS ақпары арқылы)"
+
+#: konqfeedicon.cpp:202 pluginbase.cpp:54 pluginbase.cpp:64
+msgid "Imported Feeds"
+msgstr "Импортталған ақпарлар"
+
+#: pluginbase.cpp:56
+msgid "Akregator feed icon - DBus Call failed"
+msgstr ""
+
+#: pluginbase.cpp:57
+msgid "The DBus call addFeedToGroup failed"
+msgstr ""

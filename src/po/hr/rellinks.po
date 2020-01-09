@@ -1,0 +1,242 @@
+# Translation of rellinks to Croatian
+#
+# DoDo <DoDoEntertainment@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: rellinks\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2009-08-29 19:20+0200\n"
+"Last-Translator: DoDo <DoDoEntertainment@gmail.com>\n"
+"Language-Team: Croatian <kde-croatia-list@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Generator: Lokalize 1.0\n"
+
+#: plugin_rellinks.cpp:56
+msgid "Rellinks"
+msgstr "Relacijske veze"
+
+#: plugin_rellinks.cpp:71
+msgid "&Top"
+msgstr "&Vrh"
+
+#: plugin_rellinks.cpp:74
+msgid "<p>This link references a home page or the top of some hierarchy.</p>"
+msgstr ""
+"<p>Ova veza upućuje na početnu stranicu ili prem vrhu neke hijerarhije.</p>"
+
+#: plugin_rellinks.cpp:79
+msgid "&Up"
+msgstr "&Gore"
+
+#: plugin_rellinks.cpp:82
+msgid ""
+"<p>This link references the immediate parent of the current document.</p>"
+msgstr ""
+"<p>Ova veza upućuje na neposredno nadređenu mapu trenutnog dokumenta.</p>"
+
+#: plugin_rellinks.cpp:89
+msgid "&First"
+msgstr "&Prva"
+
+#: plugin_rellinks.cpp:92
+msgid ""
+"<p>This link type tells search engines which document is considered by the "
+"author to be the starting point of the collection.</p>"
+msgstr ""
+"<p>Ova vrste veze govori tražilicama koje dokumente sutor smatra kao "
+"početnom točkom prikupljanja podataka.</p>"
+
+#: plugin_rellinks.cpp:97
+msgid "&Previous"
+msgstr "&Prethodno"
+
+#: plugin_rellinks.cpp:101
+msgid ""
+"<p>This link references the previous document in an ordered series of "
+"documents.</p>"
+msgstr ""
+"<p>Ova veza upućuje na prethodni dokument u redoslijedu dokumenata.</p>"
+
+#: plugin_rellinks.cpp:105
+msgid "&Next"
+msgstr "&Sljedeći"
+
+#: plugin_rellinks.cpp:108
+msgid ""
+"<p>This link references the next document in an ordered series of documents."
+"</p>"
+msgstr "<p>Ova veza upućuje na sljedeći dokument u redoslijedu dokumenata.</p>"
+
+#: plugin_rellinks.cpp:113
+msgid "&Last"
+msgstr "&Posljednji"
+
+#: plugin_rellinks.cpp:117
+msgid "<p>This link references the end of a sequence of documents.</p>"
+msgstr "<p>Ova veza upućuje na završetak niza dokumenata.</p>"
+
+#: plugin_rellinks.cpp:122
+msgid "&Search"
+msgstr "&Traži"
+
+#: plugin_rellinks.cpp:125
+msgid "<p>This link references the search.</p>"
+msgstr "<p>Ova veza upućuje na pretraživanje.</p>"
+
+#: plugin_rellinks.cpp:130
+msgid "Document"
+msgstr "Dokument"
+
+#: plugin_rellinks.cpp:132
+msgid "<p>This menu contains the links referring the document information.</p>"
+msgstr "<p>Ovaj izbornik upućuje na podatke o dokumentu.</p>"
+
+#: plugin_rellinks.cpp:136
+msgid "Table of &Contents"
+msgstr "&Sadržaj"
+
+#: plugin_rellinks.cpp:138
+msgid "<p>This link references the table of contents.</p>"
+msgstr "<p>Ova veza upućuje na sadržaj.</p>"
+
+#: plugin_rellinks.cpp:143
+msgid "Chapters"
+msgstr "Poglavlja"
+
+#: plugin_rellinks.cpp:148
+msgid "<p>This menu references the chapters of the document.</p>"
+msgstr "<p>Ovaj izbornik upućuje na poglavlja dokumenta.</p>"
+
+#: plugin_rellinks.cpp:151
+msgid "Sections"
+msgstr "Odjeljci"
+
+#: plugin_rellinks.cpp:157
+msgid "<p>This menu references the sections of the document.</p>"
+msgstr "<p>Ovaj izbornik upućuje na odjeljke dokumenta.</p>"
+
+#: plugin_rellinks.cpp:160
+msgid "Subsections"
+msgstr "Pododjeljci"
+
+#: plugin_rellinks.cpp:165
+msgid "<p>This menu references the subsections of the document.</p>"
+msgstr "<p>Ovaj izbornik upućuje na pododjeljke dokumenta.</p>"
+
+#: plugin_rellinks.cpp:168
+msgid "Appendix"
+msgstr "Dodatak"
+
+#: plugin_rellinks.cpp:173
+msgid "<p>This link references the appendix.</p>"
+msgstr "<p>Ova veza upućuje na dodatak teksta.</p>"
+
+#: plugin_rellinks.cpp:177
+msgid "&Glossary"
+msgstr "&Rječnik"
+
+#: plugin_rellinks.cpp:180
+msgid "<p>This link references the glossary.</p>"
+msgstr "<p>Ova veza upućuje na rječnik.</p>"
+
+#: plugin_rellinks.cpp:185
+msgid "&Index"
+msgstr "&Indeks"
+
+#: plugin_rellinks.cpp:187
+msgid "<p>This link references the index.</p>"
+msgstr "<p>Ova veza upućuje na indeks.</p>"
+
+#: plugin_rellinks.cpp:193
+msgid "More"
+msgstr "Više"
+
+#: plugin_rellinks.cpp:195
+msgid "<p>This menu contains other important links.</p>"
+msgstr "<p>Ovaj izbornik sadrži ostale važne veze.</p>"
+
+#: plugin_rellinks.cpp:199
+msgid "&Help"
+msgstr "&Pomoć"
+
+#: plugin_rellinks.cpp:202
+msgid "<p>This link references the help.</p>"
+msgstr "<p>Ova veza upućuje na pomoć.</p>"
+
+#: plugin_rellinks.cpp:208
+msgid "&Authors"
+msgstr "&Autori"
+
+#: plugin_rellinks.cpp:211
+msgid "<p>This link references the author.</p>"
+msgstr "<p>Ova veza upućuje na autora.</p>"
+
+#: plugin_rellinks.cpp:217
+msgid "Copy&right"
+msgstr "Autorska &prava"
+
+#: plugin_rellinks.cpp:220
+msgid "<p>This link references the copyright.</p>"
+msgstr "<p>Ova veza upućuje na autorska prava.</p>"
+
+#: plugin_rellinks.cpp:225
+msgid "Bookmarks"
+msgstr "Oznake"
+
+#: plugin_rellinks.cpp:228
+msgid "<p>This menu references the bookmarks.</p>"
+msgstr "<p>Ovaj izbornik upućuje na oznake.</p>"
+
+#: plugin_rellinks.cpp:232
+msgid "Other Versions"
+msgstr "Ostale verzije"
+
+#: plugin_rellinks.cpp:235
+msgid "<p>This link references the alternate versions of this document.</p>"
+msgstr "<p>Ova veza upućuje na alternativnu verziju ovog dokumenta.</p>"
+
+#: plugin_rellinks.cpp:240
+msgid "Miscellaneous"
+msgstr "Ostalo"
+
+#: plugin_rellinks.cpp:243
+msgid "<p>Miscellaneous links.</p>"
+msgstr "<p>Ostale veze.</p>"
+
+#: plugin_rellinks.cpp:471 plugin_rellinks.cpp:485
+#, kde-format
+msgid "[Autodetected] %1"
+msgstr "[Automatski otkriveno] %1"
+
+#. i18n: file: plugin_rellinks.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Alati"
+
+#. i18n: file: plugin_rellinks.rc:5
+#. i18n: ectx: Menu (rellinksMenu)
+#. i18n: file: plugin_rellinks.rc:21
+#. i18n: ectx: ToolBar (rellinksToolBar)
+#: rc.cpp:6 rc.cpp:9
+msgid "Document Relations"
+msgstr "Relacije dokumenta"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Renato Pavičić"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "renato@translator-shop.org"

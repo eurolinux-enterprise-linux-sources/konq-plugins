@@ -1,0 +1,446 @@
+# translation of domtreeviewer.po to Khmer
+#
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2006, 2007, 2008, 2009.
+# Auk Piseth <piseth_dv@khmeros.info>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: domtreeviewer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-01 10:41+0100\n"
+"PO-Revision-Date: 2009-01-09 14:12+0700\n"
+"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
+"Language-Team: Khmer <support@khmeros.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: domtreecommands.cpp:33
+msgid "No error"
+msgstr "គ្មាន​កំហុស"
+
+#: domtreecommands.cpp:34
+msgid "Index size exceeded"
+msgstr "លើស​ទំហំ​លិបិក្រម"
+
+#: domtreecommands.cpp:35
+msgid "DOMString size exceeded"
+msgstr "លើស​ទំហំ DOMString"
+
+#: domtreecommands.cpp:36
+msgid "Hierarchy request error"
+msgstr "កំហុស​សំណើ​ឋានានុក្រម​"
+
+#: domtreecommands.cpp:37
+msgid "Wrong document"
+msgstr "ឯកសារ​ខុស"
+
+#: domtreecommands.cpp:38
+msgid "Invalid character"
+msgstr "តួអក្សរ​មិន​ត្រឹមត្រូវ"
+
+#: domtreecommands.cpp:39
+msgid "No data allowed"
+msgstr "គ្មាន​ទិន្នន័យ​បាន​អនុញ្ញាត"
+
+#: domtreecommands.cpp:40
+msgid "No modification allowed"
+msgstr "គ្មាន​ការ​កែប្រែ​បាន​អនុញ្ញាត"
+
+#: domtreecommands.cpp:41
+msgid "Not found"
+msgstr "រក​មិន​ឃើញ"
+
+#: domtreecommands.cpp:42
+msgid "Not supported"
+msgstr "មិន​គាំទ្រ"
+
+#: domtreecommands.cpp:43
+msgid "Attribute in use"
+msgstr "គុណ​លក្ខណៈ​កំពុង​ប្រើ"
+
+#: domtreecommands.cpp:44
+msgid "Invalid state"
+msgstr "ស្ថានភាព​មិន​ត្រឹមត្រូវ"
+
+#: domtreecommands.cpp:45
+msgid "Syntax error"
+msgstr "កំហុស​វាក្យ​សម្ពន្ធ"
+
+#: domtreecommands.cpp:46
+msgid "Invalid modification"
+msgstr "ការ​កែប្រែ​​មិន​ត្រឹមត្រូវ"
+
+#: domtreecommands.cpp:47
+msgid "Namespace error"
+msgstr "កំហុស​ Namespace"
+
+#: domtreecommands.cpp:48
+msgid "Invalid access"
+msgstr "ការ​ចូល​ដំណើរ​ការ​មិន​ត្រឹមត្រូវ"
+
+#: domtreecommands.cpp:56
+#, kde-format
+msgid "Unknown Exception %1"
+msgstr "មិនស្គាល់​ករណី​លើកលែង %1"
+
+#: domtreecommands.cpp:296
+msgid "Add attribute"
+msgstr "បន្ថែម​គុណលក្ខណៈ"
+
+#: domtreecommands.cpp:326
+msgid "Change attribute value"
+msgstr "ផ្លាស់ប្ដូរ​​តម្លៃ​គុណ​លក្ខណៈ"
+
+#: domtreecommands.cpp:357
+msgid "Remove attribute"
+msgstr "យក​គុណលក្ខណៈ​ចេញ"
+
+#: domtreecommands.cpp:389
+msgid "Rename attribute"
+msgstr "ប្តូរ​ឈ្មោះ​គុណលក្ខណៈ"
+
+#: domtreecommands.cpp:425
+msgid "Change textual content"
+msgstr "ផ្លាស់ប្ដូរ​មាតិកា​​ត្រឹមត្រូវ​តាម​អត្ថបទ"
+
+#: domtreecommands.cpp:487
+msgid "Insert node"
+msgstr "បញ្ចូល​ថ្នាំង"
+
+#: domtreecommands.cpp:515
+msgid "Remove node"
+msgstr "យក​ថ្នាំង​ចេញ"
+
+#: domtreecommands.cpp:561
+msgid "Move node"
+msgstr "ផ្លាស់ទី​ថ្នាំង"
+
+#: domtreeview.cpp:70
+msgid "Edit Element"
+msgstr "កែសម្រួល​ធាតុ"
+
+#: domtreeview.cpp:72 domtreeview.cpp:92
+msgid "&Append as Child"
+msgstr "បន្ថែម​ខាង​ចុច​ជា​កូន​ចៅ"
+
+#: domtreeview.cpp:73 domtreeview.cpp:93
+msgid "Insert &Before Current"
+msgstr "បញ្ចូល​មុន​​​បច្ចុប្បន្ន"
+
+#: domtreeview.cpp:90
+msgid "Edit Text"
+msgstr "កែសម្រួល​អត្ថបទ"
+
+#: domtreeview.cpp:110
+msgid "Edit Attribute"
+msgstr "កែសម្រួល​គុណលក្ខណៈ"
+
+#: domtreeview.cpp:172
+#, kde-format
+msgid "DOM Tree for %1"
+msgstr "មែកធាង​ DOM សម្រាប់ %1"
+
+#. i18n: file: domtreeviewbase.ui:115
+#. i18n: ectx: property (text), widget (QTreeWidget, m_listView)
+#: domtreeview.cpp:172 rc.cpp:18
+msgid "DOM Tree"
+msgstr "មែក​ធាង DOM"
+
+#: domtreeview.cpp:513
+msgid "Move Nodes"
+msgstr "ផ្លាស់ទី​ថ្នាំង​"
+
+#: domtreeview.cpp:579
+msgid "Save DOM Tree as HTML"
+msgstr "រក្សាទុក​មែក​ធាង DOM ​ជា HTML"
+
+#: domtreeview.cpp:584
+msgid "File Exists"
+msgstr "មាន​ឯកសារ​"
+
+#: domtreeview.cpp:585
+#, kde-format
+msgid ""
+"Do you really want to overwrite: \n"
+"%1?"
+msgstr ""
+"តើ​អ្នក​ពិត​ជា​ចង់​សរសេរជាន់​​លើ​ ៖ \n"
+"%1 មែន​ទេ ?"
+
+#: domtreeview.cpp:586
+msgid "Overwrite"
+msgstr "សរសេរជាន់​លើ"
+
+#: domtreeview.cpp:599
+msgid "Unable to Open File"
+msgstr "មិន​អាច​បើក​​ឯកសារ"
+
+#: domtreeview.cpp:600
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing"
+msgstr ""
+"មិន​អាច​បើក\n"
+" %1 \n"
+" ដើម្បី​សរសេរ"
+
+#: domtreeview.cpp:604
+msgid "Invalid URL"
+msgstr "URL មិន​ត្រឹមត្រូវ"
+
+#: domtreeview.cpp:605
+#, kde-format
+msgid ""
+"This URL \n"
+" %1 \n"
+" is not valid."
+msgstr ""
+"URL \n"
+" %1 នេះ\n"
+" មិន​ត្រឹមត្រូវ ។"
+
+#: domtreeview.cpp:822
+msgid "Delete Nodes"
+msgstr "លុប​ថ្នាំង"
+
+#: domtreeview.cpp:1033
+msgid "<Click to add>"
+msgstr "<ចុច​ដើម្បី​បន្ថែម>"
+
+#: domtreeview.cpp:1365
+msgid "Delete Attributes"
+msgstr "លុប​គុណលក្ខណៈ"
+
+#: domtreewindow.cpp:62
+msgid "Message Log"
+msgstr "កំណត់​ហេតុ​សារ"
+
+#: domtreewindow.cpp:161
+msgid "Pure DOM Tree"
+msgstr "មែក​ធាង DOM សុទ្ធ"
+
+#: domtreewindow.cpp:167
+msgid "Show DOM Attributes"
+msgstr "បង្ហាញ​គុណលក្ខណៈ DOM"
+
+#: domtreewindow.cpp:174
+msgid "Highlight HTML"
+msgstr "បន្លិច HTML"
+
+#: domtreewindow.cpp:182
+msgid "Show Message Log"
+msgstr "បង្ហាញ​កំណត់​ហេតុ​សារ"
+
+#: domtreewindow.cpp:194
+msgid "Expand"
+msgstr "ពង្រីក"
+
+#: domtreewindow.cpp:197
+msgid "Increase expansion level"
+msgstr "បង្កើន​កម្រិត​ពង្រីក"
+
+#: domtreewindow.cpp:200
+msgid "Collapse"
+msgstr "វេញ"
+
+#: domtreewindow.cpp:203
+msgid "Decrease expansion level"
+msgstr "បន្ថយ​កម្រិត​ពង្រីក"
+
+#: domtreewindow.cpp:209 domtreewindow.cpp:227
+msgid "&Delete"
+msgstr "លុប"
+
+#: domtreewindow.cpp:212
+msgid "Delete nodes"
+msgstr "លុប​ថ្នាំង"
+
+#: domtreewindow.cpp:217
+msgid "New &Element..."
+msgstr "ធាតុ​ថ្មី..."
+
+#: domtreewindow.cpp:221
+msgid "New &Text Node..."
+msgstr "ថ្នាំង​អត្ថបទ​ថ្មី..."
+
+#: domtreewindow.cpp:230
+msgid "Delete attributes"
+msgstr "លុប​គុណលក្ខណៈ"
+
+#: plugin_domtreeviewer.cpp:24
+msgid "Show &DOM Tree"
+msgstr "បង្ហាញ​មែកធាង​របស់ DOM"
+
+#. i18n: file: attributeeditwidget.ui:24
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:3
+msgid "Attribute &name:"
+msgstr "ឈ្មោះ​គុណលក្ខណៈ ៖"
+
+#. i18n: file: attributeeditwidget.ui:42
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:6
+msgid "Attribute &value:"
+msgstr "តម្លៃ​គុណលក្ខណៈ ៖"
+
+#. i18n: file: domtreeviewbase.ui:19
+#. i18n: ectx: property (windowTitle), widget (QWidget, DOMTreeViewBase)
+#: rc.cpp:9
+msgid "DOM Tree Viewer"
+msgstr "កម្មវិធី​មើល​មែកធាង​របស់​ DOM"
+
+#. i18n: file: domtreeviewbase.ui:61
+#. i18n: ectx: property (text), widget (KPushButton, messageListBtn)
+#: rc.cpp:12
+msgid "&List"
+msgstr "បញ្ជី"
+
+#. i18n: file: domtreeviewbase.ui:92
+#. i18n: ectx: property (text), widget (KPushButton, messageHideBtn)
+#: rc.cpp:15
+msgid "H&ide"
+msgstr "លាក់"
+
+#. i18n: file: domtreeviewbase.ui:127
+#. i18n: ectx: attribute (title), widget (QWidget, domTab)
+#: rc.cpp:21
+msgid "DOM Node"
+msgstr "ថ្នាំង DOM"
+
+#. i18n: file: domtreeviewbase.ui:138
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: rc.cpp:24
+msgid "Node &value:"
+msgstr "តម្លៃ​ថ្នាំង ៖"
+
+#. i18n: file: domtreeviewbase.ui:151
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: rc.cpp:27
+msgid "Node &type:"
+msgstr "ប្រភេទ​ថ្នាំង ៖"
+
+#. i18n: file: domtreeviewbase.ui:164
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:30
+msgid "Namespace &URI:"
+msgstr "URI Namespace ៖"
+
+#. i18n: file: domtreeviewbase.ui:177
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:33
+msgid "Node &name:"
+msgstr "ឈ្មោះ​ថ្នាំង ៖"
+
+#. i18n: file: domtreeviewbase.ui:249
+#. i18n: ectx: property (text), widget (QTreeWidget, nodeAttributes)
+#: rc.cpp:36
+msgid "Name"
+msgstr "ឈ្មោះ"
+
+#. i18n: file: domtreeviewbase.ui:254
+#. i18n: ectx: property (text), widget (QTreeWidget, nodeAttributes)
+#. i18n: file: domtreeviewbase.ui:344
+#. i18n: ectx: property (text), widget (QTreeWidget, cssProperties)
+#: rc.cpp:39 rc.cpp:51
+msgid "Value"
+msgstr "តម្លៃ"
+
+#. i18n: file: domtreeviewbase.ui:287
+#. i18n: ectx: property (text), widget (QPushButton, applyContent)
+#: rc.cpp:42
+msgid "Appl&y"
+msgstr "អនុវត្ត"
+
+#. i18n: file: domtreeviewbase.ui:320
+#. i18n: ectx: attribute (title), widget (QWidget, cssTab)
+#: rc.cpp:45
+msgid "Computed Style"
+msgstr "រចនាប័ទ្ម​ដែល​បានគណនា"
+
+#. i18n: file: domtreeviewbase.ui:339
+#. i18n: ectx: property (text), widget (QTreeWidget, cssProperties)
+#: rc.cpp:48
+msgid "Property"
+msgstr "លក្ខណៈសម្បត្តិ"
+
+#. i18n: file: domtreeviewbase.ui:353
+#. i18n: ectx: attribute (title), widget (QWidget, styleSheetsTab)
+#: rc.cpp:54
+msgid "Stylesheets"
+msgstr "សន្លឹក​រចនាប័ទ្ម"
+
+#. i18n: file: domtreeviewbase.ui:366
+#. i18n: ectx: property (text), widget (QTreeWidget, styleSheetsTree)
+#: rc.cpp:57
+msgid "1"
+msgstr "១"
+
+#. i18n: file: domtreeviewerui.rc:4
+#. i18n: ectx: Menu (file)
+#: rc.cpp:60
+msgid "&File"
+msgstr "ឯកសារ"
+
+#. i18n: file: domtreeviewerui.rc:6
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:63
+msgid "&Edit"
+msgstr "កែសម្រួល"
+
+#. i18n: file: domtreeviewerui.rc:8
+#. i18n: ectx: Menu (view)
+#: rc.cpp:66
+msgid "&View"
+msgstr "មើល"
+
+#. i18n: file: domtreeviewerui.rc:19
+#. i18n: ectx: Menu (go)
+#: rc.cpp:69
+msgid "&Go"
+msgstr "ទៅ"
+
+#. i18n: file: domtreeviewerui.rc:23
+#. i18n: ectx: ToolBar (mainToolBar)
+#: rc.cpp:72
+msgid "Main Toolbar"
+msgstr "របារ​ឧបករណ៍​មេ"
+
+#. i18n: file: domtreeviewerui.rc:25
+#. i18n: ectx: ToolBar (treeToolBar)
+#: rc.cpp:75
+msgid "Tree Toolbar"
+msgstr "របារ​ឧបករណ៍​មែកធាង"
+
+#. i18n: file: elementeditwidget.ui:24
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:78
+msgid "Element &name:"
+msgstr "ឈ្មោះ​ធាតុ ៖"
+
+#. i18n: file: elementeditwidget.ui:47
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:81
+msgid "Element &namespace:"
+msgstr "ធាតុ namespace ៖"
+
+#. i18n: file: plugin_domtreeviewer.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:84
+msgid "&Tools"
+msgstr "ឧបករណ៍"
+
+#. i18n: file: plugin_domtreeviewer.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:87
+msgid "Extra Toolbar"
+msgstr "របារ​ឧបករណ៍​បន្ថែម"
+
+#. i18n: file: texteditwidget.ui:19
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:90
+msgid "Edit &text for text node:"
+msgstr "កែសម្រួល​អត្ថបទ​សម្រាប់​ថ្នាំង​អត្ថបទ ៖"

@@ -1,0 +1,183 @@
+# translation of babelfish.po to Greek
+# Copyright (C) 2003, 2005, 2007 Free Software Foundation, Inc.
+#
+# Stergios Dramis <sdramis@egnatia.ee.auth.gr>, 2002-2003.
+# Filippos Slavik <fsla@forthnet.gr>, 2005.
+# Spiros Georgaras <sng@hellug.gr>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: babelfish\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-17 07:03+0200\n"
+"PO-Revision-Date: 2007-03-06 22:45+0200\n"
+"Last-Translator: Spiros Georgaras <sng@hellug.gr>\n"
+"Language-Team: Greek <i18ngr@lists.hellug.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: plugin_babelfish.cpp:50
+msgid "Translate Web Page"
+msgstr "Μετάφραση ιστοσελίδας"
+
+#: plugin_babelfish.cpp:60
+msgid "Translate Web &Page"
+msgstr "Μετά&φραση ιστοσελίδας"
+
+#: plugin_babelfish.cpp:66
+msgid "&English To"
+msgstr "&Αγγλικά στα "
+
+#: plugin_babelfish.cpp:69
+msgid "&French To"
+msgstr "&Γαλλικά στα"
+
+#: plugin_babelfish.cpp:72
+msgid "&German To"
+msgstr "Γ&ερμανικά στα"
+
+#: plugin_babelfish.cpp:76
+msgid "&Spanish To"
+msgstr "&Ισπανικά στα"
+
+#: plugin_babelfish.cpp:80
+msgid "&Portuguese To"
+msgstr "&Πορτογαλικά στα"
+
+#: plugin_babelfish.cpp:84
+msgid "&Italian To"
+msgstr "Ι&ταλικά στα"
+
+#: plugin_babelfish.cpp:88
+msgid "&Dutch To"
+msgstr "&Ολλανδικά στα"
+
+#: plugin_babelfish.cpp:94
+msgid "&Chinese (Simplified)"
+msgstr "&Κινέζικα (Απλοποιημένα)"
+
+#: plugin_babelfish.cpp:95
+msgid "Chinese (&Traditional)"
+msgstr "Κινέζικα (Παρα&δοσιακά)"
+
+#: plugin_babelfish.cpp:96 plugin_babelfish.cpp:107
+msgid "&Dutch"
+msgstr "&Ολλανδικά"
+
+#: plugin_babelfish.cpp:97 plugin_babelfish.cpp:114 plugin_babelfish.cpp:116
+#: plugin_babelfish.cpp:118 plugin_babelfish.cpp:120 plugin_babelfish.cpp:122
+msgid "&French"
+msgstr "&Γαλλικά"
+
+#: plugin_babelfish.cpp:98 plugin_babelfish.cpp:109
+msgid "&German"
+msgstr "Γ&ερμανικά"
+
+#: plugin_babelfish.cpp:99 plugin_babelfish.cpp:110
+msgid "&Italian"
+msgstr "Ιτ&αλικά"
+
+#: plugin_babelfish.cpp:100
+msgid "&Japanese"
+msgstr "&Γιαπωνέζικα"
+
+#: plugin_babelfish.cpp:101
+msgid "&Korean"
+msgstr "Κορ&εάτικα"
+
+#: plugin_babelfish.cpp:102
+msgid "&Norwegian"
+msgstr "&Νορβηγικά"
+
+#: plugin_babelfish.cpp:103 plugin_babelfish.cpp:111
+msgid "&Portuguese"
+msgstr "&Πορτογαλικά"
+
+#: plugin_babelfish.cpp:104
+msgid "&Russian"
+msgstr "&Ρωσικά"
+
+#: plugin_babelfish.cpp:105 plugin_babelfish.cpp:112
+msgid "&Spanish"
+msgstr "&Ισπανικά"
+
+#: plugin_babelfish.cpp:106
+msgid "T&hai"
+msgstr "&Ταϊλανδέζικα"
+
+#: plugin_babelfish.cpp:108 plugin_babelfish.cpp:113 plugin_babelfish.cpp:115
+#: plugin_babelfish.cpp:117 plugin_babelfish.cpp:119 plugin_babelfish.cpp:121
+msgid "&English"
+msgstr "&Αγγλικά"
+
+#: plugin_babelfish.cpp:123 plugin_babelfish.cpp:142
+msgid "&Chinese (Simplified) to English"
+msgstr "&Κινέζικα (Απλοποιημένα) στα Αγγλικά"
+
+#: plugin_babelfish.cpp:124 plugin_babelfish.cpp:147
+msgid "Chinese (&Traditional) to English"
+msgstr "Κινέζικα (Παρα&δοσιακά) στα Αγγλικά"
+
+#: plugin_babelfish.cpp:158
+msgid "&Japanese to English"
+msgstr "Ια&πωνικά στα Αγγλικά"
+
+#: plugin_babelfish.cpp:163
+msgid "&Korean to English"
+msgstr "&Κορεάτικα στα Αγγλικά"
+
+#: plugin_babelfish.cpp:170
+msgid "&Russian to English"
+msgstr "&Ρωσικά στα Αγγλικά"
+
+#: plugin_babelfish.cpp:214
+msgid "Cannot Translate Source"
+msgstr "Αδύνατη η μετάφραση της πηγής"
+
+#: plugin_babelfish.cpp:215
+msgid "Only web pages can be translated using this plugin."
+msgstr "Μόνο ιστοσελίδες μπορούν να μεταφραστούν με αυτό το πρόσθετο."
+
+#: plugin_babelfish.cpp:261
+msgid "Only full webpages can be translated for this language pair."
+msgstr ""
+"Μόνο πλήρως ολοκληρωμένες ιστοσελίδες μπορούν να μεταφραστούν με αυτό τον "
+"συνδυασμό γλωσσών."
+
+#: plugin_babelfish.cpp:261
+msgid "Translation Error"
+msgstr "Σφάλμα μετάφρασης"
+
+#: plugin_babelfish.cpp:269
+msgid "Malformed URL"
+msgstr "Κακοδιατυπωμένο URL"
+
+#: plugin_babelfish.cpp:270
+msgid "The URL you entered is not valid, please correct it and try again."
+msgstr ""
+"Το URL που δώσατε δεν είναι έγκυρο, παρακαλώ διορθώστε το και προσπαθήστε "
+"ξανά."
+
+#. i18n: file: plugin_babelfish.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "Ερ&γαλεία"
+
+#. i18n: file: plugin_babelfish.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Επιπρόσθετη γραμμή εργαλείων"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Φίλιππος Σλάβικ"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "fsla@forthnet.gr"

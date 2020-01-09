@@ -1,0 +1,173 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# David Kolibac <kolibac@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: adblock\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-31 06:46+0100\n"
+"PO-Revision-Date: 2008-10-22 21:21+0200\n"
+"Last-Translator: David Kolibac <kolibac@gmail.com>\n"
+"Language-Team: American English <kde-czech-apps@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LoKalize 0.2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: adblock.cpp:71
+msgid "Adblock"
+msgstr "Adblock"
+
+#: adblock.cpp:77
+#, fuzzy
+#| msgid "Show Elements..."
+msgid "Show Blockable Elements..."
+msgstr "Zobrazit prvky..."
+
+#: adblock.cpp:82 adblockdialog.cpp:96
+#, fuzzy
+#| msgid "Configure..."
+msgid "Configure Filters..."
+msgstr "Nastavit..."
+
+#: adblock.cpp:91
+#, fuzzy
+#| msgid "Disable for this page"
+msgid "No blocking for this page"
+msgstr "Zakázat pro tuto stránku"
+
+#: adblock.cpp:96
+#, fuzzy
+#| msgid "Disable for this site"
+msgid "No blocking for this site"
+msgstr "Zakázat pro tento server"
+
+#: adblock.cpp:172
+msgid "Please enable Konqueror's Adblock"
+msgstr "Prosím povolte Adblock Konquerora"
+
+#: adblock.cpp:173
+msgid "Adblock disabled"
+msgstr "Adblock zakázán"
+
+#: adblock.cpp:206
+msgid "script"
+msgstr "skript"
+
+#: adblock.cpp:207 adblock.cpp:208
+msgid "object"
+msgstr "objekt"
+
+#: adblock.cpp:210
+msgid "frame"
+msgstr ""
+
+#: adblock.cpp:231
+msgid "image"
+msgstr "obrázek"
+
+#: adblock.cpp:290
+#, kde-format
+msgid "Blocked by %1"
+msgstr ""
+
+#: adblock.cpp:293
+#, kde-format
+msgid "Allowed by %1"
+msgstr ""
+
+#: adblockdialog.cpp:93
+#, fuzzy
+#| msgid "All blockable items in this page:"
+msgid "Blockable items on this page"
+msgstr "Všechny blokovatelné položky na této stránce:"
+
+#: adblockdialog.cpp:98
+msgid "Add filter"
+msgstr ""
+
+#: adblockdialog.cpp:107
+msgid "Search:"
+msgstr ""
+
+#: adblockdialog.cpp:114
+#, fuzzy
+#| msgid "All blockable items in this page:"
+msgid "Blockable items:"
+msgstr "Všechny blokovatelné položky na této stránce:"
+
+#: adblockdialog.cpp:123
+msgid "Source"
+msgstr "Zdroj"
+
+#: adblockdialog.cpp:123
+msgid "Category"
+msgstr "Kategorie"
+
+#: adblockdialog.cpp:123
+msgid "Tag"
+msgstr ""
+
+#: adblockdialog.cpp:150
+msgid ""
+"New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
+"@@ for white list):"
+msgstr ""
+
+#: adblockdialog.cpp:170
+msgid "Filter this item"
+msgstr "Filtrovat tuto položku"
+
+#: adblockdialog.cpp:171
+msgid "Filter all items at same path"
+msgstr "Filtrovat všechny položky se stejnou cestou"
+
+#: adblockdialog.cpp:172
+#, fuzzy
+#| msgid "Filter all items at same path"
+msgid "Filter all items from same host"
+msgstr "Filtrovat všechny položky se stejnou cestou"
+
+#: adblockdialog.cpp:173
+#, fuzzy
+#| msgid "Filter all items at same path"
+msgid "Filter all items from same domain"
+msgstr "Filtrovat všechny položky se stejnou cestou"
+
+#: adblockdialog.cpp:175
+msgid "Add this item to white list"
+msgstr "Přidat položku do povolených"
+
+#: adblockdialog.cpp:177
+msgid "Copy Link Address"
+msgstr "Kopírovat adresu odkazu"
+
+#: adblockdialog.cpp:180
+msgid "View item"
+msgstr ""
+
+#. i18n: file: plugin_adblock.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Nástroje"
+
+#. i18n: file: plugin_adblock.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Extra lišta nástrojů"
+
+#~ msgid "Adblock dialog"
+#~ msgstr "Dialog Adblocku"
+
+#~ msgid "Node Name"
+#~ msgstr "Název uzlu"
+
+#~ msgid "New filter (use * as a wildcard):"
+#~ msgstr "Nový filtr (použijte * jako zástupný znak):"
+
+#~ msgid "Show it"
+#~ msgstr "Zobrazit"

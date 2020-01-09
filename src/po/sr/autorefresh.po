@@ -1,0 +1,75 @@
+# translation of autorefresh.po to Serbian
+# Bojan Bozovic <bole89@infosky.net>, 2003.
+# Slobodan Simic <simicsl@verat.net>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: autorefresh\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-07-07 11:39+0200\n"
+"PO-Revision-Date: 2008-11-17 12:36+0100\n"
+"Last-Translator: Slobodan Simic <simicsl@verat.net>\n"
+"Language-Team: Serbian <kde-i18n-sr@kde.org>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Environment: kde\n"
+
+#: autorefresh.cpp:42
+msgid "&Auto Refresh"
+msgstr "&Аутоматско освежавање"
+
+#: autorefresh.cpp:46
+msgid "None"
+msgstr "Нема"
+
+#: autorefresh.cpp:47
+msgid "Every 15 Seconds"
+msgstr "Сваких 15 секунди"
+
+#: autorefresh.cpp:48
+msgid "Every 30 Seconds"
+msgstr "Сваких 30 секунди"
+
+#: autorefresh.cpp:49
+msgid "Every Minute"
+msgstr "Сваког минута"
+
+#: autorefresh.cpp:50
+msgid "Every 5 Minutes"
+msgstr "Сваких 5 минута"
+
+#: autorefresh.cpp:51
+msgid "Every 10 Minutes"
+msgstr "Сваких 10 минута"
+
+#: autorefresh.cpp:52
+msgid "Every 15 Minutes"
+msgstr "Сваких 15 минута"
+
+#: autorefresh.cpp:53
+msgid "Every 30 Minutes"
+msgstr "Сваких 30 минута"
+
+#: autorefresh.cpp:54
+msgid "Every 60 Minutes"
+msgstr "Сваких 60 минута"
+
+#: autorefresh.cpp:105
+msgid "Cannot Refresh Source"
+msgstr "Није могуће освежити извор"
+
+#: autorefresh.cpp:106
+msgid "<qt>This plugin cannot auto-refresh the current part.</qt>"
+msgstr "<qt>Овај прикључак не може аутоматски да освежи текући део.</qt>"
+
+#. i18n: file: autorefresh.rc:5
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "Ала&тке"

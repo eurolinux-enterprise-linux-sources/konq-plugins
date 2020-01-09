@@ -1,0 +1,251 @@
+# translation of imgalleryplugin.po to Lithuanian
+# Ričardas Čepas <rch@richard.eu.org>, 2003.
+# Donatas Glodenis <dgvirtual@akl.lt>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: imgalleryplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2005-12-07 14:27+0200\n"
+"Last-Translator: Donatas Glodenis <dgvirtual@akl.lt>\n"
+"Language-Team: Lithuanian <kde-i18n-lt@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10==1 && n%100!=11 ? 1 : n%"
+"10>=2 && (n%100<10 || n%100>=20) ? 2 : 3);\n"
+
+#: imgallerydialog.cpp:53
+msgid "Configure"
+msgstr "Konfigūruoti"
+
+#: imgallerydialog.cpp:61
+msgid "Create Image Gallery"
+msgstr "Sukurti piešinių galeriją"
+
+#: imgallerydialog.cpp:62
+msgid "Create"
+msgstr "Sukurti"
+
+#: imgallerydialog.cpp:72 imgallerydialog.cpp:113
+#, kde-format
+msgid "Image Gallery for %1"
+msgstr "Piešinių galerija %1"
+
+#: imgallerydialog.cpp:99
+msgid "Look"
+msgstr "Išvaizda"
+
+#: imgallerydialog.cpp:100
+msgid "Page Look"
+msgstr "Puslapio išvaizda"
+
+#: imgallerydialog.cpp:110
+msgid "&Page title:"
+msgstr "&Puslapio antraštė:"
+
+#: imgallerydialog.cpp:120
+msgid "I&mages per row:"
+msgstr "Piešinių vienoje &eilutėje:"
+
+#: imgallerydialog.cpp:128
+msgid "Show image file &name"
+msgstr "Rodyti piešinio &failo vardą"
+
+#: imgallerydialog.cpp:132
+msgid "Show image file &size"
+msgstr "Rodyti piešinio failo &dydį"
+
+#: imgallerydialog.cpp:136
+msgid "Show image &dimensions"
+msgstr "Rodyti piešinio &matmenis"
+
+#: imgallerydialog.cpp:149
+msgid "Fon&t name:"
+msgstr "Š&rifto vardas:"
+
+#: imgallerydialog.cpp:161
+msgid "Font si&ze:"
+msgstr "Šrifto &dydis:"
+
+#: imgallerydialog.cpp:173
+msgid "&Foreground color:"
+msgstr "Prie&kinio plano spalva:"
+
+#: imgallerydialog.cpp:185
+msgid "&Background color:"
+msgstr "&Fono spalva:"
+
+#: imgallerydialog.cpp:196 imgallerydialog.cpp:197
+msgid "Folders"
+msgstr "Aplankai"
+
+#: imgallerydialog.cpp:206
+msgid "&Save to HTML file:"
+msgstr "Į&rašyti į HTML failą:"
+
+#: imgallerydialog.cpp:209
+#, fuzzy
+msgid "<p>The name of the HTML file this gallery will be saved to.</p>"
+msgstr "<p>HTML failo, į kurią ši galerija bus išsaugota, vardas."
+
+#: imgallerydialog.cpp:220
+msgid "&Recurse subfolders"
+msgstr "Į&skaitant ir paaplankius"
+
+#: imgallerydialog.cpp:222
+#, fuzzy
+msgid ""
+"<p>Whether subfolders should be included for the image gallery creation or "
+"not.</p>"
+msgstr ""
+"<p>Ar paaplankiai taip pat turi būti įtraukti į kuriamą paveikslėlių "
+"galeriją, ar ne."
+
+#: imgallerydialog.cpp:230
+msgid "Rec&ursion depth:"
+msgstr "Nusileidimo į paaplankius &lygis:"
+
+#: imgallerydialog.cpp:232
+msgid "Endless"
+msgstr "Neribotas"
+
+#: imgallerydialog.cpp:234
+#, fuzzy
+msgid ""
+"<p>You can limit the number of folders the image gallery creator will "
+"traverse to by setting an upper bound for the recursion depth.</p>"
+msgstr ""
+"<p>Galite nurodyti, kiek giliai failų sistemoje paveikslėlių galerijos "
+"formavimo metu bus ieškoma paveikslėlių; tuo tikslu nurodykite didžiausią "
+"rekursijos gylį."
+
+#: imgallerydialog.cpp:246
+msgid "Copy or&iginal files"
+msgstr "Kopijuoti &orginalius failus"
+
+#: imgallerydialog.cpp:249
+#, fuzzy
+msgid ""
+"<p>This makes a copy of all images and the gallery will refer to these "
+"copies instead of the original images.</p>"
+msgstr ""
+"<p>Bus sukurtos visų paveikslėlių kopijos, ir galerija vietoje originalų "
+"pateiks nuorodas į kopijas."
+
+#: imgallerydialog.cpp:255
+msgid "Use &comment file"
+msgstr "Naudoti &komentarų failą"
+
+#: imgallerydialog.cpp:259
+msgid ""
+"<p>If you enable this option you can specify a comment file which will be "
+"used for generating subtitles for the images.</p><p>For details about the "
+"file format please see the \"What's This?\" help below.</p>"
+msgstr ""
+"<p>Įjungus šią parinktį galite nurodyti komentarų failą, kuris bus "
+"naudojamas paantraščių paveikslėliams generavimui.<p>Norėdami sužinoti šios "
+"failo formatą prašome peržiūrėti „Kas tai yra?“ pagalbą žemiau."
+
+#: imgallerydialog.cpp:266
+msgid "Comments &file:"
+msgstr "K&omentarų failas:"
+
+#: imgallerydialog.cpp:269
+msgid ""
+"<p>You can specify the name of the comment file here. The comment file "
+"contains the subtitles for the images. The format of this file is:</"
+"p><p>FILENAME1:<br />Description<br /><br />FILENAME2:<br />Description<br /"
+"><br />and so on</p>"
+msgstr ""
+"<p>Čia galite nurodyti komentaro failo vardą. Komentarų faile gali būti "
+"rašomos paveikslėlių paantraštės. Šios failo formatas yra:</<p>FAILOVARDAS1:"
+"<br />Aprašymas<br /><br />FAILOVARDAS2:<br>Aprašymas<br /><br />ir taip "
+"toliau</p>"
+
+#: imgallerydialog.cpp:297 imgallerydialog.cpp:298
+msgid "Thumbnails"
+msgstr "Miniatiūros"
+
+#: imgallerydialog.cpp:317
+msgid "Image format f&or the thumbnails:"
+msgstr "Miniatiūrų paveikslėlių f&ormatas:"
+
+#: imgallerydialog.cpp:325
+msgid "Thumbnail size:"
+msgstr "Miniatiūrų dydis:"
+
+#: imgallerydialog.cpp:337
+msgid "&Set different color depth:"
+msgstr "&Nustatyti kitokį spalvų gylį:"
+
+#: imgalleryplugin.cpp:59
+msgid "&Create Image Gallery..."
+msgstr "Su&kurti piešinių galeriją..."
+
+#: imgalleryplugin.cpp:70
+msgid "Could not create the plugin, please report a bug."
+msgstr "Nepavyko sukurti priedo, praneškite apie šią ydą."
+
+#: imgalleryplugin.cpp:76
+msgid "Creating an image gallery works only on local folders."
+msgstr "Piešinių galerijos kūrimas galimas tik vietiniuose aplankuose."
+
+#: imgalleryplugin.cpp:95
+msgid "Creating thumbnails"
+msgstr "Sukuriamos miniatiūros"
+
+#: imgalleryplugin.cpp:116 imgalleryplugin.cpp:279
+#, fuzzy, kde-format
+msgid "Could not create folder: %1"
+msgstr "Nepavyko sukurti aplanko: %1"
+
+#: imgalleryplugin.cpp:177
+#, kde-format
+msgid "<i>Number of images</i>: %1"
+msgstr "<i>Piešinių skaičius</i>: %1"
+
+#: imgalleryplugin.cpp:178
+#, kde-format
+msgid "<i>Created on</i>: %1"
+msgstr "<i>Sukurta</i>: %1"
+
+#: imgalleryplugin.cpp:183
+msgid "<i>Subfolders</i>:"
+msgstr "<i>Paaplankiai</i>:"
+
+#: imgalleryplugin.cpp:216
+#, kde-format
+msgid ""
+"Created thumbnail for: \n"
+"%1"
+msgstr ""
+"Sukurta miniatiūra: \n"
+"%1"
+
+#: imgalleryplugin.cpp:219
+#, kde-format
+msgid ""
+"Creating thumbnail for: \n"
+"%1\n"
+" failed"
+msgstr ""
+"Sukurti miniatiūrą: \n"
+"%1\n"
+" nepavyko"
+
+#: imgalleryplugin.cpp:237
+msgid "KB"
+msgstr "KB"
+
+#: imgalleryplugin.cpp:333 imgalleryplugin.cpp:428
+#, kde-format
+msgid "Could not open file: %1"
+msgstr "Nepavyko atverti failo: %1"
+
+#. i18n: file: kimgalleryplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "Įrank&iai"

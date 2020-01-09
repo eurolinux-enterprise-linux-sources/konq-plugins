@@ -1,0 +1,162 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: adblock\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-31 06:46+0100\n"
+"PO-Revision-Date: 2009-08-02 11:53+0300\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > "
+"0 && n%100 < 20)) ? 1 : 2;\n"
+
+#: adblock.cpp:71
+msgid "Adblock"
+msgstr "Adblock"
+
+#: adblock.cpp:77
+msgid "Show Blockable Elements..."
+msgstr "Afișare elemente blocabile..."
+
+#: adblock.cpp:82 adblockdialog.cpp:96
+msgid "Configure Filters..."
+msgstr "Configurare filtre..."
+
+#: adblock.cpp:91
+msgid "No blocking for this page"
+msgstr "Fără blocare pentru această pagină"
+
+#: adblock.cpp:96
+msgid "No blocking for this site"
+msgstr "Fără blocare pentru acest sit"
+
+#: adblock.cpp:172
+msgid "Please enable Konqueror's Adblock"
+msgstr "Activați modulul Adblock al lui Konqueror"
+
+#: adblock.cpp:173
+msgid "Adblock disabled"
+msgstr "Adblock dezactivat"
+
+#: adblock.cpp:206
+msgid "script"
+msgstr "script"
+
+#: adblock.cpp:207 adblock.cpp:208
+msgid "object"
+msgstr "obiect"
+
+#: adblock.cpp:210
+msgid "frame"
+msgstr "cadru"
+
+#: adblock.cpp:231
+msgid "image"
+msgstr "imagine"
+
+#: adblock.cpp:290
+#, kde-format
+msgid "Blocked by %1"
+msgstr ""
+
+#: adblock.cpp:293
+#, kde-format
+msgid "Allowed by %1"
+msgstr ""
+
+#: adblockdialog.cpp:93
+msgid "Blockable items on this page"
+msgstr "Elemente blocabile pe această pagină"
+
+#: adblockdialog.cpp:98
+msgid "Add filter"
+msgstr "Adaugă filtru"
+
+#: adblockdialog.cpp:107
+msgid "Search:"
+msgstr "Caută:"
+
+#: adblockdialog.cpp:114
+msgid "Blockable items:"
+msgstr "Elemente blocabile:"
+
+#: adblockdialog.cpp:123
+msgid "Source"
+msgstr "Sursă"
+
+#: adblockdialog.cpp:123
+msgid "Category"
+msgstr "Categorie"
+
+#: adblockdialog.cpp:123
+msgid "Tag"
+msgstr "Marcaj"
+
+#: adblockdialog.cpp:150
+#, fuzzy
+#| msgid "New filter (can use *?[] wildcards, prefix with @@ for white list):"
+msgid ""
+"New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
+"@@ for white list):"
+msgstr ""
+"Filtru nou (poate utiliza metacaractere *?[], prefixați cu @@ pentru listă "
+"albă):"
+
+#: adblockdialog.cpp:170
+msgid "Filter this item"
+msgstr "Filtrează acest element"
+
+#: adblockdialog.cpp:171
+msgid "Filter all items at same path"
+msgstr "Filtrează toate elementele la aceeași cale"
+
+#: adblockdialog.cpp:172
+msgid "Filter all items from same host"
+msgstr "Filtrează toate elementele de la aceeași gazdă"
+
+#: adblockdialog.cpp:173
+msgid "Filter all items from same domain"
+msgstr "Filtrează toate elementele de la același domeniu"
+
+#: adblockdialog.cpp:175
+msgid "Add this item to white list"
+msgstr "Adaugă acest element la lista albă"
+
+#: adblockdialog.cpp:177
+msgid "Copy Link Address"
+msgstr "Copiază adresa legăturii"
+
+#: adblockdialog.cpp:180
+msgid "View item"
+msgstr "Vizualizează element"
+
+#. i18n: file: plugin_adblock.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Unelte"
+
+#. i18n: file: plugin_adblock.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Bară suplimentară"
+
+#~ msgid "Adblock dialog"
+#~ msgstr "Dialog Adblock"
+
+#~ msgid "Node Name"
+#~ msgstr "Denumire nod"
+
+#~ msgid "New filter (use * as a wildcard):"
+#~ msgstr "Filtru nou (utilizați * ca metacaracter):"
+
+#~ msgid "Show it"
+#~ msgstr "Afișează-l"

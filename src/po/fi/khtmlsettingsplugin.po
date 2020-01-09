@@ -1,0 +1,107 @@
+# translation of khtmlsettingsplugin.po to Finnish
+# Kim Enkovaara <kim.enkovaara@iki.fi>, 2003.
+# Teemu Rytilahti <teemu.rytilahti@kde-fi.org>, 2003, 2004.
+# Teemu Rytilahti <teemu.rytilahti@d5k.net>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: khtmlsettingsplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-26 10:56+0100\n"
+"PO-Revision-Date: 2008-11-03 09:46+0200\n"
+"Last-Translator: Teemu Rytilahti <teemu.rytilahti@d5k.net>\n"
+"Language-Team: Finnish <kde-i18n-doc@lists.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: khtmlsettingsplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Työkalut"
+
+#. i18n: file: khtmlsettingsplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Ylimääräinen työkalupalkki"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Teemu Rytilahti"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "teemu.rytilahti@kde-fi.org"
+
+#: settingsplugin.cpp:40 settingsplugin.cpp:52
+msgid "HTML Settings"
+msgstr "HTML-asetukset"
+
+#: settingsplugin.cpp:61
+msgid "Java&Script"
+msgstr "Java&Script"
+
+#: settingsplugin.cpp:66
+msgid "&Java"
+msgstr "&Java"
+
+#: settingsplugin.cpp:71
+msgid "&Cookies"
+msgstr "&Evästeet"
+
+#: settingsplugin.cpp:76
+msgid "&Plugins"
+msgstr "&Sovelmat"
+
+#: settingsplugin.cpp:81
+msgid "Autoload &Images"
+msgstr "Lataa &kuvat automaattisesti"
+
+#: settingsplugin.cpp:88
+msgid "Enable Pro&xy"
+msgstr "Käytä &välityspalvelinta"
+
+#: settingsplugin.cpp:93
+msgid "Enable Cac&he"
+msgstr "Käytä väli&muistia"
+
+#: settingsplugin.cpp:99
+msgid "Cache Po&licy"
+msgstr "Välimuisti&käytäntö"
+
+#: settingsplugin.cpp:101
+msgid "&Keep Cache in Sync"
+msgstr "&Pidä välimuisti synkronoituna"
+
+#: settingsplugin.cpp:102
+msgid "&Use Cache if Possible"
+msgstr "&Käytä välimuistia, jos mahdollista"
+
+#: settingsplugin.cpp:103
+msgid "&Offline Browsing Mode"
+msgstr "&Offline -selailutila"
+
+#: settingsplugin.cpp:187
+#, fuzzy
+#| msgid ""
+#| "I can not enable cookies, because the cookie daemon could not be started."
+msgid ""
+"Cookies could not be enabled, because the cookie daemon could not be started."
+msgstr ""
+"Ei voitu ottaa evästeitä käyttöön, koska evästepalvelinta ei voitu "
+"käynnistää."
+
+#: settingsplugin.cpp:189
+msgid "Cookies Disabled"
+msgstr "Evästeet pois käytöstä"
+
+#~ msgid "Disable Pro&xy"
+#~ msgstr "Poista väl&ityspalvelin käytöstä"
+
+#~ msgid "Disable Cac&he"
+#~ msgstr "Poista vä&limuisti käytöstä"

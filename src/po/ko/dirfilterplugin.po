@@ -1,0 +1,74 @@
+# Translation of dirfilterplugin to Korean.
+# Copyright (C) 2007 This_file_is_part_of_KDE
+# This file is distributed under the same license as the extragear-base package.
+# Park Shinjo <peremen@gmail.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-base\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2007-12-27 11:18+0900\n"
+"Last-Translator: Park Shinjo <peremen@gmail.com>\n"
+"Language-Team: Korean <cho.sungjae@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "보기 필터(&I)"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr "현재 보이는 항목을 파일 형식을 통하여 걸러 냅니다."
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr "필터 항목"
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "지정한 형식의 항목만 보이기"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "여러 개의 필터 사용하기"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "개수 보이기"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "초기화"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "도구(&T)"
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "추가 도구 모음"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "필터 도구 모음"
+
+#~ msgid "Clear Filter Field"
+#~ msgstr "필터 항목 비우기"
+
+#~ msgid "Clear filter field<p>Clears the content of the filter field.</p>"
+#~ msgstr "필터 항목 비우기<p>필터 항목의 내용을 비웁니다.</p>"
+
+#~ msgid ""
+#~ "Enter here a text which an item in the view must contain anywhere to be "
+#~ "shown."
+#~ msgstr "보기의 항목이 포함해야 하는 텍스트를 입력하십시오."

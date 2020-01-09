@@ -1,0 +1,77 @@
+# Translation of autorefresh to Norwegian Bokmål
+#
+# Knut Yrvin <knuty@skolelinux.no>, 2003.
+# Axel Bojer <axelb@skolelinux.no>, 2004, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: autorefresh\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-07-07 11:39+0200\n"
+"PO-Revision-Date: 2007-11-15 21:51+0100\n"
+"Last-Translator: MagicPO 0.3 (automated)\n"
+"Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: MagicPO 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: nb\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: autorefresh.cpp:42
+msgid "&Auto Refresh"
+msgstr "&Automatisk oppfriskning"
+
+#: autorefresh.cpp:46
+msgid "None"
+msgstr "Ingen"
+
+#: autorefresh.cpp:47
+msgid "Every 15 Seconds"
+msgstr "Hvert 15. sekund"
+
+#: autorefresh.cpp:48
+msgid "Every 30 Seconds"
+msgstr "Hvert 30. sekund"
+
+#: autorefresh.cpp:49
+msgid "Every Minute"
+msgstr "Hvert minutt"
+
+#: autorefresh.cpp:50
+msgid "Every 5 Minutes"
+msgstr "Hvert 5. minutt"
+
+#: autorefresh.cpp:51
+msgid "Every 10 Minutes"
+msgstr "Hvert 10. minutt"
+
+#: autorefresh.cpp:52
+msgid "Every 15 Minutes"
+msgstr "Hvert 15. minutt"
+
+#: autorefresh.cpp:53
+msgid "Every 30 Minutes"
+msgstr "Hvert 30. minutt"
+
+#: autorefresh.cpp:54
+msgid "Every 60 Minutes"
+msgstr "Hver time"
+
+#: autorefresh.cpp:105
+msgid "Cannot Refresh Source"
+msgstr "Kan ikke friske opp kilden"
+
+#: autorefresh.cpp:106
+msgid "<qt>This plugin cannot auto-refresh the current part.</qt>"
+msgstr ""
+"<qt>Dette programtillegget kan ikke friske opp den gjeldende delen "
+"automatisk.</qt>"
+
+#. i18n: file: autorefresh.rc:5
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Verktøy"

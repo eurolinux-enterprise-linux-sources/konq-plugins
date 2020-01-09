@@ -1,0 +1,77 @@
+# translation of dirfilterplugin.po to Uzbek
+#
+# Abdurahmonov Nurali <mavnur@gmail.com>, 2006.
+# Mashrab Kuvatov <kmashrab@uni-bremen.de>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: dirfilterplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2006-04-02 11:34+0200\n"
+"Last-Translator: Mashrab Kuvatov <kmashrab@uni-bremen.de>\n"
+"Language-Team: Uzbek <floss-uz-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "&Koʻrinishni filterlash"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr "Joriy koʻrsatilgan bandlarni fayl turi boʻyicha filterlash."
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr "Filter maydoni"
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "Faqat quyidagi turdagi bandlarni koʻrsatish"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "Bir nechta filterni ishlatish"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "Sonini koʻrsatish"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "Tiklash"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Qoʻshimcha asboblar paneli"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "Filter asboblar paneli"
+
+#~ msgid "Clear Filter Field"
+#~ msgstr "Filter maydonini tozalash"
+
+#, fuzzy
+#~| msgid "Clear filter field<p>Clears the content of the filter field."
+#~ msgid "Clear filter field<p>Clears the content of the filter field.</p>"
+#~ msgstr "Filter maydonini tozalash<p>Filter maydonidagi yozuvni tozalash."
+
+#, fuzzy
+#~ msgid ""
+#~ "Enter here a text which an item in the view must contain anywhere to be "
+#~ "shown."
+#~ msgstr "Fayl va jildlar nomida koʻrsatilishi kerak boʻlgan matnni kiriting."

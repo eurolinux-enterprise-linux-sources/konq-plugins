@@ -1,0 +1,198 @@
+# translation of konqsidebar_metabar.po to Greek
+#
+# Toussis Manolis <manolis@koppermind.homelinux.org>, 2005.
+# Spiros Georgaras <sng@hellug.gr>, 2005, 2006, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2007-03-18 12:42+0200\n"
+"Last-Translator: Spiros Georgaras <sng@hellug.gr>\n"
+"Language-Team: Greek <i18ngr@lists.hellug.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Ρυθμίσεις - Γραμμή μεταδεδομένων"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Αντικείμενα"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Άνοιγμα με:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Ενέργειες:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Κινούμενη αλλαγή μεγέθους"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Εμφάνιση μενού υπηρεσιών"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Θέματα"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Εγκατάσταση νέου θέματος..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Νέο..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Επεξεργασία..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Όνομα"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Γενικά"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Δεσμοί"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Κοινή χρήση"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Δημιουργία δεσμού"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Νέος δεσμός"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Όνομα:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "URL:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Επεξεργασία δεσμού"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Περισσότερα"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "Εκτέλεση %1"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Επιλογή εφαρμογής"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Τύπος"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Μέγεθος"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Χρήστης"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Ομάδα"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Άδειες"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Τροποποιήθηκε"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Προσπελάστηκε"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "Προορισμός δεσμού"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "Αρχεία"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Φάκελοι"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Σύνολο καταχωρήσεων"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Κάντε κλικ για προεπισκόπηση"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Δημιουργία προεπισκόπησης"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Ρύθμιση γραμμής μεταδεδομένων..."
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Λιγότερο"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Προσθήκη δικτυακού φακέλου"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Εκτέλεση"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Σχόλιο"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Απαιτεί δικαιώματα υπερχρήστη"

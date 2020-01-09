@@ -1,0 +1,50 @@
+# translation of crashesplugin.po to Japanese
+# Copyright (C) 2002-2007 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kdeaddons package.
+# Noboru Sinohara <shinobo@leo.bekkoame.ne.jp>, 2002.
+# oki <s-ooki@mic.jp>, 2004.
+# hu <hu_renraku@yahoo.co.jp>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: crashesplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-08-25 09:12+0200\n"
+"PO-Revision-Date: 2007-01-25 23:00+0000\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <Kdeveloper@kde.gr.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: crashesplugin.cpp:48
+msgid "&Crashes"
+msgstr "クラッシュ(&C)"
+
+#: crashesplugin.cpp:95 crashesplugin.cpp:119
+msgid "All Pages of This Crash"
+msgstr "このクラッシュのすべてのページ"
+
+#: crashesplugin.cpp:125
+msgid "No Recovered Crashes"
+msgstr "回復されたクラッシュはありません"
+
+#: crashesplugin.cpp:137
+msgid "&Clear List of Crashes"
+msgstr "クラッシュのリストをクリア(&C)"
+
+#. i18n: file: crashesplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "ツール(&T)"
+
+#. i18n: file: crashesplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "拡張ツールバー"

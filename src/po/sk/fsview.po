@@ -1,0 +1,377 @@
+# translation of fsview.po to Slovak
+# Stanislav Visnovsky <visnovsky@kde.org>, 2003, 2004.
+# Richard Fric <Richard.Fric@kdemail.net>, 2006, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: fsview\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-11-01 06:25+0100\n"
+"PO-Revision-Date: 2006-04-16 10:09+0200\n"
+"Last-Translator: Richard Fric <Richard.Fric@kdemail.net>\n"
+"Language-Team: Slovak <kde-sk@linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.1\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: fsview.cpp:52 fsview.cpp:390
+msgid "Name"
+msgstr "Meno"
+
+#: fsview.cpp:53
+msgid "Size"
+msgstr "Veľkosť"
+
+#: fsview.cpp:54
+msgid "File Count"
+msgstr "Počet súborov"
+
+#: fsview.cpp:55
+msgid "Directory Count"
+msgstr "Počet priečinkov"
+
+#: fsview.cpp:56
+msgid "Last Modified"
+msgstr "Posledná zmena"
+
+#: fsview.cpp:57 fsview.cpp:391
+msgid "Owner"
+msgstr "Vlastník"
+
+#: fsview.cpp:58 fsview.cpp:392
+msgid "Group"
+msgstr "Skupina"
+
+#: fsview.cpp:59 fsview.cpp:393
+msgid "Mime Type"
+msgstr "Typ MIME"
+
+#: fsview.cpp:281
+msgid "Go To"
+msgstr "Prejsť na"
+
+#: fsview.cpp:283
+msgid "Go Up"
+msgstr "Prejsť vyššie"
+
+#: fsview.cpp:285
+msgid "Stop Refresh"
+msgstr "Zastaviť aktualizáciu"
+
+#: fsview.cpp:287
+msgid "Refresh"
+msgstr "Aktualizovať"
+
+#: fsview.cpp:290
+#, kde-format
+msgid "Refresh '%1'"
+msgstr "Aktualizovať '%1'"
+
+#: fsview.cpp:293 fsview_part.cpp:131
+msgid "Stop at Depth"
+msgstr "Zastaviť na hĺbke"
+
+#: fsview.cpp:295 fsview_part.cpp:128
+msgid "Stop at Area"
+msgstr "Zastaviť na oblasti"
+
+#: fsview.cpp:297
+msgid "Stop at Name"
+msgstr "Zastaviť na mene"
+
+#: fsview.cpp:303 fsview_part.cpp:138
+msgid "Color Mode"
+msgstr "Farebný režim"
+
+#: fsview.cpp:306 fsview_part.cpp:134
+msgid "Visualization"
+msgstr "Vizualizácia"
+
+#: fsview.cpp:388
+msgid "None"
+msgstr "Žiadne"
+
+#: fsview.cpp:389
+msgid "Depth"
+msgstr "Hĺbka"
+
+#: fsview_part.cpp:82
+#, kde-format
+msgid "Read 1 folder, in %2"
+msgid_plural "Read %1 folders, in %2"
+msgstr[0] "Prečítaných %1 priečinok, v %2"
+msgstr[1] "Prečítaných %1 priečinky, v %2"
+msgstr[2] "Prečítaných %1 priečinkov, v %2"
+
+#: fsview_part.cpp:87
+#, kde-format
+msgid "1 folder"
+msgid_plural "%1 folders"
+msgstr[0] "%1 priečinku"
+msgstr[1] "%1 priečinkoch"
+msgstr[2] "%1 priečinkoch"
+
+#: fsview_part.cpp:96 main.cpp:21
+msgid "FSView"
+msgstr "FSView"
+
+#: fsview_part.cpp:97
+msgid "Filesystem Utilization Viewer"
+msgstr "Prehliadač využitia systému súborov"
+
+#: fsview_part.cpp:99
+msgid "(c) 2003-2005, Josef Weidendorfer"
+msgstr "(c) 2003-2005, Josef Weidendorfer"
+
+#: fsview_part.cpp:112
+msgid ""
+"<p>This is the FSView plugin, a graphical browsing mode showing filesystem "
+"utilization by using a tree map visualization.</p><p>Note that in this mode, "
+"automatic updating when filesystem changes are made is intentionally <b>not</"
+"b> done.</p><p>For details on usage and options available, see the online "
+"help under menu 'Help/FSView Manual'.</p>"
+msgstr ""
+"<p>Toto je modul FSView, grafický režim, ktorý zobrazuje využitie systému "
+"súborov pomocou stromovej mapy.</p><p>Uvedomte si, že v tomto režime sa "
+"schválne automaticky <b>neaktualizuje</b> pohľad. </p><p>Detaily o použití a "
+"dostupných možnostiach nájdete v pomocníkovi v menu 'Pomocník/Manuál FSView'."
+"</p>"
+
+#: fsview_part.cpp:144
+msgid "&FSView Manual"
+msgstr "Manuál &FSView"
+
+#: fsview_part.cpp:146
+msgid "Show FSView manual"
+msgstr "Zobrazí manuál FSView"
+
+#: fsview_part.cpp:147
+msgid "Opens the help browser with the FSView documentation"
+msgstr "Otvorí prehliadač pomocníka s dokumentáciou FSView"
+
+#: fsview_part.cpp:187
+msgctxt "@action:inmenu File"
+msgid "Move to Trash"
+msgstr ""
+
+#: fsview_part.cpp:195
+msgctxt "@action:inmenu File"
+msgid "Delete"
+msgstr ""
+
+#: fsview_part.cpp:200
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr ""
+
+#: fsview_part.cpp:204
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr ""
+
+#: fsview_part.cpp:245
+msgid ""
+"FSView intentionally does not support automatic updates when changes are "
+"made to files or directories, currently visible in FSView, from the "
+"outside.\n"
+"For details, see the 'Help/FSView Manual'."
+msgstr ""
+"FSView schválne nepodporuje automatické aktualizácie po zmenách v súboroch "
+"alebo priečinkoch, ktoré sú práve zobrazené pomocou FSView.\n"
+"Detaily nájdete v manuáli v menu 'Pomocník/Manuál FSView'."
+
+#: main.cpp:22
+msgid "Filesystem Viewer"
+msgstr "Prehliadač systému súborov"
+
+#: main.cpp:24
+msgid "(c) 2002, Josef Weidendorfer"
+msgstr "(c) 2002, Josef Weidendorfer"
+
+#: main.cpp:28
+msgid "View filesystem starting from this folder"
+msgstr "Začať zobrazenie systému súborov od tohto priečinku"
+
+#. i18n: file: fsview_part.rc:4
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:3
+msgid "&Edit"
+msgstr ""
+
+#. i18n: file: fsview_part.rc:13
+#. i18n: ectx: Menu (view)
+#: rc.cpp:6
+#, fuzzy
+msgid "&View"
+msgstr "FSView"
+
+#. i18n: file: fsview_part.rc:20
+#. i18n: ectx: Menu (help)
+#: rc.cpp:9
+msgid "&Help"
+msgstr ""
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Stanislav Višňovský"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "visnovsky@kde.org"
+
+#: treemap.cpp:1328
+#, kde-format
+msgid "Text %1"
+msgstr "Text %1"
+
+#: treemap.cpp:2860
+msgid "Recursive Bisection"
+msgstr "Rekurzívna bisekcia"
+
+#: treemap.cpp:2861
+msgid "Columns"
+msgstr "Stĺpce"
+
+#: treemap.cpp:2862
+msgid "Rows"
+msgstr "Riadky"
+
+#: treemap.cpp:2863
+msgid "Always Best"
+msgstr "Vždy najlepšie"
+
+#: treemap.cpp:2864
+msgid "Best"
+msgstr "Najlepšie"
+
+#: treemap.cpp:2865
+msgid "Alternate (V)"
+msgstr "Vymeniť (V)"
+
+#: treemap.cpp:2866
+msgid "Alternate (H)"
+msgstr "Vymeniť (H)"
+
+#: treemap.cpp:2867
+msgid "Horizontal"
+msgstr ""
+
+#: treemap.cpp:2868
+msgid "Vertical"
+msgstr ""
+
+#: treemap.cpp:2923
+msgid "Nesting"
+msgstr "Vnorenie"
+
+#: treemap.cpp:2925
+msgid "Border"
+msgstr ""
+
+#: treemap.cpp:2926
+msgid "Correct Borders Only"
+msgstr "Iba správne okraje"
+
+#: treemap.cpp:2928 treemap.cpp:2929 treemap.cpp:2930 treemap.cpp:2931
+#, kde-format
+msgid "Width %1"
+msgstr "Šírka %1"
+
+#: treemap.cpp:2938
+msgid "Allow Rotation"
+msgstr "Povoliť rotáciu"
+
+#: treemap.cpp:2940
+msgid "Shading"
+msgstr "Tieňovanie"
+
+#: treemap.cpp:2953
+msgid "Visible"
+msgstr "Viditeľné"
+
+#: treemap.cpp:2954
+msgid "Take Space From Children"
+msgstr "Zabrať miesto potomkov"
+
+#: treemap.cpp:2956
+msgid "Top Left"
+msgstr "Vľavo hore"
+
+#: treemap.cpp:2957
+msgid "Top Center"
+msgstr "V strede hore"
+
+#: treemap.cpp:2958
+msgid "Top Right"
+msgstr "Vpravo hore"
+
+#: treemap.cpp:2959
+msgid "Bottom Left"
+msgstr "Vľavo dole"
+
+#: treemap.cpp:2960
+msgid "Bottom Center"
+msgstr "V strede dole"
+
+#: treemap.cpp:2961
+msgid "Bottom Right"
+msgstr "Vpravo dole"
+
+#: treemap.cpp:3038
+#, kde-format
+msgid "No %1 Limit"
+msgstr "Bez obmedzenia %1"
+
+#: treemap.cpp:3090
+msgid "No Area Limit"
+msgstr "Bez obmedzenia plochy"
+
+#: treemap.cpp:3096
+#, kde-format
+msgid "Area of '%1' (%2)"
+msgstr "Plocha '%1' (%2)"
+
+#: treemap.cpp:3107 treemap.cpp:3118
+#, kde-format
+msgid "1 Pixel"
+msgid_plural "%1 Pixels"
+msgstr[0] "%1 bod"
+msgstr[1] "%1 body"
+msgstr[2] "%1 bodov"
+
+#: treemap.cpp:3122
+#, kde-format
+msgid "Double Area Limit (to %1)"
+msgstr "Zdvojiť obmedzenie plochy (na %1)"
+
+#: treemap.cpp:3124
+#, kde-format
+msgid "Halve Area Limit (to %1)"
+msgstr "Zmenšiť obmedzenie plochy na polovicu (na %1)"
+
+#: treemap.cpp:3155
+msgid "No Depth Limit"
+msgstr "Bez obmedzenia hĺbky"
+
+#: treemap.cpp:3161
+#, kde-format
+msgid "Depth of '%1' (%2)"
+msgstr "Hĺbka '%1' (%2)"
+
+#: treemap.cpp:3172 treemap.cpp:3183
+#, kde-format
+msgid "Depth %1"
+msgstr "Hĺbka %1"
+
+#: treemap.cpp:3187
+#, kde-format
+msgid "Decrement (to %1)"
+msgstr "Znížiť (na %1)"
+
+#: treemap.cpp:3189
+#, kde-format
+msgid "Increment (to %1)"
+msgstr "Zvýšiť (na %1)"

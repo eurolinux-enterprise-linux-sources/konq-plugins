@@ -1,0 +1,162 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Toussis Manolis <manolis@koppermind.homelinux.org>, 2008.
+# Petros Vidalis <p_vidalis@hotmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: adblock\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-31 06:46+0100\n"
+"PO-Revision-Date: 2009-08-18 15:35+0300\n"
+"Last-Translator: Petros Vidalis <p_vidalis@hotmail.com>\n"
+"Language-Team: Ελληνικά <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: adblock.cpp:71
+msgid "Adblock"
+msgstr "Adblock"
+
+#: adblock.cpp:77
+msgid "Show Blockable Elements..."
+msgstr "Εμφάνιση στοιχείων προς φραγή ..."
+
+#: adblock.cpp:82 adblockdialog.cpp:96
+msgid "Configure Filters..."
+msgstr "Ρύθμιση φίλτρων..."
+
+#: adblock.cpp:91
+msgid "No blocking for this page"
+msgstr "Χωρίς φραγή γι' αυτήν τη σελίδα"
+
+#: adblock.cpp:96
+msgid "No blocking for this site"
+msgstr "Χωρίς φραγή γι' αυτήν την τοποθεσία"
+
+#: adblock.cpp:172
+msgid "Please enable Konqueror's Adblock"
+msgstr "Παρακαλώ ενεργοποιήστε το Adblock του Konqueror"
+
+#: adblock.cpp:173
+msgid "Adblock disabled"
+msgstr "Adblock ανενεργό"
+
+#: adblock.cpp:206
+msgid "script"
+msgstr "σενάριο"
+
+#: adblock.cpp:207 adblock.cpp:208
+msgid "object"
+msgstr "αντικείμενο"
+
+#: adblock.cpp:210
+msgid "frame"
+msgstr "πλαίσιο"
+
+#: adblock.cpp:231
+msgid "image"
+msgstr "εικόνα"
+
+#: adblock.cpp:290
+#, kde-format
+msgid "Blocked by %1"
+msgstr ""
+
+#: adblock.cpp:293
+#, kde-format
+msgid "Allowed by %1"
+msgstr ""
+
+#: adblockdialog.cpp:93
+msgid "Blockable items on this page"
+msgstr "Σε αυτήν τη σελίδα αντικείμενα προς φραγή "
+
+#: adblockdialog.cpp:98
+msgid "Add filter"
+msgstr "Προσθήκη φίλτρου"
+
+#: adblockdialog.cpp:107
+msgid "Search:"
+msgstr "Αναζήτηση:"
+
+#: adblockdialog.cpp:114
+msgid "Blockable items:"
+msgstr "Σε αυτήν τη σελίδα αντικείμενα προς φραγή:"
+
+#: adblockdialog.cpp:123
+msgid "Source"
+msgstr "Πηγή"
+
+#: adblockdialog.cpp:123
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: adblockdialog.cpp:123
+msgid "Tag"
+msgstr "Ετικέτα"
+
+#: adblockdialog.cpp:150
+#, fuzzy
+#| msgid "New filter (can use *?[] wildcards, prefix with @@ for white list):"
+msgid ""
+"New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
+"@@ for white list):"
+msgstr ""
+"Νέο φίλτρο (δυνατότητα χρησιμοποίησης *?[] σύμβολα υποκατάστασης, πρόθεμα με "
+"@@ για λευκή λίστα):"
+
+#: adblockdialog.cpp:170
+msgid "Filter this item"
+msgstr "Φίλτρο αυτού του αντικειμένου"
+
+#: adblockdialog.cpp:171
+msgid "Filter all items at same path"
+msgstr "Φίλτρα όλων των αντικειμένων της ίδιας διαδρομής"
+
+#: adblockdialog.cpp:172
+msgid "Filter all items from same host"
+msgstr "Φιλτράρισμα όλων των αντικειμένων από τον ίδιο υπολογιστή"
+
+#: adblockdialog.cpp:173
+msgid "Filter all items from same domain"
+msgstr "Φιλτράρισμα όλων των αντικειμένων από τον ίδιο τομέα"
+
+#: adblockdialog.cpp:175
+msgid "Add this item to white list"
+msgstr "Προσθήκη του αντικειμένου στη λευκή λίστα"
+
+#: adblockdialog.cpp:177
+msgid "Copy Link Address"
+msgstr "Αντιγραφή διεύθυνσης δεσμού"
+
+#: adblockdialog.cpp:180
+msgid "View item"
+msgstr "Εμφάνιση αντικειμένου"
+
+#. i18n: file: plugin_adblock.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "Ερ&γαλεία"
+
+#. i18n: file: plugin_adblock.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Πρόσθετη γραμμή εργαλείων"
+
+#~ msgid "Adblock dialog"
+#~ msgstr "Διάλογος Adblock"
+
+#~ msgid "Node Name"
+#~ msgstr "Όνομα κόμβου"
+
+#~ msgid "New filter (use * as a wildcard):"
+#~ msgstr "Νέο φίλτρο (χρήση του * ως αντικαταστάτη):"
+
+#~ msgid "Show it"
+#~ msgstr "Εμφάνιση"

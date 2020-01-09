@@ -1,0 +1,198 @@
+# translation of konqsidebar_metabar.po to Chinese Traditional
+#
+# Frank Weng (a.k.a. Franklin) <franklin at goodhorse dot idv dot tw>, 2006, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2007-04-18 16:39+0800\n"
+"Last-Translator: Frank Weng (a.k.a. Franklin) <franklin at goodhorse dot idv "
+"dot tw>\n"
+"Language-Team: Chinese Traditional <zh-l10n@linux.org.tw>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "組態設定 - Metabar"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "項目"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "選擇開啟的程式："
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "動作："
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "外觀"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "動畫調整大小"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "顯示服務選單"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "佈景主題"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "安裝新主題..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "新增..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "刪除"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "編輯..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "名稱"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "地址"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "一般"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "動作"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "連結"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "分享"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "建立連結"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "新增連結"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "名稱："
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "網址："
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "編輯連結"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "更多"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "執行 %1"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "選擇應用程式"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "類型"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "大小"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "使用者"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "群組"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "權限"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "已修改"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "存取"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "連結目的"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "檔案"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "資料夾"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "總共項目"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "點選以開始預覽"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "建立預覽中"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "設定 Metabar..."
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "較少"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "新增網路資料夾"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "執行"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "註解"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "需要 root 權限"

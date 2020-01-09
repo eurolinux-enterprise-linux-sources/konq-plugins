@@ -1,0 +1,201 @@
+# translation of konqsidebar_metabar.po to Belarusian
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Darafei Praliaskouski <komzpa@licei2.com>, 2007.
+# Darafei Praliaskouski <komzpa@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2009-03-15 21:38+0200\n"
+"Last-Translator: Darafei Praliaskouski <komzpa@gmail.com>\n"
+"Language-Team: Belarusian <i18n@mova.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Настаўленні - Metabar"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Аб'екты"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Адкрыць у:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Дзеянні:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "Вонкавы выгляд"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Анімаваная змена памераў"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Паказваць службовыя меню"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Тэмы"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Устанавіць новую тэму..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Новы..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "Выдаліць"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Рэдагаваць..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Назва"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Адрас"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Агульныя"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Дзеянні"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Спасылкі"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Апублікаваць"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Стварыць спасылку"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Новая спасылка"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Назва:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "URL:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Змяніць спасылку"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Яшчэ"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "Запусціць %1"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Выбраць праграму"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Тып"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Памер"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Карыстальнік"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Група"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Правы доступу"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Зменены"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Апошні доступ:"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "Адрас спасылкі"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "Файлы"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Тэчкі"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Усяго запісаў"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Націсніце для пачатку прагляду"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Стварэнне прагляду"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Настаўленне Metabar"
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Менш"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Дадаць сеткавую тэчку"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Выканаць"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Каментар"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Патрэбныя прывілеі адміністратара"

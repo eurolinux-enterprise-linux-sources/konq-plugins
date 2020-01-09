@@ -1,0 +1,110 @@
+# translation of khtmlsettingsplugin.po to
+# Version: $Revision: 944923 $
+#
+# Marcin Giedz <mgiedz@elka.pw.edu.pl>, 2002.
+# Mikolaj Machowski <mikmach@wp.pl>, 2004.
+# Marta Rybczyńska <kde-i18n@rybczynska.net>, 2007.
+# Copyright (C) 2002, 2004, 2005, 2007 Free Software Foundation, Inc.
+msgid ""
+msgstr ""
+"Project-Id-Version: khtmlsettingsplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-26 10:56+0100\n"
+"PO-Revision-Date: 2007-12-28 23:30+0100\n"
+"Last-Translator: Marta Rybczyńska <kde-i18n@rybczynska.net>\n"
+"Language-Team:  <pl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#. i18n: file: khtmlsettingsplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Narzędzia"
+
+#. i18n: file: khtmlsettingsplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Dodatkowy pasek"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Mikołaj Machowski"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "mikmach@wp.pl"
+
+#: settingsplugin.cpp:40 settingsplugin.cpp:52
+msgid "HTML Settings"
+msgstr "Ustawienia HTML"
+
+#: settingsplugin.cpp:61
+msgid "Java&Script"
+msgstr "Java&Script"
+
+#: settingsplugin.cpp:66
+msgid "&Java"
+msgstr "&Java"
+
+#: settingsplugin.cpp:71
+msgid "&Cookies"
+msgstr "&Ciasteczka"
+
+#: settingsplugin.cpp:76
+msgid "&Plugins"
+msgstr "&Wtyczki"
+
+#: settingsplugin.cpp:81
+msgid "Autoload &Images"
+msgstr "Automatyczne wczytywanie &obrazków"
+
+#: settingsplugin.cpp:88
+msgid "Enable Pro&xy"
+msgstr "Korzystaj z serwera pro&xy"
+
+#: settingsplugin.cpp:93
+msgid "Enable Cac&he"
+msgstr "&Włącz pamięć podręczną"
+
+#: settingsplugin.cpp:99
+msgid "Cache Po&licy"
+msgstr "&Polityka pamięci podręcznej"
+
+#: settingsplugin.cpp:101
+msgid "&Keep Cache in Sync"
+msgstr "&Utrzymuj zsynchronizowaną pamięć podręczną"
+
+#: settingsplugin.cpp:102
+msgid "&Use Cache if Possible"
+msgstr "&Użyj pamięci podręcznej jeśli możliwe"
+
+#: settingsplugin.cpp:103
+msgid "&Offline Browsing Mode"
+msgstr "Tryb przeglądania &offline"
+
+#: settingsplugin.cpp:187
+#, fuzzy
+#| msgid ""
+#| "I can not enable cookies, because the cookie daemon could not be started."
+msgid ""
+"Cookies could not be enabled, because the cookie daemon could not be started."
+msgstr ""
+"Nie można włączyć ciasteczek, ponieważ demon ciasteczek nie mógł wystartować."
+
+#: settingsplugin.cpp:189
+msgid "Cookies Disabled"
+msgstr "Ciasteczka wyłączone"
+
+#~ msgid "Disable Pro&xy"
+#~ msgstr "Wyłącz serwer pro&xy"
+
+#~ msgid "Disable Cac&he"
+#~ msgstr "&Wyłącz pamięć podręczną"

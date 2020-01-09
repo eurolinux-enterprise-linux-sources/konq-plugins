@@ -1,0 +1,179 @@
+# translation of webarchiver.po to Cymraeg
+# Bwrdd Gwaith yn Gymraeg.
+# Copyright (C) 2003, 2004 Free Software Foundation, Inc.
+# www.kyfieithu.co.uk<kyfieithu@dotmon.com>, www.gyfieithu.co.uk<kyfieithu@dotmon.com>, 2003.
+# KD at KGyfieithu <kyfieithu@dotmon.com>, 2004.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: webarchiver\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-23 11:42+0200\n"
+"PO-Revision-Date: 2004-02-26 13:55+0000\n"
+"Last-Translator: KD at KGyfieithu <kyfieithu@dotmon.com>\n"
+"Language-Team: Cymraeg <cy@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.2\n"
+"\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: archiveviewbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
+#: archivedialog.cpp:151 rc.cpp:3
+msgid "Web Archiver"
+msgstr "Archifydd Gwe"
+
+#: archivedialog.cpp:161
+#, fuzzy
+#| msgid "State"
+msgid "Status"
+msgstr "Cyflwr"
+
+#: archivedialog.cpp:162
+msgid "Url"
+msgstr ""
+
+#: archivedialog.cpp:230
+msgid "Unable to Open Web-Archive"
+msgstr "Methu Agor Yr Archif Gwe"
+
+#: archivedialog.cpp:231
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing."
+msgstr ""
+"Methu agor \n"
+" %1 \n"
+" ar gyfer ysgrifennu."
+
+#: archivedialog.cpp:362
+msgid "Downloading"
+msgstr "Lawrlwytho"
+
+#: archivedialog.cpp:383
+msgid "Error"
+msgstr ""
+
+#: archivedialog.cpp:383
+msgid "Ok"
+msgstr "Iawn"
+
+#: archivedialog.cpp:411
+#, kde-format
+msgid "I/O error occurred while writing to web archive file %1."
+msgstr ""
+
+#: plugin_webarchiver.cpp:58
+msgid "Archive &Web Page..."
+msgstr "Archifo Tudalen &Wê..."
+
+#: plugin_webarchiver.cpp:77
+msgid "Untitled"
+msgstr ""
+
+#: plugin_webarchiver.cpp:94
+msgid "*.war *.tgz|Web Archives"
+msgstr "*.war *.tgz|Archifau Wefannau"
+
+#: plugin_webarchiver.cpp:95
+msgid "Save Page as Web-Archive"
+msgstr "Cadw Tudalen Fel Archif Gwe"
+
+#: plugin_webarchiver.cpp:100
+msgid "Invalid URL"
+msgstr "URL Annilys"
+
+#: plugin_webarchiver.cpp:101
+#, fuzzy, kde-format
+msgid ""
+"The URL\n"
+"%1\n"
+"is not valid."
+msgstr ""
+"Nid yw'r URL \n"
+" %1\n"
+" yn ddilys\n"
+
+#: plugin_webarchiver.cpp:115
+msgid "File Exists"
+msgstr "Mae'r Ffeil mewn Bod"
+
+#: plugin_webarchiver.cpp:116
+#, fuzzy, kde-format
+msgid ""
+"Do you really want to overwrite:\n"
+"%1?"
+msgstr ""
+"Ydych chi wir eisiau trosysgrifo:\n"
+" %1?\n"
+
+#: plugin_webarchiver.cpp:117
+msgid "Overwrite"
+msgstr "Trosysgrifo"
+
+#. i18n: file: archiveviewbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, targetLabel)
+#: rc.cpp:6
+msgid "Local File"
+msgstr "Ffeil Lleol"
+
+#. i18n: file: archiveviewbase.ui:55
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:9
+msgid "To:"
+msgstr "I:"
+
+#. i18n: file: archiveviewbase.ui:65
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:12
+msgid "Archiving:"
+msgstr "Archifo"
+
+#. i18n: file: archiveviewbase.ui:81
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#: rc.cpp:15
+msgid "Original URL"
+msgstr "URL Gwreiddiol"
+
+#. i18n: file: archiveviewbase.ui:109
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:18
+msgid "1"
+msgstr ""
+
+#. i18n: file: archiveviewbase.ui:114
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:21
+msgid "2"
+msgstr ""
+
+#. i18n: file: plugin_webarchiver.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: plugin_webarchiver.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "Bar Offer Ychwanegol"
+
+#~ msgid "Archiving webpage completed."
+#~ msgstr "Archifio tudalen wê wedi gorffen."
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#, fuzzy
+#~ msgid "Could Not Open Temporary File"
+#~ msgstr "Methu Agor Ffeil Dros Dro"
+
+#, fuzzy
+#~ msgid "Could not open a temporary file"
+#~ msgstr "Methu agor ffeil dros dro"

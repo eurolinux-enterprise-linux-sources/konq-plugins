@@ -1,0 +1,165 @@
+# WEB-Translator generated file. UTF-8 test:äëïöü
+# Copyright (C) 2001 Free Software Foundation, Inc.
+# Frikkie Thirion <frix@expertron.co.za>, 2001,2002.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: webarchiver VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-23 11:42+0200\n"
+"PO-Revision-Date: 2002-11-07 11:26+0200\n"
+"Last-Translator: WEB-Translator <http://kde.af.org.za>\n"
+"Language-Team: AFRIKAANS <AF@lia.org.za>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: archiveviewbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
+#: archivedialog.cpp:151 rc.cpp:3
+msgid "Web Archiver"
+msgstr ""
+
+#: archivedialog.cpp:161
+msgid "Status"
+msgstr ""
+
+#: archivedialog.cpp:162
+msgid "Url"
+msgstr ""
+
+#: archivedialog.cpp:230
+#, fuzzy
+msgid "Unable to Open Web-Archive"
+msgstr "Nie moontlik na open Web-Archive"
+
+#: archivedialog.cpp:231
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing."
+msgstr ""
+"Nie moontlik na open \n"
+" %1 \n"
+" vir om te skryf."
+
+#: archivedialog.cpp:362
+msgid "Downloading"
+msgstr ""
+
+#: archivedialog.cpp:383
+msgid "Error"
+msgstr ""
+
+#: archivedialog.cpp:383
+msgid "Ok"
+msgstr ""
+
+#: archivedialog.cpp:411
+#, kde-format
+msgid "I/O error occurred while writing to web archive file %1."
+msgstr ""
+
+#: plugin_webarchiver.cpp:58
+#, fuzzy
+msgid "Archive &Web Page..."
+msgstr "Argief Web Bladsy..."
+
+#: plugin_webarchiver.cpp:77
+msgid "Untitled"
+msgstr ""
+
+#: plugin_webarchiver.cpp:94
+msgid "*.war *.tgz|Web Archives"
+msgstr ""
+
+#: plugin_webarchiver.cpp:95
+msgid "Save Page as Web-Archive"
+msgstr "Stoor Bladsy as Web-Archive"
+
+#: plugin_webarchiver.cpp:100
+msgid "Invalid URL"
+msgstr "Ongeldige Url"
+
+#: plugin_webarchiver.cpp:101
+#, fuzzy, kde-format
+msgid ""
+"The URL\n"
+"%1\n"
+"is not valid."
+msgstr ""
+"Hierdie Url \n"
+" %1 \n"
+" is nie geldige."
+
+#: plugin_webarchiver.cpp:115
+#, fuzzy
+msgid "File Exists"
+msgstr "Lêer bestaan"
+
+#: plugin_webarchiver.cpp:116
+#, fuzzy, kde-format
+msgid ""
+"Do you really want to overwrite:\n"
+"%1?"
+msgstr ""
+"Doen jy rerig wil hê na oorskryf: \n"
+"%1?"
+
+#: plugin_webarchiver.cpp:117
+msgid "Overwrite"
+msgstr ""
+
+#. i18n: file: archiveviewbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, targetLabel)
+#: rc.cpp:6
+msgid "Local File"
+msgstr ""
+
+#. i18n: file: archiveviewbase.ui:55
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:9
+msgid "To:"
+msgstr ""
+
+#. i18n: file: archiveviewbase.ui:65
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:12
+msgid "Archiving:"
+msgstr ""
+
+#. i18n: file: archiveviewbase.ui:81
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#: rc.cpp:15
+#, fuzzy
+msgid "Original URL"
+msgstr "Ongeldige Url"
+
+#. i18n: file: archiveviewbase.ui:109
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:18
+msgid "1"
+msgstr ""
+
+#. i18n: file: archiveviewbase.ui:114
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:21
+msgid "2"
+msgstr ""
+
+#. i18n: file: plugin_webarchiver.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: plugin_webarchiver.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr ""
+
+#~ msgid "Archiving webpage completed."
+#~ msgstr "Argiveer webblad klaar."

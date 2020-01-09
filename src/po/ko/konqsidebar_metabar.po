@@ -1,0 +1,198 @@
+# Translation of konqsidebar_metabar to Korean.
+# Copyright (C) 2007 This_file_is_part_of_KDE
+# This file is distributed under the same license as the extragear-base package.
+# Park Shinjo <peremen@gmail.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-base\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2007-12-27 11:19+0900\n"
+"Last-Translator: Park Shinjo <peremen@gmail.com>\n"
+"Language-Team: Korean <cho.sungjae@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "설정 - Metabar"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "항목"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "다음으로 열기:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "동작:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "모양"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "크기 조정 애니메이션 사용하기"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "서비스 메뉴 보이기"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "테마"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "새 테마 설치하기..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "새로 만들기..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "삭제"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "편집..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "이름"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "주소"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "일반"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "동작"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "연결"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "공유"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "연결 만들기"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "새 연결"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "이름:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "URL:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "연결 편집하기"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "더 보기"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "%1 실행하기"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "프로그램 선택하기"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "종류"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "크기"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "사용자"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "그룹"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "권한"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "수정한 날짜"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "접근한 날짜"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "연결 대상"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "파일"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "폴더"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "총 항목"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "미리 보기 시작하려면 누르십시오"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "미리 보기 생성 중"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Merabar 설정..."
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "덜 보기"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "네트워크 폴더 추가하기"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "실행하기"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "설명"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "루트 권한이 필요합니다"

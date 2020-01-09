@@ -1,0 +1,94 @@
+# Translation of uachangerplugin to Korean.
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the extragear-base package.
+#
+# Park Shinjo <peremen@gmail.com>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: uachangerplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-05-05 11:29+0200\n"
+"PO-Revision-Date: 2009-08-06 15:41+0900\n"
+"Last-Translator: Park Shinjo <peremen@gmail.com>\n"
+"Language-Team: Korean <cho.sungjae@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.0\n"
+
+#. i18n: file: uachangerplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "도구(&T)"
+
+#. i18n: file: uachangerplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "추가 도구 모음"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Park Shinjo"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "peremen@gmail.com"
+
+#: uachangerplugin.cpp:47
+msgid "Change Browser Identification"
+msgstr "브라우저 증명 바꾸기"
+
+#: uachangerplugin.cpp:63
+msgid "Change Browser &Identification"
+msgstr "브라우저 증명 바꾸기(&I)"
+
+#: uachangerplugin.cpp:133
+msgid "Other"
+msgstr "기타"
+
+#: uachangerplugin.cpp:164
+#, kde-format
+msgctxt "%1 = browser version (e.g. 2.0)"
+msgid "Version %1"
+msgstr "버전 %1"
+
+#: uachangerplugin.cpp:167
+#, kde-format
+msgctxt "%1 = browser name, %2 = browser version (e.g. Firefox, 2.0)"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: uachangerplugin.cpp:173
+#, kde-format
+msgctxt "%1 = browser version, %2 = platform (e.g. 2.0, Windows XP)"
+msgid "Version %1 on %2"
+msgstr "%2의 버전 %1"
+
+#: uachangerplugin.cpp:176
+#, kde-format
+msgctxt ""
+"%1 = browser name, %2 = browser version, %3 = platform (e.g. Firefox, 2.0, "
+"Windows XP)"
+msgid "%1 %2 on %3"
+msgstr "%3의 %1 %2"
+
+#: uachangerplugin.cpp:232
+msgid "Identify As"
+msgstr "다음으로 보이기"
+
+#: uachangerplugin.cpp:238
+msgid "Default Identification"
+msgstr "기본 증명"
+
+#: uachangerplugin.cpp:266
+msgid "Apply to Entire Site"
+msgstr "모든 사이트에 적용하기"
+
+#: uachangerplugin.cpp:271
+msgid "Configure..."
+msgstr "설정..."

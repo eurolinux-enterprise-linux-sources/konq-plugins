@@ -1,0 +1,380 @@
+# Translation of fsview into Japanese.
+# This file is distributed under the same license as the kdeaddons package.
+# oki <s-ooki@mic.jp>, 2004.
+# Taiki Komoda <kom@kde.gr.jp>, 2004.
+# Toyohiro Asukai <toyohiro@ksmplus.com>, 2004.
+# hu <hu_renraku@yahoo.co.jp>, 2005.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fsview\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-11-01 06:25+0100\n"
+"PO-Revision-Date: 2007-06-27 11:00+0000\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <Kdeveloper@kde.gr.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: fsview.cpp:52 fsview.cpp:390
+msgid "Name"
+msgstr "名前"
+
+#: fsview.cpp:53
+msgid "Size"
+msgstr "サイズ"
+
+#: fsview.cpp:54
+msgid "File Count"
+msgstr "ファイルの数"
+
+#: fsview.cpp:55
+msgid "Directory Count"
+msgstr "ディレクトリの数"
+
+#: fsview.cpp:56
+msgid "Last Modified"
+msgstr "最終更新日時"
+
+#: fsview.cpp:57 fsview.cpp:391
+msgid "Owner"
+msgstr "所有者"
+
+#: fsview.cpp:58 fsview.cpp:392
+msgid "Group"
+msgstr "グループ"
+
+#: fsview.cpp:59 fsview.cpp:393
+msgid "Mime Type"
+msgstr "MIME タイプ"
+
+#: fsview.cpp:281
+msgid "Go To"
+msgstr "移動"
+
+#: fsview.cpp:283
+msgid "Go Up"
+msgstr "上へ"
+
+#: fsview.cpp:285
+msgid "Stop Refresh"
+msgstr "更新停止"
+
+#: fsview.cpp:287
+msgid "Refresh"
+msgstr "更新"
+
+#: fsview.cpp:290
+#, kde-format
+msgid "Refresh '%1'"
+msgstr "%1 を更新"
+
+#: fsview.cpp:293 fsview_part.cpp:131
+msgid "Stop at Depth"
+msgstr "深さで停止"
+
+#: fsview.cpp:295 fsview_part.cpp:128
+msgid "Stop at Area"
+msgstr "エリアで停止"
+
+#: fsview.cpp:297
+msgid "Stop at Name"
+msgstr "名前で停止"
+
+#: fsview.cpp:303 fsview_part.cpp:138
+msgid "Color Mode"
+msgstr "カラーモード"
+
+#: fsview.cpp:306 fsview_part.cpp:134
+msgid "Visualization"
+msgstr "ビジュアル化"
+
+#: fsview.cpp:388
+msgid "None"
+msgstr "なし"
+
+#: fsview.cpp:389
+msgid "Depth"
+msgstr "深さ"
+
+#: fsview_part.cpp:82
+#, kde-format
+msgid "Read 1 folder, in %2"
+msgid_plural "Read %1 folders, in %2"
+msgstr[0] "%2 中の 1 フォルダを読み込み"
+msgstr[1] "%2 中の %1 フォルダを読み込み"
+
+#: fsview_part.cpp:87
+#, kde-format
+msgid "1 folder"
+msgid_plural "%1 folders"
+msgstr[0] "1 フォルダ"
+msgstr[1] "%1 フォルダ"
+
+#: fsview_part.cpp:96 main.cpp:21
+msgid "FSView"
+msgstr "FSView"
+
+#: fsview_part.cpp:97
+msgid "Filesystem Utilization Viewer"
+msgstr "ファイルシステム使用状況ビューア"
+
+#: fsview_part.cpp:99
+msgid "(c) 2003-2005, Josef Weidendorfer"
+msgstr "(c) 2003-2005, Josef Weidendorfer"
+
+#: fsview_part.cpp:112
+msgid ""
+"<p>This is the FSView plugin, a graphical browsing mode showing filesystem "
+"utilization by using a tree map visualization.</p><p>Note that in this mode, "
+"automatic updating when filesystem changes are made is intentionally <b>not</"
+"b> done.</p><p>For details on usage and options available, see the online "
+"help under menu 'Help/FSView Manual'.</p>"
+msgstr ""
+"<p>FSView プラグインはツリーマップをビジュアル化し、ファイルシステムの使用状"
+"況をグラフィカルに表示します。</p><p>このモードでは、ファイルシステムに変更が"
+"あっても意図的に表示を自動更新しません。</p><p>詳しい使い方および利用可能なオ"
+"プションについては<interface>ヘルプ|FSView マニュアル</interface>を参照してく"
+"ださい。</p>"
+
+#: fsview_part.cpp:144
+msgid "&FSView Manual"
+msgstr "FSView マニュアル(&F)"
+
+#: fsview_part.cpp:146
+msgid "Show FSView manual"
+msgstr "FSView マニュアルを見る"
+
+#: fsview_part.cpp:147
+msgid "Opens the help browser with the FSView documentation"
+msgstr "FSView マニュアルをヘルプブラウザで開く"
+
+#: fsview_part.cpp:187
+msgctxt "@action:inmenu File"
+msgid "Move to Trash"
+msgstr ""
+
+#: fsview_part.cpp:195
+msgctxt "@action:inmenu File"
+msgid "Delete"
+msgstr ""
+
+#: fsview_part.cpp:200
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr ""
+
+#: fsview_part.cpp:204
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr ""
+
+#: fsview_part.cpp:245
+msgid ""
+"FSView intentionally does not support automatic updates when changes are "
+"made to files or directories, currently visible in FSView, from the "
+"outside.\n"
+"For details, see the 'Help/FSView Manual'."
+msgstr ""
+"現在 FSView に表示されているファイルまたはディレクトリが外部アプリケーション"
+"によって変更されたときに、FSView は意図的に表示を自動更新しません。\n"
+"詳しくは<interface>ヘルプ|FSView マニュアル</interface>を参照してください。"
+
+#: main.cpp:22
+msgid "Filesystem Viewer"
+msgstr "ファイルシステムビューア"
+
+#: main.cpp:24
+msgid "(c) 2002, Josef Weidendorfer"
+msgstr "(c) 2002, Josef Weidendorfer"
+
+#: main.cpp:28
+msgid "View filesystem starting from this folder"
+msgstr "このフォルダから始まるファイルシステムを見る"
+
+#. i18n: file: fsview_part.rc:4
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:3
+msgid "&Edit"
+msgstr ""
+
+#. i18n: file: fsview_part.rc:13
+#. i18n: ectx: Menu (view)
+#: rc.cpp:6
+msgid "&View"
+msgstr "表示(&V)"
+
+#. i18n: file: fsview_part.rc:20
+#. i18n: ectx: Menu (help)
+#: rc.cpp:9
+msgid "&Help"
+msgstr "ヘルプ(&H)"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "oki, Toyohiro Asukai"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "s-ooki@mic.jp, toyohiro@ksmplus.com"
+
+#: treemap.cpp:1328
+#, kde-format
+msgid "Text %1"
+msgstr "テキスト %1"
+
+#: treemap.cpp:2860
+msgid "Recursive Bisection"
+msgstr "再帰的な二分"
+
+#: treemap.cpp:2861
+msgid "Columns"
+msgstr "列"
+
+#: treemap.cpp:2862
+msgid "Rows"
+msgstr "行"
+
+#: treemap.cpp:2863
+msgid "Always Best"
+msgstr "常に最適化"
+
+#: treemap.cpp:2864
+msgid "Best"
+msgstr "最適化"
+
+#: treemap.cpp:2865
+msgid "Alternate (V)"
+msgstr "交互 (V)"
+
+#: treemap.cpp:2866
+msgid "Alternate (H)"
+msgstr "交互 (H)"
+
+#: treemap.cpp:2867
+msgid "Horizontal"
+msgstr "水平"
+
+#: treemap.cpp:2868
+msgid "Vertical"
+msgstr "垂直"
+
+#: treemap.cpp:2923
+msgid "Nesting"
+msgstr "ネスト"
+
+#: treemap.cpp:2925
+msgid "Border"
+msgstr "境界"
+
+#: treemap.cpp:2926
+msgid "Correct Borders Only"
+msgstr "正確な境界のみ"
+
+#: treemap.cpp:2928 treemap.cpp:2929 treemap.cpp:2930 treemap.cpp:2931
+#, kde-format
+msgid "Width %1"
+msgstr "幅 %1"
+
+#: treemap.cpp:2938
+msgid "Allow Rotation"
+msgstr "回転を許可"
+
+#: treemap.cpp:2940
+msgid "Shading"
+msgstr "濃淡を付ける"
+
+#: treemap.cpp:2953
+msgid "Visible"
+msgstr "表示する"
+
+#: treemap.cpp:2954
+msgid "Take Space From Children"
+msgstr "子からスペースを取得する"
+
+#: treemap.cpp:2956
+msgid "Top Left"
+msgstr "上 左"
+
+#: treemap.cpp:2957
+msgid "Top Center"
+msgstr "上 中央"
+
+#: treemap.cpp:2958
+msgid "Top Right"
+msgstr "上 右"
+
+#: treemap.cpp:2959
+msgid "Bottom Left"
+msgstr "下 左"
+
+#: treemap.cpp:2960
+msgid "Bottom Center"
+msgstr "下 中央"
+
+#: treemap.cpp:2961
+msgid "Bottom Right"
+msgstr "下 右"
+
+#: treemap.cpp:3038
+#, kde-format
+msgid "No %1 Limit"
+msgstr "%1 の制限なし"
+
+#: treemap.cpp:3090
+msgid "No Area Limit"
+msgstr "エリアの制限なし"
+
+#: treemap.cpp:3096
+#, kde-format
+msgid "Area of '%1' (%2)"
+msgstr "%1 のエリア (%2)"
+
+#: treemap.cpp:3107 treemap.cpp:3118
+#, kde-format
+msgid "1 Pixel"
+msgid_plural "%1 Pixels"
+msgstr[0] "1 ピクセル"
+msgstr[1] "%1 ピクセル"
+
+#: treemap.cpp:3122
+#, kde-format
+msgid "Double Area Limit (to %1)"
+msgstr "エリア制限を二倍に (%1 に)"
+
+#: treemap.cpp:3124
+#, kde-format
+msgid "Halve Area Limit (to %1)"
+msgstr "エリア制限を半分に (%1 に)"
+
+#: treemap.cpp:3155
+msgid "No Depth Limit"
+msgstr "深さの制限なし"
+
+#: treemap.cpp:3161
+#, kde-format
+msgid "Depth of '%1' (%2)"
+msgstr "%1 の深さ (%2)"
+
+#: treemap.cpp:3172 treemap.cpp:3183
+#, kde-format
+msgid "Depth %1"
+msgstr "深さ %1"
+
+#: treemap.cpp:3187
+#, kde-format
+msgid "Decrement (to %1)"
+msgstr "減らす (%1 に)"
+
+#: treemap.cpp:3189
+#, kde-format
+msgid "Increment (to %1)"
+msgstr "増やす (%1 に)"

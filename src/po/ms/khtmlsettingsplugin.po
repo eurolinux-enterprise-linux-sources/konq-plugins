@@ -1,0 +1,105 @@
+# Malay translation.
+# FIRST AUTHOR MIMOS <opensource@mimos.my>, 2005.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Mimos\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-26 10:56+0100\n"
+"PO-Revision-Date: 2005-09-23 10:39+0800\n"
+"Last-Translator: MIMOS <opensource@mimos.my>\n"
+"Language-Team: Malay <kedidiemas@yahoogroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=1;\n"
+
+#. i18n: file: khtmlsettingsplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: khtmlsettingsplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Bar Alat Tambahan"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "MIMOS"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "opensource@mimos.my"
+
+#: settingsplugin.cpp:40 settingsplugin.cpp:52
+msgid "HTML Settings"
+msgstr "Seting HTML"
+
+#: settingsplugin.cpp:61
+msgid "Java&Script"
+msgstr "Java&Script"
+
+#: settingsplugin.cpp:66
+msgid "&Java"
+msgstr "&Java"
+
+#: settingsplugin.cpp:71
+msgid "&Cookies"
+msgstr "&Cookies"
+
+#: settingsplugin.cpp:76
+msgid "&Plugins"
+msgstr "&Plugin"
+
+#: settingsplugin.cpp:81
+msgid "Autoload &Images"
+msgstr "Automuat &Imej"
+
+#: settingsplugin.cpp:88
+msgid "Enable Pro&xy"
+msgstr "Aktifkan &Proksi"
+
+#: settingsplugin.cpp:93
+msgid "Enable Cac&he"
+msgstr "Aktifkan &Cache"
+
+#: settingsplugin.cpp:99
+msgid "Cache Po&licy"
+msgstr "&Dasar Cache"
+
+#: settingsplugin.cpp:101
+msgid "&Keep Cache in Sync"
+msgstr "&Pastikan Cache Segerak"
+
+#: settingsplugin.cpp:102
+msgid "&Use Cache if Possible"
+msgstr "&Guna Cache jika Boleh"
+
+#: settingsplugin.cpp:103
+msgid "&Offline Browsing Mode"
+msgstr "Mod Pelayaran &Luar Talian"
+
+#: settingsplugin.cpp:187
+#, fuzzy
+#| msgid ""
+#| "I can't enable cookies, because the cookie daemon could not be started."
+msgid ""
+"Cookies could not be enabled, because the cookie daemon could not be started."
+msgstr ""
+"Saya tidak dapat mengaktifkan cookies kerana daemon cookies tidak dapat "
+"dimulakan."
+
+#: settingsplugin.cpp:189
+msgid "Cookies Disabled"
+msgstr "Cookies Dinyahaktifkan"
+
+#~ msgid "Disable Pro&xy"
+#~ msgstr "Nyahaktifkan &Proksi"
+
+#~ msgid "Disable Cac&he"
+#~ msgstr "Nyahaktifkan Cache"

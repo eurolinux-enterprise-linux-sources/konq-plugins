@@ -1,0 +1,90 @@
+# translation of searchbarplugin.po to Tajik
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# 2004, infoDev, a World Bank organization
+# 2004, Khujand Computer Technologies, Inc.
+# 2004, Youth Opportunities NGO
+# Roger V Kovacs, <rkovacs@khujand.org>, 2004.
+# Victor Ibragimov <youth_opportunities@tajik.net>, 2004.
+# Marina Kolucheva <youth_opportunities@tajik.net>, 2004.
+# Victor Ibragimov <victor.ibragimov@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: searchbarplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-11 06:35+0200\n"
+"PO-Revision-Date: 2009-07-25 01:51+0500\n"
+"Last-Translator: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
+"Language-Team: Tajik <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: searchbar.rc:3
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:3
+msgid "Search Toolbar"
+msgstr "Панели асбобҳои ҷустуҷӯӣ"
+
+#: searchbar.cpp:82
+msgid ""
+"Search Bar<p>Enter a search term. Click on the icon to change search mode or "
+"provider.</p>"
+msgstr ""
+"Панели ҷустуҷӯӣ<p>Калимаи ҷустуҷӯиро ворид кунед. Барои иваз кардани ҳолат ё "
+"провайдери ҷустуҷӯӣ, тугмаро зер кунед.</p>"
+
+#: searchbar.cpp:90
+msgid "Search Bar"
+msgstr "Панели ҷустуҷӯӣ"
+
+#: searchbar.cpp:95
+msgid "Focus Searchbar"
+msgstr "Панели ҷустуҷӯӣ"
+
+#: searchbar.cpp:318
+msgid "Find in This Page"
+msgstr "Дар ин саҳифа дарёфт кунед"
+
+#: searchbar.cpp:347
+msgid "Select Search Engines..."
+msgstr "Интихоби провайдери ҷустуҷӯӣ..."
+
+#: searchbar.cpp:367
+msgid "Add "
+msgstr ""
+
+#: searchbar.cpp:631
+msgid "Enable Suggestion"
+msgstr "Фаъолсозии пешниҳод"
+
+#: WebShortcutWidget.cpp:43
+msgid "Set Uri Shortcuts"
+msgstr ""
+
+#: WebShortcutWidget.cpp:57
+msgid "Name:"
+msgstr ""
+
+#: WebShortcutWidget.cpp:61
+msgid "Shortcuts:"
+msgstr ""
+
+#: WebShortcutWidget.cpp:71
+msgid "Ok"
+msgstr ""
+
+#: WebShortcutWidget.cpp:76
+msgid "Cancel"
+msgstr ""
+
+#, fuzzy
+#~ msgid "%1 Search"
+#~ msgstr "Мили ҷустуҷӯ"
+
+#~ msgid "Search Bar<p>Enter a search term."
+#~ msgstr "Мили бозёбӣ<p>Истилоҳи бозёбиро вуруд диҳед."
+
+#~ msgid "Location Toolbar"
+#~ msgstr "Пайраҳаи асбоби ҷойгиршавӣ"

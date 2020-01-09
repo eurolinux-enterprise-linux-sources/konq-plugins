@@ -1,0 +1,48 @@
+# translation of crashesplugin.po to Spanish
+# Copyright (C) 2003, 2005, 2007 Free Software Foundation, Inc.
+#
+# Rafael Osuna <rosuna@wol.es>, 2003.
+# Santiago Fernandez Sancho <santi@kde-es.org>, 2005.
+# santi <santi@kde-es.org>, 2005.
+# Santiago Fernández Sancho <santi@kde-es.org>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: crashesplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-08-25 09:12+0200\n"
+"PO-Revision-Date: 2007-05-20 00:03+0200\n"
+"Last-Translator: Santiago Fernández Sancho <santi@kde-es.org>\n"
+"Language-Team: Spanish <kde-es@kybs.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: crashesplugin.cpp:48
+msgid "&Crashes"
+msgstr "&Bloqueos"
+
+#: crashesplugin.cpp:95 crashesplugin.cpp:119
+msgid "All Pages of This Crash"
+msgstr "Todas las páginas de este bloqueo"
+
+#: crashesplugin.cpp:125
+msgid "No Recovered Crashes"
+msgstr "Ningún bloqueo recuperado"
+
+#: crashesplugin.cpp:137
+msgid "&Clear List of Crashes"
+msgstr "&Limpiar lista de bloqueos"
+
+#. i18n: file: crashesplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "Herramien&tas"
+
+#. i18n: file: crashesplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Barra de herramientas extra"

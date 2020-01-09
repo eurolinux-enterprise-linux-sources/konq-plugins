@@ -1,0 +1,216 @@
+# KDE3 - kdeaddons/konqsidebar_metabar.po Russian translation.
+# Copyright (C) 2006, KDE Russian translation team.
+#
+# Andrey Cherepanov <sibskull@mail.ru>, 2006.
+# Nick Shaforostoff <shafff@ukr.net>, 2006.
+# Artem Sereda <overmind88@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2008-10-21 22:06+0300\n"
+"Last-Translator: Artem Sereda <overmind88@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Настройка панели сведений"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Количество вариантов"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Приложений:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Действий:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Анимированное раскрытие"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Показывать меню"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Темы"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Установить тему..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Создать..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "Удалить"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Изменить..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Имя"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Адрес"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Общие"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Действия"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Ссылки"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Совместный доступ"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Создать ссылку"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Новая ссылка"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Имя:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "Адрес:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Изменить ссылку"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Дополнительно"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "Открыть %1"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Выбор приложения"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Тип"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Размер"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Владелец"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Группа"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Права доступа"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Изменён"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Последнее открытие"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "Цель ссылки"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "Файлы"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Папок"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Всего"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Щёлкните для запуска предварительного просмотра"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Подготовка к предварительному просмотру"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Настройка панели сведений..."
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Меньше"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Добавить сетевую папку"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Открыть"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Комментарий"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Требует привилегий администратора"
+
+#~ msgid "Show frame"
+#~ msgstr "Показывать рамку"
+
+#~ msgid "Configure %1..."
+#~ msgstr "Настроить %1..."
+
+#~ msgid "Reload Theme"
+#~ msgstr "Обновить тему"
+
+#~ msgid "%1 Elements"
+#~ msgstr "Элементов: %1"
+
+#~ msgid "%1 Folders, %2 Files"
+#~ msgstr "Папок: %1, файлов: %2"

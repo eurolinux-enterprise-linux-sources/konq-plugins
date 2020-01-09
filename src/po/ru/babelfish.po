@@ -1,0 +1,184 @@
+# translation of babelfish.po to Russian
+# KDE3 - babelfish.pot Russian translation.
+# KDE3 - kdeaddons/babelfish.po Russian translation.
+# Copyright (C) 2004, KDE Team.
+#
+# Alex Miller <asm@som.kiev.ua>, 2001.
+# Nick Shafff <linux@l10n.org.ua>, 2004.
+# Nickolai Shaforostoff <shafff@ukr.net>, 2004.
+# Andrey Cherepanov <sibskull@mail.ru>, 2005.
+# Artem Sereda <overmind88@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: babelfish\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-17 07:03+0200\n"
+"PO-Revision-Date: 2008-10-21 22:01+0300\n"
+"Last-Translator: Artem Sereda <overmind88@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: plugin_babelfish.cpp:50
+msgid "Translate Web Page"
+msgstr "Перевести веб-страницу"
+
+#: plugin_babelfish.cpp:60
+msgid "Translate Web &Page"
+msgstr "&Перевести веб-страницу"
+
+#: plugin_babelfish.cpp:66
+msgid "&English To"
+msgstr "С &английского"
+
+#: plugin_babelfish.cpp:69
+msgid "&French To"
+msgstr "С &французского"
+
+#: plugin_babelfish.cpp:72
+msgid "&German To"
+msgstr "С &немецкого"
+
+#: plugin_babelfish.cpp:76
+msgid "&Spanish To"
+msgstr "С &испанского"
+
+#: plugin_babelfish.cpp:80
+msgid "&Portuguese To"
+msgstr "С &португальского"
+
+#: plugin_babelfish.cpp:84
+msgid "&Italian To"
+msgstr "С &итальянского"
+
+#: plugin_babelfish.cpp:88
+msgid "&Dutch To"
+msgstr "С &голландского"
+
+#: plugin_babelfish.cpp:94
+msgid "&Chinese (Simplified)"
+msgstr "На &китайский (упрощённое письмо)"
+
+#: plugin_babelfish.cpp:95
+msgid "Chinese (&Traditional)"
+msgstr "На китайский (традиционное &письмо)"
+
+#: plugin_babelfish.cpp:96 plugin_babelfish.cpp:107
+msgid "&Dutch"
+msgstr "На &голландский"
+
+#: plugin_babelfish.cpp:97 plugin_babelfish.cpp:114 plugin_babelfish.cpp:116
+#: plugin_babelfish.cpp:118 plugin_babelfish.cpp:120 plugin_babelfish.cpp:122
+msgid "&French"
+msgstr "На &французский"
+
+#: plugin_babelfish.cpp:98 plugin_babelfish.cpp:109
+msgid "&German"
+msgstr "На &немецкий"
+
+#: plugin_babelfish.cpp:99 plugin_babelfish.cpp:110
+msgid "&Italian"
+msgstr "На &итальянский"
+
+#: plugin_babelfish.cpp:100
+msgid "&Japanese"
+msgstr "На &японский"
+
+#: plugin_babelfish.cpp:101
+msgid "&Korean"
+msgstr "На к&орейский"
+
+#: plugin_babelfish.cpp:102
+msgid "&Norwegian"
+msgstr "На &норвежский"
+
+#: plugin_babelfish.cpp:103 plugin_babelfish.cpp:111
+msgid "&Portuguese"
+msgstr "На &португальский"
+
+#: plugin_babelfish.cpp:104
+msgid "&Russian"
+msgstr "На &русский"
+
+#: plugin_babelfish.cpp:105 plugin_babelfish.cpp:112
+msgid "&Spanish"
+msgstr "На и&спанский"
+
+#: plugin_babelfish.cpp:106
+msgid "T&hai"
+msgstr "На &тайский"
+
+#: plugin_babelfish.cpp:108 plugin_babelfish.cpp:113 plugin_babelfish.cpp:115
+#: plugin_babelfish.cpp:117 plugin_babelfish.cpp:119 plugin_babelfish.cpp:121
+msgid "&English"
+msgstr "На &английский"
+
+#: plugin_babelfish.cpp:123 plugin_babelfish.cpp:142
+msgid "&Chinese (Simplified) to English"
+msgstr "С китайского (&упрощённое письмо) на английский"
+
+#: plugin_babelfish.cpp:124 plugin_babelfish.cpp:147
+msgid "Chinese (&Traditional) to English"
+msgstr "С китайского (&традиционное письмо) на английский"
+
+#: plugin_babelfish.cpp:158
+msgid "&Japanese to English"
+msgstr "С &японского на английский"
+
+#: plugin_babelfish.cpp:163
+msgid "&Korean to English"
+msgstr "С &корейского на английский"
+
+#: plugin_babelfish.cpp:170
+msgid "&Russian to English"
+msgstr "С &русского на английский"
+
+#: plugin_babelfish.cpp:214
+msgid "Cannot Translate Source"
+msgstr "Не удалось перевести"
+
+#: plugin_babelfish.cpp:215
+msgid "Only web pages can be translated using this plugin."
+msgstr "Этот модуль позволяет переводить только веб-страницы."
+
+#: plugin_babelfish.cpp:261
+msgid "Only full webpages can be translated for this language pair."
+msgstr "Этот модуль позволяет переводить только веб-страницы."
+
+#: plugin_babelfish.cpp:261
+msgid "Translation Error"
+msgstr "Ошибка в процессе перевода"
+
+#: plugin_babelfish.cpp:269
+msgid "Malformed URL"
+msgstr "Недопустимый URL"
+
+#: plugin_babelfish.cpp:270
+msgid "The URL you entered is not valid, please correct it and try again."
+msgstr "Вы ввели неправильный адрес. Исправьте его и попробуйте снова."
+
+#. i18n: file: plugin_babelfish.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "С&ервис"
+
+#. i18n: file: plugin_babelfish.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Дополнительная панель инструментов"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Николай Шафоростов"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "shafff@ukr.net"

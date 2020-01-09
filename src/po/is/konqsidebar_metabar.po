@@ -1,0 +1,202 @@
+# translation of konqsidebar_metabar.po to Icelandic
+# Translation of konqsidebar_metabar to Icelandic
+#
+# Richard Allen <ra@ra.is>, 2005.
+# Sveinn í Felli <sveinki@nett.is>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2009-07-28 20:05+0000\n"
+"Last-Translator: Sveinn í Felli <sveinki@nett.is>\n"
+"Language-Team: Icelandic <kde-isl@molar.is>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Stillingar - Metaslá"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Hlutar"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Opna með:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Aðgerðir:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr ""
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Hreyfimynd við stærðarbreytingu"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Sýna þjónustuvalmyndir"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Þemur"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Setja inn nýja þemu..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Ný..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr ""
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Breyta..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Nafn"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Vistfang"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Almennt"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Aðgerðir"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Tenglar"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Deila"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Búa til tengil"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Nýr tengill"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Nafn:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "Slóð:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Breyta tengil"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Meira"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "Keyra %1"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Velja forrit"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Tegund"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Stærð"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Notandi"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Hópur"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Heimildir"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Breytt"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Notað"
+
+#: defaultplugin.cpp:237
+#, fuzzy
+msgid "Link target"
+msgstr "Tengill í"
+
+#: defaultplugin.cpp:297
+#, fuzzy
+msgid "Files"
+msgstr "Möppur"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Möppur"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Færslur alls"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Smelltu til að hefja forsýn"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Undirbý forsýn"
+
+#: metabarwidget.cpp:123
+#, fuzzy
+msgid "Configure Metabar..."
+msgstr "Stillingar - Metaslá"
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Minna"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Bæta við netmöppu"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Keyra"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Athugasemd"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Þarfnast kerfisstjóraheimilda"

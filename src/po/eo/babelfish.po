@@ -1,0 +1,195 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: babelfish\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-17 07:03+0200\n"
+"PO-Revision-Date: 2002-06-14 20:21GMT\n"
+"Last-Translator: Steffen Pietsch <Steffen.Pietsch@BerlinOnline.de>\n"
+"Language-Team: Esperanto <eo@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.6\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: plugin_babelfish.cpp:50
+#, fuzzy
+msgid "Translate Web Page"
+msgstr "&Traduku TTT-paĝon"
+
+#: plugin_babelfish.cpp:60
+#, fuzzy
+msgid "Translate Web &Page"
+msgstr "&Traduku TTT-paĝon"
+
+#: plugin_babelfish.cpp:66
+#, fuzzy
+msgid "&English To"
+msgstr "El angla al franca"
+
+#: plugin_babelfish.cpp:69
+#, fuzzy
+msgid "&French To"
+msgstr "El franca al germana"
+
+#: plugin_babelfish.cpp:72
+#, fuzzy
+msgid "&German To"
+msgstr "El germana al franca"
+
+#: plugin_babelfish.cpp:76
+#, fuzzy
+msgid "&Spanish To"
+msgstr "El hispana al angla"
+
+#: plugin_babelfish.cpp:80
+#, fuzzy
+msgid "&Portuguese To"
+msgstr "El portugala al angla"
+
+#: plugin_babelfish.cpp:84
+#, fuzzy
+msgid "&Italian To"
+msgstr "El itala al angla"
+
+#: plugin_babelfish.cpp:88
+msgid "&Dutch To"
+msgstr ""
+
+#: plugin_babelfish.cpp:94
+msgid "&Chinese (Simplified)"
+msgstr ""
+
+#: plugin_babelfish.cpp:95
+#, fuzzy
+msgid "Chinese (&Traditional)"
+msgstr "El ĉina al angla"
+
+#: plugin_babelfish.cpp:96 plugin_babelfish.cpp:107
+msgid "&Dutch"
+msgstr ""
+
+#: plugin_babelfish.cpp:97 plugin_babelfish.cpp:114 plugin_babelfish.cpp:116
+#: plugin_babelfish.cpp:118 plugin_babelfish.cpp:120 plugin_babelfish.cpp:122
+msgid "&French"
+msgstr ""
+
+#: plugin_babelfish.cpp:98 plugin_babelfish.cpp:109
+msgid "&German"
+msgstr ""
+
+#: plugin_babelfish.cpp:99 plugin_babelfish.cpp:110
+msgid "&Italian"
+msgstr ""
+
+#: plugin_babelfish.cpp:100
+msgid "&Japanese"
+msgstr ""
+
+#: plugin_babelfish.cpp:101
+msgid "&Korean"
+msgstr ""
+
+#: plugin_babelfish.cpp:102
+msgid "&Norwegian"
+msgstr ""
+
+#: plugin_babelfish.cpp:103 plugin_babelfish.cpp:111
+#, fuzzy
+msgid "&Portuguese"
+msgstr "El angla al portugala"
+
+#: plugin_babelfish.cpp:104
+msgid "&Russian"
+msgstr ""
+
+#: plugin_babelfish.cpp:105 plugin_babelfish.cpp:112
+msgid "&Spanish"
+msgstr ""
+
+#: plugin_babelfish.cpp:106
+msgid "T&hai"
+msgstr ""
+
+#: plugin_babelfish.cpp:108 plugin_babelfish.cpp:113 plugin_babelfish.cpp:115
+#: plugin_babelfish.cpp:117 plugin_babelfish.cpp:119 plugin_babelfish.cpp:121
+msgid "&English"
+msgstr ""
+
+#: plugin_babelfish.cpp:123 plugin_babelfish.cpp:142
+#, fuzzy
+msgid "&Chinese (Simplified) to English"
+msgstr "El ĉina al angla"
+
+#: plugin_babelfish.cpp:124 plugin_babelfish.cpp:147
+#, fuzzy
+msgid "Chinese (&Traditional) to English"
+msgstr "El ĉina al angla"
+
+#: plugin_babelfish.cpp:158
+#, fuzzy
+msgid "&Japanese to English"
+msgstr "El japana al angla"
+
+#: plugin_babelfish.cpp:163
+#, fuzzy
+msgid "&Korean to English"
+msgstr "El korea al angla"
+
+#: plugin_babelfish.cpp:170
+#, fuzzy
+msgid "&Russian to English"
+msgstr "El rusa al angla"
+
+#: plugin_babelfish.cpp:214
+#, fuzzy
+msgid "Cannot Translate Source"
+msgstr "Ne ebla traduki la fonton"
+
+#: plugin_babelfish.cpp:215
+msgid "Only web pages can be translated using this plugin."
+msgstr "Nur eblas traduki ttt-paĝojn per tiu ĉi kromaĵo."
+
+#: plugin_babelfish.cpp:261
+#, fuzzy
+msgid "Only full webpages can be translated for this language pair."
+msgstr "Nur eblas traduki ttt-paĝojn per tiu ĉi kromaĵo."
+
+#: plugin_babelfish.cpp:261
+msgid "Translation Error"
+msgstr ""
+
+#: plugin_babelfish.cpp:269
+msgid "Malformed URL"
+msgstr ""
+
+#: plugin_babelfish.cpp:270
+#, fuzzy
+msgid "The URL you entered is not valid, please correct it and try again."
+msgstr "La URL donita de vi ne estas valida, bonvolu korekti ĝin kaj reprovi"
+
+#. i18n: file: plugin_babelfish.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: plugin_babelfish.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr ""
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""

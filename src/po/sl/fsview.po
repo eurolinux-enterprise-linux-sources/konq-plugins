@@ -1,0 +1,386 @@
+# translation of fsview.po to Slovenian
+# Translation of fsview.po to Slovenian
+# Copyright (C) 2003, 2004, 2005, 2006 Free Software Foundation, Inc.
+#
+# Gregor Rakar <gregor.rakar@kiss.si>, 2003, 2004, 2005.
+# Matjaž Horvat <matjaz@owca.info>, 2004.
+# Jure Repinc <jlp@holodeck1.com>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: fsview\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-11-01 06:25+0100\n"
+"PO-Revision-Date: 2006-07-23 17:02+0200\n"
+"Last-Translator: Jure Repinc <jlp@holodeck1.com>\n"
+"Language-Team: Slovenian <sl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+
+#: fsview.cpp:52 fsview.cpp:390
+msgid "Name"
+msgstr "Ime"
+
+#: fsview.cpp:53
+msgid "Size"
+msgstr "Velikost"
+
+#: fsview.cpp:54
+msgid "File Count"
+msgstr "Števec datotek"
+
+#: fsview.cpp:55
+msgid "Directory Count"
+msgstr "Števec imenikov"
+
+#: fsview.cpp:56
+msgid "Last Modified"
+msgstr "Zadnja sprememba"
+
+#: fsview.cpp:57 fsview.cpp:391
+msgid "Owner"
+msgstr "Lastnik"
+
+#: fsview.cpp:58 fsview.cpp:392
+msgid "Group"
+msgstr "Skupina"
+
+#: fsview.cpp:59 fsview.cpp:393
+msgid "Mime Type"
+msgstr "Zvrst MIME"
+
+#: fsview.cpp:281
+msgid "Go To"
+msgstr "Pojdi na"
+
+#: fsview.cpp:283
+msgid "Go Up"
+msgstr "Pojdi gor"
+
+#: fsview.cpp:285
+msgid "Stop Refresh"
+msgstr "Ustavi osveževanje"
+
+#: fsview.cpp:287
+msgid "Refresh"
+msgstr "Osveži"
+
+#: fsview.cpp:290
+#, kde-format
+msgid "Refresh '%1'"
+msgstr "Osveži »%1«"
+
+#: fsview.cpp:293 fsview_part.cpp:131
+msgid "Stop at Depth"
+msgstr "Ustavi na globini"
+
+#: fsview.cpp:295 fsview_part.cpp:128
+msgid "Stop at Area"
+msgstr "Ustavi se na mestu"
+
+#: fsview.cpp:297
+msgid "Stop at Name"
+msgstr "Ustavi na imenu"
+
+#: fsview.cpp:303 fsview_part.cpp:138
+msgid "Color Mode"
+msgstr "Barvni način"
+
+#: fsview.cpp:306 fsview_part.cpp:134
+msgid "Visualization"
+msgstr "Vizualizacija"
+
+#: fsview.cpp:388
+msgid "None"
+msgstr "Brez"
+
+#: fsview.cpp:389
+msgid "Depth"
+msgstr "Globina"
+
+#: fsview_part.cpp:82
+#, kde-format
+msgid "Read 1 folder, in %2"
+msgid_plural "Read %1 folders, in %2"
+msgstr[0] "Prebranih %1 map v %2"
+msgstr[1] "Prebrana %1 mapa v %2"
+msgstr[2] "Prebrani %1 mapi v %2"
+msgstr[3] "Prebranih %1 map v %2"
+
+#: fsview_part.cpp:87
+#, kde-format
+msgid "1 folder"
+msgid_plural "%1 folders"
+msgstr[0] "%1 map"
+msgstr[1] "%1 mapa"
+msgstr[2] "%1 mapi"
+msgstr[3] "%1 map"
+
+#: fsview_part.cpp:96 main.cpp:21
+msgid "FSView"
+msgstr "FSView"
+
+#: fsview_part.cpp:97
+msgid "Filesystem Utilization Viewer"
+msgstr "Pregledovalnik uporabe datotečnega sistema"
+
+#: fsview_part.cpp:99
+msgid "(c) 2003-2005, Josef Weidendorfer"
+msgstr "(c) 2003-2005, Josef Weidendorfer"
+
+#: fsview_part.cpp:112
+msgid ""
+"<p>This is the FSView plugin, a graphical browsing mode showing filesystem "
+"utilization by using a tree map visualization.</p><p>Note that in this mode, "
+"automatic updating when filesystem changes are made is intentionally <b>not</"
+"b> done.</p><p>For details on usage and options available, see the online "
+"help under menu 'Help/FSView Manual'.</p>"
+msgstr ""
+"<p>To je vstavek FSView, grafični način brskanja, ki prikazuje uporabo "
+"datotečnega sistema s pomočjo vizualizacije drevesnega pogleda.</"
+"p><p>Vedite, da v tem načinu samodejno posodabljanje ob spremembah "
+"datotečnega sistema namenoma <b>ni</b> upoštevano.</p><p>Za podrobnosti o "
+"uporabi in možnostih, ki so na voljo, si oglejte spletno pomoč v meniju "
+"»Pomoč/Priročnik FSView«.</p>"
+
+#: fsview_part.cpp:144
+msgid "&FSView Manual"
+msgstr "Priročnik &FSViev"
+
+#: fsview_part.cpp:146
+msgid "Show FSView manual"
+msgstr "Prikaži priročnik FSView"
+
+#: fsview_part.cpp:147
+msgid "Opens the help browser with the FSView documentation"
+msgstr "Odpre brskalnik pomoči z dokumentacijo FSView"
+
+#: fsview_part.cpp:187
+msgctxt "@action:inmenu File"
+msgid "Move to Trash"
+msgstr ""
+
+#: fsview_part.cpp:195
+msgctxt "@action:inmenu File"
+msgid "Delete"
+msgstr ""
+
+#: fsview_part.cpp:200
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr ""
+
+#: fsview_part.cpp:204
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr ""
+
+#: fsview_part.cpp:245
+msgid ""
+"FSView intentionally does not support automatic updates when changes are "
+"made to files or directories, currently visible in FSView, from the "
+"outside.\n"
+"For details, see the 'Help/FSView Manual'."
+msgstr ""
+"FSView namenoma ne podpira samodejnega posodabljanja, ko pride do sprememb "
+"datotek in imenikov, ki so trenutno vidne v FSView, iz zunanje strani.\n"
+"Za podrobnosti si oglejte »Pomoč/Priročnik FSView«."
+
+#: main.cpp:22
+msgid "Filesystem Viewer"
+msgstr "Pregledovalnik datotečnih sistemov"
+
+#: main.cpp:24
+msgid "(c) 2002, Josef Weidendorfer"
+msgstr "© 2002, Josef Weidendorfer"
+
+#: main.cpp:28
+msgid "View filesystem starting from this folder"
+msgstr "Poglej datotečni sistem od te mape naprej"
+
+#. i18n: file: fsview_part.rc:4
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:3
+msgid "&Edit"
+msgstr ""
+
+#. i18n: file: fsview_part.rc:13
+#. i18n: ectx: Menu (view)
+#: rc.cpp:6
+#, fuzzy
+msgid "&View"
+msgstr "FSView"
+
+#. i18n: file: fsview_part.rc:20
+#. i18n: ectx: Menu (help)
+#: rc.cpp:9
+msgid "&Help"
+msgstr ""
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Gregor Rakar,Matjaž Horvat"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "gregor.rakar@kiss.si,matjaz@owca.info"
+
+#: treemap.cpp:1328
+#, kde-format
+msgid "Text %1"
+msgstr "Besedilo %1"
+
+#: treemap.cpp:2860
+msgid "Recursive Bisection"
+msgstr "Rekurzivna bisekcija"
+
+#: treemap.cpp:2861
+msgid "Columns"
+msgstr "Stolpci"
+
+#: treemap.cpp:2862
+msgid "Rows"
+msgstr "Vrstice"
+
+#: treemap.cpp:2863
+msgid "Always Best"
+msgstr "Vedno najboljše"
+
+#: treemap.cpp:2864
+msgid "Best"
+msgstr "Najboljše"
+
+#: treemap.cpp:2865
+msgid "Alternate (V)"
+msgstr "Alternativno (N)"
+
+#: treemap.cpp:2866
+msgid "Alternate (H)"
+msgstr "Alteronativno (V)"
+
+#: treemap.cpp:2867
+msgid "Horizontal"
+msgstr ""
+
+#: treemap.cpp:2868
+msgid "Vertical"
+msgstr ""
+
+#: treemap.cpp:2923
+msgid "Nesting"
+msgstr "Gnezdenje"
+
+#: treemap.cpp:2925
+msgid "Border"
+msgstr ""
+
+#: treemap.cpp:2926
+msgid "Correct Borders Only"
+msgstr "Popravi samo robove"
+
+#: treemap.cpp:2928 treemap.cpp:2929 treemap.cpp:2930 treemap.cpp:2931
+#, kde-format
+msgid "Width %1"
+msgstr "Širina %1"
+
+#: treemap.cpp:2938
+msgid "Allow Rotation"
+msgstr "Dovoli zasukanje"
+
+#: treemap.cpp:2940
+msgid "Shading"
+msgstr "Senčenje"
+
+#: treemap.cpp:2953
+msgid "Visible"
+msgstr "Vidno"
+
+#: treemap.cpp:2954
+msgid "Take Space From Children"
+msgstr "Odvzemi prostor otrokom"
+
+#: treemap.cpp:2956
+msgid "Top Left"
+msgstr "Zgoraj levo"
+
+#: treemap.cpp:2957
+msgid "Top Center"
+msgstr "Zgoraj v sredi"
+
+#: treemap.cpp:2958
+msgid "Top Right"
+msgstr "Zgoraj desno"
+
+#: treemap.cpp:2959
+msgid "Bottom Left"
+msgstr "Spodaj levo"
+
+#: treemap.cpp:2960
+msgid "Bottom Center"
+msgstr "Spodaj v sredini"
+
+#: treemap.cpp:2961
+msgid "Bottom Right"
+msgstr "Spodaj desno"
+
+#: treemap.cpp:3038
+#, kde-format
+msgid "No %1 Limit"
+msgstr "Brez omejitve %1"
+
+#: treemap.cpp:3090
+msgid "No Area Limit"
+msgstr "Brez omejitve področja"
+
+#: treemap.cpp:3096
+#, kde-format
+msgid "Area of '%1' (%2)"
+msgstr "Področje »%1« (%2)"
+
+#: treemap.cpp:3107 treemap.cpp:3118
+#, kde-format
+msgid "1 Pixel"
+msgid_plural "%1 Pixels"
+msgstr[0] "%1 točk"
+msgstr[1] "%1 točka"
+msgstr[2] "%1 točki"
+msgstr[3] "%1 točke"
+
+#: treemap.cpp:3122
+#, kde-format
+msgid "Double Area Limit (to %1)"
+msgstr "Omejitev dvojnega področja (v %1)"
+
+#: treemap.cpp:3124
+#, kde-format
+msgid "Halve Area Limit (to %1)"
+msgstr "Omejitev polovičnega področja (v %1)"
+
+#: treemap.cpp:3155
+msgid "No Depth Limit"
+msgstr "Brez omejitve globine"
+
+#: treemap.cpp:3161
+#, kde-format
+msgid "Depth of '%1' (%2)"
+msgstr "Globina »%1« (%2)"
+
+#: treemap.cpp:3172 treemap.cpp:3183
+#, kde-format
+msgid "Depth %1"
+msgstr "Globina %1"
+
+#: treemap.cpp:3187
+#, kde-format
+msgid "Decrement (to %1)"
+msgstr "Zmanjšaj (na %1)"
+
+#: treemap.cpp:3189
+#, kde-format
+msgid "Increment (to %1)"
+msgstr "Povečaj (na %1)"

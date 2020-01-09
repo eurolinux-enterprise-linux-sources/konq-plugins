@@ -1,0 +1,167 @@
+# translation of webarchiver.po to Greek
+# Copyright (C) 2002, 2003, 2005, 2007 Free Software Foundation, Inc.
+#
+# Stergios Dramis <sdramis@egnatia.ee.auth.gr>, 2002-2003.
+# Spiros Georgaras <sng@hellug.gr>, 2005, 2007.
+# Toussis Manolis <manolis@koppermind.homelinux.org>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: webarchiver\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-23 11:42+0200\n"
+"PO-Revision-Date: 2009-04-28 22:18+0300\n"
+"Last-Translator: Toussis Manolis <manolis@koppermind.homelinux.org>\n"
+"Language-Team: Greek <kde-i18n-el@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: archiveviewbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
+#: archivedialog.cpp:151 rc.cpp:3
+msgid "Web Archiver"
+msgstr "Αρχειοθέτης ιστοσελίδας"
+
+#: archivedialog.cpp:161
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: archivedialog.cpp:162
+msgid "Url"
+msgstr "Url"
+
+#: archivedialog.cpp:230
+msgid "Unable to Open Web-Archive"
+msgstr "Αδύνατο το άνοιγμα της αρχειοθήκης ιστοσελίδας"
+
+#: archivedialog.cpp:231
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing."
+msgstr ""
+"Αδύνατο το άνοιγμα του \n"
+" %1 \n"
+" για εγγραφή."
+
+#: archivedialog.cpp:362
+msgid "Downloading"
+msgstr "Λήψη αρχείου"
+
+#: archivedialog.cpp:383
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: archivedialog.cpp:383
+msgid "Ok"
+msgstr "Εντάξει"
+
+#: archivedialog.cpp:411
+#, kde-format
+msgid "I/O error occurred while writing to web archive file %1."
+msgstr "Συνέβη σφάλμα Ι/Ε κατά την εγγραφή στην αρχειοθήκη ιστού %1."
+
+#: plugin_webarchiver.cpp:58
+msgid "Archive &Web Page..."
+msgstr "&Αρχειοθέτηση ιστοσελίδας..."
+
+#: plugin_webarchiver.cpp:77
+msgid "Untitled"
+msgstr "Άτιτλο"
+
+#: plugin_webarchiver.cpp:94
+msgid "*.war *.tgz|Web Archives"
+msgstr "*.war *.tgz|Αρχειοθήκες ιστοσελίδας"
+
+#: plugin_webarchiver.cpp:95
+msgid "Save Page as Web-Archive"
+msgstr "Αποθήκευση σελίδας σαν αρχειοθήκη ιστοσελίδας"
+
+#: plugin_webarchiver.cpp:100
+msgid "Invalid URL"
+msgstr "Μη έγκυρο URL"
+
+#: plugin_webarchiver.cpp:101
+#, kde-format
+msgid ""
+"The URL\n"
+"%1\n"
+"is not valid."
+msgstr ""
+"Το URL\n"
+"%1\n"
+"δεν είναι έγκυρο."
+
+#: plugin_webarchiver.cpp:115
+msgid "File Exists"
+msgstr "Το αρχείο υπάρχει"
+
+#: plugin_webarchiver.cpp:116
+#, kde-format
+msgid ""
+"Do you really want to overwrite:\n"
+"%1?"
+msgstr ""
+"Θέλετε σίγουρα να αντικαταστήσετε το:\n"
+"%1;"
+
+#: plugin_webarchiver.cpp:117
+msgid "Overwrite"
+msgstr "Αντικατάσταση"
+
+#. i18n: file: archiveviewbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, targetLabel)
+#: rc.cpp:6
+msgid "Local File"
+msgstr "Τοπικό αρχείο"
+
+#. i18n: file: archiveviewbase.ui:55
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:9
+msgid "To:"
+msgstr "Σε:"
+
+#. i18n: file: archiveviewbase.ui:65
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:12
+msgid "Archiving:"
+msgstr "Αρχειοθέτηση:"
+
+#. i18n: file: archiveviewbase.ui:81
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#: rc.cpp:15
+msgid "Original URL"
+msgstr "Αρχικό URL"
+
+#. i18n: file: archiveviewbase.ui:109
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:18
+msgid "1"
+msgstr "1"
+
+#. i18n: file: archiveviewbase.ui:114
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:21
+msgid "2"
+msgstr "2"
+
+#. i18n: file: plugin_webarchiver.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr "Ερ&γαλεία"
+
+#. i18n: file: plugin_webarchiver.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "Επιπρόσθετη γραμμή εργαλείων"
+
+#~ msgid "Archiving webpage completed."
+#~ msgstr "Η αρχειοθέτηση της ιστοσελίδας ολοκληρώθηκε."
+
+#~ msgid "URL"
+#~ msgstr "URL"

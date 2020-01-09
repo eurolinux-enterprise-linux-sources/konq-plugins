@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+<!DOCTYPE book PUBLIC "-//KDE//DTD DocBook XML V4.2-Based Variant V1.1//EN" 
+"dtd/kdex.dtd" [
+  <!ENTITY kappname "&konqueror; Plugins">
+  <!ENTITY package "kdeaddons">
+  <!ENTITY % Ukrainian "INCLUDE"
+> <!-- change language only here -->
+]>
+	
+<book lang="&language;">
+<bookinfo>
+<title
+>Підручник з втулків &konqueror;</title>
+
+<authorgroup>
+<author
+><firstname
+>Lauri</firstname
+> <surname
+>Watts</surname
+> <affiliation
+><address
+>&Lauri.Watts.mail;</address
+></affiliation>
+</author>
+<othercredit role="translator"
+><firstname
+>о. Іван</firstname
+><surname
+>Петрущак</surname
+><affiliation
+><address
+><email
+>fr.ivan@ukrainian-orthodox.org</email
+></address
+></affiliation
+><contrib
+>Переклад українською</contrib
+></othercredit
+>     
+</authorgroup>
+
+
+<date
+>2006-05-20</date>
+<releaseinfo
+>3.5.2</releaseinfo
+> <!-- Used KDE version here -->
+
+<copyright>
+<year
+>2002</year>
+<holder
+>&Lauri.Watts;</holder>
+</copyright>
+
+<legalnotice
+>&FDLNotice;</legalnotice>
+
+<abstract>
+<para
+>Це підручник з додаткових втулків до &konqueror;, файлового менеджера і переглядача мережі для &kde;. </para>
+</abstract>
+
+<keywordset>
+<keyword
+>KDE</keyword>
+<keyword
+>kdeaddons</keyword>
+<keyword
+>Konqueror</keyword>
+<keyword
+>Втулки</keyword>
+</keywordset>
+
+</bookinfo>
+
+<chapter id="introduction">
+<title
+>Вступ</title>
+
+<para
+>У пакунку &package; міститься декілька втулків до &konqueror;. Хоча розмір цих втулків і не є великим, вони додають до &konqueror; нові функціональні можливості та полегшують використання вже існуючих, спрощуючи доступ до них. </para>
+
+<para
+>Докладнішу інформацію щодо використання &konqueror; та вбудованих до нього функцій ви можете знайти у підручнику з &konqueror;. </para>
+
+<para
+>Щоб завантажити ці втулки у &konqueror;, виберіть пункт меню <menuchoice
+><guimenu
+>Параметри</guimenu
+><guimenuitem
+>Налаштування розширень...</guimenuitem
+></menuchoice
+>. Перейдіть на вкладку <guilabel
+>Інструменти</guilabel
+> і виберіть потрібні втулки. </para>
+
+<para
+>Це список <emphasis
+>стандартних</emphasis
+> модулів налаштування, які містяться у пакунку <application role="package"
+>&kde; addons</application
+>. Будь ласка, зауважте, що на вашій системі модулів може бути значно більше у разі, якщо ви встановлювали додаткове програмне забезпечення. </para>
+
+<itemizedlist>
+<listitem>
+<para
+><ulink url="help:/konq-plugins/babel/index.html"
+>Babelfish</ulink
+></para>
+</listitem>
+<listitem>
+<para
+><ulink url="help:/konq-plugins/domtreeviewer/index.html"
+>Переглядач ієрархічного дерева <acronym
+>DOM</acronym
+></ulink
+></para>
+</listitem>
+<listitem>
+<para
+><ulink url="help:/konq-plugins/imgallery/index.html"
+>Галерея зображень &konqueror;</ulink
+></para>
+</listitem>
+<listitem>
+<para
+><ulink url="help:/konq-plugins/mediaplayer/index.html"
+>Вбудований програвач мультимедії</ulink
+></para>
+</listitem>
+<listitem>
+<para
+><ulink url="help:/konq-plugins/validators/index.html"
+>Засоби перевірки</ulink
+></para>
+</listitem>
+<listitem>
+<para
+><ulink url="help:/konq-plugins/kuick/index.html"
+>Kuick</ulink
+></para>
+</listitem>
+<listitem>
+<para
+><ulink url="help:/konq-plugins/dirfilter/index.html"
+>Фільтр тек</ulink
+></para>
+</listitem>
+<listitem>
+<para
+><ulink url="help:/konq-plugins/khtmlsettings/index.html"
+>KHTMLSettings</ulink
+></para>
+</listitem>
+<listitem>
+<para
+><ulink url="help:/konq-plugins/uachanger/index.html"
+>Засіб для зміни поля User Agent</ulink
+></para>
+</listitem>
+<listitem>
+<para
+><ulink url="help:/konq-plugins/webarchiver/index.html"
+>Веб-архіватор</ulink
+></para>
+</listitem>
+<listitem>
+<para
+><ulink url="help:/konq-plugins/crashes/index.html"
+>Втулок аналізатора аварійних завершень</ulink
+></para>
+</listitem>
+<listitem>
+<para
+><ulink url="help:/konq-plugins/fsview/index.html"
+>FSView — Перегляд файлової системи</ulink
+></para>
+</listitem>
+</itemizedlist>
+
+</chapter>
+
+<chapter id="credits">
+<title
+>Авторські права і ліцензія</title>
+
+<para
+>Авторські права на кожен з втулків перелічено у відповідному розділі. </para>
+
+<para
+>о. Іван Петрущак<email
+>fr.ivan@ukrainian-orthodox.org</email
+></para
+> 
+&underFDL; &underGPL; </chapter>
+
+<appendix id="installation">
+<title
+>Встановлення</title>
+
+&install.intro.documentation;
+
+<para
+>Перш ніж перейти до збирання цього пакунка, вам слід встановити пакунок kdebase, у якому міститься програма &konqueror;.</para>
+
+&install.compile.documentation;
+
+</appendix>
+
+
+</book>
+
+<!--
+Local Variables:
+mode: sgml
+End:
+-->

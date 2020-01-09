@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: khtmlsettingsplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-26 10:56+0100\n"
+"PO-Revision-Date: 2009-01-19 04:53+0200\n"
+"Last-Translator: Omer Ensari <oensari@gmail.com>\n"
+"Language-Team: Kurdish <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural= n != 1;\n"
+"X-Poedit-Language: Kurdish\n"
+"X-Poedit-SourceCharset: utf8\n"
+
+#. i18n: file: khtmlsettingsplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Amûr"
+
+#. i18n: file: khtmlsettingsplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Zêdetir Darikê Amûran"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Omer Ensari"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "oensari@gmail.com"
+
+#: settingsplugin.cpp:40 settingsplugin.cpp:52
+msgid "HTML Settings"
+msgstr "Mîhengên HTML"
+
+#: settingsplugin.cpp:61
+msgid "Java&Script"
+msgstr "Java&Script"
+
+#: settingsplugin.cpp:66
+msgid "&Java"
+msgstr "&Java"
+
+#: settingsplugin.cpp:71
+msgid "&Cookies"
+msgstr "&Çerez"
+
+#: settingsplugin.cpp:76
+msgid "&Plugins"
+msgstr "&Pêvek"
+
+#: settingsplugin.cpp:81
+msgid "Autoload &Images"
+msgstr "&Wêneyan Bixweber Bar Bike"
+
+#: settingsplugin.cpp:88
+msgid "Enable Pro&xy"
+msgstr "Cih&girê Çalak Bike"
+
+#: settingsplugin.cpp:93
+msgid "Enable Cac&he"
+msgstr "Pêş&bîrê Çalak Bike"
+
+#: settingsplugin.cpp:99
+msgid "Cache Po&licy"
+msgstr "Rê&gezê Pêşbîrê"
+
+#: settingsplugin.cpp:101
+msgid "&Keep Cache in Sync"
+msgstr "Pêşbîrê di Wekhevî de &Bigire"
+
+#: settingsplugin.cpp:102
+msgid "&Use Cache if Possible"
+msgstr "Pêşbîr &Bi kar bîne heke Gengaz be"
+
+#: settingsplugin.cpp:103
+msgid "&Offline Browsing Mode"
+msgstr "Moda Geroka &Negirêdayî"
+
+#: settingsplugin.cpp:187
+#, fuzzy
+#| msgid ""
+#| "I can not enable cookies, because the cookie daemon could not be started."
+msgid ""
+"Cookies could not be enabled, because the cookie daemon could not be started."
+msgstr ""
+"Ez nikarim çerezan çalak bikim, ji ber ku bernameya çerezan nayê destpê "
+"kirin."
+
+#: settingsplugin.cpp:189
+msgid "Cookies Disabled"
+msgstr "Çerez Hatin Neçalak kirin"

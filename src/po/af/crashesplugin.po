@@ -1,0 +1,44 @@
+# WEB-Translator generated file. UTF-8 test:äëïöü
+# Copyright (C) 2001 Free Software Foundation, Inc.
+# Frikkie Thirion <frix@expertron.co.za>, 2001,2002.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: crashesplugin VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-08-25 09:12+0200\n"
+"PO-Revision-Date: 2002-11-07 11:25+0200\n"
+"Last-Translator: WEB-Translator <http://kde.af.org.za>\n"
+"Language-Team: AFRIKAANS <AF@lia.org.za>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: crashesplugin.cpp:48
+msgid "&Crashes"
+msgstr "Verongeluk"
+
+#: crashesplugin.cpp:95 crashesplugin.cpp:119
+msgid "All Pages of This Crash"
+msgstr ""
+
+#: crashesplugin.cpp:125
+msgid "No Recovered Crashes"
+msgstr "Nee Herwin Verongeluk"
+
+#: crashesplugin.cpp:137
+msgid "&Clear List of Crashes"
+msgstr "Maak skoon Lys van Verongeluk"
+
+#. i18n: file: crashesplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: crashesplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr ""

@@ -1,0 +1,382 @@
+# translation of fsview.po to Cymraeg
+# Bwrdd Gwaith yn Gymraeg.
+# Copyright (C) 2003, 2004 Free Software Foundation, Inc.
+# www.kyfieithu.co.uk<kyfieithu@dotmon.com>, www.gyfieithu.co.uk<kyfieithu@dotmon.com>, 2003.
+# KD at KGyfieithu <kyfieithu@dotmon.com>, 2004.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fsview\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-11-01 06:25+0100\n"
+"PO-Revision-Date: 2004-02-24 11:29+0000\n"
+"Last-Translator: KD at KGyfieithu <kyfieithu@dotmon.com>\n"
+"Language-Team: Cymraeg <cy@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.2\n"
+"\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: fsview.cpp:52 fsview.cpp:390
+msgid "Name"
+msgstr "Enw"
+
+#: fsview.cpp:53
+msgid "Size"
+msgstr "Maint"
+
+#: fsview.cpp:54
+msgid "File Count"
+msgstr "Cyfrif Ffeiliau"
+
+#: fsview.cpp:55
+#, fuzzy
+msgid "Directory Count"
+msgstr "Cyfrif Ffeiliau"
+
+#: fsview.cpp:56
+msgid "Last Modified"
+msgstr "Newid Diwethaf"
+
+#: fsview.cpp:57 fsview.cpp:391
+msgid "Owner"
+msgstr "Perchennog"
+
+#: fsview.cpp:58 fsview.cpp:392
+msgid "Group"
+msgstr "Gr?p"
+
+#: fsview.cpp:59 fsview.cpp:393
+msgid "Mime Type"
+msgstr "Math Mime"
+
+#: fsview.cpp:281
+msgid "Go To"
+msgstr "Ewch I"
+
+#: fsview.cpp:283
+msgid "Go Up"
+msgstr "Ewch i Fyny"
+
+#: fsview.cpp:285
+msgid "Stop Refresh"
+msgstr "Peidio ? chyfredoli"
+
+#: fsview.cpp:287
+msgid "Refresh"
+msgstr "Cyfredoli"
+
+#: fsview.cpp:290
+#, kde-format
+msgid "Refresh '%1'"
+msgstr "Cyfredoli '%1'"
+
+#: fsview.cpp:293 fsview_part.cpp:131
+msgid "Stop at Depth"
+msgstr "Aros wrth Ddyfnder"
+
+#: fsview.cpp:295 fsview_part.cpp:128
+msgid "Stop at Area"
+msgstr "Aros wrth Ardal"
+
+#: fsview.cpp:297
+msgid "Stop at Name"
+msgstr "Aros wrth Enw"
+
+#: fsview.cpp:303 fsview_part.cpp:138
+msgid "Color Mode"
+msgstr "Modd Lliw"
+
+#: fsview.cpp:306 fsview_part.cpp:134
+msgid "Visualization"
+msgstr "Delweddu"
+
+#: fsview.cpp:388
+msgid "None"
+msgstr "Dim"
+
+#: fsview.cpp:389
+msgid "Depth"
+msgstr "Dyfnder"
+
+#: fsview_part.cpp:82
+#, fuzzy, kde-format
+msgid "Read 1 folder, in %2"
+msgid_plural "Read %1 folders, in %2"
+msgstr[0] "Darllenwyd 1 blygell yn %2"
+msgstr[1] " Darllenwyd %1 o blygyll, yn %2"
+
+#: fsview_part.cpp:87
+#, fuzzy, kde-format
+msgid "1 folder"
+msgid_plural "%1 folders"
+msgstr[0] "1 blygell"
+msgstr[1] " %1 o blygyll"
+
+#: fsview_part.cpp:96 main.cpp:21
+msgid "FSView"
+msgstr "FSView"
+
+#: fsview_part.cpp:97
+msgid "Filesystem Utilization Viewer"
+msgstr "Gwelydd Defnydd y Cysawd Ffeiliau"
+
+#: fsview_part.cpp:99
+#, fuzzy
+msgid "(c) 2003-2005, Josef Weidendorfer"
+msgstr "(h) 2002, Josef Weidendorfer"
+
+#: fsview_part.cpp:112
+msgid ""
+"<p>This is the FSView plugin, a graphical browsing mode showing filesystem "
+"utilization by using a tree map visualization.</p><p>Note that in this mode, "
+"automatic updating when filesystem changes are made is intentionally <b>not</"
+"b> done.</p><p>For details on usage and options available, see the online "
+"help under menu 'Help/FSView Manual'.</p>"
+msgstr ""
+"<p> Hwn yw ategyn FSView, modd pori graffegol sy'n dangos defnydd y cysawd "
+"ffeiliau trwy gyfrwng delwedd map coeden.</p><p>Noder mai yn y modd hwn, yn "
+"fwriadol <b>ni</b> wneir diweddaru ymysgogol pan fydd y cysawd ffeiliau'n "
+"newid.</p><p>Am fanylion ar ddefnydd a'r dewisiadau sydd ar gael, gweler y "
+"gymorth arlein o dan y ddewislen 'Cymorth/Llawlyfr FSView'.</p>"
+
+#: fsview_part.cpp:144
+msgid "&FSView Manual"
+msgstr "&Llawlyfr FSView"
+
+#: fsview_part.cpp:146
+msgid "Show FSView manual"
+msgstr "Dangos Llawlyfr FSView"
+
+#: fsview_part.cpp:147
+msgid "Opens the help browser with the FSView documentation"
+msgstr "Agor y porydd cymorth efo dogfenniaeth FSView"
+
+#: fsview_part.cpp:187
+msgctxt "@action:inmenu File"
+msgid "Move to Trash"
+msgstr ""
+
+#: fsview_part.cpp:195
+msgctxt "@action:inmenu File"
+msgid "Delete"
+msgstr ""
+
+#: fsview_part.cpp:200
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr ""
+
+#: fsview_part.cpp:204
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr ""
+
+#: fsview_part.cpp:245
+msgid ""
+"FSView intentionally does not support automatic updates when changes are "
+"made to files or directories, currently visible in FSView, from the "
+"outside.\n"
+"For details, see the 'Help/FSView Manual'."
+msgstr ""
+"Yn fwriadol ni chynnail FSView ddiweddaru ymysgogol pan wneir newidiadau o'r "
+"tu allan i'r cysawd ffeiliau neu cyfeiriadau sy'n weledol ar y pryd yn "
+"FSView.\n"
+" Am fanylion, gweler 'Cymorth/Llawlyfr FSView'."
+
+#: main.cpp:22
+msgid "Filesystem Viewer"
+msgstr "Gwelydd y Cysawd Ffeiliau"
+
+#: main.cpp:24
+msgid "(c) 2002, Josef Weidendorfer"
+msgstr "(h) 2002, Josef Weidendorfer"
+
+#: main.cpp:28
+msgid "View filesystem starting from this folder"
+msgstr "Edrych ar y cysawd ffeiliau gan gychwyn o'r blygell hon"
+
+#. i18n: file: fsview_part.rc:4
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:3
+msgid "&Edit"
+msgstr ""
+
+#. i18n: file: fsview_part.rc:13
+#. i18n: ectx: Menu (view)
+#: rc.cpp:6
+#, fuzzy
+msgid "&View"
+msgstr "FSView"
+
+#. i18n: file: fsview_part.rc:20
+#. i18n: ectx: Menu (help)
+#: rc.cpp:9
+msgid "&Help"
+msgstr ""
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Peter Bradley drwy KGyfieithu"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kyfieithu@dotmon.com"
+
+#: treemap.cpp:1328
+#, kde-format
+msgid "Text %1"
+msgstr "Testun %1"
+
+#: treemap.cpp:2860
+msgid "Recursive Bisection"
+msgstr "Hanneru Ymgylchol"
+
+#: treemap.cpp:2861
+msgid "Columns"
+msgstr "Colofnau"
+
+#: treemap.cpp:2862
+msgid "Rows"
+msgstr "Rhesi"
+
+#: treemap.cpp:2863
+msgid "Always Best"
+msgstr "Y Gorau Bob Tro"
+
+#: treemap.cpp:2864
+msgid "Best"
+msgstr "Y Gorau"
+
+#: treemap.cpp:2865
+msgid "Alternate (V)"
+msgstr "Bob yn Ail (Fertigol)"
+
+#: treemap.cpp:2866
+msgid "Alternate (H)"
+msgstr "Bob yn Ail (Llorweddol)"
+
+#: treemap.cpp:2867
+msgid "Horizontal"
+msgstr ""
+
+#: treemap.cpp:2868
+msgid "Vertical"
+msgstr ""
+
+#: treemap.cpp:2923
+msgid "Nesting"
+msgstr "Ymnythu"
+
+#: treemap.cpp:2925
+msgid "Border"
+msgstr ""
+
+#: treemap.cpp:2926
+msgid "Correct Borders Only"
+msgstr "Cywiro Ffiniau'n Unig"
+
+#: treemap.cpp:2928 treemap.cpp:2929 treemap.cpp:2930 treemap.cpp:2931
+#, kde-format
+msgid "Width %1"
+msgstr "Lled %1"
+
+#: treemap.cpp:2938
+msgid "Allow Rotation"
+msgstr "Caniatau Cylchdroi"
+
+#: treemap.cpp:2940
+msgid "Shading"
+msgstr "Arliwio"
+
+#: treemap.cpp:2953
+msgid "Visible"
+msgstr "Gweledol"
+
+#: treemap.cpp:2954
+msgid "Take Space From Children"
+msgstr "Tynnu Lle o'i Blant"
+
+#: treemap.cpp:2956
+msgid "Top Left"
+msgstr "Chwith Uchaf"
+
+#: treemap.cpp:2957
+msgid "Top Center"
+msgstr "Canol Uchaf"
+
+#: treemap.cpp:2958
+msgid "Top Right"
+msgstr "De Uchaf"
+
+#: treemap.cpp:2959
+msgid "Bottom Left"
+msgstr "Chwith Gwaelod"
+
+#: treemap.cpp:2960
+msgid "Bottom Center"
+msgstr "Canol Gwaelod"
+
+#: treemap.cpp:2961
+msgid "Bottom Right"
+msgstr "De Gwaelod"
+
+#: treemap.cpp:3038
+#, kde-format
+msgid "No %1 Limit"
+msgstr "Dim Cyfyngiad %1 "
+
+#: treemap.cpp:3090
+msgid "No Area Limit"
+msgstr "Dim Cyfyngiad Ardal"
+
+#: treemap.cpp:3096
+#, kde-format
+msgid "Area of '%1' (%2)"
+msgstr "Ardal '%1' (%2)"
+
+#: treemap.cpp:3107 treemap.cpp:3118
+#, fuzzy, kde-format
+msgid "1 Pixel"
+msgid_plural "%1 Pixels"
+msgstr[0] "1 Picsel"
+msgstr[1] " %1 Picsel"
+
+#: treemap.cpp:3122
+#, kde-format
+msgid "Double Area Limit (to %1)"
+msgstr "Cyfyngiad Ardal Dwbl (i %1)"
+
+#: treemap.cpp:3124
+#, kde-format
+msgid "Halve Area Limit (to %1)"
+msgstr "Haneru Cyfyngiad Ardal (i %1)"
+
+#: treemap.cpp:3155
+msgid "No Depth Limit"
+msgstr "Dim Cyfyngiad Dyfnder"
+
+#: treemap.cpp:3161
+#, kde-format
+msgid "Depth of '%1' (%2)"
+msgstr "Dyfnder o '%1' (%2)"
+
+#: treemap.cpp:3172 treemap.cpp:3183
+#, kde-format
+msgid "Depth %1"
+msgstr "Dyfnder %1"
+
+#: treemap.cpp:3187
+#, kde-format
+msgid "Decrement (to %1)"
+msgstr "Iselhau fesul un (hyd at %1)"
+
+#: treemap.cpp:3189
+#, kde-format
+msgid "Increment (to %1)"
+msgstr "Cynyddu fesul un (hyd at %1)"

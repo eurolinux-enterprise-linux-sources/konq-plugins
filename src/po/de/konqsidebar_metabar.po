@@ -1,0 +1,214 @@
+# translation of konqsidebar_metabar.po to german
+#
+# Thomas Reitelbach <tr@erdfunkstelle.de>, 2005, 2006.
+# Arnold Krille <arnold@arnoldarts.de>, 2006.
+# Frederik Schwarzer <schwarzerf@gmail.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2007-08-28 01:33+0200\n"
+"Last-Translator: Frederik Schwarzer <schwarzerf@gmail.com>\n"
+"Language-Team: german <kde-i18n-de@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Einrichtung - Metabar"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Elemente"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Öffnen mit:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Aktionen:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "Erscheinungsbild"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Größenänderung animieren"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Dienstemenüs anzeigen"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Designs"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Neues Design installieren ..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Neu ..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "Entfernen"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Bearbeiten ..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Name"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Adresse"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Allgemein"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Aktionen"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Verknüpfungen"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Gemeinsam nutzen"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Verknüpfung erzeugen"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Neue Verknüpfung"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Name:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "Adresse (URL):"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Verknüpfung bearbeiten"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Mehr"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "%1 ausführen"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Anwendung wählen"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Typ"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Größe"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Benutzer"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Gruppe"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Berechtigungen"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Geändert"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Letzter Zugriff"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "Verknüpfungsziel"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "Dateien"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Ordner"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Elemente insgesamt"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Hier klicken um die Vorschau zu starten"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Vorschau wird erzeugt"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Metabar einrichten ..."
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Weniger"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Neuen Netzwerkordner hinzufügen"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Ausführen"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Kommentar"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Benötigt Systemverwalter-Rechte"
+
+#~ msgid "Show frame"
+#~ msgstr "Rahmen anzeigen"
+
+#~ msgid "Configure %1..."
+#~ msgstr "%1 einrichten ..."
+
+#~ msgid "Reload Theme"
+#~ msgstr "Ansicht neu aufbauen"
+
+#~ msgid "%1 Elements"
+#~ msgstr "%1 Elemente"
+
+#~ msgid "%1 Folders, %2 Files"
+#~ msgstr "%1 Ordner, %2 Dateien"

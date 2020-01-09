@@ -1,0 +1,453 @@
+# Translation of domtreeviewer to Korean.
+# Copyright (C) 2007-2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the extragear-base package.
+# Park Shinjo <peremen@gmail.com>, 2007, 2008, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-base\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-01 10:41+0100\n"
+"PO-Revision-Date: 2009-08-06 15:40+0900\n"
+"Last-Translator: Park Shinjo <peremen@gmail.com>\n"
+"Language-Team: Korean <cho.sungjae@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.0\n"
+
+#: domtreecommands.cpp:33
+msgid "No error"
+msgstr "오류 없음"
+
+#: domtreecommands.cpp:34
+msgid "Index size exceeded"
+msgstr "인덱스 크기 초과됨"
+
+#: domtreecommands.cpp:35
+msgid "DOMString size exceeded"
+msgstr "DOM 문자열 크기 초과됨"
+
+#: domtreecommands.cpp:36
+msgid "Hierarchy request error"
+msgstr "계층 구조 요청 오류"
+
+#: domtreecommands.cpp:37
+msgid "Wrong document"
+msgstr "잘못된 문서"
+
+#: domtreecommands.cpp:38
+msgid "Invalid character"
+msgstr "올바르지 않은 문자"
+
+#: domtreecommands.cpp:39
+msgid "No data allowed"
+msgstr "데이터가 허용되지 않음"
+
+#: domtreecommands.cpp:40
+msgid "No modification allowed"
+msgstr "수정이 허용되지 않음"
+
+#: domtreecommands.cpp:41
+msgid "Not found"
+msgstr "찾을 수 없음"
+
+#: domtreecommands.cpp:42
+msgid "Not supported"
+msgstr "지원되지 않음"
+
+#: domtreecommands.cpp:43
+msgid "Attribute in use"
+msgstr "사용 중인 속성"
+
+#: domtreecommands.cpp:44
+msgid "Invalid state"
+msgstr "잘못된 상태"
+
+#: domtreecommands.cpp:45
+msgid "Syntax error"
+msgstr "문법 오류"
+
+#: domtreecommands.cpp:46
+msgid "Invalid modification"
+msgstr "잘못된 수정 사항"
+
+#: domtreecommands.cpp:47
+msgid "Namespace error"
+msgstr "네임스페이스 오류"
+
+#: domtreecommands.cpp:48
+msgid "Invalid access"
+msgstr "잘못된 접근"
+
+#: domtreecommands.cpp:56
+#, kde-format
+msgid "Unknown Exception %1"
+msgstr "알 수 없는 오류 %1"
+
+#: domtreecommands.cpp:296
+msgid "Add attribute"
+msgstr "속성 추가"
+
+#: domtreecommands.cpp:326
+msgid "Change attribute value"
+msgstr "속성 값 바꾸기"
+
+#: domtreecommands.cpp:357
+msgid "Remove attribute"
+msgstr "속성 삭제"
+
+#: domtreecommands.cpp:389
+msgid "Rename attribute"
+msgstr "속성 이름 바꾸기"
+
+#: domtreecommands.cpp:425
+msgid "Change textual content"
+msgstr "텍스트 내용 바꾸기"
+
+#: domtreecommands.cpp:487
+msgid "Insert node"
+msgstr "노드 삽입하기"
+
+#: domtreecommands.cpp:515
+msgid "Remove node"
+msgstr "노드 삭제하기"
+
+#: domtreecommands.cpp:561
+msgid "Move node"
+msgstr "노드 이동하기"
+
+#: domtreeview.cpp:70
+msgid "Edit Element"
+msgstr "원소 편집하기"
+
+#: domtreeview.cpp:72 domtreeview.cpp:92
+msgid "&Append as Child"
+msgstr "자식으로 삽입하기(&A)"
+
+#: domtreeview.cpp:73 domtreeview.cpp:93
+msgid "Insert &Before Current"
+msgstr "현재 항목 이전에 삽입하기(&B)"
+
+#: domtreeview.cpp:90
+msgid "Edit Text"
+msgstr "텍스트 편집"
+
+#: domtreeview.cpp:110
+msgid "Edit Attribute"
+msgstr "속성 편집"
+
+#: domtreeview.cpp:172
+#, kde-format
+msgid "DOM Tree for %1"
+msgstr "%1의 DOM 트리"
+
+#. i18n: file: domtreeviewbase.ui:115
+#. i18n: ectx: property (text), widget (QTreeWidget, m_listView)
+#: domtreeview.cpp:172 rc.cpp:18
+msgid "DOM Tree"
+msgstr "DOM 트리"
+
+#: domtreeview.cpp:513
+msgid "Move Nodes"
+msgstr "노드 이동하기"
+
+#: domtreeview.cpp:579
+msgid "Save DOM Tree as HTML"
+msgstr "HTML로 DOM 트리 저장하기"
+
+#: domtreeview.cpp:584
+msgid "File Exists"
+msgstr "파일이 존재합니다"
+
+#: domtreeview.cpp:585
+#, kde-format
+msgid ""
+"Do you really want to overwrite: \n"
+"%1?"
+msgstr ""
+"%1을(를)\n"
+" 정말로 덮어쓰시겠습니까?"
+
+#: domtreeview.cpp:586
+msgid "Overwrite"
+msgstr "덮어쓰기"
+
+#: domtreeview.cpp:599
+msgid "Unable to Open File"
+msgstr "파일을 열 수 없음"
+
+#: domtreeview.cpp:600
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing"
+msgstr ""
+"%1을(를) \n"
+" 쓰기 위해 \n"
+" 열 수 없습니다"
+
+#: domtreeview.cpp:604
+msgid "Invalid URL"
+msgstr "잘못된 URL"
+
+#: domtreeview.cpp:605
+#, kde-format
+msgid ""
+"This URL \n"
+" %1 \n"
+" is not valid."
+msgstr ""
+"이 URL \n"
+" %1 \n"
+" 은(는) 올바르지 않습니다."
+
+#: domtreeview.cpp:822
+msgid "Delete Nodes"
+msgstr "노드 삭제하기"
+
+#: domtreeview.cpp:1033
+msgid "<Click to add>"
+msgstr "<눌러서 추가하십시오>"
+
+#: domtreeview.cpp:1365
+msgid "Delete Attributes"
+msgstr "속성 삭제"
+
+#: domtreewindow.cpp:62
+msgid "Message Log"
+msgstr "메시지 기록"
+
+#: domtreewindow.cpp:161
+msgid "Pure DOM Tree"
+msgstr "순수 DOM 트리"
+
+#: domtreewindow.cpp:167
+msgid "Show DOM Attributes"
+msgstr "DOM 속성 보이기"
+
+#: domtreewindow.cpp:174
+msgid "Highlight HTML"
+msgstr "HTML 강조"
+
+#: domtreewindow.cpp:182
+msgid "Show Message Log"
+msgstr "메시지 기록 보이기"
+
+#: domtreewindow.cpp:194
+msgid "Expand"
+msgstr "확대"
+
+#: domtreewindow.cpp:197
+msgid "Increase expansion level"
+msgstr "확장 단계 늘이기"
+
+#: domtreewindow.cpp:200
+msgid "Collapse"
+msgstr "축소"
+
+#: domtreewindow.cpp:203
+msgid "Decrease expansion level"
+msgstr "확장 단계 줄이기"
+
+#: domtreewindow.cpp:209 domtreewindow.cpp:227
+msgid "&Delete"
+msgstr "삭제(&D)"
+
+#: domtreewindow.cpp:212
+msgid "Delete nodes"
+msgstr "노드 삭제"
+
+#: domtreewindow.cpp:217
+msgid "New &Element..."
+msgstr "새 원소(&E)..."
+
+#: domtreewindow.cpp:221
+msgid "New &Text Node..."
+msgstr "새 텍스트 노드(&T)..."
+
+#: domtreewindow.cpp:230
+msgid "Delete attributes"
+msgstr "속성 삭제"
+
+#: plugin_domtreeviewer.cpp:24
+msgid "Show &DOM Tree"
+msgstr "DOM 트리 보기(&D)"
+
+#. i18n: file: attributeeditwidget.ui:24
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:3
+msgid "Attribute &name:"
+msgstr "속성 이름(&N):"
+
+#. i18n: file: attributeeditwidget.ui:42
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:6
+msgid "Attribute &value:"
+msgstr "속성 값(&V):"
+
+#. i18n: file: domtreeviewbase.ui:19
+#. i18n: ectx: property (windowTitle), widget (QWidget, DOMTreeViewBase)
+#: rc.cpp:9
+msgid "DOM Tree Viewer"
+msgstr "DOM 트리 뷰어"
+
+#. i18n: file: domtreeviewbase.ui:61
+#. i18n: ectx: property (text), widget (KPushButton, messageListBtn)
+#: rc.cpp:12
+msgid "&List"
+msgstr "목록(&L)"
+
+#. i18n: file: domtreeviewbase.ui:92
+#. i18n: ectx: property (text), widget (KPushButton, messageHideBtn)
+#: rc.cpp:15
+msgid "H&ide"
+msgstr "숨기기(&I)"
+
+#. i18n: file: domtreeviewbase.ui:127
+#. i18n: ectx: attribute (title), widget (QWidget, domTab)
+#: rc.cpp:21
+msgid "DOM Node"
+msgstr "DOM 노드"
+
+#. i18n: file: domtreeviewbase.ui:138
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: rc.cpp:24
+msgid "Node &value:"
+msgstr "노드 값(&V)"
+
+#. i18n: file: domtreeviewbase.ui:151
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: rc.cpp:27
+msgid "Node &type:"
+msgstr "노드 종류(&T):"
+
+#. i18n: file: domtreeviewbase.ui:164
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:30
+msgid "Namespace &URI:"
+msgstr "네임스페이스 URI(&I):"
+
+#. i18n: file: domtreeviewbase.ui:177
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:33
+msgid "Node &name:"
+msgstr "노드 이름(&N):"
+
+#. i18n: file: domtreeviewbase.ui:249
+#. i18n: ectx: property (text), widget (QTreeWidget, nodeAttributes)
+#: rc.cpp:36
+msgid "Name"
+msgstr "이름"
+
+#. i18n: file: domtreeviewbase.ui:254
+#. i18n: ectx: property (text), widget (QTreeWidget, nodeAttributes)
+#. i18n: file: domtreeviewbase.ui:344
+#. i18n: ectx: property (text), widget (QTreeWidget, cssProperties)
+#: rc.cpp:39 rc.cpp:51
+msgid "Value"
+msgstr "값"
+
+#. i18n: file: domtreeviewbase.ui:287
+#. i18n: ectx: property (text), widget (QPushButton, applyContent)
+#: rc.cpp:42
+msgid "Appl&y"
+msgstr "적용(&Y)"
+
+#. i18n: file: domtreeviewbase.ui:320
+#. i18n: ectx: attribute (title), widget (QWidget, cssTab)
+#: rc.cpp:45
+msgid "Computed Style"
+msgstr "계산된 스타일"
+
+#. i18n: file: domtreeviewbase.ui:339
+#. i18n: ectx: property (text), widget (QTreeWidget, cssProperties)
+#: rc.cpp:48
+msgid "Property"
+msgstr "속성"
+
+#. i18n: file: domtreeviewbase.ui:353
+#. i18n: ectx: attribute (title), widget (QWidget, styleSheetsTab)
+#: rc.cpp:54
+msgid "Stylesheets"
+msgstr "스타일시트"
+
+#. i18n: file: domtreeviewbase.ui:366
+#. i18n: ectx: property (text), widget (QTreeWidget, styleSheetsTree)
+#: rc.cpp:57
+msgid "1"
+msgstr "1"
+
+#. i18n: file: domtreeviewerui.rc:4
+#. i18n: ectx: Menu (file)
+#: rc.cpp:60
+msgid "&File"
+msgstr "파일(&F)"
+
+#. i18n: file: domtreeviewerui.rc:6
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:63
+msgid "&Edit"
+msgstr "편집(&E)"
+
+#. i18n: file: domtreeviewerui.rc:8
+#. i18n: ectx: Menu (view)
+#: rc.cpp:66
+msgid "&View"
+msgstr "보기(&V)"
+
+#. i18n: file: domtreeviewerui.rc:19
+#. i18n: ectx: Menu (go)
+#: rc.cpp:69
+msgid "&Go"
+msgstr "이동(&G)"
+
+#. i18n: file: domtreeviewerui.rc:23
+#. i18n: ectx: ToolBar (mainToolBar)
+#: rc.cpp:72
+msgid "Main Toolbar"
+msgstr "주 도구 모음"
+
+#. i18n: file: domtreeviewerui.rc:25
+#. i18n: ectx: ToolBar (treeToolBar)
+#: rc.cpp:75
+msgid "Tree Toolbar"
+msgstr "트리 도구 모음"
+
+#. i18n: file: elementeditwidget.ui:24
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:78
+msgid "Element &name:"
+msgstr "원소 이름(&N):"
+
+#. i18n: file: elementeditwidget.ui:47
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:81
+msgid "Element &namespace:"
+msgstr "원소 네임스페이스(&N):"
+
+#. i18n: file: plugin_domtreeviewer.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:84
+msgid "&Tools"
+msgstr "도구(&T)"
+
+#. i18n: file: plugin_domtreeviewer.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:87
+msgid "Extra Toolbar"
+msgstr "추가 도구 모음"
+
+#. i18n: file: texteditwidget.ui:19
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:90
+msgid "Edit &text for text node:"
+msgstr "텍스트 노드의 텍스트 편집하기(&T):"
+
+#~ msgid "DOM Tree Options"
+#~ msgstr "DOM 트리 설정"
+
+#~ msgid "&Pure"
+#~ msgstr "있는 그대로(&P)"

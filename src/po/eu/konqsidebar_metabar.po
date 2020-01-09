@@ -1,0 +1,216 @@
+# translation of konqsidebar_metabar.po to
+#
+# Ion Gaztañaga <igaztanaga@gmail.com>, 2005, 2006.
+# marcos <marcos@euskalgnu.org>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2006-03-14 10:57+0100\n"
+"Last-Translator: marcos <marcos@euskalgnu.org>\n"
+"Language-Team:  <eu@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Konfigurazioa - Metabar"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Elementuak"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Ireki honekin:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Ekintzak:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr ""
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Animatu tamaina aldaketa"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Erakutsi zerbitzuen menuak"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Gaiak"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Instalatu gai berria..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Berria..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr ""
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Editatu..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Izena"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Helbidea"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Orokorra"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Ekintzak"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Estekak"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Partekatu"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Sortu esteka"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Esteka berria"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Izena:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "URL-a:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Editatu esteka"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Gehiago"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "Exekutatu %1"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Hautatu aplikazioa"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Mota"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Tamaina"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Erabiltzailea"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Taldea"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Baimenak"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Aldatuta"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Atzituta"
+
+#: defaultplugin.cpp:237
+#, fuzzy
+msgid "Link target"
+msgstr "Esteka-helburua"
+
+#: defaultplugin.cpp:297
+#, fuzzy
+msgid "Files"
+msgstr "Karpetak"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Karpetak"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Entitateak guztira"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Klik egin aurrebista abiarazteko"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Aurrebista sortzen"
+
+#: metabarwidget.cpp:123
+#, fuzzy
+msgid "Configure Metabar..."
+msgstr "Konfigurazioa - Metabar"
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Gutxiago"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Gehitu sareko karpeta"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Exekutatu"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Iruzkina"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Root ahalmenak behar ditu"
+
+#~ msgid "Show frame"
+#~ msgstr "Erakutsi markoa"
+
+#~ msgid "Configure %1..."
+#~ msgstr "Konfiguratu %1..."
+
+#~ msgid "Reload Theme"
+#~ msgstr "Birkargatu gaia"
+
+#~ msgid "%1 Elements"
+#~ msgstr "%1 elementu"
+
+#~ msgid "%1 Folders, %2 Files"
+#~ msgstr "%1 karpeta, %2 fitxategi"

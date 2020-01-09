@@ -1,0 +1,274 @@
+# translation of imgalleryplugin.po to Basque
+# translation of imgalleryplugin.po to euskara
+# translation of imgalleryplugin.po to basque
+# Copyright (C) 2003, 2004, 2005 Free Software Foundation, Inc.
+# Marcos Goienetxe <marcos@euskalgnu.org>, 2003, 2005.
+# Juan Irigoien <juanirigoien@yahoo.es>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: imgalleryplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2005-03-16 17:53+0100\n"
+"Last-Translator: Marcos Goienetxe <marcos@euskalgnu.org>\n"
+"Language-Team: Basque <itzulpena@euskalgnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: imgallerydialog.cpp:53
+msgid "Configure"
+msgstr ""
+
+#: imgallerydialog.cpp:61
+msgid "Create Image Gallery"
+msgstr "Sortu irudi galeria"
+
+#: imgallerydialog.cpp:62
+msgid "Create"
+msgstr "Sortu"
+
+#: imgallerydialog.cpp:72 imgallerydialog.cpp:113
+#, kde-format
+msgid "Image Gallery for %1"
+msgstr "Irudi galeria %1(r)entzat"
+
+#: imgallerydialog.cpp:99
+msgid "Look"
+msgstr "Itxura"
+
+#: imgallerydialog.cpp:100
+msgid "Page Look"
+msgstr "Orrialdearen itxura"
+
+#: imgallerydialog.cpp:110
+msgid "&Page title:"
+msgstr "&Orrialdearen izenburua"
+
+#: imgallerydialog.cpp:120
+msgid "I&mages per row:"
+msgstr "I&rudiak ilarako:"
+
+#: imgallerydialog.cpp:128
+msgid "Show image file &name"
+msgstr "Erakutsi irudiaren fitxategi i&zena"
+
+#: imgallerydialog.cpp:132
+msgid "Show image file &size"
+msgstr "Erakutsi irudiaren fitxategi &tamaina"
+
+#: imgallerydialog.cpp:136
+msgid "Show image &dimensions"
+msgstr "Erakutsi irudiaren &neurriak"
+
+#: imgallerydialog.cpp:149
+msgid "Fon&t name:"
+msgstr "&Letra-tipoaren izena:"
+
+#: imgallerydialog.cpp:161
+msgid "Font si&ze:"
+msgstr "Let&ra-tipoa:"
+
+#: imgallerydialog.cpp:173
+msgid "&Foreground color:"
+msgstr "&Aurreko planoaren kolorea:"
+
+#: imgallerydialog.cpp:185
+msgid "&Background color:"
+msgstr "Atze&ko planoaren kolorea:"
+
+#: imgallerydialog.cpp:196 imgallerydialog.cpp:197
+msgid "Folders"
+msgstr "Karpetak:"
+
+#: imgallerydialog.cpp:206
+msgid "&Save to HTML file:"
+msgstr "&Gorde html fitxategira:"
+
+#: imgallerydialog.cpp:209
+#, fuzzy
+#| msgid "<p>The name of the HTML file this gallery will be saved to."
+msgid "<p>The name of the HTML file this gallery will be saved to.</p>"
+msgstr "<p>Galeria hau gordeko duen HTML fitxategiaren izena."
+
+#: imgallerydialog.cpp:220
+msgid "&Recurse subfolders"
+msgstr "Karpeta &errekurtsiboak"
+
+#: imgallerydialog.cpp:222
+#, fuzzy
+#| msgid ""
+#| "<p>Whether subfolders should be included for the image gallery creation "
+#| "or not."
+msgid ""
+"<p>Whether subfolders should be included for the image gallery creation or "
+"not.</p>"
+msgstr "<p>Irudi galeria sortzean azpikarpetak gehitu behar diren ala ez. "
+
+#: imgallerydialog.cpp:230
+msgid "Rec&ursion depth:"
+msgstr "Errek&urtsio sakonera:"
+
+#: imgallerydialog.cpp:232
+msgid "Endless"
+msgstr "Mugarik ez"
+
+#: imgallerydialog.cpp:234
+#, fuzzy
+#| msgid ""
+#| "<p>You can limit the number of folders the image gallery creator will "
+#| "traverse to by setting an upper bound for the recursion depth."
+msgid ""
+"<p>You can limit the number of folders the image gallery creator will "
+"traverse to by setting an upper bound for the recursion depth.</p>"
+msgstr ""
+"<p>Irudien galeria sortzean zeharkatuko diren karpeta kopuruari muga ezar "
+"diezaiokezu errekurtsio sakonerari gehienezko muga ezarriz."
+
+#: imgallerydialog.cpp:246
+msgid "Copy or&iginal files"
+msgstr "Kopiatu fitxategi or&iginalak"
+
+#: imgallerydialog.cpp:249
+#, fuzzy
+#| msgid ""
+#| "<p>This makes a copy of all images and the gallery will refer to these "
+#| "copies instead of the original images."
+msgid ""
+"<p>This makes a copy of all images and the gallery will refer to these "
+"copies instead of the original images.</p>"
+msgstr ""
+"<p>Honek irudi guztien kopia eginen du, eta galeria kopia hauei zuzenduko "
+"zaie irudi originalei zuzendu ordez."
+
+#: imgallerydialog.cpp:255
+msgid "Use &comment file"
+msgstr "Erabili ira&dokizun fitxategia"
+
+#: imgallerydialog.cpp:259
+#, fuzzy
+#| msgid ""
+#| "<p>If you enable this option you can specify a comment file which will be "
+#| "used for generating subtitles for the images.<p>For details about the "
+#| "file format please see the \"What's This?\" help below."
+msgid ""
+"<p>If you enable this option you can specify a comment file which will be "
+"used for generating subtitles for the images.</p><p>For details about the "
+"file format please see the \"What's This?\" help below.</p>"
+msgstr ""
+"<p>Aukera hau gaituz gero, iradokizun fitxategi bat erabil dezakezu irudien "
+"azpitituluak sortzeko. <p>Fitxategi formatoari buruzko zehaztasunen berri "
+"nahi izanez gero, irakur ezazu behean dagoen \"Zer da hau?\" laguntza."
+
+#: imgallerydialog.cpp:266
+msgid "Comments &file:"
+msgstr "Iradoki&zun fitxategia:"
+
+#: imgallerydialog.cpp:269
+#, fuzzy
+#| msgid ""
+#| "<p>You can specify the name of the comment file here. The comment file "
+#| "contains the subtitles for the images. The format of this file is:"
+#| "<p>FILENAME1:<br>Description<br><br>FILENAME2:<br>Description<br><br>and "
+#| "so on"
+msgid ""
+"<p>You can specify the name of the comment file here. The comment file "
+"contains the subtitles for the images. The format of this file is:</"
+"p><p>FILENAME1:<br />Description<br /><br />FILENAME2:<br />Description<br /"
+"><br />and so on</p>"
+msgstr ""
+"<p>Hemen iradokizun fitxategiaren izena zehaz dezakezu. Iradokizun "
+"fitxategiak irudien azpitituluak ditu. Hona hemen fitxategi honen formatoa: "
+"<p>1_FITXATEGIIZENA: <br>Deskribapena<br><br> <p>2_FITXATEGIIZENA:  "
+"<br>Deskribapena<br><br> eta abar"
+
+#: imgallerydialog.cpp:297 imgallerydialog.cpp:298
+msgid "Thumbnails"
+msgstr "Koadro txikiak"
+
+#: imgallerydialog.cpp:317
+msgid "Image format f&or the thumbnails:"
+msgstr "Koadro t&xikien irudi formatoa:"
+
+#: imgallerydialog.cpp:325
+msgid "Thumbnail size:"
+msgstr "Koadro txikiaren neurria:"
+
+#: imgallerydialog.cpp:337
+msgid "&Set different color depth:"
+msgstr "Ezarri &beste kolore sakonera bat:"
+
+#: imgalleryplugin.cpp:59
+msgid "&Create Image Gallery..."
+msgstr "&Sortu irudi galeria..."
+
+#: imgalleryplugin.cpp:70
+msgid "Could not create the plugin, please report a bug."
+msgstr "Ezin izan da plugina sortu. Bidal ezazu errorea, mesedez."
+
+#: imgalleryplugin.cpp:76
+msgid "Creating an image gallery works only on local folders."
+msgstr "Irudi galeria azpikarpeta lokaletan baino ezin da sortu."
+
+#: imgalleryplugin.cpp:95
+msgid "Creating thumbnails"
+msgstr "Koadro txikiak sortzen"
+
+#: imgalleryplugin.cpp:116 imgalleryplugin.cpp:279
+#, fuzzy, kde-format
+#| msgid "Couldn't create folder: %1"
+msgid "Could not create folder: %1"
+msgstr "Ezin izan da karpeta sortu: %1"
+
+#: imgalleryplugin.cpp:177
+#, kde-format
+msgid "<i>Number of images</i>: %1"
+msgstr "<i>Irudi kopurua</i>: %1"
+
+#: imgalleryplugin.cpp:178
+#, kde-format
+msgid "<i>Created on</i>: %1"
+msgstr "<i>Sortua</i>: %1"
+
+#: imgalleryplugin.cpp:183
+msgid "<i>Subfolders</i>:"
+msgstr "<i>Azpikarpetak</i>:"
+
+#: imgalleryplugin.cpp:216
+#, kde-format
+msgid ""
+"Created thumbnail for: \n"
+"%1"
+msgstr ""
+"Koadro txikia honentzat sortua:\n"
+"%1"
+
+#: imgalleryplugin.cpp:219
+#, kde-format
+msgid ""
+"Creating thumbnail for: \n"
+"%1\n"
+" failed"
+msgstr ""
+"%1(r)entzat egin den\n"
+"koadro txikien sorrerak\n"
+"huts egin du"
+
+#: imgalleryplugin.cpp:237
+msgid "KB"
+msgstr "KB"
+
+#: imgalleryplugin.cpp:333 imgalleryplugin.cpp:428
+#, fuzzy, kde-format
+#| msgid "Couldn't open file: %1"
+msgid "Could not open file: %1"
+msgstr "Ezin fitxategia ireki: %1"
+
+#. i18n: file: kimgalleryplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""

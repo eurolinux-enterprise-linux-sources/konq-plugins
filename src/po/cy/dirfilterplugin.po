@@ -1,0 +1,61 @@
+# translation of dirfilterplugin.po to Cymraeg
+# KD at KGyfieithu <kyfieithu@dotmon.com>, 2004.
+msgid ""
+msgstr ""
+"Project-Id-Version: dirfilterplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2004-02-19 20:42+0000\n"
+"Last-Translator: KD at KGyfieithu <kyfieithu@dotmon.com>\n"
+"Language-Team: Cymraeg <cy@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "Gweld &Hidlen"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr ""
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr ""
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "Dangos yn Unig Eitemau o Fath"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "Defnyddio Hidlenni Lluosol"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "Dangos y Cyfrif"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "Ailosod"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Bar Offer Ychwanegol"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "Bar Offer Ychwanegol"

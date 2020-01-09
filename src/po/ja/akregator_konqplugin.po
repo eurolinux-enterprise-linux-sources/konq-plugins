@@ -1,0 +1,47 @@
+# translation of akregator_konqplugin.pot to Japanese
+# Copyright (C) 2006-2007 This_file_is_part_of_KDE
+# This file is distributed under the same license as the kdeaddons package.
+# Yukiko Bando <ybando@k6.dion.ne.jp>, 2006, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: akregator_konqplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-05 07:02+0200\n"
+"PO-Revision-Date: 2007-03-30 21:00+0900\n"
+"Last-Translator: Yukiko Bando <ybando@k6.dion.ne.jp>\n"
+"Language-Team: Japanese <Kdeveloper@kde.gr.jp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: akregatorplugin.cpp:87 konqfeedicon.cpp:119
+msgid "Add Feed to Akregator"
+msgstr "Akregator にフィードを追加"
+
+#: konqfeedicon.cpp:123
+msgid "Add Feeds to Akregator"
+msgstr "Akregator にフィードを追加"
+
+#: konqfeedicon.cpp:133
+msgid "Add All Found Feeds to Akregator"
+msgstr "Akregator にすべてのフィードを追加"
+
+#: konqfeedicon.cpp:156
+msgid "Subscribe to site updates (using news feed)"
+msgstr "サイトの更新情報を購読する (ニュースフィードを使用)"
+
+#: konqfeedicon.cpp:202 pluginbase.cpp:54 pluginbase.cpp:64
+msgid "Imported Feeds"
+msgstr "インポートしたフィード"
+
+#: pluginbase.cpp:56
+msgid "Akregator feed icon - DBus Call failed"
+msgstr ""
+
+#: pluginbase.cpp:57
+msgid "The DBus call addFeedToGroup failed"
+msgstr ""

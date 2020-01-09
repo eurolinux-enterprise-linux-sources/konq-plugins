@@ -1,0 +1,181 @@
+# translation of babelfish.po to Latvian
+# translation of babelfish.po to
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Viesturs Zarins <viesturs.zarins@mii.lu.lv>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: babelfish\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-17 07:03+0200\n"
+"PO-Revision-Date: 2008-02-23 21:12+0200\n"
+"Last-Translator: Viesturs Zarins <viesturs.zarins@mii.lu.lv>\n"
+"Language-Team: Latvian <locale@laka.lv>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+
+#: plugin_babelfish.cpp:50
+msgid "Translate Web Page"
+msgstr "Tulkot tīmekļa lapu"
+
+#: plugin_babelfish.cpp:60
+msgid "Translate Web &Page"
+msgstr "Tulkot tīmekļa la&pu "
+
+#: plugin_babelfish.cpp:66
+msgid "&English To"
+msgstr "No &Angļu uz"
+
+#: plugin_babelfish.cpp:69
+msgid "&French To"
+msgstr "No &Franču uz"
+
+#: plugin_babelfish.cpp:72
+msgid "&German To"
+msgstr "No &Vācu uz"
+
+#: plugin_babelfish.cpp:76
+msgid "&Spanish To"
+msgstr "No &Spāņu uz"
+
+#: plugin_babelfish.cpp:80
+msgid "&Portuguese To"
+msgstr "No &Portugāļu uz"
+
+#: plugin_babelfish.cpp:84
+msgid "&Italian To"
+msgstr "No &Itāļu"
+
+#: plugin_babelfish.cpp:88
+msgid "&Dutch To"
+msgstr "No &Dāņu uz"
+
+#: plugin_babelfish.cpp:94
+msgid "&Chinese (Simplified)"
+msgstr "Ķīniešu (vien&kāršotās)"
+
+#: plugin_babelfish.cpp:95
+msgid "Chinese (&Traditional)"
+msgstr "Ķīniešu (&tradicionālas)"
+
+#: plugin_babelfish.cpp:96 plugin_babelfish.cpp:107
+msgid "&Dutch"
+msgstr "&Nīderlandiešu"
+
+#: plugin_babelfish.cpp:97 plugin_babelfish.cpp:114 plugin_babelfish.cpp:116
+#: plugin_babelfish.cpp:118 plugin_babelfish.cpp:120 plugin_babelfish.cpp:122
+msgid "&French"
+msgstr "&Franču"
+
+#: plugin_babelfish.cpp:98 plugin_babelfish.cpp:109
+msgid "&German"
+msgstr "&Vācu"
+
+#: plugin_babelfish.cpp:99 plugin_babelfish.cpp:110
+msgid "&Italian"
+msgstr "&Itāļu"
+
+#: plugin_babelfish.cpp:100
+msgid "&Japanese"
+msgstr "&Japāņu"
+
+#: plugin_babelfish.cpp:101
+msgid "&Korean"
+msgstr "&Korejiešu"
+
+#: plugin_babelfish.cpp:102
+msgid "&Norwegian"
+msgstr "&Norvēģu"
+
+#: plugin_babelfish.cpp:103 plugin_babelfish.cpp:111
+msgid "&Portuguese"
+msgstr "&Portugāļu"
+
+#: plugin_babelfish.cpp:104
+msgid "&Russian"
+msgstr "K&rievu "
+
+#: plugin_babelfish.cpp:105 plugin_babelfish.cpp:112
+msgid "&Spanish"
+msgstr "&Spāņu"
+
+#: plugin_babelfish.cpp:106
+msgid "T&hai"
+msgstr "Tai&zemiešu"
+
+#: plugin_babelfish.cpp:108 plugin_babelfish.cpp:113 plugin_babelfish.cpp:115
+#: plugin_babelfish.cpp:117 plugin_babelfish.cpp:119 plugin_babelfish.cpp:121
+msgid "&English"
+msgstr "&Angļu"
+
+#: plugin_babelfish.cpp:123 plugin_babelfish.cpp:142
+msgid "&Chinese (Simplified) to English"
+msgstr "No Ķīniešu (&vienāršotās) uz Angļu"
+
+#: plugin_babelfish.cpp:124 plugin_babelfish.cpp:147
+msgid "Chinese (&Traditional) to English"
+msgstr "No Ķīniešu (&tradicionālas) uz Angļu"
+
+#: plugin_babelfish.cpp:158
+msgid "&Japanese to English"
+msgstr "No &Japāņu uz Angļu"
+
+#: plugin_babelfish.cpp:163
+msgid "&Korean to English"
+msgstr "No &Korejiešu uz Angļu"
+
+#: plugin_babelfish.cpp:170
+msgid "&Russian to English"
+msgstr "No K&rievu uz Angļu"
+
+#: plugin_babelfish.cpp:214
+msgid "Cannot Translate Source"
+msgstr "Neizdevās pārtulkot avotu"
+
+#: plugin_babelfish.cpp:215
+msgid "Only web pages can be translated using this plugin."
+msgstr "Ar šo spraudni var tulkot tikai tīmekļa lapas."
+
+#: plugin_babelfish.cpp:261
+msgid "Only full webpages can be translated for this language pair."
+msgstr "Šajā valodu pārī var pārtulkot tikai pilnu tīmekļa lapu."
+
+#: plugin_babelfish.cpp:261
+msgid "Translation Error"
+msgstr "Tulkošanas kļūda"
+
+#: plugin_babelfish.cpp:269
+msgid "Malformed URL"
+msgstr "Slikti formatēts URL"
+
+#: plugin_babelfish.cpp:270
+msgid "The URL you entered is not valid, please correct it and try again."
+msgstr ""
+"Jūsu ievadītais URL nav derīgs, lūdzu izlabojiet to un pamēģiniet atkal."
+
+#. i18n: file: plugin_babelfish.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Rīki"
+
+#. i18n: file: plugin_babelfish.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Papildus rīkjosla"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Rūdolfs Mazurs,Māris Nartišs"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "rudolfs.mazurs@gmail.com,maris.kde@gmail.com"

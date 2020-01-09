@@ -1,0 +1,81 @@
+# Vietnamese translation for DIR. FIlter Plugin.
+# Copyright © 2006 KDE i18n Project for Vietnamese.
+# Clytie Siddall <clytie@riverland.net.au>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dirfilterplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2006-10-31 15:56+1030\n"
+"Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
+"Language-Team: Vietnamese <kde-l10n-vi@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LocFactoryEditor 1.6fc1\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "Xem bộ &lọc"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr "Cho phép lọc các mục đang được hiển thị theo kiểu tập tin."
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr "Trường lọc"
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "Chỉ hiện các mục kiểu"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "Dùng đa bộ lọc"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "Hiện số đếm"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "Đặt lại"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Thanh công cụ thêm"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "Thanh công cụ lọc"
+
+#~ msgid "Clear Filter Field"
+#~ msgstr "Xoá trường lọc"
+
+#, fuzzy
+#~| msgid "Clear filter field<p>Clears the content of the filter field."
+#~ msgid "Clear filter field<p>Clears the content of the filter field.</p>"
+#~ msgstr "Xoá trắng trường bộ lọc<p>Xoá trắng nội dung của trường bộ lọc."
+
+#~ msgid ""
+#~ "Enter here a text which an item in the view must contain anywhere to be "
+#~ "shown."
+#~ msgstr ""
+#~ "Ở đây hãy nhập chuỗi mà mục trong ô xem phải chứa ở nơi nào, để được hiển "
+#~ "thị."
+
+#~ msgid "Hide Count"
+#~ msgstr "Ẩn số đếm"

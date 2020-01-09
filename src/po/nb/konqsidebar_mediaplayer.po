@@ -1,0 +1,42 @@
+# Translation of konqsidebar_mediaplayer to Norwegian Bokmål
+#
+# Knut Yrvin <knuty@skolelinux.no>, 2003.
+# Nils Kristian Tomren <slx@nilsk.net>, 2004.
+# Axel Bojer <axelb@skolelinux.no>, 2004, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_mediaplayer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2006-05-02 09:40+0200\n"
+"PO-Revision-Date: 2007-11-15 22:09+0100\n"
+"Last-Translator: MagicPO 0.3 (automated)\n"
+"Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: MagicPO 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: nb\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: mediaplayer.cpp:67
+msgid "Media Player"
+msgstr "Mediespiller"
+
+#: mediawidget.cpp:66
+msgid "Play"
+msgstr "Spill"
+
+#: mediawidget.cpp:67
+msgid "Pause"
+msgstr "Pause"
+
+#: mediawidget.cpp:68
+msgid "Stop"
+msgstr "Stopp"
+
+#: mediawidget.cpp:136
+msgid "Not a sound file"
+msgstr "Ikke en lydfil"

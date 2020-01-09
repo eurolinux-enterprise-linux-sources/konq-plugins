@@ -1,0 +1,48 @@
+# translation of crashesplugin.po to Belarusian
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Darafei Praliaskouski <komzpa@licei2.com>, 2007.
+# Darafei Praliaskouski <komzpa@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: crashesplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-08-25 09:12+0200\n"
+"PO-Revision-Date: 2009-04-19 17:32+0300\n"
+"Last-Translator: Darafei Praliaskouski <komzpa@gmail.com>\n"
+"Language-Team: Belarusian <i18n@mova.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: crashesplugin.cpp:48
+msgid "&Crashes"
+msgstr "Збоі"
+
+#: crashesplugin.cpp:95 crashesplugin.cpp:119
+msgid "All Pages of This Crash"
+msgstr "Усе старонкі гэтага збою"
+
+#: crashesplugin.cpp:125
+msgid "No Recovered Crashes"
+msgstr "Няма ўзноўленых збояў"
+
+#: crashesplugin.cpp:137
+msgid "&Clear List of Crashes"
+msgstr "&Прыбраць спіс збояў"
+
+#. i18n: file: crashesplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "Н&ачынне"
+
+#. i18n: file: crashesplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Дадатковая панель"

@@ -1,0 +1,236 @@
+# translation of rellinks.po to finnish
+# Ilpo Kantonen <ilpo@iki.fi>, 2005.
+# Teemu Rytilahti <teemu.rytilahti@d5k.net>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: rellinks\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2008-11-03 09:48+0200\n"
+"Last-Translator: Teemu Rytilahti <teemu.rytilahti@d5k.net>\n"
+"Language-Team: Finnish <kde-i18n-doc@lists.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: plugin_rellinks.cpp:56
+msgid "Rellinks"
+msgstr "Rellinks"
+
+#: plugin_rellinks.cpp:71
+msgid "&Top"
+msgstr "&Huipulle"
+
+#: plugin_rellinks.cpp:74
+msgid "<p>This link references a home page or the top of some hierarchy.</p>"
+msgstr "<p>Tämä linkki viittaa kotisivuun tai jonkun hierarkian juureen.</p>"
+
+#: plugin_rellinks.cpp:79
+msgid "&Up"
+msgstr "&Ylös"
+
+#: plugin_rellinks.cpp:82
+msgid ""
+"<p>This link references the immediate parent of the current document.</p>"
+msgstr "<p>Tämä linkki viittaa nykyisen asiakirjan välittömään vanhempaan.</p>"
+
+#: plugin_rellinks.cpp:89
+msgid "&First"
+msgstr "&Ensimmäinen"
+
+#: plugin_rellinks.cpp:92
+msgid ""
+"<p>This link type tells search engines which document is considered by the "
+"author to be the starting point of the collection.</p>"
+msgstr ""
+"<p>Tämä linkkityyppi kertoo hakukoneille, mikä asiakirja on tämän kokoelman "
+"aloituspiste tekijän mukaan.</p>"
+
+#: plugin_rellinks.cpp:97
+msgid "&Previous"
+msgstr "&Edellinen"
+
+#: plugin_rellinks.cpp:101
+msgid ""
+"<p>This link references the previous document in an ordered series of "
+"documents.</p>"
+msgstr "<p>Tämä linkki viittaa asiakirjasarjan edelliseen asiakirjaan.</p>"
+
+#: plugin_rellinks.cpp:105
+msgid "&Next"
+msgstr "&Seuraava"
+
+#: plugin_rellinks.cpp:108
+msgid ""
+"<p>This link references the next document in an ordered series of documents."
+"</p>"
+msgstr "<p>Tämä linkki viittaa asiakirjasarjan seuraavaan asiakirjaan.</p>"
+
+#: plugin_rellinks.cpp:113
+msgid "&Last"
+msgstr "&Viimeinen"
+
+#: plugin_rellinks.cpp:117
+msgid "<p>This link references the end of a sequence of documents.</p>"
+msgstr "<p>Tämä linkki viittaa asiakirjasarjan loppuun.</p>"
+
+#: plugin_rellinks.cpp:122
+msgid "&Search"
+msgstr "&Etsi"
+
+#: plugin_rellinks.cpp:125
+msgid "<p>This link references the search.</p>"
+msgstr "<p>Tämä linkki viittaa etsimiseen.</p>"
+
+#: plugin_rellinks.cpp:130
+msgid "Document"
+msgstr "Asiakirja"
+
+#: plugin_rellinks.cpp:132
+msgid "<p>This menu contains the links referring the document information.</p>"
+msgstr "<p>Tämä valikko sisältää linkit viittaamaan asiakirjan tietoihin.</p>"
+
+#: plugin_rellinks.cpp:136
+msgid "Table of &Contents"
+msgstr "&Sisällysluettelo"
+
+#: plugin_rellinks.cpp:138
+msgid "<p>This link references the table of contents.</p>"
+msgstr "<p>Tämä linkki viittaa sisällysluetteloon.</p>"
+
+#: plugin_rellinks.cpp:143
+msgid "Chapters"
+msgstr "Luvut"
+
+#: plugin_rellinks.cpp:148
+msgid "<p>This menu references the chapters of the document.</p>"
+msgstr "<p>Tämä valikko viittaa asiakirjan lukuihin.</p>"
+
+#: plugin_rellinks.cpp:151
+msgid "Sections"
+msgstr "Osa"
+
+#: plugin_rellinks.cpp:157
+msgid "<p>This menu references the sections of the document.</p>"
+msgstr "<p>Tämä valikko viittaa asiakirjan osiin.</p>"
+
+#: plugin_rellinks.cpp:160
+msgid "Subsections"
+msgstr "Aliosa"
+
+#: plugin_rellinks.cpp:165
+msgid "<p>This menu references the subsections of the document.</p>"
+msgstr "<p>Tämä valikko viittaa asiakirjan aliosiin.</p>"
+
+#: plugin_rellinks.cpp:168
+msgid "Appendix"
+msgstr "Liite"
+
+#: plugin_rellinks.cpp:173
+msgid "<p>This link references the appendix.</p>"
+msgstr "<p>Tämä linkki viittaa viitteeseen.</p>"
+
+#: plugin_rellinks.cpp:177
+msgid "&Glossary"
+msgstr "&Sanasto"
+
+#: plugin_rellinks.cpp:180
+msgid "<p>This link references the glossary.</p>"
+msgstr "<p>Tämä linkki viittaa sanastoon.</p>"
+
+#: plugin_rellinks.cpp:185
+msgid "&Index"
+msgstr "&Hakemisto"
+
+#: plugin_rellinks.cpp:187
+msgid "<p>This link references the index.</p>"
+msgstr "<p>Tämä linkki viittaa hakemistoon.</p>"
+
+#: plugin_rellinks.cpp:193
+msgid "More"
+msgstr "Lisää"
+
+#: plugin_rellinks.cpp:195
+msgid "<p>This menu contains other important links.</p>"
+msgstr "<p>Tämä valikko sisältää muut tärkeät linkit.</p>"
+
+#: plugin_rellinks.cpp:199
+msgid "&Help"
+msgstr "&Ohje"
+
+#: plugin_rellinks.cpp:202
+msgid "<p>This link references the help.</p>"
+msgstr "<p>Tämä linkki viittaa avusteeseen.</p>"
+
+#: plugin_rellinks.cpp:208
+msgid "&Authors"
+msgstr "&Tekijät"
+
+#: plugin_rellinks.cpp:211
+msgid "<p>This link references the author.</p>"
+msgstr "<p>Tämä linkki viittaa tekijöihin.</p>"
+
+#: plugin_rellinks.cpp:217
+msgid "Copy&right"
+msgstr "Copy&right"
+
+#: plugin_rellinks.cpp:220
+msgid "<p>This link references the copyright.</p>"
+msgstr "<p>Tämä linkki viittaa copyright-tekijänoikeusmerkintään.</p>"
+
+#: plugin_rellinks.cpp:225
+msgid "Bookmarks"
+msgstr "Kirjanmerkit"
+
+#: plugin_rellinks.cpp:228
+msgid "<p>This menu references the bookmarks.</p>"
+msgstr "<p>Tämä valikko viittaa kirjanmerkkeihin.</p>"
+
+#: plugin_rellinks.cpp:232
+msgid "Other Versions"
+msgstr "Toiset versiot"
+
+#: plugin_rellinks.cpp:235
+msgid "<p>This link references the alternate versions of this document.</p>"
+msgstr ""
+"<p>Tämä linkki viittaa tämän asiakirjan vaihtoehtoisiin versioihion.</p>"
+
+#: plugin_rellinks.cpp:240
+msgid "Miscellaneous"
+msgstr "Sekalaiset"
+
+#: plugin_rellinks.cpp:243
+msgid "<p>Miscellaneous links.</p>"
+msgstr "<p>Sekalaiset linkit.</p>"
+
+#: plugin_rellinks.cpp:471 plugin_rellinks.cpp:485
+#, kde-format
+msgid "[Autodetected] %1"
+msgstr "[Automaattisesti tunnistettu] %1"
+
+#. i18n: file: plugin_rellinks.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+#, fuzzy
+msgid "&Tools"
+msgstr "&Työkalut"
+
+#. i18n: file: plugin_rellinks.rc:5
+#. i18n: ectx: Menu (rellinksMenu)
+#. i18n: file: plugin_rellinks.rc:21
+#. i18n: ectx: ToolBar (rellinksToolBar)
+#: rc.cpp:6 rc.cpp:9
+msgid "Document Relations"
+msgstr "Asiakirjan suhteet"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Ilpo Kantonen"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "ilpo@iki.fi"

@@ -1,0 +1,371 @@
+# Translation of fsview to Korean.
+# Copyright (C) 2007-2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the extragear-base package.
+# Park Shinjo <peremen@gmail.com>, 2007, 2008, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-base\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-11-01 06:25+0100\n"
+"PO-Revision-Date: 2009-08-06 15:37+0900\n"
+"Last-Translator: Park Shinjo <peremen@gmail.com>\n"
+"Language-Team: Korean <cho.sungjae@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.0\n"
+
+#: fsview.cpp:52 fsview.cpp:390
+msgid "Name"
+msgstr "이름"
+
+#: fsview.cpp:53
+msgid "Size"
+msgstr "크기"
+
+#: fsview.cpp:54
+msgid "File Count"
+msgstr "파일 갯수"
+
+#: fsview.cpp:55
+msgid "Directory Count"
+msgstr "디렉터리 갯수"
+
+#: fsview.cpp:56
+msgid "Last Modified"
+msgstr "수정한 날짜"
+
+#: fsview.cpp:57 fsview.cpp:391
+msgid "Owner"
+msgstr "소유자"
+
+#: fsview.cpp:58 fsview.cpp:392
+msgid "Group"
+msgstr "그룹"
+
+#: fsview.cpp:59 fsview.cpp:393
+msgid "Mime Type"
+msgstr "MIME 형식"
+
+#: fsview.cpp:281
+msgid "Go To"
+msgstr "들어가기"
+
+#: fsview.cpp:283
+msgid "Go Up"
+msgstr "위로 가기"
+
+#: fsview.cpp:285
+msgid "Stop Refresh"
+msgstr "새로 고침 중단하기"
+
+#: fsview.cpp:287
+msgid "Refresh"
+msgstr "새로 고침"
+
+#: fsview.cpp:290
+#, kde-format
+msgid "Refresh '%1'"
+msgstr "'%1' 새로 고침"
+
+#: fsview.cpp:293 fsview_part.cpp:131
+msgid "Stop at Depth"
+msgstr "다음 깊이에서 중단하기"
+
+#: fsview.cpp:295 fsview_part.cpp:128
+msgid "Stop at Area"
+msgstr "다음 영역에서 중단하기"
+
+#: fsview.cpp:297
+msgid "Stop at Name"
+msgstr "다음 이름에서 중단하기"
+
+#: fsview.cpp:303 fsview_part.cpp:138
+msgid "Color Mode"
+msgstr "색상 모드"
+
+#: fsview.cpp:306 fsview_part.cpp:134
+msgid "Visualization"
+msgstr "시각화"
+
+#: fsview.cpp:388
+msgid "None"
+msgstr "없음"
+
+#: fsview.cpp:389
+msgid "Depth"
+msgstr "깊이"
+
+#: fsview_part.cpp:82
+#, kde-format
+msgid "Read 1 folder, in %2"
+msgid_plural "Read %1 folders, in %2"
+msgstr[0] "%2에서 폴더 %1개 읽음"
+
+#: fsview_part.cpp:87
+#, kde-format
+msgid "1 folder"
+msgid_plural "%1 folders"
+msgstr[0] "%1개 폴더"
+
+#: fsview_part.cpp:96 main.cpp:21
+msgid "FSView"
+msgstr "FSView"
+
+#: fsview_part.cpp:97
+msgid "Filesystem Utilization Viewer"
+msgstr "파일 시스템 사용량 뷰어"
+
+#: fsview_part.cpp:99
+msgid "(c) 2003-2005, Josef Weidendorfer"
+msgstr "(c) 2003-2005, Josef Weidendorfer"
+
+#: fsview_part.cpp:112
+msgid ""
+"<p>This is the FSView plugin, a graphical browsing mode showing filesystem "
+"utilization by using a tree map visualization.</p><p>Note that in this mode, "
+"automatic updating when filesystem changes are made is intentionally <b>not</"
+"b> done.</p><p>For details on usage and options available, see the online "
+"help under menu 'Help/FSView Manual'.</p>"
+msgstr ""
+"<p>파일 시스템 사용량을 트리 맵으로 보여 주는 FSView 플러그인입니다.</p><p>"
+"이 모드에서, 파일 시스템 내용이 바뀌어도 자동으로 보기가 업데이트되지 않는 것"
+"은 <b>의도적인</b> 것입니다.</p><p>사용 방법과 사용할 수 있는 옵션의 목록을 "
+"보려면 '도움말/FSView' 설명서 아래에 있는 온라인 도움말을 참고하십시오.</p>"
+
+#: fsview_part.cpp:144
+msgid "&FSView Manual"
+msgstr "FSView 설명서(&F)"
+
+#: fsview_part.cpp:146
+msgid "Show FSView manual"
+msgstr "FSView 설명서 보기"
+
+#: fsview_part.cpp:147
+msgid "Opens the help browser with the FSView documentation"
+msgstr "도움말 탐색기로 FSView 문서 열기"
+
+#: fsview_part.cpp:187
+msgctxt "@action:inmenu File"
+msgid "Move to Trash"
+msgstr ""
+
+#: fsview_part.cpp:195
+msgctxt "@action:inmenu File"
+msgid "Delete"
+msgstr ""
+
+#: fsview_part.cpp:200
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr ""
+
+#: fsview_part.cpp:204
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr ""
+
+#: fsview_part.cpp:245
+msgid ""
+"FSView intentionally does not support automatic updates when changes are "
+"made to files or directories, currently visible in FSView, from the "
+"outside.\n"
+"For details, see the 'Help/FSView Manual'."
+msgstr ""
+"현재 보기에 나타나 있는 파일이나 디렉터리의 내용이 바뀌어도 자동으로 업데이트"
+"되지 않는 것은 의도적인 것입니다.\n"
+"자세한 정보를 보려면 '도움말/FSView 설명서'를 보십시오."
+
+#: main.cpp:22
+msgid "Filesystem Viewer"
+msgstr "파일 시스템 뷰어"
+
+#: main.cpp:24
+msgid "(c) 2002, Josef Weidendorfer"
+msgstr "(c) 2002, Josef Weidendorfer"
+
+#: main.cpp:28
+msgid "View filesystem starting from this folder"
+msgstr "이 폴더에서 시작하는 파일 시스템 보기"
+
+#. i18n: file: fsview_part.rc:4
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:3
+msgid "&Edit"
+msgstr "편집(&E)"
+
+#. i18n: file: fsview_part.rc:13
+#. i18n: ectx: Menu (view)
+#: rc.cpp:6
+msgid "&View"
+msgstr "보기(&V)"
+
+#. i18n: file: fsview_part.rc:20
+#. i18n: ectx: Menu (help)
+#: rc.cpp:9
+msgid "&Help"
+msgstr "도움말(&H)"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Park Shinjo"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "peremen@gmail.com"
+
+#: treemap.cpp:1328
+#, kde-format
+msgid "Text %1"
+msgstr "텍스트 %1"
+
+#: treemap.cpp:2860
+msgid "Recursive Bisection"
+msgstr ""
+
+#: treemap.cpp:2861
+msgid "Columns"
+msgstr "열"
+
+#: treemap.cpp:2862
+msgid "Rows"
+msgstr "행"
+
+#: treemap.cpp:2863
+msgid "Always Best"
+msgstr ""
+
+#: treemap.cpp:2864
+msgid "Best"
+msgstr ""
+
+#: treemap.cpp:2865
+msgid "Alternate (V)"
+msgstr ""
+
+#: treemap.cpp:2866
+msgid "Alternate (H)"
+msgstr ""
+
+#: treemap.cpp:2867
+msgid "Horizontal"
+msgstr "수평"
+
+#: treemap.cpp:2868
+msgid "Vertical"
+msgstr "수직"
+
+#: treemap.cpp:2923
+msgid "Nesting"
+msgstr ""
+
+#: treemap.cpp:2925
+msgid "Border"
+msgstr "경계선"
+
+#: treemap.cpp:2926
+msgid "Correct Borders Only"
+msgstr ""
+
+#: treemap.cpp:2928 treemap.cpp:2929 treemap.cpp:2930 treemap.cpp:2931
+#, kde-format
+msgid "Width %1"
+msgstr ""
+
+#: treemap.cpp:2938
+msgid "Allow Rotation"
+msgstr "회전 허용하기"
+
+#: treemap.cpp:2940
+msgid "Shading"
+msgstr "그림자"
+
+#: treemap.cpp:2953
+msgid "Visible"
+msgstr "볼 수 있음"
+
+#: treemap.cpp:2954
+msgid "Take Space From Children"
+msgstr "자식 항목에서 공간 뺏기"
+
+#: treemap.cpp:2956
+msgid "Top Left"
+msgstr "왼쪽 위"
+
+#: treemap.cpp:2957
+msgid "Top Center"
+msgstr "가운데쪽 위"
+
+#: treemap.cpp:2958
+msgid "Top Right"
+msgstr "오른쪽 위"
+
+#: treemap.cpp:2959
+msgid "Bottom Left"
+msgstr "왼쪽 아래"
+
+#: treemap.cpp:2960
+msgid "Bottom Center"
+msgstr "가운데쪽 아래"
+
+#: treemap.cpp:2961
+msgid "Bottom Right"
+msgstr "오른쪽 아래"
+
+#: treemap.cpp:3038
+#, kde-format
+msgid "No %1 Limit"
+msgstr "%1 제한 없음"
+
+#: treemap.cpp:3090
+msgid "No Area Limit"
+msgstr "영역 제한 없음"
+
+#: treemap.cpp:3096
+#, kde-format
+msgid "Area of '%1' (%2)"
+msgstr "'%1'의 영역 (%2)"
+
+#: treemap.cpp:3107 treemap.cpp:3118
+#, kde-format
+msgid "1 Pixel"
+msgid_plural "%1 Pixels"
+msgstr[0] "%1 픽셀"
+
+#: treemap.cpp:3122
+#, kde-format
+msgid "Double Area Limit (to %1)"
+msgstr "영역 제한을 두 배로 늘임 (%1(으)로)"
+
+#: treemap.cpp:3124
+#, kde-format
+msgid "Halve Area Limit (to %1)"
+msgstr "영역 제한을 절반으로 줄임 (%1(으)로)"
+
+#: treemap.cpp:3155
+msgid "No Depth Limit"
+msgstr "깊이 제한 없음"
+
+#: treemap.cpp:3161
+#, kde-format
+msgid "Depth of '%1' (%2)"
+msgstr "'%1'의 깊이 (%2)"
+
+#: treemap.cpp:3172 treemap.cpp:3183
+#, kde-format
+msgid "Depth %1"
+msgstr "깊이 %1"
+
+#: treemap.cpp:3187
+#, kde-format
+msgid "Decrement (to %1)"
+msgstr "감소 (%1(으)로)"
+
+#: treemap.cpp:3189
+#, kde-format
+msgid "Increment (to %1)"
+msgstr "증가 (%1(으)로)"

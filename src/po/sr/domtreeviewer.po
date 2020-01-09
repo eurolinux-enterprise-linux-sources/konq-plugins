@@ -1,0 +1,452 @@
+# translation of domtreeviewer.po to Serbian
+# Toplica Tanaskovic <toptan@kde.org.yu>, 2003.
+# Bojan Bozovic <bole89@infosky.net>, 2003.
+# Chusslove Illich <caslav.ilic@gmx.net>, 2005.
+# Slobodan Simic <simicsl@verat.net>, 2005, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: domtreeviewer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-01 10:41+0100\n"
+"PO-Revision-Date: 2009-01-16 08:48+0100\n"
+"Last-Translator: Slobodan Simic <simicsl@verat.net>\n"
+"Language-Team: Serbian <kde-i18n-sr@kde.org>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Environment: kde\n"
+
+#: domtreecommands.cpp:33
+msgid "No error"
+msgstr "Без грешака"
+
+#: domtreecommands.cpp:34
+msgid "Index size exceeded"
+msgstr "Величина индекса је премашена"
+
+#: domtreecommands.cpp:35
+msgid "DOMString size exceeded"
+msgstr "Величина ДОМ низа је премашена"
+
+#: domtreecommands.cpp:36
+msgid "Hierarchy request error"
+msgstr "Грешка у захтеву хијерархије"
+
+#: domtreecommands.cpp:37
+msgid "Wrong document"
+msgstr "Погрешан документ"
+
+#: domtreecommands.cpp:38
+msgid "Invalid character"
+msgstr "Неисправан знак"
+
+#: domtreecommands.cpp:39
+msgid "No data allowed"
+msgstr "Подаци нису дозвољени"
+
+#: domtreecommands.cpp:40
+msgid "No modification allowed"
+msgstr "Измене нису дозвољене"
+
+#: domtreecommands.cpp:41
+msgid "Not found"
+msgstr "Није нађено"
+
+#: domtreecommands.cpp:42
+msgid "Not supported"
+msgstr "Није подржано"
+
+#: domtreecommands.cpp:43
+msgid "Attribute in use"
+msgstr "Атрибут је у употреби"
+
+#: domtreecommands.cpp:44
+msgid "Invalid state"
+msgstr "Неисправно стање"
+
+#: domtreecommands.cpp:45
+msgid "Syntax error"
+msgstr "Синтаксна грешка"
+
+#: domtreecommands.cpp:46
+msgid "Invalid modification"
+msgstr "Неисправна измена"
+
+#: domtreecommands.cpp:47
+msgid "Namespace error"
+msgstr "Грешка у именском простору"
+
+#: domtreecommands.cpp:48
+msgid "Invalid access"
+msgstr "Неисправан приступ"
+
+#: domtreecommands.cpp:56
+#, kde-format
+msgid "Unknown Exception %1"
+msgstr "Непознат изузетак %1"
+
+#: domtreecommands.cpp:296
+msgid "Add attribute"
+msgstr "Додај атрибут"
+
+#: domtreecommands.cpp:326
+msgid "Change attribute value"
+msgstr "Измени вредност атрибута"
+
+#: domtreecommands.cpp:357
+msgid "Remove attribute"
+msgstr "Уклони атрибут"
+
+#: domtreecommands.cpp:389
+msgid "Rename attribute"
+msgstr "Преименуј атрибут"
+
+#: domtreecommands.cpp:425
+msgid "Change textual content"
+msgstr "Измени текстуални контекст"
+
+#: domtreecommands.cpp:487
+msgid "Insert node"
+msgstr "Убаци чвор"
+
+#: domtreecommands.cpp:515
+msgid "Remove node"
+msgstr "Уклони чвор"
+
+#: domtreecommands.cpp:561
+msgid "Move node"
+msgstr "Премести чвор"
+
+#: domtreeview.cpp:70
+msgid "Edit Element"
+msgstr "Уреди елемент"
+
+#: domtreeview.cpp:72 domtreeview.cpp:92
+msgid "&Append as Child"
+msgstr "&Прикачи као дете"
+
+#: domtreeview.cpp:73 domtreeview.cpp:93
+msgid "Insert &Before Current"
+msgstr "Убаци пре &текућег"
+
+#: domtreeview.cpp:90
+msgid "Edit Text"
+msgstr "Уреди текст"
+
+#: domtreeview.cpp:110
+msgid "Edit Attribute"
+msgstr "Уреди атрибут"
+
+#: domtreeview.cpp:172
+#, kde-format
+msgid "DOM Tree for %1"
+msgstr "ДОМ стабло за %1"
+
+#. i18n: file: domtreeviewbase.ui:115
+#. i18n: ectx: property (text), widget (QTreeWidget, m_listView)
+#: domtreeview.cpp:172 rc.cpp:18
+msgid "DOM Tree"
+msgstr "ДОМ стабло"
+
+#: domtreeview.cpp:513
+msgid "Move Nodes"
+msgstr "Премести чворове"
+
+#: domtreeview.cpp:579
+msgid "Save DOM Tree as HTML"
+msgstr "Сачувај ДОМ стабло као ХТМЛ"
+
+#: domtreeview.cpp:584
+msgid "File Exists"
+msgstr "Фајл постоји"
+
+#: domtreeview.cpp:585
+#, kde-format
+msgid ""
+"Do you really want to overwrite: \n"
+"%1?"
+msgstr ""
+"Желите ли заиста да пребришете: \n"
+"%1?"
+
+#: domtreeview.cpp:586
+msgid "Overwrite"
+msgstr "Пребриши"
+
+#: domtreeview.cpp:599
+msgid "Unable to Open File"
+msgstr "Не могу да отворим фајл"
+
+#: domtreeview.cpp:600
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing"
+msgstr ""
+"Не могу да отворим \n"
+" %1 \n"
+" за уписивање"
+
+#: domtreeview.cpp:604
+msgid "Invalid URL"
+msgstr "Неисправан УРЛ"
+
+#: domtreeview.cpp:605
+#, kde-format
+msgid ""
+"This URL \n"
+" %1 \n"
+" is not valid."
+msgstr ""
+"УРЛ \n"
+" %1 \n"
+" није исправан."
+
+#: domtreeview.cpp:822
+msgid "Delete Nodes"
+msgstr "Обриши чворове"
+
+#: domtreeview.cpp:1033
+msgid "<Click to add>"
+msgstr "&lt;Кликните за додавање&gt;"
+
+#: domtreeview.cpp:1365
+msgid "Delete Attributes"
+msgstr "Обриши атрибуте"
+
+#: domtreewindow.cpp:62
+msgid "Message Log"
+msgstr "Дневник порука"
+
+#: domtreewindow.cpp:161
+msgid "Pure DOM Tree"
+msgstr "Чисто ДОМ стабло"
+
+#: domtreewindow.cpp:167
+msgid "Show DOM Attributes"
+msgstr "Прикажи ДОМ атрибуте"
+
+#: domtreewindow.cpp:174
+msgid "Highlight HTML"
+msgstr "Истакни ХТМЛ"
+
+#: domtreewindow.cpp:182
+msgid "Show Message Log"
+msgstr "Прикажи дневник порука"
+
+#: domtreewindow.cpp:194
+msgid "Expand"
+msgstr "Рашири"
+
+#: domtreewindow.cpp:197
+msgid "Increase expansion level"
+msgstr "Увећај ниво раширености"
+
+#: domtreewindow.cpp:200
+msgid "Collapse"
+msgstr "Сажми"
+
+#: domtreewindow.cpp:203
+msgid "Decrease expansion level"
+msgstr "Смањи ниво раширености"
+
+#: domtreewindow.cpp:209 domtreewindow.cpp:227
+msgid "&Delete"
+msgstr "&Обриши"
+
+#: domtreewindow.cpp:212
+msgid "Delete nodes"
+msgstr "Обриши чворове"
+
+#: domtreewindow.cpp:217
+msgid "New &Element..."
+msgstr "Нови &елемент..."
+
+#: domtreewindow.cpp:221
+msgid "New &Text Node..."
+msgstr "Нови &текстуални чвор..."
+
+#: domtreewindow.cpp:230
+msgid "Delete attributes"
+msgstr "Обриши атрибуте"
+
+#: plugin_domtreeviewer.cpp:24
+msgid "Show &DOM Tree"
+msgstr "При&кажи ДОМ стабло"
+
+#. i18n: file: attributeeditwidget.ui:24
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:3
+msgid "Attribute &name:"
+msgstr "&Име атрибута:"
+
+#. i18n: file: attributeeditwidget.ui:42
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:6
+msgid "Attribute &value:"
+msgstr "&Вредност атрибута:"
+
+#. i18n: file: domtreeviewbase.ui:19
+#. i18n: ectx: property (windowTitle), widget (QWidget, DOMTreeViewBase)
+#: rc.cpp:9
+msgid "DOM Tree Viewer"
+msgstr "Приказивач ДОМ стабла"
+
+#. i18n: file: domtreeviewbase.ui:61
+#. i18n: ectx: property (text), widget (KPushButton, messageListBtn)
+#: rc.cpp:12
+msgid "&List"
+msgstr "&Испиши"
+
+#. i18n: file: domtreeviewbase.ui:92
+#. i18n: ectx: property (text), widget (KPushButton, messageHideBtn)
+#: rc.cpp:15
+msgid "H&ide"
+msgstr "&Сакриј"
+
+#. i18n: file: domtreeviewbase.ui:127
+#. i18n: ectx: attribute (title), widget (QWidget, domTab)
+#: rc.cpp:21
+msgid "DOM Node"
+msgstr "ДОМ чвор"
+
+#. i18n: file: domtreeviewbase.ui:138
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: rc.cpp:24
+msgid "Node &value:"
+msgstr "&Вредност чвора:"
+
+#. i18n: file: domtreeviewbase.ui:151
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: rc.cpp:27
+msgid "Node &type:"
+msgstr "&Врста чвора:"
+
+#. i18n: file: domtreeviewbase.ui:164
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:30
+msgid "Namespace &URI:"
+msgstr "УРИ им&енског простора:"
+
+#. i18n: file: domtreeviewbase.ui:177
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:33
+msgid "Node &name:"
+msgstr "&Име чвора:"
+
+#. i18n: file: domtreeviewbase.ui:249
+#. i18n: ectx: property (text), widget (QTreeWidget, nodeAttributes)
+#: rc.cpp:36
+msgid "Name"
+msgstr "Име"
+
+#. i18n: file: domtreeviewbase.ui:254
+#. i18n: ectx: property (text), widget (QTreeWidget, nodeAttributes)
+#. i18n: file: domtreeviewbase.ui:344
+#. i18n: ectx: property (text), widget (QTreeWidget, cssProperties)
+#: rc.cpp:39 rc.cpp:51
+msgid "Value"
+msgstr "Вредност"
+
+#. i18n: file: domtreeviewbase.ui:287
+#. i18n: ectx: property (text), widget (QPushButton, applyContent)
+#: rc.cpp:42
+msgid "Appl&y"
+msgstr "&Примени"
+
+#. i18n: file: domtreeviewbase.ui:320
+#. i18n: ectx: attribute (title), widget (QWidget, cssTab)
+#: rc.cpp:45
+msgid "Computed Style"
+msgstr "Прорачунат стил"
+
+#. i18n: file: domtreeviewbase.ui:339
+#. i18n: ectx: property (text), widget (QTreeWidget, cssProperties)
+#: rc.cpp:48
+msgid "Property"
+msgstr "Својство"
+
+#. i18n: file: domtreeviewbase.ui:353
+#. i18n: ectx: attribute (title), widget (QWidget, styleSheetsTab)
+#: rc.cpp:54
+msgid "Stylesheets"
+msgstr "Описи стилова"
+
+#. i18n: file: domtreeviewbase.ui:366
+#. i18n: ectx: property (text), widget (QTreeWidget, styleSheetsTree)
+#: rc.cpp:57
+msgid "1"
+msgstr "1"
+
+#. i18n: file: domtreeviewerui.rc:4
+#. i18n: ectx: Menu (file)
+#: rc.cpp:60
+msgid "&File"
+msgstr "&Фајл"
+
+#. i18n: file: domtreeviewerui.rc:6
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:63
+msgid "&Edit"
+msgstr "Ур&еђивање"
+
+#. i18n: file: domtreeviewerui.rc:8
+#. i18n: ectx: Menu (view)
+#: rc.cpp:66
+msgid "&View"
+msgstr "П&риказ"
+
+#. i18n: file: domtreeviewerui.rc:19
+#. i18n: ectx: Menu (go)
+#: rc.cpp:69
+msgid "&Go"
+msgstr "&Иди"
+
+#. i18n: file: domtreeviewerui.rc:23
+#. i18n: ectx: ToolBar (mainToolBar)
+#: rc.cpp:72
+msgid "Main Toolbar"
+msgstr "Главна трака"
+
+#. i18n: file: domtreeviewerui.rc:25
+#. i18n: ectx: ToolBar (treeToolBar)
+#: rc.cpp:75
+msgid "Tree Toolbar"
+msgstr "Трака стабла"
+
+#. i18n: file: elementeditwidget.ui:24
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:78
+msgid "Element &name:"
+msgstr "&Име елемента:"
+
+#. i18n: file: elementeditwidget.ui:47
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:81
+msgid "Element &namespace:"
+msgstr "Именски &простор елемента:"
+
+#. i18n: file: plugin_domtreeviewer.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:84
+msgid "&Tools"
+msgstr "Ала&тке"
+
+#. i18n: file: plugin_domtreeviewer.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:87
+msgid "Extra Toolbar"
+msgstr "Додатна трака"
+
+#. i18n: file: texteditwidget.ui:19
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:90
+msgid "Edit &text for text node:"
+msgstr "Уреди &текст за текстуални чвор:"

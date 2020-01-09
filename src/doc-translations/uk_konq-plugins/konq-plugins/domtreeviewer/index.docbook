@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.2-Based Variant V1.1//EN"
+"dtd/kdex.dtd" [
+<!ENTITY % addindex "IGNORE">
+<!ENTITY % Ukrainian "INCLUDE"
+> <!-- change language only here -->
+]>
+
+<article lang="&language;">
+
+<sect1 id="domtreeviewer">
+<sect1info>
+
+<authorgroup>
+<author
+><firstname
+>Gardner</firstname
+> <surname
+>Bell</surname
+> <affiliation
+><address
+><email
+>gbell72@rogers.com</email
+></address
+></affiliation>
+</author>
+
+<othercredit role="translator"
+><firstname
+>Юрій</firstname
+><surname
+>Чорноіван</surname
+><affiliation
+><address
+><email
+>yurchor@ukr.net</email
+></address
+></affiliation
+><contrib
+>Переклад українською</contrib
+></othercredit
+>  
+</authorgroup>
+<date
+>26.02.2006</date
+> <releaseinfo
+>3.5.1</releaseinfo
+> <abstract
+> <para
+>Засіб перегляду об’єктної моделі документа (<acronym
+>DOM</acronym
+>) надає змогу розробникам переглядати стилі, атрибути і елементи веб-документів.</para>
+</abstract>
+
+<keywordset>
+<keyword
+>KDE</keyword>
+<keyword
+>kdeaddons</keyword>
+<keyword
+>konqueror</keyword>
+<keyword
+>додатки</keyword>
+<keyword
+>DOMTreeViewer</keyword>
+</keywordset>
+
+</sect1info>
+
+<title
+>Засіб для перегляду дерева <acronym
+>DOM</acronym
+></title>
+
+<sect2>
+<title
+>Користування засобом для перегляду дерева <acronym
+>DOM</acronym
+></title>
+
+<para
+>Щоб скористатися можливостями засобу перегляду дерева <acronym
+>DOM</acronym
+> у &konqueror;, відкрийте пункт меню <menuchoice
+><guimenu
+>Інструменти</guimenu
+> <guimenuitem
+>Показати дерево DOM</guimenuitem
+></menuchoice
+>. Ця дія призведе до відкриття нового вікна, у якому буде показано об’єктну модель документа (<acronym
+>DOM</acronym
+>) поточної веб-сторінки, яку ви переглядаєте. Типово, показ почнеться з кореневого вузла документа, наприклад, <quote
+>documentElement</quote
+>, всі інші вузли, які ви побачите є дочірніми вузлами або нащадками кореневого вузла.</para>
+
+<para
+>Для маніпуляцій з деревом <acronym
+>DOM</acronym
+> вам потрібен буде зовнішній скрипт.</para>
+
+</sect2>
+
+<sect2>
+<title
+>Подяки</title>
+
+<para
+>Авторські права на додаток domtreeviewer належать &copy; 2001 Команді Kafka/Andreas Schlapbach <email
+>kde-kafka@master.kde.org</email
+> <email
+>schlpbch@unibe.ch</email
+></para>
+</sect2>
+
+</sect1>
+</article>

@@ -1,0 +1,48 @@
+# translation of crashesplugin.po to Chinese Traditional
+# Translation of crashesplugin.po to Chinese (traditional)
+# Copyright (C) 2002, 2006, 2007 Free Software Foundation, Inc.
+#
+# Ben Wu <hpwu@redhat.com>, 2002.
+# Frank Weng (a.k.a. Franklin) <franklin at goodhorse dot idv dot tw>, 2006, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: crashesplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-08-25 09:12+0200\n"
+"PO-Revision-Date: 2007-04-18 16:36+0800\n"
+"Last-Translator: Frank Weng (a.k.a. Franklin) <franklin at goodhorse dot idv "
+"dot tw>\n"
+"Language-Team: Chinese Traditional <zh-l10n@linux.org.tw>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: crashesplugin.cpp:48
+msgid "&Crashes"
+msgstr "程式中斷(&C)"
+
+#: crashesplugin.cpp:95 crashesplugin.cpp:119
+msgid "All Pages of This Crash"
+msgstr "此中斷的所有頁"
+
+#: crashesplugin.cpp:125
+msgid "No Recovered Crashes"
+msgstr "沒有已回復的程式中斷"
+
+#: crashesplugin.cpp:137
+msgid "&Clear List of Crashes"
+msgstr "清除程式中斷的清單(&C)"
+
+#. i18n: file: crashesplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "工具(&T)"
+
+#. i18n: file: crashesplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "額外工具列"

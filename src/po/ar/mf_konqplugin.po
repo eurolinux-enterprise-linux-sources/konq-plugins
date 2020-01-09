@@ -1,0 +1,39 @@
+# translation of mf_konqplugin.po to Arabic
+# translation of mf_konqplugin.po to
+#
+# محمد سعد  Mohamed SAAD <metehyi@free.fr>, 2006.
+# Youssef Chahibi <chahibi@gmail.com>, 2007.
+# zayed <zayed.alsaidi@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: mf_konqplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-03-01 18:16+0100\n"
+"PO-Revision-Date: 2008-12-30 20:33+0400\n"
+"Last-Translator: zayed <zayed.alsaidi@gmail.com>\n"
+"Language-Team: Arabic <linuxac-kde-arabic-team@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: konqmficon.cpp:267
+msgid "Microformats"
+msgstr "مايكروفورمات"
+
+#: konqmficon.cpp:281
+msgid "Import All Microformats"
+msgstr "استورد كل المايكروفورمات"
+
+#: konqmficon.cpp:303
+#, kde-format
+msgid "This site has a microformat entry"
+msgid_plural "This site has %1 microformat entries"
+msgstr[0] "هذا الموقع يحوي على مدخلة مايكروفورمات"
+msgstr[1] "هذا الموقع يحوي على مدخلة مايكروفورمات"
+msgstr[2] "هذا الموقع يحوي على مدخلتين مايكروفورمات"
+msgstr[3] "هذا الموقع يحوي على %1 مدخلات مايكروفورمات"
+msgstr[4] "هذا الموقع يحوي على %1 مدخلة مايكروفورمات"
+msgstr[5] "هذا الموقع يحوي على %1 مدخلة مايكروفورمات"

@@ -1,0 +1,325 @@
+# Translation of validatorsplugin to Korean.
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the extragear-base package.
+#
+# Park Shinjo <peremen@gmail.com>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: validatorsplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-08 10:36+0100\n"
+"PO-Revision-Date: 2009-08-06 15:44+0900\n"
+"Last-Translator: Park Shinjo <peremen@gmail.com>\n"
+"Language-Team: Korean <cho.sungjae@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 1.0\n"
+
+#: plugin_validators.cpp:60
+msgid "Validate Web Page"
+msgstr "웹 페이지 검사"
+
+#: plugin_validators.cpp:131
+msgid "&Validate Web Page"
+msgstr "웹 페이지 검사(&V)"
+
+#: plugin_validators.cpp:137
+msgid "Validate HTML (by URI)"
+msgstr "HTML 검사 (URI 사용)"
+
+#: plugin_validators.cpp:141
+msgid "Validate HTML (by Upload)"
+msgstr "HTML 검사 (업로드 사용)"
+
+#: plugin_validators.cpp:145
+msgid "Validate CSS (by URI)"
+msgstr "CSS 검사 (URI 사용)"
+
+#: plugin_validators.cpp:149
+msgid "Validate CSS (by Upload)"
+msgstr "CSS 검사 (업로드 사용)"
+
+#: plugin_validators.cpp:154
+msgid "Validate &Links"
+msgstr "링크 검사(&L)"
+
+#: plugin_validators.cpp:160
+msgid "Validate Page"
+msgstr "페이지 검사"
+
+#: plugin_validators.cpp:164
+msgid "View Validator Report"
+msgstr "검사기 보고서 보기"
+
+#: plugin_validators.cpp:172
+msgid "C&onfigure Validator..."
+msgstr "검사기 설정(&O)..."
+
+#: plugin_validators.cpp:318 validatorsdialog.cpp:49
+msgid "Remote Validation"
+msgstr "원격 검사"
+
+#: plugin_validators.cpp:325
+msgid "Local Validation"
+msgstr "로컬 검사"
+
+#: plugin_validators.cpp:364 plugin_validators.cpp:385
+#: plugin_validators.cpp:391 plugin_validators.cpp:402
+#: plugin_validators.cpp:410
+#, kde-format
+msgid "1 error"
+msgid_plural "%1 errors"
+msgstr[0] "오류 %1개"
+
+#: plugin_validators.cpp:365 plugin_validators.cpp:386
+#: plugin_validators.cpp:392 plugin_validators.cpp:403
+#: plugin_validators.cpp:411
+#, kde-format
+msgid "1 warning"
+msgid_plural "%1 warnings"
+msgstr[0] "경고 %1개"
+
+#: plugin_validators.cpp:366 plugin_validators.cpp:387
+#: plugin_validators.cpp:404
+#, kde-format
+msgid "1 accessibility warning"
+msgid_plural "%1 accessibility warnings"
+msgstr[0] "접근성 경고 %1개"
+
+#: plugin_validators.cpp:368
+#, kde-format
+msgctxt "%1 is the error count string, %2 the warning count string"
+msgid "%1, %2"
+msgstr "%1, %2"
+
+#: plugin_validators.cpp:370
+msgid "HTML tidy results:"
+msgstr "HTML tidy 결과:"
+
+#: plugin_validators.cpp:384
+#, kde-format
+msgctxt ""
+"%1 is the error count string, %2 the warning count string, %3 the "
+"accessibility warning string"
+msgid "Page: %1, %2, %3"
+msgstr "페이지: %1, %2, %3"
+
+#: plugin_validators.cpp:390
+#, kde-format
+msgctxt "%1 is the error count string, %2 the warning count string"
+msgid "Page: %1, %2"
+msgstr "페이지: %1, %2"
+
+#: plugin_validators.cpp:400
+#, kde-format
+msgctxt ""
+"%1 is the HTML frame name, %2 is the error count string, %3 the warning "
+"count string, %4 the accessibility warning string"
+msgid "Frame '%1': %2, %3, %4"
+msgstr "프레임 '%1': %2, %3, %4"
+
+#: plugin_validators.cpp:408
+#, kde-format
+msgctxt ""
+"%1 is the HTML frame name, %2 is the error count string, %3 the warning "
+"count string"
+msgid "Frame '%1': %2, %3"
+msgstr "프레임 '%1': %2, %3"
+
+#: plugin_validators.cpp:461
+#, kde-format
+msgid ""
+"<qt>The selected URL cannot be verified because it contains a password. "
+"Sending this URL to <b>%1</b> would put the security of <b>%2</b> at risk.</"
+"qt>"
+msgstr ""
+"<qt>선택한 URL에는 암호가 있기 때문에 검사할 수 없습니다. 이 URL을 <b>%1</b>"
+"(으)로 보내면 <b>%2</b>의 보안에 위험을 줄 수 있습니다.</qt>"
+
+#: plugin_validators.cpp:534
+msgid "Cannot Validate Source"
+msgstr "원본을 검사할 수 없음"
+
+#: plugin_validators.cpp:535
+msgid "You cannot validate anything except web pages with this plugin."
+msgstr "이 플러그인으로는 웹 페이지만 검사할 수 있습니다."
+
+#: plugin_validators.cpp:546
+msgid "Malformed URL"
+msgstr "잘못된 URL"
+
+#: plugin_validators.cpp:547
+msgid "The URL you entered is not valid, please correct it and try again."
+msgstr "입력한 URL은 잘못되었습니다. 다른 URL을 시도하십시오."
+
+#: plugin_validators.cpp:573
+msgid "Validation"
+msgstr "검사"
+
+#. i18n: file: internalvalidator.ui:18
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:3
+msgid "Accessibility validation level:"
+msgstr "접근성 검사 단계:"
+
+#. i18n: file: internalvalidator.ui:26
+#. i18n: ectx: property (text), item, widget (KComboBox, accessibilityLevel)
+#: rc.cpp:6
+msgid "0 (No check)"
+msgstr "0 (검사하지 않음)"
+
+#. i18n: file: internalvalidator.ui:31
+#. i18n: ectx: property (text), item, widget (KComboBox, accessibilityLevel)
+#: rc.cpp:9
+msgid "1"
+msgstr "1"
+
+#. i18n: file: internalvalidator.ui:36
+#. i18n: ectx: property (text), item, widget (KComboBox, accessibilityLevel)
+#: rc.cpp:12
+msgid "2"
+msgstr "2"
+
+#. i18n: file: internalvalidator.ui:41
+#. i18n: ectx: property (text), item, widget (KComboBox, accessibilityLevel)
+#: rc.cpp:15
+msgid "3"
+msgstr "3"
+
+#. i18n: file: internalvalidator.ui:49
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, runAfterLoading)
+#: rc.cpp:18
+msgid ""
+"If this option is enabled, the internal HTML validator is executed after a "
+"webpage has been loaded."
+msgstr ""
+"이 옵션이 켜져 있으면 웹 페이지를 불러온 다음 내장 HTML 검사기를 실행합니다."
+
+#. i18n: file: internalvalidator.ui:52
+#. i18n: ectx: property (text), widget (QCheckBox, runAfterLoading)
+#: rc.cpp:21
+msgid "Run after loading"
+msgstr "불러온 다음 실행하기"
+
+#. i18n: file: plugin_validators.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr "도구(&T)"
+
+#. i18n: file: plugin_validators.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "추가 도구 모음"
+
+#. i18n: file: remotevalidators.ui:16
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: rc.cpp:30
+msgid "HTML/XML Validator"
+msgstr "HTML/XML 검사기"
+
+#. i18n: file: remotevalidators.ui:22
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. i18n: file: remotevalidators.ui:71
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. i18n: file: remotevalidators.ui:120
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: rc.cpp:33 rc.cpp:42 rc.cpp:51
+msgid "URL:"
+msgstr "URL:"
+
+#. i18n: file: remotevalidators.ui:42
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: file: remotevalidators.ui:91
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: rc.cpp:36 rc.cpp:45
+msgid "Upload:"
+msgstr "업로드:"
+
+#. i18n: file: remotevalidators.ui:65
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: rc.cpp:39
+msgid "CSS Validator"
+msgstr "CSS 검사기"
+
+#. i18n: file: remotevalidators.ui:114
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: rc.cpp:48
+msgid "Link Validator"
+msgstr "링크 검사기"
+
+#. i18n: file: reportwidget.ui:34
+#. i18n: ectx: property (text), widget (QTreeWidget, reportsView)
+#: rc.cpp:54
+msgid "Frame"
+msgstr "프레임"
+
+#. i18n: file: reportwidget.ui:39
+#. i18n: ectx: property (text), widget (QTreeWidget, reportsView)
+#: rc.cpp:57
+msgid "Row"
+msgstr "줄"
+
+#. i18n: file: reportwidget.ui:44
+#. i18n: ectx: property (text), widget (QTreeWidget, reportsView)
+#: rc.cpp:60
+msgid "Column"
+msgstr "칸"
+
+#. i18n: file: reportwidget.ui:49
+#. i18n: ectx: property (text), widget (QTreeWidget, reportsView)
+#: rc.cpp:63
+msgid "Message"
+msgstr "메시지"
+
+#: rc.cpp:64
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Park Shinjo"
+
+#: rc.cpp:65
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "peremen@gmail.com"
+
+#: reportdialog.cpp:63
+msgid "Validation Report"
+msgstr "검사기 보고서"
+
+#: reportdialog.cpp:77
+msgctxt "Validation status"
+msgid "Error"
+msgstr "오류"
+
+#: reportdialog.cpp:85
+msgctxt "Validation status"
+msgid "Warning"
+msgstr "경고"
+
+#: reportdialog.cpp:93
+msgctxt "Validation status"
+msgid "Accessibility warning"
+msgstr "접근성 경고"
+
+#: validatorsdialog.cpp:35
+msgid "Configure Validator Plugin"
+msgstr "검사기 플러그인 설정"
+
+#: validatorsdialog.cpp:42
+msgid "Internal Validation"
+msgstr "내부 검사"
+
+#~ msgid "Configure Validating Servers"
+#~ msgstr "검사 서버 설정"
+
+#~ msgid "Upload Not Possible"
+#~ msgstr "업로드할 수 없음"
+
+#~ msgid "Validating links is not possible for local files."
+#~ msgstr "로컬 파일의 링크를 검사할 수 없습니다."
+
+#~ msgid "Configure"
+#~ msgstr "설정"

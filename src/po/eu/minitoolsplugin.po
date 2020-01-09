@@ -1,0 +1,40 @@
+# translation of minitoolsplugin.po to Basque
+# Copyright (C) 2003, 2004, 2006 Free Software Foundation, Inc.
+#
+# Marcos Goienetxe <marcos@euskalgnu.org>, 2003.
+# Juan Irigoien <juanirigoien@yahoo.es>, 2004.
+# marcos <marcos@euskalgnu.org>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: minitoolsplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-08-25 09:12+0200\n"
+"PO-Revision-Date: 2006-01-25 11:40+0100\n"
+"Last-Translator: marcos <marcos@euskalgnu.org>\n"
+"Language-Team: Basque <itzulpena@euskalgnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: minitoolsplugin.cpp:50
+msgid "&Minitools"
+msgstr "&Minitresnak"
+
+#: minitoolsplugin.cpp:120
+msgid "&Edit Minitools"
+msgstr "&Editatu Minitresnak"
+
+#. i18n: file: minitoolsplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+#, fuzzy
+msgid "&Tools"
+msgstr "&Minitresnak"
+
+#. i18n: file: minitoolsplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Tresna-barra gehigarria"

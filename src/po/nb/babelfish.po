@@ -1,0 +1,182 @@
+# Translation of babelfish to Norwegian Bokmål
+#
+# Knut Yrvin <knuty@skolelinux.no>, 2003.
+# Bjørn Steensrud <bjornst@skogkatt.homelinux.org>, 2004.
+# Axel Bojer <axelb@skolelinux.no>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: babelfish\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-17 07:03+0200\n"
+"PO-Revision-Date: 2007-11-15 21:52+0100\n"
+"Last-Translator: MagicPO 0.3 (automated)\n"
+"Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: MagicPO 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: nb\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: plugin_babelfish.cpp:50
+msgid "Translate Web Page"
+msgstr "Oversett nettside"
+
+#: plugin_babelfish.cpp:60
+msgid "Translate Web &Page"
+msgstr "&Oversett nettside"
+
+#: plugin_babelfish.cpp:66
+msgid "&English To"
+msgstr "&Engelsk til"
+
+#: plugin_babelfish.cpp:69
+msgid "&French To"
+msgstr "&Fransk til"
+
+#: plugin_babelfish.cpp:72
+msgid "&German To"
+msgstr "&Tysk til"
+
+#: plugin_babelfish.cpp:76
+msgid "&Spanish To"
+msgstr "&Spansk til"
+
+#: plugin_babelfish.cpp:80
+msgid "&Portuguese To"
+msgstr "&Portugisisk til"
+
+#: plugin_babelfish.cpp:84
+msgid "&Italian To"
+msgstr "&Italiensk til"
+
+#: plugin_babelfish.cpp:88
+msgid "&Dutch To"
+msgstr "&Nederlandsk til"
+
+#: plugin_babelfish.cpp:94
+msgid "&Chinese (Simplified)"
+msgstr "&Kinesisk (Forenklet)"
+
+#: plugin_babelfish.cpp:95
+msgid "Chinese (&Traditional)"
+msgstr "Kinesisk (&Tradisjonelt)"
+
+#: plugin_babelfish.cpp:96 plugin_babelfish.cpp:107
+msgid "&Dutch"
+msgstr "&Nederlandsk"
+
+#: plugin_babelfish.cpp:97 plugin_babelfish.cpp:114 plugin_babelfish.cpp:116
+#: plugin_babelfish.cpp:118 plugin_babelfish.cpp:120 plugin_babelfish.cpp:122
+msgid "&French"
+msgstr "&Fransk"
+
+#: plugin_babelfish.cpp:98 plugin_babelfish.cpp:109
+msgid "&German"
+msgstr "&Tysk"
+
+#: plugin_babelfish.cpp:99 plugin_babelfish.cpp:110
+msgid "&Italian"
+msgstr "&Italiensk"
+
+#: plugin_babelfish.cpp:100
+msgid "&Japanese"
+msgstr "&Japansk"
+
+#: plugin_babelfish.cpp:101
+msgid "&Korean"
+msgstr "&Koreansk"
+
+#: plugin_babelfish.cpp:102
+msgid "&Norwegian"
+msgstr "&Norsk"
+
+#: plugin_babelfish.cpp:103 plugin_babelfish.cpp:111
+msgid "&Portuguese"
+msgstr "&Portugisisk"
+
+#: plugin_babelfish.cpp:104
+msgid "&Russian"
+msgstr "&Russisk"
+
+#: plugin_babelfish.cpp:105 plugin_babelfish.cpp:112
+msgid "&Spanish"
+msgstr "&Spansk"
+
+#: plugin_babelfish.cpp:106
+msgid "T&hai"
+msgstr "T&hai"
+
+#: plugin_babelfish.cpp:108 plugin_babelfish.cpp:113 plugin_babelfish.cpp:115
+#: plugin_babelfish.cpp:117 plugin_babelfish.cpp:119 plugin_babelfish.cpp:121
+msgid "&English"
+msgstr "&Engelsk"
+
+#: plugin_babelfish.cpp:123 plugin_babelfish.cpp:142
+msgid "&Chinese (Simplified) to English"
+msgstr "&Kinesisk (Forenklet) til engelsk"
+
+#: plugin_babelfish.cpp:124 plugin_babelfish.cpp:147
+msgid "Chinese (&Traditional) to English"
+msgstr "Kinesisk (&Tradisjonelt) til engelsk"
+
+#: plugin_babelfish.cpp:158
+msgid "&Japanese to English"
+msgstr "&Japansk til engelsk"
+
+#: plugin_babelfish.cpp:163
+msgid "&Korean to English"
+msgstr "&Koreansk til engelsk"
+
+#: plugin_babelfish.cpp:170
+msgid "&Russian to English"
+msgstr "&Russisk til engelsk"
+
+#: plugin_babelfish.cpp:214
+msgid "Cannot Translate Source"
+msgstr "Kan ikke oversette kilde"
+
+#: plugin_babelfish.cpp:215
+msgid "Only web pages can be translated using this plugin."
+msgstr "Bare nettsider kan oversettes med denne tilleggsmodulen."
+
+#: plugin_babelfish.cpp:261
+msgid "Only full webpages can be translated for this language pair."
+msgstr "Bare fullstendige nettsider kan oversettes for dette språkparet."
+
+#: plugin_babelfish.cpp:261
+msgid "Translation Error"
+msgstr "Feil ved oversettelse"
+
+#: plugin_babelfish.cpp:269
+msgid "Malformed URL"
+msgstr "Feil i URL"
+
+#: plugin_babelfish.cpp:270
+msgid "The URL you entered is not valid, please correct it and try again."
+msgstr "URL-en du skrev inn er ikke gyldig, rett den opp og prøv på nytt."
+
+#. i18n: file: plugin_babelfish.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Verktøy"
+
+#. i18n: file: plugin_babelfish.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Ekstra verktøylinje"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Bjørn Steensrud"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "bjornst@skogkatt.homelinux.org"

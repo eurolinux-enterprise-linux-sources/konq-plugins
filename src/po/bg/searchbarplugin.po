@@ -1,0 +1,79 @@
+# translation of searchbarplugin.po to Bulgarian
+# Bulgarian translation of KDE.
+# This file is licensed under the GPL.
+#
+# $Id: searchbarplugin.po 1033816 2009-10-11 09:17:28Z scripty $
+#
+# Zlatko Popov <zlatkopopov@fsa-bg.org>, 2007.
+# Yasen Pramatarov <yasen@lindeas.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: searchbarplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-11 06:35+0200\n"
+"PO-Revision-Date: 2009-08-28 10:16+0300\n"
+"Last-Translator: Yasen Pramatarov <yasen@lindeas.com>\n"
+"Language-Team: Bulgarian <dict@fsa-bg.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: searchbar.rc:3
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:3
+msgid "Search Toolbar"
+msgstr "Лента за търсене"
+
+#: searchbar.cpp:82
+msgid ""
+"Search Bar<p>Enter a search term. Click on the icon to change search mode or "
+"provider.</p>"
+msgstr ""
+"Лента за търсене<p>Въведете думи за търсене. Натиснете иконата, за да "
+"промените режима на търсене или търсачката."
+
+#: searchbar.cpp:90
+msgid "Search Bar"
+msgstr "Лента за търсене"
+
+#: searchbar.cpp:95
+msgid "Focus Searchbar"
+msgstr "Активиране на лентата за търсене"
+
+#: searchbar.cpp:318
+msgid "Find in This Page"
+msgstr "Търсене в страницата"
+
+#: searchbar.cpp:347
+msgid "Select Search Engines..."
+msgstr "Избор на търсачка..."
+
+#: searchbar.cpp:367
+msgid "Add "
+msgstr "Добавяне"
+
+#: searchbar.cpp:631
+msgid "Enable Suggestion"
+msgstr "Включване на предложения"
+
+#: WebShortcutWidget.cpp:43
+msgid "Set Uri Shortcuts"
+msgstr "Съкращения за адреси"
+
+#: WebShortcutWidget.cpp:57
+msgid "Name:"
+msgstr "Име:"
+
+#: WebShortcutWidget.cpp:61
+msgid "Shortcuts:"
+msgstr "Съкращение:"
+
+#: WebShortcutWidget.cpp:71
+msgid "Ok"
+msgstr "ОК"
+
+#: WebShortcutWidget.cpp:76
+msgid "Cancel"
+msgstr "Отказ"

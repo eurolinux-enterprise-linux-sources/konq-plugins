@@ -1,0 +1,197 @@
+# Translation of konqsidebar_metabar.po to Catalan
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2005, 2006, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2008-06-15 16:44+0200\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Configuració - Metabar"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Elements"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Obre amb:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Accions:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "Aparença"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Redimensionament animat"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Mostra els menús de serveis"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Temes"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Instal·la tema nou..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Nou..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "Esborra"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Edita..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Nom"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Adreça"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "General"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Accions"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Enllaços"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Comparteix"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Crea un enllaç"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Enllaç nou"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Nom:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "URL:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Edita enllaç"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Més"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "Executa %1"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Tria aplicació"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Tipus"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Mida"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Usuari"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Grup"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Permisos"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Modificat"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Accedit"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "Objectiu de l'enllaç"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "Fitxers"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Carpetes"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Nombre d'entrades"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Cliqueu per iniciar la vista prèvia"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "S'està creant la vista prèvia"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Configura el Metabar..."
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Menys"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Afegeix una carpeta de xarxa"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Executa"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Comentari"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Cal privilegis d'administrador"

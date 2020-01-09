@@ -1,0 +1,170 @@
+# translation of webarchiver.po to Serbian
+# Toplica Tanaskovic <toptan@kde.org.yu>, 2003.
+# Bojan Bozovic <bole89@infosky.net>, 2003.
+# Chusslove Illich <caslav.ilic@gmx.net>, 2004, 2009.
+# Slobodan Simic <simicsl@verat.net>, 2005, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: webarchiver\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-23 11:42+0200\n"
+"PO-Revision-Date: 2009-07-11 14:46+0200\n"
+"Last-Translator: Chusslove Illich <caslav.ilic@gmx.net>\n"
+"Language-Team: Serbian <kde-i18n-sr@kde.org>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Environment: kde\n"
+
+#. i18n: file: archiveviewbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
+#: archivedialog.cpp:151 rc.cpp:3
+msgid "Web Archiver"
+msgstr "Веб архивар"
+
+# >> @title:column
+#: archivedialog.cpp:161
+msgid "Status"
+msgstr "стање"
+
+# >> @title:column
+#: archivedialog.cpp:162
+msgid "Url"
+msgstr "УРЛ"
+
+#: archivedialog.cpp:230
+msgid "Unable to Open Web-Archive"
+msgstr "Не могу да отворим веб архиву"
+
+#: archivedialog.cpp:231
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing."
+msgstr ""
+"Не могу да отворим\n"
+" %1 \n"
+" за упис."
+
+#: archivedialog.cpp:362
+msgid "Downloading"
+msgstr "Преузимам"
+
+#: archivedialog.cpp:383
+msgid "Error"
+msgstr "Грешка"
+
+#: archivedialog.cpp:383
+msgid "Ok"
+msgstr "У реду"
+
+#: archivedialog.cpp:411
+#, kde-format
+msgid "I/O error occurred while writing to web archive file %1."
+msgstr "У/И грешка при упису фајла веб архиве %1."
+
+#: plugin_webarchiver.cpp:58
+msgid "Archive &Web Page..."
+msgstr "&Архивирај веб страницу..."
+
+#: plugin_webarchiver.cpp:77
+msgid "Untitled"
+msgstr "Неименована"
+
+#: plugin_webarchiver.cpp:94
+msgid "*.war *.tgz|Web Archives"
+msgstr "*.war *.tgz|веб архиве"
+
+# >> @title:window
+#: plugin_webarchiver.cpp:95
+msgid "Save Page as Web-Archive"
+msgstr "Уписивање странице у веб архиву"
+
+#: plugin_webarchiver.cpp:100
+msgid "Invalid URL"
+msgstr "Неваљан УРЛ"
+
+#: plugin_webarchiver.cpp:101
+#, kde-format
+msgid ""
+"The URL\n"
+"%1\n"
+"is not valid."
+msgstr ""
+"УРЛ\n"
+"%1\n"
+"није ваљан."
+
+#: plugin_webarchiver.cpp:115
+msgid "File Exists"
+msgstr "Фајл постоји"
+
+#: plugin_webarchiver.cpp:116
+#, kde-format
+msgid ""
+"Do you really want to overwrite:\n"
+"%1?"
+msgstr ""
+"Желите ли заиста да пребришете:\n"
+"%1?"
+
+#: plugin_webarchiver.cpp:117
+msgid "Overwrite"
+msgstr "Пребриши"
+
+# >> @item:intext To:
+#. i18n: file: archiveviewbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, targetLabel)
+#: rc.cpp:6
+msgid "Local File"
+msgstr "локални фајл"
+
+#. i18n: file: archiveviewbase.ui:55
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:9
+msgid "To:"
+msgstr "У:"
+
+# >> @info:progress
+#. i18n: file: archiveviewbase.ui:65
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:12
+msgid "Archiving:"
+msgstr "Архивирам:"
+
+# >> @item:intext Archiving:
+#. i18n: file: archiveviewbase.ui:81
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#: rc.cpp:15
+msgid "Original URL"
+msgstr "изворни УРЛ"
+
+#. i18n: file: archiveviewbase.ui:109
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:18
+msgid "1"
+msgstr "1"
+
+#. i18n: file: archiveviewbase.ui:114
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:21
+msgid "2"
+msgstr "2"
+
+#. i18n: file: plugin_webarchiver.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr "Ала&тке"
+
+#. i18n: file: plugin_webarchiver.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "Додатна трака"

@@ -1,0 +1,230 @@
+# KDE breton translation
+# Thierry Vignaud <tvignaud@mandriva.com>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: messages/kdeaddons/imgalleryplugin.po\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2004-09-20 15:44+0200\n"
+"Last-Translator: Thierry Vignaud <tvignaud@mandriva.com>\n"
+"Language-Team: br <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: imgallerydialog.cpp:53
+msgid "Configure"
+msgstr "Kefluniañ"
+
+#: imgallerydialog.cpp:61
+msgid "Create Image Gallery"
+msgstr "Krouiñ garidell ar skeudennoù"
+
+#: imgallerydialog.cpp:62
+msgid "Create"
+msgstr "Krouiñ"
+
+#: imgallerydialog.cpp:72 imgallerydialog.cpp:113
+#, kde-format
+msgid "Image Gallery for %1"
+msgstr "Garidell ar skeudennoù evit %1"
+
+#: imgallerydialog.cpp:99
+msgid "Look"
+msgstr "Sell"
+
+#: imgallerydialog.cpp:100
+msgid "Page Look"
+msgstr "Neuz ar bajenn"
+
+#: imgallerydialog.cpp:110
+msgid "&Page title:"
+msgstr "&Titl ar bajenn :"
+
+#: imgallerydialog.cpp:120
+msgid "I&mages per row:"
+msgstr ""
+
+#: imgallerydialog.cpp:128
+msgid "Show image file &name"
+msgstr "Diskouez &anv ar restr skeudenn"
+
+#: imgallerydialog.cpp:132
+msgid "Show image file &size"
+msgstr "Diskouez &ment ar restr skeudenn"
+
+#: imgallerydialog.cpp:136
+msgid "Show image &dimensions"
+msgstr "Diskouez &mentoù ar skeudenn"
+
+#: imgallerydialog.cpp:149
+msgid "Fon&t name:"
+msgstr "Anv an &nodrezh :"
+
+#: imgallerydialog.cpp:161
+msgid "Font si&ze:"
+msgstr "&Ment an nodrezh :"
+
+#: imgallerydialog.cpp:173
+msgid "&Foreground color:"
+msgstr "Liv war-&c'horre :"
+
+#: imgallerydialog.cpp:185
+msgid "&Background color:"
+msgstr "&Liv an drekleur :"
+
+#: imgallerydialog.cpp:196 imgallerydialog.cpp:197
+msgid "Folders"
+msgstr "Renkelloù"
+
+#: imgallerydialog.cpp:206
+msgid "&Save to HTML file:"
+msgstr ""
+
+#: imgallerydialog.cpp:209
+msgid "<p>The name of the HTML file this gallery will be saved to.</p>"
+msgstr ""
+
+#: imgallerydialog.cpp:220
+msgid "&Recurse subfolders"
+msgstr ""
+
+#: imgallerydialog.cpp:222
+msgid ""
+"<p>Whether subfolders should be included for the image gallery creation or "
+"not.</p>"
+msgstr ""
+
+#: imgallerydialog.cpp:230
+msgid "Rec&ursion depth:"
+msgstr ""
+
+#: imgallerydialog.cpp:232
+msgid "Endless"
+msgstr ""
+
+#: imgallerydialog.cpp:234
+msgid ""
+"<p>You can limit the number of folders the image gallery creator will "
+"traverse to by setting an upper bound for the recursion depth.</p>"
+msgstr ""
+
+#: imgallerydialog.cpp:246
+msgid "Copy or&iginal files"
+msgstr ""
+
+#: imgallerydialog.cpp:249
+msgid ""
+"<p>This makes a copy of all images and the gallery will refer to these "
+"copies instead of the original images.</p>"
+msgstr ""
+
+#: imgallerydialog.cpp:255
+msgid "Use &comment file"
+msgstr "Implijit restr an &askelennoù"
+
+#: imgallerydialog.cpp:259
+msgid ""
+"<p>If you enable this option you can specify a comment file which will be "
+"used for generating subtitles for the images.</p><p>For details about the "
+"file format please see the \"What's This?\" help below.</p>"
+msgstr ""
+
+#: imgallerydialog.cpp:266
+msgid "Comments &file:"
+msgstr "&Restr an askelennoù :"
+
+#: imgallerydialog.cpp:269
+msgid ""
+"<p>You can specify the name of the comment file here. The comment file "
+"contains the subtitles for the images. The format of this file is:</"
+"p><p>FILENAME1:<br />Description<br /><br />FILENAME2:<br />Description<br /"
+"><br />and so on</p>"
+msgstr ""
+
+#: imgallerydialog.cpp:297 imgallerydialog.cpp:298
+msgid "Thumbnails"
+msgstr "Skeudennigoù"
+
+#: imgallerydialog.cpp:317
+msgid "Image format f&or the thumbnails:"
+msgstr "Furmad skeudenn &ar skeudennigoù :"
+
+#: imgallerydialog.cpp:325
+msgid "Thumbnail size:"
+msgstr "Ment ar skeudennig :"
+
+#: imgallerydialog.cpp:337
+msgid "&Set different color depth:"
+msgstr ""
+
+#: imgalleryplugin.cpp:59
+msgid "&Create Image Gallery..."
+msgstr "&Krouiñ garidell ar skeudennoù ..."
+
+#: imgalleryplugin.cpp:70
+msgid "Could not create the plugin, please report a bug."
+msgstr ""
+"Ne m'eus ket gallet krouiñ al lugent. Mar plij kemennit an drein kavet."
+
+#: imgalleryplugin.cpp:76
+msgid "Creating an image gallery works only on local folders."
+msgstr ""
+
+#: imgalleryplugin.cpp:95
+msgid "Creating thumbnails"
+msgstr "Emaon o krouiñ ar skeudennigoù"
+
+#: imgalleryplugin.cpp:116 imgalleryplugin.cpp:279
+#, fuzzy, kde-format
+#| msgid "Couldn't create folder: %1"
+msgid "Could not create folder: %1"
+msgstr "N'hellan ket krouiñ ar renkell : %1"
+
+#: imgalleryplugin.cpp:177
+#, kde-format
+msgid "<i>Number of images</i>: %1"
+msgstr "<i>Niver a skeudennoù</i> : %1"
+
+#: imgalleryplugin.cpp:178
+#, kde-format
+msgid "<i>Created on</i>: %1"
+msgstr "<i>Krouet d'ar</i>: %1"
+
+#: imgalleryplugin.cpp:183
+msgid "<i>Subfolders</i>:"
+msgstr "<i>Is-renkelloù</i> :"
+
+#: imgalleryplugin.cpp:216
+#, kde-format
+msgid ""
+"Created thumbnail for: \n"
+"%1"
+msgstr ""
+"Krouet eo ar skeudennig evit : \n"
+"%1"
+
+#: imgalleryplugin.cpp:219
+#, kde-format
+msgid ""
+"Creating thumbnail for: \n"
+"%1\n"
+" failed"
+msgstr ""
+
+#: imgalleryplugin.cpp:237
+msgid "KB"
+msgstr "KO"
+
+#: imgalleryplugin.cpp:333 imgalleryplugin.cpp:428
+#, fuzzy, kde-format
+#| msgid "Couldn't open file: %1"
+msgid "Could not open file: %1"
+msgstr "N'hellan ket digeriñ ar restr : %1"
+
+#. i18n: file: kimgalleryplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Ostilhoù"

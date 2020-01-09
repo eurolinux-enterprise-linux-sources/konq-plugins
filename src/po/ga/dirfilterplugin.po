@@ -1,0 +1,80 @@
+# translation of dirfilterplugin.po to Irish
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# Séamus Ó Ciardhuáin <seoc@cnds.ucd.ie>, 2002
+# Kevin Scannell <kscanne@gmail.com>, 2009
+msgid ""
+msgstr ""
+"Project-Id-Version: dirfilterplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2004-12-03 14:52-0500\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0beta1\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n < 11 ? "
+"3 : 4\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "Amharc ar Scaga&ire"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr ""
+"Ceadaigh scagadh na míreanna atá ar taispeáint faoi láthair de réir a "
+"gcineál."
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr "Réimse Scagaire"
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "Ná Taispeáin ach Míreanna den Chineál"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "Úsáid Scagairí Iomadúla"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "Taispeáin an Líon"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "Athshocraigh"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Uirlisí"
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Barra Uirlisí Breise"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "Barra Uirlisí na Scagairí"
+
+#~ msgid "Clear Filter Field"
+#~ msgstr "Glan an Réimse Scagaire"
+
+#~ msgid "Clear filter field<p>Clears the content of the filter field.</p>"
+#~ msgstr ""
+#~ "Glan an réimse scagaire<p>Glanann sé seo inneachar an réimse scagaire.</p>"
+
+#~ msgid ""
+#~ "Enter here a text which an item in the view must contain anywhere to be "
+#~ "shown."
+#~ msgstr ""
+#~ "Iontráil téacs anseo agus taispeánfar san amharc na míreanna ina bhfuil "
+#~ "an téacs seo."

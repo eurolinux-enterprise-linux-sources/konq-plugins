@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.2-Based Variant V1.1//EN"
+"dtd/kdex.dtd" [
+<!ENTITY % addindex "IGNORE">
+<!ENTITY % Ukrainian "INCLUDE"
+> <!-- change language only here -->
+]>
+
+<article lang="&language;">
+
+<sect1 id="sidebar-mediaplayer">
+<sect1info>
+
+<authorgroup>
+<author
+><firstname
+>Gardner</firstname
+> <surname
+>Bell</surname
+> <affiliation
+><address
+><email
+>gbell72@rogers.com</email
+></address
+></affiliation>
+</author>
+
+<othercredit role="translator"
+><firstname
+>Юрій</firstname
+><surname
+>Чорноіван</surname
+><affiliation
+><address
+><email
+>yurchor@ukr.net</email
+></address
+></affiliation
+><contrib
+>Переклад українською</contrib
+></othercredit
+>  
+</authorgroup>
+<date
+>09.09.2004</date
+> <releaseinfo
+>3.10.00</releaseinfo
+> <abstract
+> <para
+>За допомогою бічної панелі програвача мультимедіа ви можете відтворювати ваші музичні файли безпосередньо з &konqueror;.</para>
+</abstract>
+
+<keywordset>
+<keyword
+>KDE</keyword>
+<keyword
+>kdeaddons</keyword>
+<keyword
+>konqueror</keyword>
+<keyword
+>додатки</keyword>
+<keyword
+>sidebar-mediaplayer</keyword>
+</keywordset>
+
+</sect1info>
+
+<title
+>Бічна панель програвача мультимедіа</title>
+
+<sect2>
+<title
+>Користування Бічною панеллю програвача мультимедіа</title>
+
+<para
+>Доступ до бічної панелі програвача мультимедіа можна отримати за допомогою смужки меню &konqueror;, зокрема пункту <menuchoice
+><guimenu
+>Вікно</guimenu
+> <guimenuitem
+>Показати панель навігації</guimenuitem
+></menuchoice
+> або за допомогою клавіатурного скорочення <keycap
+>F9</keycap
+>.</para>
+
+<para
+>Щоб скористатися програвачем, натисніть кнопку <inlinemediaobject
+><imageobject
+><imagedata fileref="cr22-app-konqsidebar_mediaplayer.png" format="PNG" width="22"/></imageobject
+></inlinemediaobject
+> на панелі навігації &konqueror;, а потім перетягніть і скиньте будь-які музичні файли, які ви бажаєте прослухати, на панель програвача мультимедіа.</para
+> 
+
+</sect2>
+
+<sect2>
+<title
+>Подяки</title>
+
+<para
+>Авторські права на Бічну панель програвача мультимедіа належать &copy; 2001 Joseph Wenninger <email
+>jowenn@kde.org</email
+>.</para>
+</sect2>
+
+</sect1>
+</article>

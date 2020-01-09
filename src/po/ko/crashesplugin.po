@@ -1,0 +1,45 @@
+# Translation of crashesplugin to Korean.
+# Copyright (C) 2007 This_file_is_part_of_KDE
+# This file is distributed under the same license as the extragear-base package.
+# Park Shinjo <peremen@gmail.com>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: extragear-base\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-08-25 09:12+0200\n"
+"PO-Revision-Date: 2007-12-27 11:18+0900\n"
+"Last-Translator: Park Shinjo <peremen@gmail.com>\n"
+"Language-Team: Korean <cho.sungjae@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: crashesplugin.cpp:48
+msgid "&Crashes"
+msgstr "충돌(&C)"
+
+#: crashesplugin.cpp:95 crashesplugin.cpp:119
+msgid "All Pages of This Crash"
+msgstr "이 충돌의 모든 쪽"
+
+#: crashesplugin.cpp:125
+msgid "No Recovered Crashes"
+msgstr "복구된 충돌 없음"
+
+#: crashesplugin.cpp:137
+msgid "&Clear List of Crashes"
+msgstr "충돌 목록 비우기(&C)"
+
+#. i18n: file: crashesplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "도구(&T)"
+
+#. i18n: file: crashesplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "추가 도구 모음"

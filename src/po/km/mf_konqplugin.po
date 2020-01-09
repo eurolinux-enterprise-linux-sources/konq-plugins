@@ -1,0 +1,32 @@
+# translation of mf_konqplugin.po to Khmer
+#
+# vannak eng <evannak@khmeros.info>, 2006.
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2006, 2007, 2008.
+# Auk Piseth <piseth_dv@khmeros.info>, 2007, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: mf_konqplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-03-01 18:16+0100\n"
+"PO-Revision-Date: 2008-02-01 13:49+0700\n"
+"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
+"Language-Team: Khmer <support@khmeros.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: konqmficon.cpp:267
+msgid "Microformats"
+msgstr "ទ្រង់ទ្រាយ​មីក្រូ"
+
+#: konqmficon.cpp:281
+msgid "Import All Microformats"
+msgstr "នាំ​ចូល​ទ្រង់ទ្រាយ​មីក្រូ​ទាំងអស់"
+
+#: konqmficon.cpp:303
+#, kde-format
+msgid "This site has a microformat entry"
+msgid_plural "This site has %1 microformat entries"
+msgstr[0] "តំបន់​បណ្ដាញ​នេះ​មាន​ធាតុ​ទ្រង់ទ្រាយ​មីក្រូ %1"

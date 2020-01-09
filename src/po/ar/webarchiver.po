@@ -1,0 +1,166 @@
+# translation of webarchiver.po to Arabic
+# translation of webarchiver.po to
+# Copyright (C) 2001,2002, 2006, 2007, 2008 Free Software Foundation, Inc.
+#
+# Mohammed Gamal <f2c2001@yahoo.com>, 2001.
+# Isam Bayazidi <bayazidi@arabeyes.org>, 2002.
+# محمد سعد  Mohamed SAAD <metehyi@free.fr>, 2006.
+# Youssef Chahibi <chahibi@gmail.com>, 2007.
+# zayed <zayed.alsaidi@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: webarchiver\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-23 11:42+0200\n"
+"PO-Revision-Date: 2008-12-30 20:33+0400\n"
+"Last-Translator: zayed <zayed.alsaidi@gmail.com>\n"
+"Language-Team: Arabic <linuxac-kde-arabic-team@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#. i18n: file: archiveviewbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
+#: archivedialog.cpp:151 rc.cpp:3
+msgid "Web Archiver"
+msgstr "مؤرشف الويب"
+
+#: archivedialog.cpp:161
+msgid "Status"
+msgstr "الحالة"
+
+#: archivedialog.cpp:162
+msgid "Url"
+msgstr "العنوان"
+
+#: archivedialog.cpp:230
+msgid "Unable to Open Web-Archive"
+msgstr "عاجز عن فتح مؤرشف الويب"
+
+#: archivedialog.cpp:231
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing."
+msgstr ""
+"غير قادر على فتح\n"
+" %1 \n"
+" للكتابة"
+
+#: archivedialog.cpp:362
+msgid "Downloading"
+msgstr "جاري التنزيل"
+
+#: archivedialog.cpp:383
+msgid "Error"
+msgstr "خطأ"
+
+#: archivedialog.cpp:383
+msgid "Ok"
+msgstr "موافق"
+
+#: archivedialog.cpp:411
+#, fuzzy, kde-format
+#| msgid "I/O error occured while writing to web archive file %1"
+msgid "I/O error occurred while writing to web archive file %1."
+msgstr "خطأ في الدخل/الخرج حدث عند كتابة ملف أرشيف الويب %1"
+
+#: plugin_webarchiver.cpp:58
+msgid "Archive &Web Page..."
+msgstr "أرشف صفحة الويب..."
+
+#: plugin_webarchiver.cpp:77
+msgid "Untitled"
+msgstr "بدون عنوان"
+
+#: plugin_webarchiver.cpp:94
+msgid "*.war *.tgz|Web Archives"
+msgstr "*.war *.tgz|محفوظات الشبكة"
+
+#: plugin_webarchiver.cpp:95
+msgid "Save Page as Web-Archive"
+msgstr "احفظ الصفحة كأرشيف ويب"
+
+#: plugin_webarchiver.cpp:100
+msgid "Invalid URL"
+msgstr "رابط العنوان غير صالح"
+
+#: plugin_webarchiver.cpp:101
+#, kde-format
+msgid ""
+"The URL\n"
+"%1\n"
+"is not valid."
+msgstr ""
+"رابط العنوان \n"
+"%1\n"
+"غير صالح."
+
+#: plugin_webarchiver.cpp:115
+msgid "File Exists"
+msgstr "الملف موجود"
+
+#: plugin_webarchiver.cpp:116
+#, kde-format
+msgid ""
+"Do you really want to overwrite:\n"
+"%1?"
+msgstr ""
+"هل أنت متأكد بأنك تريد الكتابة فوق: \n"
+"%1 ؟"
+
+#: plugin_webarchiver.cpp:117
+msgid "Overwrite"
+msgstr "الكتابة فوقه"
+
+#. i18n: file: archiveviewbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, targetLabel)
+#: rc.cpp:6
+msgid "Local File"
+msgstr "ملف محلي"
+
+#. i18n: file: archiveviewbase.ui:55
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:9
+msgid "To:"
+msgstr "إلى:"
+
+#. i18n: file: archiveviewbase.ui:65
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:12
+msgid "Archiving:"
+msgstr "الأرشفة:"
+
+#. i18n: file: archiveviewbase.ui:81
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#: rc.cpp:15
+msgid "Original URL"
+msgstr "العنوان الأصلي"
+
+#. i18n: file: archiveviewbase.ui:109
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:18
+msgid "1"
+msgstr "1"
+
+#. i18n: file: archiveviewbase.ui:114
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:21
+msgid "2"
+msgstr "2"
+
+#. i18n: file: plugin_webarchiver.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr "أ&دوات"
+
+#. i18n: file: plugin_webarchiver.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "شريط أدوات إضافي"

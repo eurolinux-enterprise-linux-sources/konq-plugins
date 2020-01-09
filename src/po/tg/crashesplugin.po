@@ -1,0 +1,51 @@
+# translation of crashesplugin.po to Tajik
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# 2004, infoDev, a World Bank organization
+# 2004, Khujand Computer Technologies, Inc.
+# 2004, Youth Opportunities NGO
+# Roger V Kovacs, <rkovacs@khujand.org>, 2004.
+# Victor Ibragimov <youth_opportunities@tajik.net>, 2004.
+# Marina Kolucheva <youth_opportunities@tajik.net>, 2004.
+# Akmal Vatanshoev <akmal_49@hotmail.com>,2004.
+# Victor Ibragimov <victor.ibragimov@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: crashesplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-08-25 09:12+0200\n"
+"PO-Revision-Date: 2009-06-02 14:39+0000\n"
+"Last-Translator: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
+"Language-Team: Tajik <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: crashesplugin.cpp:48
+msgid "&Crashes"
+msgstr "&Нуқсонҳо"
+
+#: crashesplugin.cpp:95 crashesplugin.cpp:119
+msgid "All Pages of This Crash"
+msgstr "Ҳамаи саҳифаҳои ин нуқсон"
+
+#: crashesplugin.cpp:125
+msgid "No Recovered Crashes"
+msgstr "Нуқсонҳои барқарорнашуда"
+
+#: crashesplugin.cpp:137
+msgid "&Clear List of Crashes"
+msgstr "&Тоза кардани рӯйхати нуқсонҳо"
+
+#. i18n: file: crashesplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Асбобҳо"
+
+#. i18n: file: crashesplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Панели асбобҳои иловагӣ"

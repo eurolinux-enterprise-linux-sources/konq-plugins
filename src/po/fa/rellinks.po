@@ -1,0 +1,236 @@
+# translation of rellinks.po to Persian
+# Nazanin Kazemi <kazemi@itland.ir>, 2006, 2007.
+# MaryamSadat Razavi <razavi@itland.ir>, 2006.
+# Tahereh Dadkhahfar <dadkhahfar@itland.ir>, 2006.
+# Nasim Daniarzadeh <daniarzadeh@itland.ir>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: rellinks\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2007-06-11 10:26+0330\n"
+"Last-Translator: Nazanin Kazemi <kazemi@itland.ir>\n"
+"Language-Team: Persian <kde-i18n-fa@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: plugin_rellinks.cpp:56
+msgid "Rellinks"
+msgstr ""
+
+#: plugin_rellinks.cpp:71
+msgid "&Top"
+msgstr "&بالا‌"
+
+#: plugin_rellinks.cpp:74
+msgid "<p>This link references a home page or the top of some hierarchy.</p>"
+msgstr "<p>این پیوند به صفحه آغازه، یا بالای چند سلسله مراتب برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:79
+msgid "&Up"
+msgstr "&بالا‌"
+
+#: plugin_rellinks.cpp:82
+msgid ""
+"<p>This link references the immediate parent of the current document.</p>"
+msgstr "<p>این پیوند، به پدر ضروری سند جاری برمی‌گردد. </p>"
+
+#: plugin_rellinks.cpp:89
+msgid "&First"
+msgstr "&اولین‌"
+
+#: plugin_rellinks.cpp:92
+msgid ""
+"<p>This link type tells search engines which document is considered by the "
+"author to be the starting point of the collection.</p>"
+msgstr ""
+"<p>این نوع پیوند، به موتور جستجو می‌گوید که برای نقطۀ آغاز مجموعه، کدام سند "
+"مورد نظر نویسنده می‌باشد.</p>"
+
+#: plugin_rellinks.cpp:97
+msgid "&Previous"
+msgstr "&قبلی‌"
+
+#: plugin_rellinks.cpp:101
+msgid ""
+"<p>This link references the previous document in an ordered series of "
+"documents.</p>"
+msgstr "<p>این پیوند، به سند قبلی در یک مجموعۀ مرتب از سندها برمی‌گردد. </p>"
+
+#: plugin_rellinks.cpp:105
+msgid "&Next"
+msgstr "&بعدی‌"
+
+#: plugin_rellinks.cpp:108
+msgid ""
+"<p>This link references the next document in an ordered series of documents."
+"</p>"
+msgstr "<p>این پیوند، به سند بعدی در یک مجموعۀ مرتب از سندها برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:113
+msgid "&Last"
+msgstr "&آخرین‌"
+
+#: plugin_rellinks.cpp:117
+msgid "<p>This link references the end of a sequence of documents.</p>"
+msgstr "<p>این پیوند، به انتهای دنباله‌ای از سندها برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:122
+msgid "&Search"
+msgstr "&جستجو‌"
+
+#: plugin_rellinks.cpp:125
+msgid "<p>This link references the search.</p>"
+msgstr "<p>این پیوند، به جستجو برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:130
+msgid "Document"
+msgstr "سند"
+
+#: plugin_rellinks.cpp:132
+msgid "<p>This menu contains the links referring the document information.</p>"
+msgstr "<p>این گزینگان شامل پیوندهایی است که به اطلاعات سند برمی‌گردند. </p>"
+
+#: plugin_rellinks.cpp:136
+msgid "Table of &Contents"
+msgstr "جدول &محتویات‌"
+
+#: plugin_rellinks.cpp:138
+msgid "<p>This link references the table of contents.</p>"
+msgstr "<p>این پیوند، به جدول محتویات برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:143
+msgid "Chapters"
+msgstr "فصلها"
+
+#: plugin_rellinks.cpp:148
+msgid "<p>This menu references the chapters of the document.</p>"
+msgstr "<p>این گزینگان، به فصلهای سند برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:151
+msgid "Sections"
+msgstr "بخشها"
+
+#: plugin_rellinks.cpp:157
+msgid "<p>This menu references the sections of the document.</p>"
+msgstr "<p>این گزینگان، به بخشهای سند برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:160
+msgid "Subsections"
+msgstr "زیربخشها"
+
+#: plugin_rellinks.cpp:165
+msgid "<p>This menu references the subsections of the document.</p>"
+msgstr "<p>این گزینگان، به زیربخشهای سند برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:168
+msgid "Appendix"
+msgstr "پیوست"
+
+#: plugin_rellinks.cpp:173
+msgid "<p>This link references the appendix.</p>"
+msgstr "<p>این فهرست، به پیوست برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:177
+msgid "&Glossary"
+msgstr "&واژه‌نامه‌"
+
+#: plugin_rellinks.cpp:180
+msgid "<p>This link references the glossary.</p>"
+msgstr "<p>این پیوند، به واژه‌نامه برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:185
+msgid "&Index"
+msgstr "&نمایه‌"
+
+#: plugin_rellinks.cpp:187
+msgid "<p>This link references the index.</p>"
+msgstr "<p>این پیوند، به نمایه برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:193
+msgid "More"
+msgstr "بیشتر"
+
+#: plugin_rellinks.cpp:195
+msgid "<p>This menu contains other important links.</p>"
+msgstr "<p>این گزینگان شامل سایر پیوندهای مهم می‌باشد.</p>"
+
+#: plugin_rellinks.cpp:199
+msgid "&Help"
+msgstr "&کمک‌"
+
+#: plugin_rellinks.cpp:202
+msgid "<p>This link references the help.</p>"
+msgstr "<p>این پیوند، به کمک برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:208
+msgid "&Authors"
+msgstr "&نویسنده‌"
+
+#: plugin_rellinks.cpp:211
+msgid "<p>This link references the author.</p>"
+msgstr "<p>این پیوند، به نویسنده برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:217
+msgid "Copy&right"
+msgstr "&حق نشر‌"
+
+#: plugin_rellinks.cpp:220
+msgid "<p>This link references the copyright.</p>"
+msgstr "<p>این پیوند، به حق نشر برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:225
+msgid "Bookmarks"
+msgstr "چوب الفها"
+
+#: plugin_rellinks.cpp:228
+msgid "<p>This menu references the bookmarks.</p>"
+msgstr "<p>این گزینگان، به چوب الفها برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:232
+msgid "Other Versions"
+msgstr "نسخه‌های دیگر"
+
+#: plugin_rellinks.cpp:235
+msgid "<p>This link references the alternate versions of this document.</p>"
+msgstr "<p>این پیوند، به نسخه‌های متفاوت این سند برمی‌گردد.</p>"
+
+#: plugin_rellinks.cpp:240
+msgid "Miscellaneous"
+msgstr "متفرقه"
+
+#: plugin_rellinks.cpp:243
+msgid "<p>Miscellaneous links.</p>"
+msgstr "<p>پیوندهای متفرقه.</p>"
+
+#: plugin_rellinks.cpp:471 plugin_rellinks.cpp:485
+#, kde-format
+msgid "[Autodetected] %1"
+msgstr "]آشکارسازی به طور خودکار[ %1"
+
+#. i18n: file: plugin_rellinks.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&ابزار‌"
+
+#. i18n: file: plugin_rellinks.rc:5
+#. i18n: ectx: Menu (rellinksMenu)
+#. i18n: file: plugin_rellinks.rc:21
+#. i18n: ectx: ToolBar (rellinksToolBar)
+#: rc.cpp:6 rc.cpp:9
+msgid "Document Relations"
+msgstr "روابط سند"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "نازنین کاظمی"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kazemi@itland.ir"

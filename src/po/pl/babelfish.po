@@ -1,0 +1,185 @@
+# translation of babelfish.po to
+# Version: $Revision: 1036476 $
+# Copyright (C) 2002, 2004, 2007 Free Software Foundation, Inc.
+#
+# Marcin Giedz <mgiedz@elka.pw.edu.pl>, 2002.
+# Mikolaj Machowski <mikmach@wp.pl>, 2004.
+# Marta Rybczyńska <kde-i18n@rybczynska.net>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: babelfish\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-17 07:03+0200\n"
+"PO-Revision-Date: 2007-12-28 23:28+0100\n"
+"Last-Translator: Marta Rybczyńska <kde-i18n@rybczynska.net>\n"
+"Language-Team:  <pl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#: plugin_babelfish.cpp:50
+msgid "Translate Web Page"
+msgstr "Przetłumacz stronę WWW"
+
+#: plugin_babelfish.cpp:60
+msgid "Translate Web &Page"
+msgstr "&Przetłumacz stronę www"
+
+#: plugin_babelfish.cpp:66
+msgid "&English To"
+msgstr "&Angielski na"
+
+#: plugin_babelfish.cpp:69
+msgid "&French To"
+msgstr "&Francuski na"
+
+#: plugin_babelfish.cpp:72
+msgid "&German To"
+msgstr "&Niemiecki na"
+
+#: plugin_babelfish.cpp:76
+msgid "&Spanish To"
+msgstr "&Hiszpański na"
+
+#: plugin_babelfish.cpp:80
+msgid "&Portuguese To"
+msgstr "&Portugalski na"
+
+#: plugin_babelfish.cpp:84
+msgid "&Italian To"
+msgstr "&Włoski na"
+
+#: plugin_babelfish.cpp:88
+msgid "&Dutch To"
+msgstr "&Holenderski na"
+
+#: plugin_babelfish.cpp:94
+msgid "&Chinese (Simplified)"
+msgstr "&Chiński (uproszczony)"
+
+#: plugin_babelfish.cpp:95
+msgid "Chinese (&Traditional)"
+msgstr "Chiński (&tradycyjny)"
+
+#: plugin_babelfish.cpp:96 plugin_babelfish.cpp:107
+msgid "&Dutch"
+msgstr "&Holenderski"
+
+#: plugin_babelfish.cpp:97 plugin_babelfish.cpp:114 plugin_babelfish.cpp:116
+#: plugin_babelfish.cpp:118 plugin_babelfish.cpp:120 plugin_babelfish.cpp:122
+msgid "&French"
+msgstr "&Francuski"
+
+#: plugin_babelfish.cpp:98 plugin_babelfish.cpp:109
+msgid "&German"
+msgstr "&Niemiecki"
+
+#: plugin_babelfish.cpp:99 plugin_babelfish.cpp:110
+msgid "&Italian"
+msgstr "&Włoski"
+
+#: plugin_babelfish.cpp:100
+msgid "&Japanese"
+msgstr "&Japoński"
+
+#: plugin_babelfish.cpp:101
+msgid "&Korean"
+msgstr "&Koreański"
+
+#: plugin_babelfish.cpp:102
+msgid "&Norwegian"
+msgstr "N&orweski"
+
+#: plugin_babelfish.cpp:103 plugin_babelfish.cpp:111
+msgid "&Portuguese"
+msgstr "&Portugalski"
+
+#: plugin_babelfish.cpp:104
+msgid "&Russian"
+msgstr "&Rosyjski"
+
+#: plugin_babelfish.cpp:105 plugin_babelfish.cpp:112
+msgid "&Spanish"
+msgstr "H&iszpański"
+
+#: plugin_babelfish.cpp:106
+msgid "T&hai"
+msgstr "Tajski"
+
+#: plugin_babelfish.cpp:108 plugin_babelfish.cpp:113 plugin_babelfish.cpp:115
+#: plugin_babelfish.cpp:117 plugin_babelfish.cpp:119 plugin_babelfish.cpp:121
+msgid "&English"
+msgstr "&Angielski"
+
+#: plugin_babelfish.cpp:123 plugin_babelfish.cpp:142
+msgid "&Chinese (Simplified) to English"
+msgstr "&Chiński (uproszczony) na angielski"
+
+#: plugin_babelfish.cpp:124 plugin_babelfish.cpp:147
+msgid "Chinese (&Traditional) to English"
+msgstr "Chiński (&tradycyjny) na angielski"
+
+#: plugin_babelfish.cpp:158
+msgid "&Japanese to English"
+msgstr "&Japoński na angielski"
+
+#: plugin_babelfish.cpp:163
+msgid "&Korean to English"
+msgstr "&Koreański na angielski"
+
+#: plugin_babelfish.cpp:170
+msgid "&Russian to English"
+msgstr "&Rosyjski na angielski"
+
+#: plugin_babelfish.cpp:214
+msgid "Cannot Translate Source"
+msgstr "Nie można przetłumaczyć źródła"
+
+#: plugin_babelfish.cpp:215
+msgid "Only web pages can be translated using this plugin."
+msgstr "Tylko strony www mogą być tłumaczone przy wykorzystaniu tej wtyczki."
+
+#: plugin_babelfish.cpp:261
+msgid "Only full webpages can be translated for this language pair."
+msgstr ""
+"Tylko pełne strony WWW mogą być tłumaczone przy wykorzystaniu tej pary "
+"języków."
+
+#: plugin_babelfish.cpp:261
+msgid "Translation Error"
+msgstr "Błąd tłumaczenia"
+
+#: plugin_babelfish.cpp:269
+msgid "Malformed URL"
+msgstr "Niepoprawny adres URL"
+
+#: plugin_babelfish.cpp:270
+msgid "The URL you entered is not valid, please correct it and try again."
+msgstr ""
+"Wprowadzony adres URL jest nieprawidłowy, proszę go poprawić i spróbować "
+"ponownie."
+
+#. i18n: file: plugin_babelfish.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Narzędzia"
+
+#. i18n: file: plugin_babelfish.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Dodatkowy pasek"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Mikołaj Machowski"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "mikmach@wp.pl"

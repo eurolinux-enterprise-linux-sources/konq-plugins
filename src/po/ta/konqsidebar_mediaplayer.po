@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_mediaplayer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2006-05-02 09:40+0200\n"
+"PO-Revision-Date: 2004-08-09 23:18--800\n"
+"Last-Translator: I. Felix <ifelix25@yahoo.co.in>\n"
+"Language-Team: TAMIL <tamilinix@yahoogroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: mediaplayer.cpp:67
+msgid "Media Player"
+msgstr "மீடியா பிளேயர் "
+
+#: mediawidget.cpp:66
+msgid "Play"
+msgstr "இயக்கு"
+
+#: mediawidget.cpp:67
+msgid "Pause"
+msgstr "இடை நிறுத்து"
+
+#: mediawidget.cpp:68
+msgid "Stop"
+msgstr ""
+
+#: mediawidget.cpp:136
+msgid "Not a sound file"
+msgstr "இது ஓலி கோப்பு இல்லை"

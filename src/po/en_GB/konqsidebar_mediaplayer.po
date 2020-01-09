@@ -1,0 +1,41 @@
+# translation of konqsidebar_mediaplayer.po to British English
+# Copyright (C) 2003, 2004 Free Software Foundation, Inc.
+#
+# Malcolm Hunter <malcolm.hunter@gmx.co.uk>, 2003, 2004.
+# Andrew Coles <andrew_coles@yahoo.co.uk>, 2004, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_mediaplayer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2006-05-02 09:40+0200\n"
+"PO-Revision-Date: 2009-03-10 11:40+0000\n"
+"Last-Translator: Andrew Coles <andrew_coles@yahoo.co.uk>\n"
+"Language-Team: British English <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: mediaplayer.cpp:67
+msgid "Media Player"
+msgstr "Media Player"
+
+#: mediawidget.cpp:66
+msgid "Play"
+msgstr "Play"
+
+#: mediawidget.cpp:67
+msgid "Pause"
+msgstr "Pause"
+
+#: mediawidget.cpp:68
+msgid "Stop"
+msgstr "Stop"
+
+#: mediawidget.cpp:136
+msgid "Not a sound file"
+msgstr "Not a sound file"
+
+#~ msgid "Form1"
+#~ msgstr "Form1"

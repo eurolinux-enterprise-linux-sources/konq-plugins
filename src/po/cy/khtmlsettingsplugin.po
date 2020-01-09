@@ -1,0 +1,111 @@
+# translation of khtmlsettingsplugin.po to Cymraeg
+# Bwrdd Gwaith yn Gymraeg.
+# Copyright (C) 2003, 2004 Free Software Foundation, Inc.
+# www.kyfieithu.co.uk<kyfieithu@dotmon.com>, www.gyfieithu.co.uk<kyfieithu@dotmon.com>, 2003.
+# KD at KGyfieithu <kyfieithu@dotmon.com>, 2004.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: khtmlsettingsplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-26 10:56+0100\n"
+"PO-Revision-Date: 2004-02-25 10:01+0000\n"
+"Last-Translator: KD at KGyfieithu <kyfieithu@dotmon.com>\n"
+"Language-Team: Cymraeg <cy@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.2\n"
+"\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: khtmlsettingsplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: khtmlsettingsplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Bar Offer Ychwanegol"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "KD wrth KGyfieithu"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kyfieithu@dotmon.com"
+
+#: settingsplugin.cpp:40 settingsplugin.cpp:52
+msgid "HTML Settings"
+msgstr "Gosodiadau HTML"
+
+#: settingsplugin.cpp:61
+msgid "Java&Script"
+msgstr "Java&Script"
+
+#: settingsplugin.cpp:66
+msgid "&Java"
+msgstr "&Java"
+
+#: settingsplugin.cpp:71
+msgid "&Cookies"
+msgstr "&Bisgedi"
+
+#: settingsplugin.cpp:76
+msgid "&Plugins"
+msgstr "&Ategion"
+
+#: settingsplugin.cpp:81
+msgid "Autoload &Images"
+msgstr "Hunan-lwytho &Delweddau"
+
+#: settingsplugin.cpp:88
+msgid "Enable Pro&xy"
+msgstr "Galluogi D&irprwy"
+
+#: settingsplugin.cpp:93
+msgid "Enable Cac&he"
+msgstr "Galluogi &Celc"
+
+#: settingsplugin.cpp:99
+msgid "Cache Po&licy"
+msgstr "&Polisi'r Celc"
+
+#: settingsplugin.cpp:101
+msgid "&Keep Cache in Sync"
+msgstr "Cadw'r Celc yn &Gyfoes"
+
+#: settingsplugin.cpp:102
+msgid "&Use Cache if Possible"
+msgstr "Defnyddio'r Celc os &Bosibl"
+
+#: settingsplugin.cpp:103
+msgid "&Offline Browsing Mode"
+msgstr "Modd &Pori All-lein"
+
+#: settingsplugin.cpp:187
+#, fuzzy
+#| msgid ""
+#| "I can't enable cookies, because the cookie daemon could not be started."
+msgid ""
+"Cookies could not be enabled, because the cookie daemon could not be started."
+msgstr "Fedra' i ddim alluogi bisgedi, am na ellir cychwyn ellyll y bisgedi."
+
+#: settingsplugin.cpp:189
+msgid "Cookies Disabled"
+msgstr "Analluogwyd Bisgedi"
+
+#, fuzzy
+#~ msgid "Disable Pro&xy"
+#~ msgstr "Galluogi D&irprwy"
+
+#, fuzzy
+#~ msgid "Disable Cac&he"
+#~ msgstr "Galluogi &Celc"

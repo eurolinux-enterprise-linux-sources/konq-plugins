@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# Mai Hao Hui <mhh@126.com>, 2001
+# Sarah Smith <sarahs@redhat.com>, 2004
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: babelfish\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-17 07:03+0200\n"
+"PO-Revision-Date: 2007-12-19 08:57+0800\n"
+"Last-Translator: Lie_Ex <lilith.ex@gmail.com>\n"
+"Language-Team: zh_CN <kde-china@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 0.9.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: plugin_babelfish.cpp:50
+msgid "Translate Web Page"
+msgstr "翻译网页"
+
+#: plugin_babelfish.cpp:60
+msgid "Translate Web &Page"
+msgstr "翻译网页(&P)"
+
+#: plugin_babelfish.cpp:66
+msgid "&English To"
+msgstr "英语译为(&E)"
+
+#: plugin_babelfish.cpp:69
+msgid "&French To"
+msgstr "法语译为(&F)"
+
+#: plugin_babelfish.cpp:72
+msgid "&German To"
+msgstr "德语译为(&G)"
+
+#: plugin_babelfish.cpp:76
+msgid "&Spanish To"
+msgstr "西班牙语译为(&S)"
+
+#: plugin_babelfish.cpp:80
+msgid "&Portuguese To"
+msgstr "葡萄牙语译为(&P)"
+
+#: plugin_babelfish.cpp:84
+msgid "&Italian To"
+msgstr "意大利语译为(&I)"
+
+#: plugin_babelfish.cpp:88
+msgid "&Dutch To"
+msgstr "荷兰语译为(&D)"
+
+#: plugin_babelfish.cpp:94
+msgid "&Chinese (Simplified)"
+msgstr "简体中文(&C)"
+
+#: plugin_babelfish.cpp:95
+msgid "Chinese (&Traditional)"
+msgstr "繁体中文(&T)"
+
+#: plugin_babelfish.cpp:96 plugin_babelfish.cpp:107
+msgid "&Dutch"
+msgstr "荷兰语(&D)"
+
+#: plugin_babelfish.cpp:97 plugin_babelfish.cpp:114 plugin_babelfish.cpp:116
+#: plugin_babelfish.cpp:118 plugin_babelfish.cpp:120 plugin_babelfish.cpp:122
+msgid "&French"
+msgstr "法语(&F)"
+
+#: plugin_babelfish.cpp:98 plugin_babelfish.cpp:109
+msgid "&German"
+msgstr "德语(&G)"
+
+#: plugin_babelfish.cpp:99 plugin_babelfish.cpp:110
+msgid "&Italian"
+msgstr "意大利语(&I)"
+
+#: plugin_babelfish.cpp:100
+msgid "&Japanese"
+msgstr "日语(&J)"
+
+#: plugin_babelfish.cpp:101
+msgid "&Korean"
+msgstr "朝鲜语(&K)"
+
+#: plugin_babelfish.cpp:102
+msgid "&Norwegian"
+msgstr "挪威语(&N)"
+
+#: plugin_babelfish.cpp:103 plugin_babelfish.cpp:111
+msgid "&Portuguese"
+msgstr "葡萄牙语(&P)"
+
+#: plugin_babelfish.cpp:104
+msgid "&Russian"
+msgstr "俄语(&R)"
+
+#: plugin_babelfish.cpp:105 plugin_babelfish.cpp:112
+msgid "&Spanish"
+msgstr "西班牙语(&S)"
+
+#: plugin_babelfish.cpp:106
+msgid "T&hai"
+msgstr "泰语(&H)"
+
+#: plugin_babelfish.cpp:108 plugin_babelfish.cpp:113 plugin_babelfish.cpp:115
+#: plugin_babelfish.cpp:117 plugin_babelfish.cpp:119 plugin_babelfish.cpp:121
+msgid "&English"
+msgstr "英语(&E)"
+
+#: plugin_babelfish.cpp:123 plugin_babelfish.cpp:142
+msgid "&Chinese (Simplified) to English"
+msgstr "简体中文译为英语(&C)"
+
+#: plugin_babelfish.cpp:124 plugin_babelfish.cpp:147
+msgid "Chinese (&Traditional) to English"
+msgstr "繁体中文译为英语(&T)"
+
+#: plugin_babelfish.cpp:158
+msgid "&Japanese to English"
+msgstr "日语译为英语(&J)"
+
+#: plugin_babelfish.cpp:163
+msgid "&Korean to English"
+msgstr "朝鲜语译为英语(&K)"
+
+#: plugin_babelfish.cpp:170
+msgid "&Russian to English"
+msgstr "俄语译为英语(&R)"
+
+#: plugin_babelfish.cpp:214
+msgid "Cannot Translate Source"
+msgstr "无法翻译源文件"
+
+#: plugin_babelfish.cpp:215
+msgid "Only web pages can be translated using this plugin."
+msgstr "只有网页才能用该插件来翻译。"
+
+#: plugin_babelfish.cpp:261
+msgid "Only full webpages can be translated for this language pair."
+msgstr "只有整个网页才能用这一对语言来翻译。"
+
+#: plugin_babelfish.cpp:261
+msgid "Translation Error"
+msgstr "翻译错误"
+
+#: plugin_babelfish.cpp:269
+msgid "Malformed URL"
+msgstr "格式异常的 URL"
+
+#: plugin_babelfish.cpp:270
+msgid "The URL you entered is not valid, please correct it and try again."
+msgstr "您输入的 URL 无效，请更正后再试。"
+
+#. i18n: file: plugin_babelfish.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "工具(&T)"
+
+#. i18n: file: plugin_babelfish.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "额外工具栏"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "KDE 中国"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kde-china@kde.org"

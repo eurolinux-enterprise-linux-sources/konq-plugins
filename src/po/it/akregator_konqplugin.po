@@ -1,0 +1,44 @@
+# translation of akregator_konqplugin.po to Italian
+# Luciano Montanaro <mikelima@cirulla.net>, 2005, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: akregator_konqplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-09-05 07:02+0200\n"
+"PO-Revision-Date: 2009-09-18 23:06+0200\n"
+"Last-Translator: Luciano Montanaro <mikelima@cirulla.net>\n"
+"Language-Team: Italian <kde-i18n-it@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: akregatorplugin.cpp:87 konqfeedicon.cpp:119
+msgid "Add Feed to Akregator"
+msgstr "Aggiungi fonte ad Akregator"
+
+#: konqfeedicon.cpp:123
+msgid "Add Feeds to Akregator"
+msgstr "Aggiungi fonti ad Akregator"
+
+#: konqfeedicon.cpp:133
+msgid "Add All Found Feeds to Akregator"
+msgstr "Aggiungi tutte le fonti trovate ad Akregator"
+
+#: konqfeedicon.cpp:156
+msgid "Subscribe to site updates (using news feed)"
+msgstr "Segui gli aggiornamenti del sito (usando la fonte di notizie)"
+
+#: konqfeedicon.cpp:202 pluginbase.cpp:54 pluginbase.cpp:64
+msgid "Imported Feeds"
+msgstr "Fonti importate"
+
+#: pluginbase.cpp:56
+msgid "Akregator feed icon - DBus Call failed"
+msgstr "Icona della fonte di Akregator – chiamata a DBus non riuscita"
+
+#: pluginbase.cpp:57
+msgid "The DBus call addFeedToGroup failed"
+msgstr "La chiamata ad addFeedToGroup di DBus non è andata a buon fine"

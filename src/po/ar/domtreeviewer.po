@@ -1,0 +1,453 @@
+# translation of domtreeviewer.po to Arabic
+# translation of domtreeviewer.po to
+# Copyright (C) 2002, 2004, 2006, 2007, 2008, 2009 Free Software Foundation, Inc.
+#
+# Mohammed Gamal <f2c2001@yahoo.com>, 2001, 2004.
+# Isam Bayazidi <bayazidi@arabeyes.org>, 2002.
+# محمد سعد  Mohamed SAAD <metehyi@free.fr>, 2006.
+# Youssef Chahibi <chahibi@gmail.com>, 2007.
+# zayed <zayed.alsaidi@gmail.com>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: domtreeviewer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-01 10:41+0100\n"
+"PO-Revision-Date: 2009-01-13 09:16+0400\n"
+"Last-Translator: zayed <zayed.alsaidi@gmail.com>\n"
+"Language-Team: Arabic <linuxac-kde-arabic-team@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"\n"
+
+#: domtreecommands.cpp:33
+msgid "No error"
+msgstr "لا خطأ"
+
+#: domtreecommands.cpp:34
+msgid "Index size exceeded"
+msgstr "تعدى حجم المفهرس "
+
+#: domtreecommands.cpp:35
+msgid "DOMString size exceeded"
+msgstr "تعدى حجم DOMString "
+
+#: domtreecommands.cpp:36
+msgid "Hierarchy request error"
+msgstr "خطأ طلب شجري"
+
+#: domtreecommands.cpp:37
+msgid "Wrong document"
+msgstr "مستند خاطئ"
+
+#: domtreecommands.cpp:38
+msgid "Invalid character"
+msgstr "مِحرف غير صالح"
+
+#: domtreecommands.cpp:39
+msgid "No data allowed"
+msgstr "البيانات غير مسموحة"
+
+#: domtreecommands.cpp:40
+msgid "No modification allowed"
+msgstr "التغيرات غير مسموحة"
+
+#: domtreecommands.cpp:41
+msgid "Not found"
+msgstr "غير موجود"
+
+#: domtreecommands.cpp:42
+msgid "Not supported"
+msgstr "غير مدعوم"
+
+#: domtreecommands.cpp:43
+msgid "Attribute in use"
+msgstr "الصفة في الاستعمال"
+
+#: domtreecommands.cpp:44
+msgid "Invalid state"
+msgstr "حالة غير صالحة"
+
+#: domtreecommands.cpp:45
+msgid "Syntax error"
+msgstr "خطأ بنيوي"
+
+#: domtreecommands.cpp:46
+msgid "Invalid modification"
+msgstr "تعديلات غير صالحة"
+
+#: domtreecommands.cpp:47
+msgid "Namespace error"
+msgstr "خطأ فضاء تسمية"
+
+#: domtreecommands.cpp:48
+msgid "Invalid access"
+msgstr "نفاذ غير صالح"
+
+#: domtreecommands.cpp:56
+#, kde-format
+msgid "Unknown Exception %1"
+msgstr "استثناء مجهول %1"
+
+#: domtreecommands.cpp:296
+msgid "Add attribute"
+msgstr "أضف صفة"
+
+#: domtreecommands.cpp:326
+msgid "Change attribute value"
+msgstr "غيّر قيمة صفة"
+
+#: domtreecommands.cpp:357
+msgid "Remove attribute"
+msgstr "أزل صفة"
+
+#: domtreecommands.cpp:389
+msgid "Rename attribute"
+msgstr "أعد تسمية صفة"
+
+#: domtreecommands.cpp:425
+msgid "Change textual content"
+msgstr "غيّر محتوى نصية"
+
+#: domtreecommands.cpp:487
+msgid "Insert node"
+msgstr "أدرج عقدة"
+
+#: domtreecommands.cpp:515
+msgid "Remove node"
+msgstr "أزل عقدة"
+
+#: domtreecommands.cpp:561
+msgid "Move node"
+msgstr "انقل عقدة"
+
+#: domtreeview.cpp:70
+msgid "Edit Element"
+msgstr "حرر عنصر"
+
+#: domtreeview.cpp:72 domtreeview.cpp:92
+msgid "&Append as Child"
+msgstr "ال&حق كابن"
+
+#: domtreeview.cpp:73 domtreeview.cpp:93
+msgid "Insert &Before Current"
+msgstr "أدرج &قبل الحالي"
+
+#: domtreeview.cpp:90
+msgid "Edit Text"
+msgstr "حرر النص"
+
+#: domtreeview.cpp:110
+msgid "Edit Attribute"
+msgstr "حرر  الصفة"
+
+#: domtreeview.cpp:172
+#, kde-format
+msgid "DOM Tree for %1"
+msgstr "شجرة DOM ل%1"
+
+#. i18n: file: domtreeviewbase.ui:115
+#. i18n: ectx: property (text), widget (QTreeWidget, m_listView)
+#: domtreeview.cpp:172 rc.cpp:18
+msgid "DOM Tree"
+msgstr "شجرة DOM"
+
+#: domtreeview.cpp:513
+msgid "Move Nodes"
+msgstr "انقل العقد"
+
+#: domtreeview.cpp:579
+msgid "Save DOM Tree as HTML"
+msgstr "حفظ شجرة DOM كHTML"
+
+#: domtreeview.cpp:584
+msgid "File Exists"
+msgstr "الملف موجود"
+
+#: domtreeview.cpp:585
+#, kde-format
+msgid ""
+"Do you really want to overwrite: \n"
+"%1?"
+msgstr ""
+"هل أنت متأكد بأنك تريد إعادة الكتابة على: \n"
+"%1؟"
+
+#: domtreeview.cpp:586
+msgid "Overwrite"
+msgstr "اكتب فوقه"
+
+#: domtreeview.cpp:599
+msgid "Unable to Open File"
+msgstr "تعذر فتح الملف"
+
+#: domtreeview.cpp:600
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing"
+msgstr ""
+"لم أتمكن من فتح \n"
+" %1 \n"
+"للكتابة"
+
+#: domtreeview.cpp:604
+msgid "Invalid URL"
+msgstr "عنوان غير موجود"
+
+#: domtreeview.cpp:605
+#, kde-format
+msgid ""
+"This URL \n"
+" %1 \n"
+" is not valid."
+msgstr ""
+"هذا العنوان \n"
+"%1 \n"
+"غير موجود"
+
+#: domtreeview.cpp:822
+msgid "Delete Nodes"
+msgstr "احذف العقد"
+
+#: domtreeview.cpp:1033
+msgid "<Click to add>"
+msgstr "<انقر لتضيف>"
+
+#: domtreeview.cpp:1365
+msgid "Delete Attributes"
+msgstr "احذف الصفات"
+
+#: domtreewindow.cpp:62
+msgid "Message Log"
+msgstr "سجل الرسالة"
+
+#: domtreewindow.cpp:161
+msgid "Pure DOM Tree"
+msgstr "شجرة DOM خالصة"
+
+#: domtreewindow.cpp:167
+msgid "Show DOM Attributes"
+msgstr "اظهر صفات DOM"
+
+#: domtreewindow.cpp:174
+msgid "Highlight HTML"
+msgstr "أبرز HTML"
+
+#: domtreewindow.cpp:182
+msgid "Show Message Log"
+msgstr "اعرض سجل الرسالة"
+
+#: domtreewindow.cpp:194
+msgid "Expand"
+msgstr "وسع"
+
+#: domtreewindow.cpp:197
+msgid "Increase expansion level"
+msgstr "زد مستوى التوسيع"
+
+#: domtreewindow.cpp:200
+msgid "Collapse"
+msgstr "اطوّ"
+
+#: domtreewindow.cpp:203
+msgid "Decrease expansion level"
+msgstr "انقص مستوى التوسيع"
+
+#: domtreewindow.cpp:209 domtreewindow.cpp:227
+msgid "&Delete"
+msgstr "ا&حذف"
+
+#: domtreewindow.cpp:212
+msgid "Delete nodes"
+msgstr "احذف العقد"
+
+#: domtreewindow.cpp:217
+msgid "New &Element..."
+msgstr "&عنصر جديد..."
+
+#: domtreewindow.cpp:221
+msgid "New &Text Node..."
+msgstr "ع&قدة نص جديدة..."
+
+#: domtreewindow.cpp:230
+msgid "Delete attributes"
+msgstr "احذف الصفات"
+
+#: plugin_domtreeviewer.cpp:24
+msgid "Show &DOM Tree"
+msgstr "`&عرض شجرة DOM"
+
+#. i18n: file: attributeeditwidget.ui:24
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:3
+msgid "Attribute &name:"
+msgstr "ا&إس الصفةم:"
+
+#. i18n: file: attributeeditwidget.ui:42
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:6
+msgid "Attribute &value:"
+msgstr "&قيمة الصّفة:"
+
+#. i18n: file: domtreeviewbase.ui:19
+#. i18n: ectx: property (windowTitle), widget (QWidget, DOMTreeViewBase)
+#: rc.cpp:9
+msgid "DOM Tree Viewer"
+msgstr "عارض شجرة DOM"
+
+#. i18n: file: domtreeviewbase.ui:61
+#. i18n: ectx: property (text), widget (KPushButton, messageListBtn)
+#: rc.cpp:12
+msgid "&List"
+msgstr "ا&سرد"
+
+#. i18n: file: domtreeviewbase.ui:92
+#. i18n: ectx: property (text), widget (KPushButton, messageHideBtn)
+#: rc.cpp:15
+msgid "H&ide"
+msgstr "ا&خف"
+
+#. i18n: file: domtreeviewbase.ui:127
+#. i18n: ectx: attribute (title), widget (QWidget, domTab)
+#: rc.cpp:21
+msgid "DOM Node"
+msgstr "عقدة DOM"
+
+#. i18n: file: domtreeviewbase.ui:138
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: rc.cpp:24
+msgid "Node &value:"
+msgstr "قيمة الع&قدة:"
+
+#. i18n: file: domtreeviewbase.ui:151
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: rc.cpp:27
+msgid "Node &type:"
+msgstr " نو العقدةع:"
+
+#. i18n: file: domtreeviewbase.ui:164
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:30
+msgid "Namespace &URI:"
+msgstr "ع&نوان فضاء التسمية:"
+
+#. i18n: file: domtreeviewbase.ui:177
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:33
+msgid "Node &name:"
+msgstr "ا&سم العقدة:"
+
+#. i18n: file: domtreeviewbase.ui:249
+#. i18n: ectx: property (text), widget (QTreeWidget, nodeAttributes)
+#: rc.cpp:36
+msgid "Name"
+msgstr "الاسم"
+
+#. i18n: file: domtreeviewbase.ui:254
+#. i18n: ectx: property (text), widget (QTreeWidget, nodeAttributes)
+#. i18n: file: domtreeviewbase.ui:344
+#. i18n: ectx: property (text), widget (QTreeWidget, cssProperties)
+#: rc.cpp:39 rc.cpp:51
+msgid "Value"
+msgstr "القيمة"
+
+#. i18n: file: domtreeviewbase.ui:287
+#. i18n: ectx: property (text), widget (QPushButton, applyContent)
+#: rc.cpp:42
+msgid "Appl&y"
+msgstr "&طبق"
+
+#. i18n: file: domtreeviewbase.ui:320
+#. i18n: ectx: attribute (title), widget (QWidget, cssTab)
+#: rc.cpp:45
+msgid "Computed Style"
+msgstr "الأسلوب المحسوب"
+
+#. i18n: file: domtreeviewbase.ui:339
+#. i18n: ectx: property (text), widget (QTreeWidget, cssProperties)
+#: rc.cpp:48
+msgid "Property"
+msgstr "الخاصية"
+
+#. i18n: file: domtreeviewbase.ui:353
+#. i18n: ectx: attribute (title), widget (QWidget, styleSheetsTab)
+#: rc.cpp:54
+msgid "Stylesheets"
+msgstr "أوراق الأسلوب"
+
+#. i18n: file: domtreeviewbase.ui:366
+#. i18n: ectx: property (text), widget (QTreeWidget, styleSheetsTree)
+#: rc.cpp:57
+msgid "1"
+msgstr "1"
+
+#. i18n: file: domtreeviewerui.rc:4
+#. i18n: ectx: Menu (file)
+#: rc.cpp:60
+msgid "&File"
+msgstr "&ملف"
+
+#. i18n: file: domtreeviewerui.rc:6
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:63
+msgid "&Edit"
+msgstr "&حرر"
+
+#. i18n: file: domtreeviewerui.rc:8
+#. i18n: ectx: Menu (view)
+#: rc.cpp:66
+msgid "&View"
+msgstr "ا&عرض"
+
+#. i18n: file: domtreeviewerui.rc:19
+#. i18n: ectx: Menu (go)
+#: rc.cpp:69
+msgid "&Go"
+msgstr "ا&نطلق"
+
+#. i18n: file: domtreeviewerui.rc:23
+#. i18n: ectx: ToolBar (mainToolBar)
+#: rc.cpp:72
+msgid "Main Toolbar"
+msgstr "شريط الأدوات الرئيسي"
+
+#. i18n: file: domtreeviewerui.rc:25
+#. i18n: ectx: ToolBar (treeToolBar)
+#: rc.cpp:75
+msgid "Tree Toolbar"
+msgstr "شريط الأدوات الشجرة"
+
+#. i18n: file: elementeditwidget.ui:24
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:78
+msgid "Element &name:"
+msgstr "اسم ال&عنصر:"
+
+#. i18n: file: elementeditwidget.ui:47
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:81
+msgid "Element &namespace:"
+msgstr "اسم &فضاء العنصر:"
+
+#. i18n: file: plugin_domtreeviewer.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:84
+msgid "&Tools"
+msgstr "أ&دوات"
+
+#. i18n: file: plugin_domtreeviewer.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:87
+msgid "Extra Toolbar"
+msgstr "شريط أدوات جديد"
+
+#. i18n: file: texteditwidget.ui:19
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:90
+msgid "Edit &text for text node:"
+msgstr "حرر ن&ص للعقدة نص:"

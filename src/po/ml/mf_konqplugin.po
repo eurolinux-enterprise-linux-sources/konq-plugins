@@ -1,0 +1,33 @@
+# Translation of mf_konqplugin.po to Malayalam
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# Prasad.S.R <saysprasad@gmail.com>, 2008
+# This file is distributed under the same license as the mf_konqplugin package.
+# Reviewed by Praveen Arimbrathodiyil <pravi.a@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: mf_konqplugin trunk\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-03-01 18:16+0100\n"
+"PO-Revision-Date: 2008-05-07 14:15+0530\n"
+"Last-Translator: Prasad.S.R <saysprasad@gmail.com>\n"
+"Language-Team: Malayalam <Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|"
+"കമ്പ്യൂട്ടിങ്ങ് <smcdiscuss@googlegroups.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: konqmficon.cpp:267
+msgid "Microformats"
+msgstr "മൈക്രോഫോര്‍മാറ്റ്"
+
+#: konqmficon.cpp:281
+msgid "Import All Microformats"
+msgstr "എല്ലാ മൈക്രോഫോര്‍മാറ്റുകളും എടുക്കുക"
+
+#: konqmficon.cpp:303
+#, kde-format
+msgid "This site has a microformat entry"
+msgid_plural "This site has %1 microformat entries"
+msgstr[0] "ഈ സൈറ്റില്‍ ഒരു മൈക്രോഫോര്‍മാറ്റ് ഉണ്ടു്"
+msgstr[1] "ഈ സൈറ്റില്‍  %1 മൈക്രോഫോര്‍മാറ്റുകള്‍ ഉണ്ടു്"

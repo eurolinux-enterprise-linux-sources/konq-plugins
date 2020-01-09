@@ -1,0 +1,31 @@
+# translation of mf_konqplugin.po to Uzbek
+#
+# Abdurahmonov Nurali <mavnur@gmail.com>, 2006.
+# Mashrab Kuvatov <kmashrab@uni-bremen.de>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: mf_konqplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-03-01 18:16+0100\n"
+"PO-Revision-Date: 2006-04-02 10:08+0200\n"
+"Last-Translator: Mashrab Kuvatov <kmashrab@uni-bremen.de>\n"
+"Language-Team: Uzbek <floss-uz-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: konqmficon.cpp:267
+msgid "Microformats"
+msgstr "Mikroformatlar"
+
+#: konqmficon.cpp:281
+msgid "Import All Microformats"
+msgstr "Hamma mikroformatlarni import qilish"
+
+#: konqmficon.cpp:303
+#, fuzzy, kde-format
+msgid "This site has a microformat entry"
+msgid_plural "This site has %1 microformat entries"
+msgstr[0] "Ushbu sahifada bitta mikroformat bor"

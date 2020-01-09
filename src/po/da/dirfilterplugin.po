@@ -1,0 +1,77 @@
+# Danish translation of dirfilterplugin
+# Copyright (C).
+#
+# Erik Kjær Pedersen <erik@binghamton.edu>, 2001,2002,2003, 2005.
+# Martin Schlander <mschlander@opensuse.org>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: dirfilterplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2008-03-31 16:24+0200\n"
+"Last-Translator: Martin Schlander <mschlander@opensuse.org>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: LoKalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "Vis &filter"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr "Tillad at filtrere de viste punkter efter filtype."
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr "Filterfelt"
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "Vis kun punkter af type"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "Brug flere filtre"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "Vis tæller"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "Nulstil"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "Værk&tøjer"
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Ekstra-værktøjslinje"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "Filter-værktøjslinje"
+
+#~ msgid "Clear Filter Field"
+#~ msgstr "Ryd filterfelt"
+
+#~ msgid "Clear filter field<p>Clears the content of the filter field.</p>"
+#~ msgstr "Ryd filterfelt<p>Rydder indholdet af filterfeltet.</p>"
+
+#~ msgid ""
+#~ "Enter here a text which an item in the view must contain anywhere to be "
+#~ "shown."
+#~ msgstr ""
+#~ "Indtast en tekst her som et punkt skal indeholde et eller andet sted for "
+#~ "at blive vist."

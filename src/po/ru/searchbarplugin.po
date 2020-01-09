@@ -1,0 +1,80 @@
+# translation of searchbarplugin.po into Russian
+#
+# Gregory Mokhin <mok@kde.ru>, 2005.
+# Nick Shaforostoff <shafff@ukr.net>, 2006.
+# Artem Sereda <overmind88@gmail.com>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: searchbarplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-11 06:35+0200\n"
+"PO-Revision-Date: 2009-09-21 23:41+0300\n"
+"Last-Translator: Artem Sereda <overmind88@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. i18n: file: searchbar.rc:3
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:3
+msgid "Search Toolbar"
+msgstr "Панель инструментов поиска"
+
+#: searchbar.cpp:82
+msgid ""
+"Search Bar<p>Enter a search term. Click on the icon to change search mode or "
+"provider.</p>"
+msgstr ""
+"Панель поиска <p>Введите текст для поиска. Нажмите на значок чтобы выбрать "
+"службу поиска или изменить настройки поиска.</p>"
+
+#: searchbar.cpp:90
+msgid "Search Bar"
+msgstr "Панель поиска"
+
+#: searchbar.cpp:95
+msgid "Focus Searchbar"
+msgstr "Перейти на панель поиска"
+
+#: searchbar.cpp:318
+msgid "Find in This Page"
+msgstr "Найти на странице"
+
+#: searchbar.cpp:347
+msgid "Select Search Engines..."
+msgstr "Службы поиска..."
+
+#: searchbar.cpp:367
+msgid "Add "
+msgstr "Добавить"
+
+#: searchbar.cpp:631
+msgid "Enable Suggestion"
+msgstr "Включить подсказки"
+
+#: WebShortcutWidget.cpp:43
+msgid "Set Uri Shortcuts"
+msgstr "Включить сокращение URI"
+
+#: WebShortcutWidget.cpp:57
+msgid "Name:"
+msgstr "Название:"
+
+#: WebShortcutWidget.cpp:61
+msgid "Shortcuts:"
+msgstr "Сокращение:"
+
+#: WebShortcutWidget.cpp:71
+msgid "Ok"
+msgstr "ОК"
+
+#: WebShortcutWidget.cpp:76
+msgid "Cancel"
+msgstr "Отменить"
+
+#~ msgid "%1 Search"
+#~ msgstr "Поиск \"%1\""

@@ -1,0 +1,380 @@
+# translation of fsview.po to Frysk
+# translation of fsview.po to
+# Copyright (C) 2003, 2004, 2005, 2007 Free Software Foundation, Inc.
+#
+# Rinse de Vries <rinse@kde.nl>, 2003, 2004.
+# Wilbert Berendsen <wbsoft@xs4all.nl>, 2003.
+# Rinse de Vries <rinsedevries@kde.nl>, 2005, 2007.
+# Rinse de Vries <RinseDeVries@home.nl>, 2005.
+msgid ""
+msgstr ""
+"Project-Id-Version: fsview\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-11-01 06:25+0100\n"
+"PO-Revision-Date: 2007-08-04 21:06+0200\n"
+"Last-Translator: Rinse de Vries <rinsedevries@kde.nl>\n"
+"Language-Team: Frysk <kde-i18n-fry@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: fsview.cpp:52 fsview.cpp:390
+msgid "Name"
+msgstr "Namme"
+
+#: fsview.cpp:53
+msgid "Size"
+msgstr "Grutte"
+
+#: fsview.cpp:54
+msgid "File Count"
+msgstr "Oantal triemmen"
+
+#: fsview.cpp:55
+msgid "Directory Count"
+msgstr "Oantal mappen"
+
+#: fsview.cpp:56
+msgid "Last Modified"
+msgstr "Lêst feroare"
+
+#: fsview.cpp:57 fsview.cpp:391
+msgid "Owner"
+msgstr "Eigner"
+
+#: fsview.cpp:58 fsview.cpp:392
+msgid "Group"
+msgstr "Groep"
+
+#: fsview.cpp:59 fsview.cpp:393
+msgid "Mime Type"
+msgstr "Mime-triemtype"
+
+#: fsview.cpp:281
+msgid "Go To"
+msgstr "&Gean nei"
+
+#: fsview.cpp:283
+msgid "Go Up"
+msgstr "Omheech"
+
+#: fsview.cpp:285
+msgid "Stop Refresh"
+msgstr "Ferfarskjen stopje"
+
+#: fsview.cpp:287
+msgid "Refresh"
+msgstr "Ferfarskje"
+
+#: fsview.cpp:290
+#, kde-format
+msgid "Refresh '%1'"
+msgstr "'%1' ferfarskje"
+
+#: fsview.cpp:293 fsview_part.cpp:131
+msgid "Stop at Depth"
+msgstr "Stopje by djipte"
+
+#: fsview.cpp:295 fsview_part.cpp:128
+msgid "Stop at Area"
+msgstr "Stopje by gebiet"
+
+#: fsview.cpp:297
+msgid "Stop at Name"
+msgstr "Stopje by namme"
+
+#: fsview.cpp:303 fsview_part.cpp:138
+msgid "Color Mode"
+msgstr "Kleuremodus"
+
+#: fsview.cpp:306 fsview_part.cpp:134
+msgid "Visualization"
+msgstr "Fisualisaasje"
+
+#: fsview.cpp:388
+msgid "None"
+msgstr "Gjin"
+
+#: fsview.cpp:389
+msgid "Depth"
+msgstr "Djipte"
+
+#: fsview_part.cpp:82
+#, kde-format
+msgid "Read 1 folder, in %2"
+msgid_plural "Read %1 folders, in %2"
+msgstr[0] "%1 map lêzen, yn %2"
+msgstr[1] "%1 mappen lêzen, yn %2"
+
+#: fsview_part.cpp:87
+#, kde-format
+msgid "1 folder"
+msgid_plural "%1 folders"
+msgstr[0] "%1 map"
+msgstr[1] "%1 mappen"
+
+#: fsview_part.cpp:96 main.cpp:21
+msgid "FSView"
+msgstr "FSView"
+
+#: fsview_part.cpp:97
+msgid "Filesystem Utilization Viewer"
+msgstr "Werjefte Triemsysteem"
+
+#: fsview_part.cpp:99
+msgid "(c) 2003-2005, Josef Weidendorfer"
+msgstr "(c) 2002-2005, Josef Weidendorfer"
+
+#: fsview_part.cpp:112
+msgid ""
+"<p>This is the FSView plugin, a graphical browsing mode showing filesystem "
+"utilization by using a tree map visualization.</p><p>Note that in this mode, "
+"automatic updating when filesystem changes are made is intentionally <b>not</"
+"b> done.</p><p>For details on usage and options available, see the online "
+"help under menu 'Help/FSView Manual'.</p>"
+msgstr ""
+"<p>Dit is de FSView-plugin, en dizze jout fisueel oan hoe't it triemsysteem "
+"brûkt wurdt. Grote triemmen wurde as gruttere rjochthoeken werjûn. </"
+"p><p>Opmerking: yn dizze modus wurdt it skerm net hieltiten automatysk "
+"bywurke as der triemmen wiske of taheakkke wurde.</p><p>Foar mear "
+"ynformaasje oer it brûken en de beskikbere opsjes, rieplachtsje de online "
+"helpynformaasje ûnder menu 'Help->FSView-hânboek'.</p>"
+
+#: fsview_part.cpp:144
+msgid "&FSView Manual"
+msgstr "&FSView-hânboek"
+
+#: fsview_part.cpp:146
+msgid "Show FSView manual"
+msgstr "FSView-hantlieding toane"
+
+#: fsview_part.cpp:147
+msgid "Opens the help browser with the FSView documentation"
+msgstr "Iepent de KDE-helpblêder mei de FSView-dokumintaasje"
+
+#: fsview_part.cpp:187
+msgctxt "@action:inmenu File"
+msgid "Move to Trash"
+msgstr ""
+
+#: fsview_part.cpp:195
+msgctxt "@action:inmenu File"
+msgid "Delete"
+msgstr ""
+
+#: fsview_part.cpp:200
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr ""
+
+#: fsview_part.cpp:204
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr ""
+
+#: fsview_part.cpp:245
+msgid ""
+"FSView intentionally does not support automatic updates when changes are "
+"made to files or directories, currently visible in FSView, from the "
+"outside.\n"
+"For details, see the 'Help/FSView Manual'."
+msgstr ""
+"FSView wurket mei opsetsin de mapwerjefte net automatysk by lykas oare "
+"programma's de mappen of triemmen wizigje.\n"
+"Rieplachtsje foar mear ynformaasje de hantlieding ûnder menu 'Help'."
+
+#: main.cpp:22
+msgid "Filesystem Viewer"
+msgstr "Triemsysteemwerjefte"
+
+#: main.cpp:24
+msgid "(c) 2002, Josef Weidendorfer"
+msgstr "(c) 2002, Josef Weidendorfer"
+
+#: main.cpp:28
+msgid "View filesystem starting from this folder"
+msgstr "Triemsysteem werjaan fan dizze map ôf"
+
+#. i18n: file: fsview_part.rc:4
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:3
+msgid "&Edit"
+msgstr ""
+
+#. i18n: file: fsview_part.rc:13
+#. i18n: ectx: Menu (view)
+#: rc.cpp:6
+msgid "&View"
+msgstr "Byl&d"
+
+#. i18n: file: fsview_part.rc:20
+#. i18n: ectx: Menu (help)
+#: rc.cpp:9
+msgid "&Help"
+msgstr "&Help"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Douwe"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr " "
+
+#: treemap.cpp:1328
+#, kde-format
+msgid "Text %1"
+msgstr "Tekst %1"
+
+#: treemap.cpp:2860
+msgid "Recursive Bisection"
+msgstr "Rekursive biseksje"
+
+#: treemap.cpp:2861
+msgid "Columns"
+msgstr "Kolommen"
+
+#: treemap.cpp:2862
+msgid "Rows"
+msgstr "Rigen"
+
+#: treemap.cpp:2863
+msgid "Always Best"
+msgstr "Altyd bêste"
+
+#: treemap.cpp:2864
+msgid "Best"
+msgstr "Bêste"
+
+#: treemap.cpp:2865
+msgid "Alternate (V)"
+msgstr "Alternatyf (V)"
+
+#: treemap.cpp:2866
+msgid "Alternate (H)"
+msgstr "Alternatyf (H)"
+
+#: treemap.cpp:2867
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+#: treemap.cpp:2868
+msgid "Vertical"
+msgstr "Fertikaal"
+
+# Hoe sille wy mei nesting oan?
+#: treemap.cpp:2923
+msgid "Nesting"
+msgstr "Nestele"
+
+#: treemap.cpp:2925
+msgid "Border"
+msgstr "Râne"
+
+#: treemap.cpp:2926
+msgid "Correct Borders Only"
+msgstr "Allinnich rânen ferbetterje"
+
+#: treemap.cpp:2928 treemap.cpp:2929 treemap.cpp:2930 treemap.cpp:2931
+#, kde-format
+msgid "Width %1"
+msgstr "Breedte %1"
+
+#: treemap.cpp:2938
+msgid "Allow Rotation"
+msgstr "Rotaasje tastean"
+
+#: treemap.cpp:2940
+msgid "Shading"
+msgstr "Oprôlje"
+
+#: treemap.cpp:2953
+msgid "Visible"
+msgstr "Sichtber"
+
+#: treemap.cpp:2954
+msgid "Take Space From Children"
+msgstr "Romte fan subitems brûke"
+
+#: treemap.cpp:2956
+msgid "Top Left"
+msgstr "Loftsboppe"
+
+#: treemap.cpp:2957
+msgid "Top Center"
+msgstr "Middenboppe"
+
+#: treemap.cpp:2958
+msgid "Top Right"
+msgstr "Rjochtsboppe"
+
+#: treemap.cpp:2959
+msgid "Bottom Left"
+msgstr "Loftsûnder"
+
+#: treemap.cpp:2960
+msgid "Bottom Center"
+msgstr "Middenûnder"
+
+#: treemap.cpp:2961
+msgid "Bottom Right"
+msgstr "Rjochtsûnder"
+
+#: treemap.cpp:3038
+#, kde-format
+msgid "No %1 Limit"
+msgstr "Gjin limyt foar %1"
+
+#: treemap.cpp:3090
+msgid "No Area Limit"
+msgstr "Gjin gebietslimyt"
+
+#: treemap.cpp:3096
+#, kde-format
+msgid "Area of '%1' (%2)"
+msgstr "Gebiet fan '%1' (%2)"
+
+#: treemap.cpp:3107 treemap.cpp:3118
+#, kde-format
+msgid "1 Pixel"
+msgid_plural "%1 Pixels"
+msgstr[0] "%1 piksel"
+msgstr[1] "%1 piksels"
+
+#: treemap.cpp:3122
+#, kde-format
+msgid "Double Area Limit (to %1)"
+msgstr "Gebietslimyt ferdûbelje (nei %1)"
+
+#: treemap.cpp:3124
+#, kde-format
+msgid "Halve Area Limit (to %1)"
+msgstr "Gebietslimyt midstroch (nei %1)"
+
+#: treemap.cpp:3155
+msgid "No Depth Limit"
+msgstr "Gjin djiptelimyt"
+
+#: treemap.cpp:3161
+#, kde-format
+msgid "Depth of '%1' (%2)"
+msgstr "Djipte fan '%1' (%2)"
+
+#: treemap.cpp:3172 treemap.cpp:3183
+#, kde-format
+msgid "Depth %1"
+msgstr "Djipte %1"
+
+#: treemap.cpp:3187
+#, kde-format
+msgid "Decrement (to %1)"
+msgstr "Ferminderje (oant %1)"
+
+#: treemap.cpp:3189
+#, kde-format
+msgid "Increment (to %1)"
+msgstr "Fermearderje (oant %1)"

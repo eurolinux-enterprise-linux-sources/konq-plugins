@@ -1,0 +1,94 @@
+# translation of uachangerplugin.po to Cymraeg
+# KD at KGyfieithu <kyfieithu@dotmon.com>, 2004.
+msgid ""
+msgstr ""
+"Project-Id-Version: uachangerplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-05-05 11:29+0200\n"
+"PO-Revision-Date: 2004-02-27 11:38+0000\n"
+"Last-Translator: KD at KGyfieithu <kyfieithu@dotmon.com>\n"
+"Language-Team: Cymraeg <cy@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: uachangerplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: uachangerplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Bar Offer Ychwanegol"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "KD wrth KGyfieithu"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kyfieithu@dotmon.com"
+
+#: uachangerplugin.cpp:47
+msgid "Change Browser Identification"
+msgstr "Newid Dynodiad Porydd"
+
+#: uachangerplugin.cpp:63
+msgid "Change Browser &Identification"
+msgstr "Newid Dynodiad &Porydd"
+
+#: uachangerplugin.cpp:133
+msgid "Other"
+msgstr "Arall"
+
+#: uachangerplugin.cpp:164
+#, fuzzy, kde-format
+#| msgid "Version %1"
+msgctxt "%1 = browser version (e.g. 2.0)"
+msgid "Version %1"
+msgstr "Fersiwn %1"
+
+#: uachangerplugin.cpp:167
+#, kde-format
+msgctxt "%1 = browser name, %2 = browser version (e.g. Firefox, 2.0)"
+msgid "%1 %2"
+msgstr ""
+
+#: uachangerplugin.cpp:173
+#, fuzzy, kde-format
+#| msgid "Version %1"
+msgctxt "%1 = browser version, %2 = platform (e.g. 2.0, Windows XP)"
+msgid "Version %1 on %2"
+msgstr "Fersiwn %1"
+
+#: uachangerplugin.cpp:176
+#, kde-format
+msgctxt ""
+"%1 = browser name, %2 = browser version, %3 = platform (e.g. Firefox, 2.0, "
+"Windows XP)"
+msgid "%1 %2 on %3"
+msgstr ""
+
+#: uachangerplugin.cpp:232
+#, fuzzy
+msgid "Identify As"
+msgstr "Dynodi Fel:"
+
+#: uachangerplugin.cpp:238
+msgid "Default Identification"
+msgstr "Dynodiadau Rhagosod"
+
+#: uachangerplugin.cpp:266
+msgid "Apply to Entire Site"
+msgstr "Gwethredu i'r Safwe Cyfan"
+
+#: uachangerplugin.cpp:271
+msgid "Configure..."
+msgstr "Ffurfweddu..."

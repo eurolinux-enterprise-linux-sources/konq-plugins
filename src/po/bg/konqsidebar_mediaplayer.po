@@ -1,0 +1,40 @@
+# translation of konqsidebar_mediaplayer.po to български
+# Bulgarian translation of KDE.
+# This file is licensed under the GPL.
+#
+# $Id: konqsidebar_mediaplayer.po 716526 2007-09-24 20:42:10Z pino $
+#
+# Aleksandar Yordanov <punkin.drublik@gmail.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_mediaplayer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2006-05-02 09:40+0200\n"
+"PO-Revision-Date: 2007-07-08 23:58+0300\n"
+"Last-Translator: Aleksandar Yordanov <punkin.drublik@gmail.com>\n"
+"Language-Team: български <mailto:dict@fsa-bg.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: mediaplayer.cpp:67
+msgid "Media Player"
+msgstr "Медия плеър"
+
+#: mediawidget.cpp:66
+msgid "Play"
+msgstr "Старт"
+
+#: mediawidget.cpp:67
+msgid "Pause"
+msgstr "Пауза"
+
+#: mediawidget.cpp:68
+msgid "Stop"
+msgstr "Спиране"
+
+#: mediawidget.cpp:136
+msgid "Not a sound file"
+msgstr "Форматът на файла не е аудио"

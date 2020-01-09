@@ -1,0 +1,366 @@
+<?xml version="1.0" ?>
+<!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.2-Based Variant V1.1//EN"
+"dtd/kdex.dtd" [
+<!ENTITY % addindex "IGNORE">
+<!ENTITY % Ukrainian "INCLUDE"
+> <!-- change language only here -->
+]>
+
+<article lang="&language;">
+
+<sect1 id="kimgalleryplugin">
+<sect1info>
+
+<authorgroup>
+<author
+><firstname
+>Mike</firstname
+> <surname
+>Diehl</surname
+> <affiliation
+><address
+><email
+>madpenguin8@yahoo.com</email
+></address
+></affiliation>
+</author>
+
+<othercredit role="translator"
+><firstname
+>Юрій</firstname
+><surname
+>Чорноіван</surname
+><affiliation
+><address
+><email
+>yurchor@ukr.net</email
+></address
+></affiliation
+><contrib
+>Переклад українською</contrib
+></othercredit
+>  
+</authorgroup>
+<date
+>24.02.2006</date
+> <releaseinfo
+>3.00.00</releaseinfo
+> <abstract
+> <para
+>За допомогою додатка галереї зображень до &konqueror; можна створювати сторінки html галерей зображень на основі зображень з вибраного каталогу.</para>
+</abstract>
+
+<keywordset>
+<keyword
+>KDE</keyword>
+<keyword
+>kdeaddons</keyword>
+<keyword
+>konqueror</keyword>
+<keyword
+>додатки</keyword>
+</keywordset>
+
+</sect1info>
+
+<title
+>Додаток «Галерея зображень»</title>
+
+<sect2>
+<title
+>Користування додатком «Галерея зображень»</title>
+
+<para
+>Доступ до додатка галереї зображень можна отримати за допомогою смужки меню &konqueror;, зокрема пункту <menuchoice
+><guimenu
+>Інструменти</guimenu
+> <guimenuitem
+>Створити галерею зображень</guimenuitem
+></menuchoice
+>, або за допомогою комбінації клавіш <keycombo
+>&Ctrl;<keycap
+>I</keycap
+></keycombo
+>.</para>
+
+<para
+>Після запуску додатка галерей зображень буде відкрито діалогове вікно, за допомогою якого ви зможете налаштувати спосіб, у який буде створено галерею.</para>
+</sect2>
+</sect1>
+
+<sect1 id="page_look_dialog">
+<title
+>Вигляд сторінки</title>
+
+<screenshot>
+<screeninfo
+>Знімок діалогового вікна вигляду</screeninfo>
+<mediaobject>
+<imageobject>
+<imagedata fileref="look.png" format="PNG"/>
+</imageobject>
+<textobject>
+<phrase
+>Знімок вікна</phrase>
+</textobject>
+</mediaobject>
+</screenshot>
+
+<para
+>За допомогою діалогового вікна «Вигляд» ви зможете налаштувати вигляд сторінки галереї.</para>
+
+<variablelist>
+
+<varlistentry>
+<term
+><guimenuitem
+>Заголовок сторінки</guimenuitem
+></term>
+<listitem
+><para
+>Пункт «Заголовок сторінки» призначено для зміни заголовка сторінки галереї зображень. Ви можете ввести новий заголовок до поля для введення тексту.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Зображень на рядок</guimenuitem
+></term>
+<listitem
+><para
+>Під пунктом «Зображень на рядок» розташовано повзунок та поле лічильника, за допомогою яких ви можете налаштувати кількість мініатюр, які буде показано у одному рядку галереї.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Показувати назву файла зображення</guimenuitem
+></term>
+<listitem
+><para
+>За допомогою позначення пункту «Показувати назву файла» ви можете увімкнути показ назв файлів під мініатюрами галереї.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Показувати розмір файла зображення</guimenuitem
+></term>
+<listitem
+><para
+>За допомогою позначення пункту «Показувати розмір файла зображення» ви можете увімкнути показ розмірів файлів зображень під мініатюрами галереї.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Показувати розміри зображення</guimenuitem
+></term>
+<listitem
+><para
+>За допомогою позначення пункту «Показувати розміри зображення» ви можете увімкнути показ розмірів зображення у пікселях під мініатюрами галереї.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Назва шрифту</guimenuitem
+></term>
+<listitem
+><para
+>За допомогою спадного списку «Назва шрифту» ви можете обрати шрифт, який буде використано під час створення галереї.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Розмір шрифту</guimenuitem
+></term>
+<listitem
+><para
+>Поле лічильника «Розмір шрифту» призначено для зміни розміру обраного вами шрифту.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Колір написів</guimenuitem
+></term>
+<listitem
+><para
+>Поряд з написом «Колір напису» розташовано елемент вибору кольору переднього плану у галереї, зокрема, кольору тексту написів.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Колір тла</guimenuitem
+></term>
+<listitem
+><para
+>Поряд з написом «Колір тла» розташовано елемент вибору кольору тла галереї.</para
+></listitem>
+</varlistentry>
+
+</variablelist>
+</sect1>
+
+<sect1 id="folders_dialog">
+<title
+>Теки</title>
+
+<screenshot>
+<screeninfo
+>Знімок діалогового вікна тек</screeninfo>
+<mediaobject>
+<imageobject>
+<imagedata fileref="folders.png" format="PNG"/>
+</imageobject>
+<textobject>
+<phrase
+>Знімок вікна</phrase>
+</textobject>
+</mediaobject>
+</screenshot>
+
+
+<para
+>Діалогове вікно тек призначено для вибору теки, куди буде збережено галерею. Цим діалоговим вікном можна також скористатися для налаштування тек, які буде використано для роботи додатка.</para>
+
+<variablelist>
+
+<varlistentry>
+<term
+><guimenuitem
+>Зберегти до HTML-файла</guimenuitem
+></term>
+<listitem
+><para
+>За допомогою інструменту вибору файла для збереження ви можете вказати додатку, де ви бажаєте зберегти html-сторінку вашої галереї.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Підтеки рекурсивно</guimenuitem
+></term>
+<listitem
+><para
+>За допомогою пункту «Підтеки рекурсивно» ви можете наказати додатку провести рекурсивний пошук у підтеках. Якщо цей пункт буде позначено, ви зможете встановити за допомогою повзунка та поля лічильника, розташованих нижче, глибину рекурсії.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Копіювати початкові файли</guimenuitem
+></term>
+<listitem
+><para
+>За допомогою позначення пункту «Копіювати початкові файли» ви можете наказати додатку створити теку зображень, де зберігатимуться копії початкових зображень, використаних для створення галереї.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Використовувати файл коментарів</guimenuitem
+></term>
+<listitem
+><para
+>За допомогою позначення пункту «Використовувати файл коментарів» можна увімкнути інструмент для вибору файла, де знаходяться коментарі до вашої галереї.</para
+></listitem>
+</varlistentry>
+
+</variablelist>
+</sect1>
+
+<sect1 id="thumbnails_dialog">
+<title
+>Мініатюри</title>
+
+<screenshot>
+<screeninfo
+>Знімок діалогового вікна мініатюр</screeninfo>
+<mediaobject>
+<imageobject>
+<imagedata fileref="thumbnails.png" format="PNG"/>
+</imageobject>
+<textobject>
+<phrase
+>Знімок вікна</phrase>
+</textobject>
+</mediaobject>
+</screenshot>
+
+<para
+>Діалогове вікно «Мініатюри» призначено для налаштування властивостей мініатюр вашої галереї.</para>
+
+<variablelist>
+
+<varlistentry>
+<term
+><guimenuitem
+>Формат зображення для мініатюр</guimenuitem
+></term>
+<listitem
+><para
+>За допомогою спадного списку формату зображень ви можете обрати формат зображень, який буде використано для створення мініатюр.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Розмір мініатюри</guimenuitem
+></term>
+<listitem
+><para
+>Поряд з написом «Розмір мініатюри» розташовано повзунок і лічильник, за допомогою яких можна визначити розмір мініатюр, які буде використано для створення галереї.</para
+></listitem>
+</varlistentry>
+
+<varlistentry>
+<term
+><guimenuitem
+>Встановити іншу глибину кольору</guimenuitem
+></term>
+<listitem
+><para
+>Позначення пункту «Встановити іншу глибину кольору» надасть вам доступ до спадного списку, за допомогою якого ви зможете обрати глибину кольорів для ваших мініатюр, якщо ви бажаєте змінити цю глибину порівняно з глибиною кольорів, використаною для створення початкового зображення.</para
+></listitem>
+</varlistentry>
+
+</variablelist>
+
+<sect2>
+<title
+>Подяки</title>
+
+<para
+>Авторські права на програму належать &copy; 2001,2003 Lukas Tinkl <email
+>lukas@kde.org</email
+></para>
+<para
+>Andreas Schlapbach <email
+>schlpbch@iam.unibe.ch</email
+></para>
+
+<para
+>Авторські права на документацію належать © 2004 Mike Diehl <email
+>madpenguin8@yahoo.com</email
+></para>
+</sect2>
+
+</sect1>
+
+</article>

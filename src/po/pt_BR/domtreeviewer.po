@@ -1,0 +1,449 @@
+# tradução do domtreeviewer.po para Brazilian Portuguese
+# Copyright (C) 2002,2003, 2005, 2007, 2008, 2009 Free Software Foundation, Inc.
+#
+# Lisiane Sztoltz <lisiane@conectiva.com.br>, 2002,2003.
+# Henrique Pinto <henrique.pinto@kdemail.net>, 2005.
+# Diniz Bortolotto <diniz.bortolotto@gmail.com>, 2007.
+# André Marcelo Alvarenga <andrealvarenga@gmx.net>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: domtreeviewer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-01 10:41+0100\n"
+"PO-Revision-Date: 2009-07-09 21:53-0300\n"
+"Last-Translator: André Marcelo Alvarenga <andrealvarenga@gmx.net>\n"
+"Language-Team: Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: domtreecommands.cpp:33
+msgid "No error"
+msgstr "Nenhum erro"
+
+#: domtreecommands.cpp:34
+msgid "Index size exceeded"
+msgstr "O tamanho do índice foi excedido"
+
+#: domtreecommands.cpp:35
+msgid "DOMString size exceeded"
+msgstr "O tamanho da DOMString foi excedido"
+
+#: domtreecommands.cpp:36
+msgid "Hierarchy request error"
+msgstr "Erro na requisição de hierarquia"
+
+#: domtreecommands.cpp:37
+msgid "Wrong document"
+msgstr "Documento errado"
+
+#: domtreecommands.cpp:38
+msgid "Invalid character"
+msgstr "Caractere inválido"
+
+#: domtreecommands.cpp:39
+msgid "No data allowed"
+msgstr "Dados não são permitidos"
+
+#: domtreecommands.cpp:40
+msgid "No modification allowed"
+msgstr "Modificações não são permitidas"
+
+#: domtreecommands.cpp:41
+msgid "Not found"
+msgstr "Não encontrado"
+
+#: domtreecommands.cpp:42
+msgid "Not supported"
+msgstr "Não suportado"
+
+#: domtreecommands.cpp:43
+msgid "Attribute in use"
+msgstr "Atributos em uso"
+
+#: domtreecommands.cpp:44
+msgid "Invalid state"
+msgstr "Estado inválido"
+
+#: domtreecommands.cpp:45
+msgid "Syntax error"
+msgstr "Erro de sintaxe"
+
+#: domtreecommands.cpp:46
+msgid "Invalid modification"
+msgstr "Modificação inválida"
+
+#: domtreecommands.cpp:47
+msgid "Namespace error"
+msgstr "Erro no namespace"
+
+#: domtreecommands.cpp:48
+msgid "Invalid access"
+msgstr "Acesso inválido"
+
+#: domtreecommands.cpp:56
+#, kde-format
+msgid "Unknown Exception %1"
+msgstr "Exceção desconhecida %1"
+
+#: domtreecommands.cpp:296
+msgid "Add attribute"
+msgstr "Adicionar atributo"
+
+#: domtreecommands.cpp:326
+msgid "Change attribute value"
+msgstr "Mudar o valor do atributo"
+
+#: domtreecommands.cpp:357
+msgid "Remove attribute"
+msgstr "Remover atributo"
+
+#: domtreecommands.cpp:389
+msgid "Rename attribute"
+msgstr "Renomear atributo"
+
+#: domtreecommands.cpp:425
+msgid "Change textual content"
+msgstr "Mudar conteúdo textual"
+
+#: domtreecommands.cpp:487
+msgid "Insert node"
+msgstr "Inserir nó"
+
+#: domtreecommands.cpp:515
+msgid "Remove node"
+msgstr "Remover nó"
+
+#: domtreecommands.cpp:561
+msgid "Move node"
+msgstr "Mover nó"
+
+#: domtreeview.cpp:70
+msgid "Edit Element"
+msgstr "Editar elemento"
+
+#: domtreeview.cpp:72 domtreeview.cpp:92
+msgid "&Append as Child"
+msgstr "&Adicionar como filho"
+
+#: domtreeview.cpp:73 domtreeview.cpp:93
+msgid "Insert &Before Current"
+msgstr "Inserir antes do a&tual"
+
+#: domtreeview.cpp:90
+msgid "Edit Text"
+msgstr "Editar texto"
+
+#: domtreeview.cpp:110
+msgid "Edit Attribute"
+msgstr "Editar atributo"
+
+#: domtreeview.cpp:172
+#, kde-format
+msgid "DOM Tree for %1"
+msgstr "Árvore DOM para %1"
+
+#. i18n: file: domtreeviewbase.ui:115
+#. i18n: ectx: property (text), widget (QTreeWidget, m_listView)
+#: domtreeview.cpp:172 rc.cpp:18
+msgid "DOM Tree"
+msgstr "Árvore DOM"
+
+#: domtreeview.cpp:513
+msgid "Move Nodes"
+msgstr "Mover nós"
+
+#: domtreeview.cpp:579
+msgid "Save DOM Tree as HTML"
+msgstr "Salvar árvore DOM como HTML"
+
+#: domtreeview.cpp:584
+msgid "File Exists"
+msgstr "O arquivo existe"
+
+#: domtreeview.cpp:585
+#, kde-format
+msgid ""
+"Do you really want to overwrite: \n"
+"%1?"
+msgstr ""
+"Deseja realmente sobrescrever: \n"
+"%1?"
+
+#: domtreeview.cpp:586
+msgid "Overwrite"
+msgstr "Sobrescrever"
+
+#: domtreeview.cpp:599
+msgid "Unable to Open File"
+msgstr "Não foi possível abrir o arquivo"
+
+#: domtreeview.cpp:600
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing"
+msgstr ""
+"Não foi possível abrir \n"
+" %1 \n"
+" para gravação"
+
+#: domtreeview.cpp:604
+msgid "Invalid URL"
+msgstr "URL inválido"
+
+#: domtreeview.cpp:605
+#, kde-format
+msgid ""
+"This URL \n"
+" %1 \n"
+" is not valid."
+msgstr ""
+"Este URL \n"
+" %1 \n"
+" não é válido."
+
+#: domtreeview.cpp:822
+msgid "Delete Nodes"
+msgstr "Excluir nós"
+
+#: domtreeview.cpp:1033
+msgid "<Click to add>"
+msgstr "<Clique para adicionar>"
+
+#: domtreeview.cpp:1365
+msgid "Delete Attributes"
+msgstr "Excluir atributos"
+
+#: domtreewindow.cpp:62
+msgid "Message Log"
+msgstr "Log de mensagens"
+
+#: domtreewindow.cpp:161
+msgid "Pure DOM Tree"
+msgstr "Árvore DOM pura"
+
+#: domtreewindow.cpp:167
+msgid "Show DOM Attributes"
+msgstr "Exibir os atributos DOM"
+
+#: domtreewindow.cpp:174
+msgid "Highlight HTML"
+msgstr "Realçar HTML"
+
+#: domtreewindow.cpp:182
+msgid "Show Message Log"
+msgstr "Exibir log de mensagens"
+
+#: domtreewindow.cpp:194
+msgid "Expand"
+msgstr "Expandir"
+
+#: domtreewindow.cpp:197
+msgid "Increase expansion level"
+msgstr "Aumentar nível de expansão"
+
+#: domtreewindow.cpp:200
+msgid "Collapse"
+msgstr "Recolher"
+
+#: domtreewindow.cpp:203
+msgid "Decrease expansion level"
+msgstr "Diminuir o nível de expansão"
+
+#: domtreewindow.cpp:209 domtreewindow.cpp:227
+msgid "&Delete"
+msgstr "E&xcluir"
+
+#: domtreewindow.cpp:212
+msgid "Delete nodes"
+msgstr "Excluir nós"
+
+#: domtreewindow.cpp:217
+msgid "New &Element..."
+msgstr "Novo &elemento..."
+
+#: domtreewindow.cpp:221
+msgid "New &Text Node..."
+msgstr "Novo nó de &texto..."
+
+#: domtreewindow.cpp:230
+msgid "Delete attributes"
+msgstr "Excluir atributos"
+
+#: plugin_domtreeviewer.cpp:24
+msgid "Show &DOM Tree"
+msgstr "Exibir árvore &DOM"
+
+#. i18n: file: attributeeditwidget.ui:24
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:3
+msgid "Attribute &name:"
+msgstr "&Nome do atributo:"
+
+#. i18n: file: attributeeditwidget.ui:42
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:6
+msgid "Attribute &value:"
+msgstr "&Valor do atributo:"
+
+#. i18n: file: domtreeviewbase.ui:19
+#. i18n: ectx: property (windowTitle), widget (QWidget, DOMTreeViewBase)
+#: rc.cpp:9
+msgid "DOM Tree Viewer"
+msgstr "Visualizador de árvore DOM"
+
+#. i18n: file: domtreeviewbase.ui:61
+#. i18n: ectx: property (text), widget (KPushButton, messageListBtn)
+#: rc.cpp:12
+msgid "&List"
+msgstr "&Listar"
+
+#. i18n: file: domtreeviewbase.ui:92
+#. i18n: ectx: property (text), widget (KPushButton, messageHideBtn)
+#: rc.cpp:15
+msgid "H&ide"
+msgstr "&Ocultar"
+
+#. i18n: file: domtreeviewbase.ui:127
+#. i18n: ectx: attribute (title), widget (QWidget, domTab)
+#: rc.cpp:21
+msgid "DOM Node"
+msgstr "Nó DOM"
+
+#. i18n: file: domtreeviewbase.ui:138
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_3)
+#: rc.cpp:24
+msgid "Node &value:"
+msgstr "&Valor do nó:"
+
+#. i18n: file: domtreeviewbase.ui:151
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2_2)
+#: rc.cpp:27
+msgid "Node &type:"
+msgstr "&Tipo do nó:"
+
+#. i18n: file: domtreeviewbase.ui:164
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:30
+msgid "Namespace &URI:"
+msgstr "&URI do namespace:"
+
+#. i18n: file: domtreeviewbase.ui:177
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:33
+msgid "Node &name:"
+msgstr "&Nome do nó:"
+
+#. i18n: file: domtreeviewbase.ui:249
+#. i18n: ectx: property (text), widget (QTreeWidget, nodeAttributes)
+#: rc.cpp:36
+msgid "Name"
+msgstr "Nome"
+
+#. i18n: file: domtreeviewbase.ui:254
+#. i18n: ectx: property (text), widget (QTreeWidget, nodeAttributes)
+#. i18n: file: domtreeviewbase.ui:344
+#. i18n: ectx: property (text), widget (QTreeWidget, cssProperties)
+#: rc.cpp:39 rc.cpp:51
+msgid "Value"
+msgstr "Valor"
+
+#. i18n: file: domtreeviewbase.ui:287
+#. i18n: ectx: property (text), widget (QPushButton, applyContent)
+#: rc.cpp:42
+msgid "Appl&y"
+msgstr "Apl&icar"
+
+#. i18n: file: domtreeviewbase.ui:320
+#. i18n: ectx: attribute (title), widget (QWidget, cssTab)
+#: rc.cpp:45
+msgid "Computed Style"
+msgstr "Estilo computado"
+
+#. i18n: file: domtreeviewbase.ui:339
+#. i18n: ectx: property (text), widget (QTreeWidget, cssProperties)
+#: rc.cpp:48
+msgid "Property"
+msgstr "Propriedade"
+
+#. i18n: file: domtreeviewbase.ui:353
+#. i18n: ectx: attribute (title), widget (QWidget, styleSheetsTab)
+#: rc.cpp:54
+msgid "Stylesheets"
+msgstr "Folhas de estilo"
+
+#. i18n: file: domtreeviewbase.ui:366
+#. i18n: ectx: property (text), widget (QTreeWidget, styleSheetsTree)
+#: rc.cpp:57
+msgid "1"
+msgstr "1"
+
+#. i18n: file: domtreeviewerui.rc:4
+#. i18n: ectx: Menu (file)
+#: rc.cpp:60
+msgid "&File"
+msgstr "&Arquivo"
+
+#. i18n: file: domtreeviewerui.rc:6
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:63
+msgid "&Edit"
+msgstr "&Editar"
+
+#. i18n: file: domtreeviewerui.rc:8
+#. i18n: ectx: Menu (view)
+#: rc.cpp:66
+msgid "&View"
+msgstr "E&xibir"
+
+#. i18n: file: domtreeviewerui.rc:19
+#. i18n: ectx: Menu (go)
+#: rc.cpp:69
+msgid "&Go"
+msgstr "&Ir"
+
+#. i18n: file: domtreeviewerui.rc:23
+#. i18n: ectx: ToolBar (mainToolBar)
+#: rc.cpp:72
+msgid "Main Toolbar"
+msgstr "Barra de ferramentas principal"
+
+#. i18n: file: domtreeviewerui.rc:25
+#. i18n: ectx: ToolBar (treeToolBar)
+#: rc.cpp:75
+msgid "Tree Toolbar"
+msgstr "Barra de ferramentas de árvore"
+
+#. i18n: file: elementeditwidget.ui:24
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:78
+msgid "Element &name:"
+msgstr "&Nome do elemento:"
+
+#. i18n: file: elementeditwidget.ui:47
+#. i18n: ectx: property (text), widget (QLabel, textLabel2)
+#: rc.cpp:81
+msgid "Element &namespace:"
+msgstr "&Namespace do elemento:"
+
+#. i18n: file: plugin_domtreeviewer.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:84
+msgid "&Tools"
+msgstr "Ferramen&tas"
+
+#. i18n: file: plugin_domtreeviewer.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:87
+msgid "Extra Toolbar"
+msgstr "Barra de ferramentas extra"
+
+#. i18n: file: texteditwidget.ui:19
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:90
+msgid "Edit &text for text node:"
+msgstr "Editar &texto para o nó de texto:"

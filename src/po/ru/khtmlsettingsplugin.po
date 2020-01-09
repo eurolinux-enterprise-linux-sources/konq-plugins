@@ -1,0 +1,107 @@
+# KDE3 - khtmlsettingsplugin.pot Russian translation.
+# KDE3 - kdeaddons/khtmlsettingsplugin.po Russian translation.
+# Copyright (C) 2004, KDE Team.
+#
+# Alex Miller <asm@som.kiev.ua>, 2001.
+# Nick Shafff <linux@l10n.org.ua>, 2004.
+# Nickolai Shaforostoff <shafff@ukr.net>, 2004.
+# Artem Sereda <overmind88@gmail.com>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: khtmlsettingsplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-26 10:56+0100\n"
+"PO-Revision-Date: 2009-04-23 22:04+0300\n"
+"Last-Translator: Artem Sereda <overmind88@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. i18n: file: khtmlsettingsplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "С&ервис"
+
+#. i18n: file: khtmlsettingsplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Дополнительная панель инструментов"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Николай Шафоростов"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "shafff@ukr.net"
+
+#: settingsplugin.cpp:40 settingsplugin.cpp:52
+msgid "HTML Settings"
+msgstr "Параметры HTML"
+
+#: settingsplugin.cpp:61
+msgid "Java&Script"
+msgstr "Java&Script"
+
+#: settingsplugin.cpp:66
+msgid "&Java"
+msgstr "&Java"
+
+#: settingsplugin.cpp:71
+msgid "&Cookies"
+msgstr "&Cookies"
+
+#: settingsplugin.cpp:76
+msgid "&Plugins"
+msgstr "&Модули"
+
+#: settingsplugin.cpp:81
+msgid "Autoload &Images"
+msgstr "&Автоматическая загрузка изображений"
+
+#: settingsplugin.cpp:88
+msgid "Enable Pro&xy"
+msgstr "&Использовать прокси"
+
+#: settingsplugin.cpp:93
+msgid "Enable Cac&he"
+msgstr "Использовать &кэш"
+
+#: settingsplugin.cpp:99
+msgid "Cache Po&licy"
+msgstr "Пр&авила кэширования"
+
+#: settingsplugin.cpp:101
+msgid "&Keep Cache in Sync"
+msgstr "&Всегда обновлять кэш"
+
+#: settingsplugin.cpp:102
+msgid "&Use Cache if Possible"
+msgstr "Исп&ользовать кэш, если это возможно"
+
+#: settingsplugin.cpp:103
+msgid "&Offline Browsing Mode"
+msgstr "А&втономный режим работы"
+
+#: settingsplugin.cpp:187
+msgid ""
+"Cookies could not be enabled, because the cookie daemon could not be started."
+msgstr "Cookie недоступны, так как демон cookie не запущен."
+
+#: settingsplugin.cpp:189
+msgid "Cookies Disabled"
+msgstr "Cookie запрещены"
+
+#~ msgid "Disable Pro&xy"
+#~ msgstr "&Не использовать прокси-сервер"
+
+#~ msgid "Disable Cac&he"
+#~ msgstr "Не использовать &кэш"

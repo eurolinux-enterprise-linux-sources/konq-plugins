@@ -1,0 +1,247 @@
+# translation of imgalleryplugin.po to Romanian
+# Copyright (C) 2004 Free Software Foundation, Inc.
+#
+# Claudiu Costin <claudiuc@kde.org>, 2004.
+# Sergiu Bivol <sergiu@ase.md>, 2008, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: imgalleryplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2009-02-08 12:57+0200\n"
+"Last-Translator: Sergiu Bivol <sergiu@ase.md>\n"
+"Language-Team: Romanian <kde-i18n-ro@lists.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > "
+"0 && n%100 < 20)) ? 1 : 2;\n"
+
+#: imgallerydialog.cpp:53
+msgid "Configure"
+msgstr "Configurează"
+
+#: imgallerydialog.cpp:61
+msgid "Create Image Gallery"
+msgstr "Creează galerie de imagini"
+
+#: imgallerydialog.cpp:62
+msgid "Create"
+msgstr "Creează"
+
+#: imgallerydialog.cpp:72 imgallerydialog.cpp:113
+#, kde-format
+msgid "Image Gallery for %1"
+msgstr "Galerie de imagini pentru %1"
+
+#: imgallerydialog.cpp:99
+msgid "Look"
+msgstr "Aspect"
+
+#: imgallerydialog.cpp:100
+msgid "Page Look"
+msgstr "Aspect pagină"
+
+#: imgallerydialog.cpp:110
+msgid "&Page title:"
+msgstr "Titlu &pagină:"
+
+#: imgallerydialog.cpp:120
+msgid "I&mages per row:"
+msgstr "I&magini pe linie:"
+
+#: imgallerydialog.cpp:128
+msgid "Show image file &name"
+msgstr "Arată &nume fișier imagine"
+
+#: imgallerydialog.cpp:132
+msgid "Show image file &size"
+msgstr "Adaugă mărime fișier imagine"
+
+#: imgallerydialog.cpp:136
+msgid "Show image &dimensions"
+msgstr "Adaugă &dimensiuni imagine"
+
+#: imgallerydialog.cpp:149
+msgid "Fon&t name:"
+msgstr "Nume fon&t:"
+
+#: imgallerydialog.cpp:161
+msgid "Font si&ze:"
+msgstr "&Mărime font:"
+
+#: imgallerydialog.cpp:173
+msgid "&Foreground color:"
+msgstr "Culoare te&xt:"
+
+#: imgallerydialog.cpp:185
+msgid "&Background color:"
+msgstr "Culoare de f&undal:"
+
+#: imgallerydialog.cpp:196 imgallerydialog.cpp:197
+msgid "Folders"
+msgstr "Dosare"
+
+#: imgallerydialog.cpp:206
+msgid "&Save to HTML file:"
+msgstr "&Salvează în fișier HTML:"
+
+#: imgallerydialog.cpp:209
+msgid "<p>The name of the HTML file this gallery will be saved to.</p>"
+msgstr "<p>Numele fișierului HTML în care va fi salvată această galerie.</p>"
+
+#: imgallerydialog.cpp:220
+msgid "&Recurse subfolders"
+msgstr "Parcurge subdosare &recusrsiv"
+
+#: imgallerydialog.cpp:222
+msgid ""
+"<p>Whether subfolders should be included for the image gallery creation or "
+"not.</p>"
+msgstr ""
+"<p>Dacă subdosare ar trebui incluse la crearea galerie de imagini sau nu.</p>"
+
+#: imgallerydialog.cpp:230
+msgid "Rec&ursion depth:"
+msgstr "Adîncimea de recursie:"
+
+#: imgallerydialog.cpp:232
+msgid "Endless"
+msgstr "Infinită"
+
+#: imgallerydialog.cpp:234
+msgid ""
+"<p>You can limit the number of folders the image gallery creator will "
+"traverse to by setting an upper bound for the recursion depth.</p>"
+msgstr ""
+"<p>Puteți limita numărul de dosare pe care creatorul de galerie de imagini "
+"îl va parcurge setînd o limită superioară pentru adîncimea de recursie.</p>"
+
+#: imgallerydialog.cpp:246
+msgid "Copy or&iginal files"
+msgstr "Copiază fișierele or&iginale"
+
+#: imgallerydialog.cpp:249
+msgid ""
+"<p>This makes a copy of all images and the gallery will refer to these "
+"copies instead of the original images.</p>"
+msgstr ""
+"<p>Aceasta face o copie pentru toate imaginile și galeria va face referință "
+"la acestea în loc de imaginile originale.</p>"
+
+#: imgallerydialog.cpp:255
+msgid "Use &comment file"
+msgstr "Utilizează fișier &comentariu"
+
+#: imgallerydialog.cpp:259
+msgid ""
+"<p>If you enable this option you can specify a comment file which will be "
+"used for generating subtitles for the images.</p><p>For details about the "
+"file format please see the \"What's This?\" help below.</p>"
+msgstr ""
+"<p>Dacă activați această opțiune puteți specifica un fișier cu comentarii "
+"care va fi folosit pentru a genera subtitluri pentru imagini.</p><p>Pentru "
+"detalii despre formatul fișierului vedeți „Ce-i asta?” mai jos.</p>"
+
+#: imgallerydialog.cpp:266
+msgid "Comments &file:"
+msgstr "&Fișier comentarii:"
+
+#: imgallerydialog.cpp:269
+msgid ""
+"<p>You can specify the name of the comment file here. The comment file "
+"contains the subtitles for the images. The format of this file is:</"
+"p><p>FILENAME1:<br />Description<br /><br />FILENAME2:<br />Description<br /"
+"><br />and so on</p>"
+msgstr ""
+"<p>Puteți specifica numele fișierului de comentarii aici.  Fișierul de "
+"comentarii conține subtitlurile pentru imagini.  Formatul acestui fișier "
+"este: </p><p>NUME FIȘIER1:<br />Descriere<br />NUME FIȘIER2:<br /"
+">Descriere<br /><br />și așa mai departe</p>"
+
+#: imgallerydialog.cpp:297 imgallerydialog.cpp:298
+msgid "Thumbnails"
+msgstr "Miniaturi"
+
+#: imgallerydialog.cpp:317
+msgid "Image format f&or the thumbnails:"
+msgstr "F&ormat imagini pentru miniaturi:"
+
+#: imgallerydialog.cpp:325
+msgid "Thumbnail size:"
+msgstr "Dimensiune miniatură:"
+
+#: imgallerydialog.cpp:337
+msgid "&Set different color depth:"
+msgstr "&Stabilește o adîncime de culoare diferită:"
+
+#: imgalleryplugin.cpp:59
+msgid "&Create Image Gallery..."
+msgstr "&Creează galerie imagini..."
+
+#: imgalleryplugin.cpp:70
+msgid "Could not create the plugin, please report a bug."
+msgstr "Nu am putut crea modulul, vă rugăm raportați o eroare."
+
+#: imgalleryplugin.cpp:76
+msgid "Creating an image gallery works only on local folders."
+msgstr "Crearea galeriei de imagini funcționează numai în dosarele locale."
+
+#: imgalleryplugin.cpp:95
+msgid "Creating thumbnails"
+msgstr "Creez miniaturi"
+
+#: imgalleryplugin.cpp:116 imgalleryplugin.cpp:279
+#, kde-format
+msgid "Could not create folder: %1"
+msgstr "Nu pot crea dosarul: %1"
+
+#: imgalleryplugin.cpp:177
+#, kde-format
+msgid "<i>Number of images</i>: %1"
+msgstr "<i>Număr de imagini</i>: %1"
+
+#: imgalleryplugin.cpp:178
+#, kde-format
+msgid "<i>Created on</i>: %1"
+msgstr "<i>Creat de data de</i>: %1"
+
+#: imgalleryplugin.cpp:183
+msgid "<i>Subfolders</i>:"
+msgstr "<i>Subdosare</i>:"
+
+#: imgalleryplugin.cpp:216
+#, kde-format
+msgid ""
+"Created thumbnail for: \n"
+"%1"
+msgstr ""
+"Am creat miniatură pentru: \n"
+"%1"
+
+#: imgalleryplugin.cpp:219
+#, kde-format
+msgid ""
+"Creating thumbnail for: \n"
+"%1\n"
+" failed"
+msgstr ""
+"Crearea miniaturii pentru:\n"
+"%1\n"
+" a eșuat."
+
+#: imgalleryplugin.cpp:237
+msgid "KB"
+msgstr "KO"
+
+#: imgalleryplugin.cpp:333 imgalleryplugin.cpp:428
+#, kde-format
+msgid "Could not open file: %1"
+msgstr "Nu pot deschide fișierul: %1"
+
+#. i18n: file: kimgalleryplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Unelte"

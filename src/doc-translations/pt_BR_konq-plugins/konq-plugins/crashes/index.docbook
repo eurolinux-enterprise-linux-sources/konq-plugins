@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.2-Based Variant V1.1//EN"
+"dtd/kdex.dtd" [
+<!ENTITY % addindex "IGNORE">
+<!ENTITY % Brazilian-Portuguese "INCLUDE"
+> <!-- change language only here -->
+]>
+
+<article lang="&language;">
+
+<sect1 id="crashesplugin">
+<sect1info>
+
+<authorgroup>
+<author
+><firstname
+>Gardner</firstname
+> <surname
+>Bell</surname
+> <affiliation
+><address
+><email
+>gbell72@rogers.com</email
+></address
+></affiliation>
+</author>
+
+<othercredit role="translator"
+><firstname
+>Marcus</firstname
+><surname
+>Gama</surname
+><affiliation
+><address
+><email
+>marcus.gama@gmail.com</email
+></address
+></affiliation
+><contrib
+>Tradução</contrib
+></othercredit
+><othercredit role="translator"
+><firstname
+>José</firstname
+> <surname
+>Monteiro</surname
+><affiliation
+><address
+> <email
+>monteiro@ajato.com.br</email
+></address
+></affiliation
+><contrib
+> Tradução</contrib
+></othercredit
+>  
+</authorgroup>
+<date
+>21-07-2004</date
+> <releaseinfo
+>3.10.00</releaseinfo
+> <abstract
+> <para
+>O plug-in de travamentos de programa cria uma lista nos dos sites da Internet nos quais ocorreu um travamento do &konqueror;.</para>
+</abstract>
+
+<keywordset>
+<keyword
+>KDE</keyword>
+<keyword
+>kdeaddons</keyword>
+<keyword
+>konqueror</keyword>
+<keyword
+>plug-ins</keyword>
+<keyword
+></keyword>
+</keywordset>
+
+</sect1info>
+
+<title
+>O plug-in de travamentos</title>
+
+<sect2>
+<title
+>Usando o plug-in de travamento</title>
+
+<para
+>Para usar o plug-in de quedas de programa aponte o &konqueror; para <menuchoice
+><guimenu
+>Ferramentas</guimenu
+><guimenuitem
+>Travamentos</guimenuitem
+></menuchoice
+>. Ali você pode selecionar para ver o local que causou um travamento no &konqueror; ou limpar a lista de locais, se existir alguma.</para>
+
+</sect2>
+
+<sect2>
+<title
+>Créditos</title>
+
+<para
+>Direitos autorais do plug-in de travamentos &copy; 2002-2003 Alexander Kellett <email
+>lypanov@kde.org</email
+>.</para>
+</sect2>
+
+</sect1>
+</article>

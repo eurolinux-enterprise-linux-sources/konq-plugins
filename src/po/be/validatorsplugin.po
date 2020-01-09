@@ -1,0 +1,323 @@
+# translation of validatorsplugin.po to Belarusian
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Darafei Praliaskouski <komzpa@licei2.com>, 2007.
+# Darafei Praliaskouski <komzpa@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: validatorsplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-08 10:36+0100\n"
+"PO-Revision-Date: 2009-04-19 17:43+0300\n"
+"Last-Translator: Darafei Praliaskouski <komzpa@gmail.com>\n"
+"Language-Team: Belarusian <i18n@mova.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: plugin_validators.cpp:60
+msgid "Validate Web Page"
+msgstr "Праверыць вэб-старонку"
+
+#: plugin_validators.cpp:131
+msgid "&Validate Web Page"
+msgstr "&Праверыць вэб-старонку"
+
+#: plugin_validators.cpp:137
+msgid "Validate HTML (by URI)"
+msgstr "Праверыць HTML (па URI)"
+
+#: plugin_validators.cpp:141
+msgid "Validate HTML (by Upload)"
+msgstr "Праверыць HTML (па Перадачы)"
+
+#: plugin_validators.cpp:145
+msgid "Validate CSS (by URI)"
+msgstr "Праверыць CSS (па URI)"
+
+#: plugin_validators.cpp:149
+msgid "Validate CSS (by Upload)"
+msgstr "Праверыць CSS (зацягнуць на сервер)"
+
+#: plugin_validators.cpp:154
+msgid "Validate &Links"
+msgstr "Праверыць спасылкі"
+
+#: plugin_validators.cpp:160
+msgid "Validate Page"
+msgstr "Праверыць старонку"
+
+#: plugin_validators.cpp:164
+msgid "View Validator Report"
+msgstr "Прагледзець справаздачу праверкі"
+
+#: plugin_validators.cpp:172
+msgid "C&onfigure Validator..."
+msgstr "Наставіць Validator..."
+
+#: plugin_validators.cpp:318 validatorsdialog.cpp:49
+msgid "Remote Validation"
+msgstr "Аддаленая праверка"
+
+#: plugin_validators.cpp:325
+msgid "Local Validation"
+msgstr "Лакальная праверка"
+
+#: plugin_validators.cpp:364 plugin_validators.cpp:385
+#: plugin_validators.cpp:391 plugin_validators.cpp:402
+#: plugin_validators.cpp:410
+#, kde-format
+msgid "1 error"
+msgid_plural "%1 errors"
+msgstr[0] "%1 памылка"
+msgstr[1] "%1 памылкі"
+msgstr[2] "%1 памылак"
+
+#: plugin_validators.cpp:365 plugin_validators.cpp:386
+#: plugin_validators.cpp:392 plugin_validators.cpp:403
+#: plugin_validators.cpp:411
+#, kde-format
+msgid "1 warning"
+msgid_plural "%1 warnings"
+msgstr[0] "%1 папярэджанне"
+msgstr[1] "%1 папярэджанні"
+msgstr[2] "%1 папярэджанняў"
+
+#: plugin_validators.cpp:366 plugin_validators.cpp:387
+#: plugin_validators.cpp:404
+#, kde-format
+msgid "1 accessibility warning"
+msgid_plural "%1 accessibility warnings"
+msgstr[0] "%1 папярэджанне даступнасці"
+msgstr[1] "%1 папярэджанні даступнасці"
+msgstr[2] "%1 папярэджанняў даступнасці"
+
+#: plugin_validators.cpp:368
+#, kde-format
+msgctxt "%1 is the error count string, %2 the warning count string"
+msgid "%1, %2"
+msgstr "%1, %2"
+
+#: plugin_validators.cpp:370
+msgid "HTML tidy results:"
+msgstr "Рэзультат апрацоўкі HTML:"
+
+#: plugin_validators.cpp:384
+#, kde-format
+msgctxt ""
+"%1 is the error count string, %2 the warning count string, %3 the "
+"accessibility warning string"
+msgid "Page: %1, %2, %3"
+msgstr "Старонка: %1, %2, %3"
+
+#: plugin_validators.cpp:390
+#, kde-format
+msgctxt "%1 is the error count string, %2 the warning count string"
+msgid "Page: %1, %2"
+msgstr "Старонка: %1, %2"
+
+#: plugin_validators.cpp:400
+#, kde-format
+msgctxt ""
+"%1 is the HTML frame name, %2 is the error count string, %3 the warning "
+"count string, %4 the accessibility warning string"
+msgid "Frame '%1': %2, %3, %4"
+msgstr "Кавалак '%1': %2, %3, %4"
+
+#: plugin_validators.cpp:408
+#, kde-format
+msgctxt ""
+"%1 is the HTML frame name, %2 is the error count string, %3 the warning "
+"count string"
+msgid "Frame '%1': %2, %3"
+msgstr "Кавалак '%1': %2, %3"
+
+#: plugin_validators.cpp:461
+#, kde-format
+msgid ""
+"<qt>The selected URL cannot be verified because it contains a password. "
+"Sending this URL to <b>%1</b> would put the security of <b>%2</b> at risk.</"
+"qt>"
+msgstr ""
+"<qt>Выбраны URL не можа быць правераны, таму што змяшчае пароль. Адпраўка "
+"гэтага URL да <b>%1</b> можа быць небяспечным для <b>%2</b>.</qt>"
+
+#: plugin_validators.cpp:534
+msgid "Cannot Validate Source"
+msgstr "Немагчыма праверыць крыніцу"
+
+#: plugin_validators.cpp:535
+msgid "You cannot validate anything except web pages with this plugin."
+msgstr "Вы можаце правяраць гэтай утулкай толькі вэб-старонкі"
+
+#: plugin_validators.cpp:546
+msgid "Malformed URL"
+msgstr "Недапушчальны URL"
+
+#: plugin_validators.cpp:547
+msgid "The URL you entered is not valid, please correct it and try again."
+msgstr ""
+"Вы ўвялі недапушчальны адрас, калі ласка, выпраўце яго і паспрабуйце зноў."
+
+#: plugin_validators.cpp:573
+msgid "Validation"
+msgstr "Праверка"
+
+#. i18n: file: internalvalidator.ui:18
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: rc.cpp:3
+msgid "Accessibility validation level:"
+msgstr "Узровень праверкі на даступнасць:"
+
+#. i18n: file: internalvalidator.ui:26
+#. i18n: ectx: property (text), item, widget (KComboBox, accessibilityLevel)
+#: rc.cpp:6
+msgid "0 (No check)"
+msgstr "0 (без праверкі)"
+
+#. i18n: file: internalvalidator.ui:31
+#. i18n: ectx: property (text), item, widget (KComboBox, accessibilityLevel)
+#: rc.cpp:9
+msgid "1"
+msgstr "1"
+
+#. i18n: file: internalvalidator.ui:36
+#. i18n: ectx: property (text), item, widget (KComboBox, accessibilityLevel)
+#: rc.cpp:12
+msgid "2"
+msgstr "2"
+
+#. i18n: file: internalvalidator.ui:41
+#. i18n: ectx: property (text), item, widget (KComboBox, accessibilityLevel)
+#: rc.cpp:15
+msgid "3"
+msgstr "3"
+
+#. i18n: file: internalvalidator.ui:49
+#. i18n: ectx: property (whatsThis), widget (QCheckBox, runAfterLoading)
+#: rc.cpp:18
+msgid ""
+"If this option is enabled, the internal HTML validator is executed after a "
+"webpage has been loaded."
+msgstr ""
+"Калі дадзеная опцыя ўключана, унутраная HTML праверка будзе запушчана пасля "
+"таго, як вэб-старонка будзе загружана."
+
+#. i18n: file: internalvalidator.ui:52
+#. i18n: ectx: property (text), widget (QCheckBox, runAfterLoading)
+#: rc.cpp:21
+msgid "Run after loading"
+msgstr "Запусціць пасля загрузкі"
+
+#. i18n: file: plugin_validators.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr "Н&ачынне"
+
+#. i18n: file: plugin_validators.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "Дадатковая панель"
+
+#. i18n: file: remotevalidators.ui:16
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#: rc.cpp:30
+msgid "HTML/XML Validator"
+msgstr "Праверка HTML/XML"
+
+#. i18n: file: remotevalidators.ui:22
+#. i18n: ectx: property (text), widget (QLabel, label)
+#. i18n: file: remotevalidators.ui:71
+#. i18n: ectx: property (text), widget (QLabel, label_3)
+#. i18n: file: remotevalidators.ui:120
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: rc.cpp:33 rc.cpp:42 rc.cpp:51
+msgid "URL:"
+msgstr "URL:"
+
+#. i18n: file: remotevalidators.ui:42
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#. i18n: file: remotevalidators.ui:91
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: rc.cpp:36 rc.cpp:45
+msgid "Upload:"
+msgstr "Загрузіць на сервер:"
+
+#. i18n: file: remotevalidators.ui:65
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: rc.cpp:39
+msgid "CSS Validator"
+msgstr "Праверка CSS"
+
+#. i18n: file: remotevalidators.ui:114
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_3)
+#: rc.cpp:48
+msgid "Link Validator"
+msgstr "Праверка спасылак"
+
+#. i18n: file: reportwidget.ui:34
+#. i18n: ectx: property (text), widget (QTreeWidget, reportsView)
+#: rc.cpp:54
+msgid "Frame"
+msgstr "Кавалак"
+
+#. i18n: file: reportwidget.ui:39
+#. i18n: ectx: property (text), widget (QTreeWidget, reportsView)
+#: rc.cpp:57
+msgid "Row"
+msgstr "Радок"
+
+#. i18n: file: reportwidget.ui:44
+#. i18n: ectx: property (text), widget (QTreeWidget, reportsView)
+#: rc.cpp:60
+msgid "Column"
+msgstr "Слупок"
+
+#. i18n: file: reportwidget.ui:49
+#. i18n: ectx: property (text), widget (QTreeWidget, reportsView)
+#: rc.cpp:63
+msgid "Message"
+msgstr "Паведамленне"
+
+#: rc.cpp:64
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Дарафей Праляскоўскі,Конан Андрэй"
+
+#: rc.cpp:65
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "komzpa@licei2.com,potlaty@gmail.com"
+
+#: reportdialog.cpp:63
+msgid "Validation Report"
+msgstr "Справаздача праверкі"
+
+#: reportdialog.cpp:77
+msgctxt "Validation status"
+msgid "Error"
+msgstr "Памылка"
+
+#: reportdialog.cpp:85
+msgctxt "Validation status"
+msgid "Warning"
+msgstr "Папярэджанне"
+
+#: reportdialog.cpp:93
+msgctxt "Validation status"
+msgid "Accessibility warning"
+msgstr "Папярэджанне даступнасці"
+
+#: validatorsdialog.cpp:35
+msgid "Configure Validator Plugin"
+msgstr "Наставіць утулку Validator"
+
+#: validatorsdialog.cpp:42
+msgid "Internal Validation"
+msgstr "Унутраная праверка"

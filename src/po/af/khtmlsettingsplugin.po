@@ -1,0 +1,103 @@
+# WEB-Translator generated file. UTF-8 test:äëïöü
+# Copyright (C) 2001 Free Software Foundation, Inc.
+# Frikkie Thirion <frix@expertron.co.za>, 2001,2002.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: khtmlsettingsplugin VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-03-26 10:56+0100\n"
+"PO-Revision-Date: 2002-11-07 11:26+0200\n"
+"Last-Translator: WEB-Translator <http://kde.af.org.za>\n"
+"Language-Team: AFRIKAANS <AF@lia.org.za>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8-bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#. i18n: file: khtmlsettingsplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: khtmlsettingsplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr ""
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr ""
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+
+#: settingsplugin.cpp:40 settingsplugin.cpp:52
+msgid "HTML Settings"
+msgstr "Html Instellings"
+
+#: settingsplugin.cpp:61
+msgid "Java&Script"
+msgstr "Javaskrip"
+
+#: settingsplugin.cpp:66
+msgid "&Java"
+msgstr "Java"
+
+#: settingsplugin.cpp:71
+msgid "&Cookies"
+msgstr "Koekies"
+
+#: settingsplugin.cpp:76
+msgid "&Plugins"
+msgstr "Inprop modules"
+
+#: settingsplugin.cpp:81
+msgid "Autoload &Images"
+msgstr "Outomatieslaai Beelde"
+
+#: settingsplugin.cpp:88
+msgid "Enable Pro&xy"
+msgstr "Aktiveer Volmag"
+
+#: settingsplugin.cpp:93
+msgid "Enable Cac&he"
+msgstr "Aktiveer Kas"
+
+#: settingsplugin.cpp:99
+msgid "Cache Po&licy"
+msgstr "Kas Beleid"
+
+#: settingsplugin.cpp:101
+msgid "&Keep Cache in Sync"
+msgstr "Hou Kas in Sinkronisasie"
+
+#: settingsplugin.cpp:102
+msgid "&Use Cache if Possible"
+msgstr "Gebruik Kas as Moontlik"
+
+#: settingsplugin.cpp:103
+msgid "&Offline Browsing Mode"
+msgstr "Af-lyn Blaaiïng Modus"
+
+#: settingsplugin.cpp:187
+msgid ""
+"Cookies could not be enabled, because the cookie daemon could not be started."
+msgstr ""
+
+#: settingsplugin.cpp:189
+msgid "Cookies Disabled"
+msgstr "Koekies Gestremde"
+
+#, fuzzy
+#~ msgid "Disable Pro&xy"
+#~ msgstr "Aktiveer Volmag"
+
+#, fuzzy
+#~ msgid "Disable Cac&he"
+#~ msgstr "Aktiveer Kas"

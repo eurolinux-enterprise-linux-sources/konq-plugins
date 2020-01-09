@@ -1,0 +1,47 @@
+# translation of crashesplugin.po to Basque
+# Copyright (C) 2003, 2004, 2005 Free Software Foundation, Inc.
+#
+# Marcos Goienetxe <marcos@euskalgnu.org>, 2003, 2005.
+# Iñigo Salvador Azurmendi <xalba@euskalnet.net>, 2004.
+# Ion Gaztañaga <igaztanaga@gmail.com>, 2005.
+msgid ""
+msgstr ""
+"Project-Id-Version: crashesplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-08-25 09:12+0200\n"
+"PO-Revision-Date: 2005-12-04 12:56-0700\n"
+"Last-Translator: Ion Gaztañaga <igaztanaga@gmail.com>\n"
+"Language-Team: Basque <kdeuskaraz@euskalgnu.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: crashesplugin.cpp:48
+msgid "&Crashes"
+msgstr "&Kraskadurak"
+
+#: crashesplugin.cpp:95 crashesplugin.cpp:119
+msgid "All Pages of This Crash"
+msgstr "Kraskadura honetako orri guztiak"
+
+#: crashesplugin.cpp:125
+msgid "No Recovered Crashes"
+msgstr "Ez dago Berreskuratutako Kraskadurarik"
+
+#: crashesplugin.cpp:137
+msgid "&Clear List of Crashes"
+msgstr "&Garbitu Kraskaduren Zerrenda"
+
+#. i18n: file: crashesplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: crashesplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Tresnabarra Osagarria"

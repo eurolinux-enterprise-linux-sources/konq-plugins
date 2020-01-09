@@ -1,0 +1,244 @@
+# Irish translation of rellinks
+# Copyright (C) 2009 This_file_is_part_of_KDE
+# This file is distributed under the same license as the rellinks package.
+# Kevin Scannell <kscanne@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeaddons/rellinks.po\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2005-09-05 01:41-0500\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n < 11 ? "
+"3 : 4\n"
+
+#: plugin_rellinks.cpp:56
+msgid "Rellinks"
+msgstr "Rellinks"
+
+#: plugin_rellinks.cpp:71
+msgid "&Top"
+msgstr "&Barr"
+
+#: plugin_rellinks.cpp:74
+msgid "<p>This link references a home page or the top of some hierarchy.</p>"
+msgstr ""
+"<p>Déanann an nasc seo tagairt do leathanach baile nó don bharr d'ordlathas "
+"éigin.</p>"
+
+#: plugin_rellinks.cpp:79
+msgid "&Up"
+msgstr "S&uas"
+
+#: plugin_rellinks.cpp:82
+msgid ""
+"<p>This link references the immediate parent of the current document.</p>"
+msgstr "<p>Déanann an nasc seo tagairt do mháthair na cáipéise reatha.</p>"
+
+#: plugin_rellinks.cpp:89
+msgid "&First"
+msgstr "An &Chéad Cheann"
+
+#: plugin_rellinks.cpp:92
+msgid ""
+"<p>This link type tells search engines which document is considered by the "
+"author to be the starting point of the collection.</p>"
+msgstr ""
+"<p>Déanann an nasc seo tagairt don chéad cháipéis sa bhailiúchán dar leis an "
+"údar.</p>"
+
+#: plugin_rellinks.cpp:97
+msgid "&Previous"
+msgstr "&Siar"
+
+#: plugin_rellinks.cpp:101
+msgid ""
+"<p>This link references the previous document in an ordered series of "
+"documents.</p>"
+msgstr ""
+"<p>Déanann an nasc seo tagairt don cháipéis roimh an cheann reatha i sraith "
+"ordaithe cáipéisí.</p>"
+
+#: plugin_rellinks.cpp:105
+msgid "&Next"
+msgstr "&Ar Aghaidh"
+
+#: plugin_rellinks.cpp:108
+msgid ""
+"<p>This link references the next document in an ordered series of documents."
+"</p>"
+msgstr ""
+"<p>Déanann an nasc seo tagairt don chéad cháipéis eile i sraith ordaithe "
+"cáipéisí.</p>"
+
+#: plugin_rellinks.cpp:113
+msgid "&Last"
+msgstr "Cáipéis &Deiridh"
+
+#: plugin_rellinks.cpp:117
+msgid "<p>This link references the end of a sequence of documents.</p>"
+msgstr ""
+"<p>Déanann an nasc seo tagairt don cháipéis deiridh sa bhailiúchán.</p>"
+
+#: plugin_rellinks.cpp:122
+msgid "&Search"
+msgstr "&Cuardach"
+
+#: plugin_rellinks.cpp:125
+msgid "<p>This link references the search.</p>"
+msgstr "<p>Déanann an nasc seo tagairt don chuardach.</p>"
+
+#: plugin_rellinks.cpp:130
+msgid "Document"
+msgstr "Cáipéis"
+
+#: plugin_rellinks.cpp:132
+msgid "<p>This menu contains the links referring the document information.</p>"
+msgstr ""
+"<p>Tá na naisc a dhéanann tagairt don eolas cáipéise sa roghchlár seo.</p>"
+
+#: plugin_rellinks.cpp:136
+msgid "Table of &Contents"
+msgstr "&Clár na nÁbhar"
+
+#: plugin_rellinks.cpp:138
+msgid "<p>This link references the table of contents.</p>"
+msgstr "<p>Déanann an nasc seo tagairt do chlár na n-ábhar.</p>"
+
+#: plugin_rellinks.cpp:143
+msgid "Chapters"
+msgstr "Caibidlí"
+
+#: plugin_rellinks.cpp:148
+msgid "<p>This menu references the chapters of the document.</p>"
+msgstr "<p>Déanann an roghchlár seo tagairt do chaibidlí na cáipéise.</p>"
+
+#: plugin_rellinks.cpp:151
+msgid "Sections"
+msgstr "Rannóga"
+
+#: plugin_rellinks.cpp:157
+msgid "<p>This menu references the sections of the document.</p>"
+msgstr "<p>Déanann an roghchlár seo tagairt do rannóga na cáipéise.</p>"
+
+#: plugin_rellinks.cpp:160
+msgid "Subsections"
+msgstr "Forannóga"
+
+#: plugin_rellinks.cpp:165
+msgid "<p>This menu references the subsections of the document.</p>"
+msgstr "<p>Déanann an roghchlár seo tagairt d'fhorannóga na cáipéise.</p>"
+
+#: plugin_rellinks.cpp:168
+msgid "Appendix"
+msgstr "Aguisín"
+
+#: plugin_rellinks.cpp:173
+msgid "<p>This link references the appendix.</p>"
+msgstr "<p>Déanann an nasc seo tagairt don aguisín.</p>"
+
+#: plugin_rellinks.cpp:177
+msgid "&Glossary"
+msgstr "&Gluais"
+
+#: plugin_rellinks.cpp:180
+msgid "<p>This link references the glossary.</p>"
+msgstr "<p>Déanann an nasc seo tagairt don ghluais.</p>"
+
+#: plugin_rellinks.cpp:185
+msgid "&Index"
+msgstr "&Innéacs"
+
+#: plugin_rellinks.cpp:187
+msgid "<p>This link references the index.</p>"
+msgstr "<p>Déanann an nasc seo tagairt don innéacs.</p>"
+
+#: plugin_rellinks.cpp:193
+msgid "More"
+msgstr "Tuilleadh"
+
+#: plugin_rellinks.cpp:195
+msgid "<p>This menu contains other important links.</p>"
+msgstr "<p>Tá naisc thábhachtacha eile sa roghchlár seo.</p>"
+
+#: plugin_rellinks.cpp:199
+msgid "&Help"
+msgstr "&Cabhair"
+
+#: plugin_rellinks.cpp:202
+msgid "<p>This link references the help.</p>"
+msgstr "<p>Déanann an nasc seo tagairt don chabhair.</p>"
+
+#: plugin_rellinks.cpp:208
+msgid "&Authors"
+msgstr "Úd&air"
+
+#: plugin_rellinks.cpp:211
+msgid "<p>This link references the author.</p>"
+msgstr "<p>Déanann an nasc seo tagairt don údar.</p>"
+
+#: plugin_rellinks.cpp:217
+msgid "Copy&right"
+msgstr "Cóipchea&rt"
+
+#: plugin_rellinks.cpp:220
+msgid "<p>This link references the copyright.</p>"
+msgstr "<p>Déanann an nasc seo tagairt don chóipcheart.</p>"
+
+#: plugin_rellinks.cpp:225
+msgid "Bookmarks"
+msgstr "Leabharmharcanna"
+
+#: plugin_rellinks.cpp:228
+msgid "<p>This menu references the bookmarks.</p>"
+msgstr "<p>Déanann an nasc seo tagairt do na leabharmharcanna.</p>"
+
+#: plugin_rellinks.cpp:232
+msgid "Other Versions"
+msgstr "Leaganacha Eile"
+
+#: plugin_rellinks.cpp:235
+msgid "<p>This link references the alternate versions of this document.</p>"
+msgstr ""
+"<p>Déanann an nasc seo tagairt do leaganacha malartacha na cáipéise seo.</p>"
+
+#: plugin_rellinks.cpp:240
+msgid "Miscellaneous"
+msgstr "Naisc éagsúla"
+
+#: plugin_rellinks.cpp:243
+msgid "<p>Miscellaneous links.</p>"
+msgstr "<p>Naisc éagsúla.</p>"
+
+#: plugin_rellinks.cpp:471 plugin_rellinks.cpp:485
+#, kde-format
+msgid "[Autodetected] %1"
+msgstr "[Braite go huathoibríoch] %1"
+
+#. i18n: file: plugin_rellinks.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Uirlisí"
+
+#. i18n: file: plugin_rellinks.rc:5
+#. i18n: ectx: Menu (rellinksMenu)
+#. i18n: file: plugin_rellinks.rc:21
+#. i18n: ectx: ToolBar (rellinksToolBar)
+#: rc.cpp:6 rc.cpp:9
+msgid "Document Relations"
+msgstr "Gaolta Cáipéise"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Kevin Scannell"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kscanne at gmail dot com"

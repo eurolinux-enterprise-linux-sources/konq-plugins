@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: adblock\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-31 06:46+0100\n"
+"PO-Revision-Date: 2009-10-31 13:43+0000\n"
+"Last-Translator: José Nuno Coelho Pires <jncp@netcabo.pt>\n"
+"Language-Team: Portuguese <kde-i18n-pt@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-POFile-SpellExtra: Adblock AdBlock RE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: adblock.cpp:71
+msgid "Adblock"
+msgstr "Adblock"
+
+#: adblock.cpp:77
+msgid "Show Blockable Elements..."
+msgstr "Mostrar os Elementos Bloqueáveis..."
+
+#: adblock.cpp:82 adblockdialog.cpp:96
+msgid "Configure Filters..."
+msgstr "Configurar os Filtros..."
+
+#: adblock.cpp:91
+msgid "No blocking for this page"
+msgstr "Sem bloqueio para esta página"
+
+#: adblock.cpp:96
+msgid "No blocking for this site"
+msgstr "Sem bloqueio para este servidor"
+
+#: adblock.cpp:172
+msgid "Please enable Konqueror's Adblock"
+msgstr "Active por favor o AdBlock do Konqueror"
+
+#: adblock.cpp:173
+msgid "Adblock disabled"
+msgstr "Adblock desactivado"
+
+#: adblock.cpp:206
+msgid "script"
+msgstr "programa"
+
+#: adblock.cpp:207 adblock.cpp:208
+msgid "object"
+msgstr "objecto"
+
+#: adblock.cpp:210
+msgid "frame"
+msgstr "moldura"
+
+#: adblock.cpp:231
+msgid "image"
+msgstr "imagem"
+
+#: adblock.cpp:290
+#, kde-format
+msgid "Blocked by %1"
+msgstr "Bloqueado por %1"
+
+#: adblock.cpp:293
+#, kde-format
+msgid "Allowed by %1"
+msgstr "Permitido por %1"
+
+#: adblockdialog.cpp:93
+msgid "Blockable items on this page"
+msgstr "Itens bloqueáveis nesta página"
+
+#: adblockdialog.cpp:98
+msgid "Add filter"
+msgstr "Adicionar um filtro"
+
+#: adblockdialog.cpp:107
+msgid "Search:"
+msgstr "Procurar:"
+
+#: adblockdialog.cpp:114
+msgid "Blockable items:"
+msgstr "Itens bloqueáveis:"
+
+#: adblockdialog.cpp:123
+msgid "Source"
+msgstr "Origem"
+
+#: adblockdialog.cpp:123
+msgid "Category"
+msgstr "Categoria"
+
+#: adblockdialog.cpp:123
+msgid "Tag"
+msgstr "Marca"
+
+#: adblockdialog.cpp:150
+msgid ""
+"New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
+"@@ for white list):"
+msgstr ""
+"Novo filtro (pode usar as sequências *?[], /RE/ para expressões regulares, "
+"anteceda com @@ para uma lista de permissões):"
+
+#: adblockdialog.cpp:170
+msgid "Filter this item"
+msgstr "Filtrar este item"
+
+#: adblockdialog.cpp:171
+msgid "Filter all items at same path"
+msgstr "Filtrar todos os itens no mesmo local"
+
+#: adblockdialog.cpp:172
+msgid "Filter all items from same host"
+msgstr "Filtrar todos os itens na mesma máquina"
+
+#: adblockdialog.cpp:173
+msgid "Filter all items from same domain"
+msgstr "Filtrar todos os itens no mesmo domínio"
+
+#: adblockdialog.cpp:175
+msgid "Add this item to white list"
+msgstr "Adicionar este item à lista de permissões"
+
+#: adblockdialog.cpp:177
+msgid "Copy Link Address"
+msgstr "Copiar o Endereço da Ligação"
+
+#: adblockdialog.cpp:180
+msgid "View item"
+msgstr "Ver o item"
+
+#. i18n: file: plugin_adblock.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "Ferramen&tas"
+
+#. i18n: file: plugin_adblock.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Barra Extra"

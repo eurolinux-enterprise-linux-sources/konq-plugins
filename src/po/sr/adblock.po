@@ -1,0 +1,152 @@
+# translation of adblock.po to Serbian
+# Slobodan Simic <simicsl@verat.net>, 2008, 2009.
+# Chusslove Illich <caslav.ilic@gmx.net>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: adblock\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-31 06:46+0100\n"
+"PO-Revision-Date: 2009-09-27 17:15+0200\n"
+"Last-Translator: Slobodan Simic <simicsl@verat.net>\n"
+"Language-Team: Serbian <kde-i18n-sr@kde.org>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+"X-Environment: kde\n"
+
+#: adblock.cpp:71
+msgid "Adblock"
+msgstr "~@¦Адблок¦AdBlock¦"
+
+#: adblock.cpp:77
+msgid "Show Blockable Elements..."
+msgstr "Прикажи елементе који се могу блокирати..."
+
+#: adblock.cpp:82 adblockdialog.cpp:96
+msgid "Configure Filters..."
+msgstr "Подеси филтере..."
+
+#: adblock.cpp:91
+msgid "No blocking for this page"
+msgstr "Без блокирања за ову страницу"
+
+#: adblock.cpp:96
+msgid "No blocking for this site"
+msgstr "Без блокирања за овај сајт"
+
+#: adblock.cpp:172
+msgid "Please enable Konqueror's Adblock"
+msgstr "Укључите К‑освајачев ~@¦Адблок¦AdBlock¦"
+
+#: adblock.cpp:173
+msgid "Adblock disabled"
+msgstr "~@¦Адблок¦AdBlock¦ је искључен"
+
+#: adblock.cpp:206
+msgid "script"
+msgstr "скрипта"
+
+#: adblock.cpp:207 adblock.cpp:208
+msgid "object"
+msgstr "објекат"
+
+#: adblock.cpp:210
+msgid "frame"
+msgstr "оквир"
+
+#: adblock.cpp:231
+msgid "image"
+msgstr "слика"
+
+#: adblock.cpp:290
+#, kde-format
+msgid "Blocked by %1"
+msgstr ""
+
+#: adblock.cpp:293
+#, kde-format
+msgid "Allowed by %1"
+msgstr ""
+
+#: adblockdialog.cpp:93
+msgid "Blockable items on this page"
+msgstr "Ставке на страници које се могу блокирати"
+
+#: adblockdialog.cpp:98
+msgid "Add filter"
+msgstr "Додај филтер"
+
+#: adblockdialog.cpp:107
+msgid "Search:"
+msgstr "Тражи:"
+
+#: adblockdialog.cpp:114
+msgid "Blockable items:"
+msgstr "Ставке које се могу блокирати:"
+
+#: adblockdialog.cpp:123
+msgid "Source"
+msgstr "Извор"
+
+#: adblockdialog.cpp:123
+msgid "Category"
+msgstr "Категорија"
+
+#: adblockdialog.cpp:123
+msgid "Tag"
+msgstr ""
+
+#: adblockdialog.cpp:150
+#, fuzzy
+#| msgid "New filter (can use *?[] wildcards, prefix with @@ for white list):"
+msgid ""
+"New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
+"@@ for white list):"
+msgstr ""
+"Нови филтер (можете користити *?[] џокере, префикс са @@ за белу листу):"
+
+#: adblockdialog.cpp:170
+msgid "Filter this item"
+msgstr "Филтрирај ову ставку"
+
+#: adblockdialog.cpp:171
+msgid "Filter all items at same path"
+msgstr "Филтрирај све ставке на истој путањи"
+
+#: adblockdialog.cpp:172
+msgid "Filter all items from same host"
+msgstr "Филтрирај све ставке са истог домаћина"
+
+#: adblockdialog.cpp:173
+msgid "Filter all items from same domain"
+msgstr "Филтрирај све ставке са истог домена"
+
+#: adblockdialog.cpp:175
+msgid "Add this item to white list"
+msgstr "Додај ову ставку на белу листу"
+
+#: adblockdialog.cpp:177
+msgid "Copy Link Address"
+msgstr "Копирај адресу везе"
+
+#: adblockdialog.cpp:180
+msgid "View item"
+msgstr "Погледај ставку"
+
+#. i18n: file: plugin_adblock.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Алатке"
+
+#. i18n: file: plugin_adblock.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Додатна трака"

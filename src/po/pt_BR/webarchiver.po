@@ -1,0 +1,165 @@
+# tradução do webarchiver.po para Brazilian Portuguese
+# Copyright (C) 2002,2003, 2004, 2005, 2007, 2008, 2009 Free Software Foundation, Inc.
+#
+# Lisiane Sztoltz <lisiane@conectiva.com.br>, 2002,2003.
+# Lisiane Sztoltz Teixeira <lisiane@kdemail.net>, 2004.
+# Henrique Pinto <henrique.pinto@kdemail.net>, 2005.
+# Diniz Bortolotto <diniz.bortolotto@gmail.com>, 2007.
+# Fábio Nogueira <deb-user-ba@ubuntu.com>, 2008.
+# Luiz Fernando Ranghetti <elchevive@opensuse.org>, 2008.
+# André Marcelo Alvarenga <andrealvarenga@gmx.net>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: webarchiver\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-23 11:42+0200\n"
+"PO-Revision-Date: 2009-04-01 20:12-0300\n"
+"Last-Translator: Luiz Fernando Ranghetti <elchevive@opensuse.org>\n"
+"Language-Team: Brazilian Portuguese <kde-i18n-pt_br@mail.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. i18n: file: archiveviewbase.ui:13
+#. i18n: ectx: property (windowTitle), widget (QWidget, ArchiveViewBase)
+#: archivedialog.cpp:151 rc.cpp:3
+msgid "Web Archiver"
+msgstr "Arquivador da Internet"
+
+#: archivedialog.cpp:161
+msgid "Status"
+msgstr "Status"
+
+#: archivedialog.cpp:162
+msgid "Url"
+msgstr "URL"
+
+#: archivedialog.cpp:230
+msgid "Unable to Open Web-Archive"
+msgstr "Não foi possível abrir arquivo da Internet"
+
+#: archivedialog.cpp:231
+#, kde-format
+msgid ""
+"Unable to open \n"
+" %1 \n"
+" for writing."
+msgstr ""
+"Não foi possível abrir \n"
+" %1 \n"
+" para escrita."
+
+#: archivedialog.cpp:362
+msgid "Downloading"
+msgstr "Baixando"
+
+#: archivedialog.cpp:383
+msgid "Error"
+msgstr "Erro"
+
+#: archivedialog.cpp:383
+msgid "Ok"
+msgstr "OK"
+
+#: archivedialog.cpp:411
+#, kde-format
+msgid "I/O error occurred while writing to web archive file %1."
+msgstr "Ocorreu um erro de E/S durante a gravação do arquivo da Internet %1."
+
+#: plugin_webarchiver.cpp:58
+msgid "Archive &Web Page..."
+msgstr "Arquivar página da &Internet..."
+
+#: plugin_webarchiver.cpp:77
+msgid "Untitled"
+msgstr "Sem título"
+
+#: plugin_webarchiver.cpp:94
+msgid "*.war *.tgz|Web Archives"
+msgstr "*.war *.tgz|Arquivos da Internet"
+
+#: plugin_webarchiver.cpp:95
+msgid "Save Page as Web-Archive"
+msgstr "Salvar página como arquivo da Internet"
+
+#: plugin_webarchiver.cpp:100
+msgid "Invalid URL"
+msgstr "URL inválido"
+
+#: plugin_webarchiver.cpp:101
+#, kde-format
+msgid ""
+"The URL\n"
+"%1\n"
+"is not valid."
+msgstr ""
+"Este URL\n"
+" %1 \n"
+" não é válido."
+
+#: plugin_webarchiver.cpp:115
+msgid "File Exists"
+msgstr "O arquivo já existe"
+
+#: plugin_webarchiver.cpp:116
+#, kde-format
+msgid ""
+"Do you really want to overwrite:\n"
+"%1?"
+msgstr ""
+"Deseja realmente sobrescrever:\n"
+"%1?"
+
+#: plugin_webarchiver.cpp:117
+msgid "Overwrite"
+msgstr "Sobrescrever"
+
+#. i18n: file: archiveviewbase.ui:39
+#. i18n: ectx: property (text), widget (QLabel, targetLabel)
+#: rc.cpp:6
+msgid "Local File"
+msgstr "Arquivo local"
+
+#. i18n: file: archiveviewbase.ui:55
+#. i18n: ectx: property (text), widget (QLabel, textLabel1_2)
+#: rc.cpp:9
+msgid "To:"
+msgstr "Para:"
+
+#. i18n: file: archiveviewbase.ui:65
+#. i18n: ectx: property (text), widget (QLabel, textLabel1)
+#: rc.cpp:12
+msgid "Archiving:"
+msgstr "Arquivo:"
+
+#. i18n: file: archiveviewbase.ui:81
+#. i18n: ectx: property (text), widget (QLabel, urlLabel)
+#: rc.cpp:15
+msgid "Original URL"
+msgstr "URL original"
+
+#. i18n: file: archiveviewbase.ui:109
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:18
+msgid "1"
+msgstr "1"
+
+#. i18n: file: archiveviewbase.ui:114
+#. i18n: ectx: property (text), widget (QTreeWidget, progressView)
+#: rc.cpp:21
+msgid "2"
+msgstr "2"
+
+#. i18n: file: plugin_webarchiver.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:24
+msgid "&Tools"
+msgstr "Ferramen&tas"
+
+#. i18n: file: plugin_webarchiver.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:27
+msgid "Extra Toolbar"
+msgstr "Barra de ferramentas extra"

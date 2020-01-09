@@ -1,0 +1,76 @@
+# Translation of autorefresh to Norwegian Nynorsk
+#
+# Eirik U. Birkeland <eirbir@gmail.com>, 2008.
+# Karl Ove Hufthammer <karl@huftis.org>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: autorefresh\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-07-07 11:39+0200\n"
+"PO-Revision-Date: 2008-10-08 13:11+0200\n"
+"Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
+"Language-Team: Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: nn\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: autorefresh.cpp:42
+msgid "&Auto Refresh"
+msgstr "&Automatisk oppdatering"
+
+#: autorefresh.cpp:46
+msgid "None"
+msgstr "Inga"
+
+#: autorefresh.cpp:47
+msgid "Every 15 Seconds"
+msgstr "Kvart 15. sekund"
+
+#: autorefresh.cpp:48
+msgid "Every 30 Seconds"
+msgstr "Kvart 30. sekund"
+
+#: autorefresh.cpp:49
+msgid "Every Minute"
+msgstr "Kvart minutt"
+
+#: autorefresh.cpp:50
+msgid "Every 5 Minutes"
+msgstr "Kvart 5. minutt"
+
+#: autorefresh.cpp:51
+msgid "Every 10 Minutes"
+msgstr "Kvart 10. minutt"
+
+#: autorefresh.cpp:52
+msgid "Every 15 Minutes"
+msgstr "Kvart 15. minutt"
+
+#: autorefresh.cpp:53
+msgid "Every 30 Minutes"
+msgstr "Kvar halvtime"
+
+#: autorefresh.cpp:54
+msgid "Every 60 Minutes"
+msgstr "Kvar time"
+
+#: autorefresh.cpp:105
+msgid "Cannot Refresh Source"
+msgstr "Klarte ikkje oppdatera kjelda"
+
+#: autorefresh.cpp:106
+msgid "<qt>This plugin cannot auto-refresh the current part.</qt>"
+msgstr ""
+"<qt>Dette tillegget kan ikkje oppdatera den gjeldande delen automatisk.</qt>"
+
+#. i18n: file: autorefresh.rc:5
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "V&erktøy"

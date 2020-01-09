@@ -1,0 +1,380 @@
+# translation of fsview.po to Belarusian
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Darafei Praliaskouski <komzpa@licei2.com>, 2007.
+# Darafei Praliaskouski <komzpa@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: fsview\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-11-01 06:25+0100\n"
+"PO-Revision-Date: 2009-04-19 17:51+0300\n"
+"Last-Translator: Darafei Praliaskouski <komzpa@gmail.com>\n"
+"Language-Team: Belarusian <i18n@mova.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 0.3\n"
+
+#: fsview.cpp:52 fsview.cpp:390
+msgid "Name"
+msgstr "Назва"
+
+#: fsview.cpp:53
+msgid "Size"
+msgstr "Памер"
+
+#: fsview.cpp:54
+msgid "File Count"
+msgstr "Колькасць файлаў"
+
+#: fsview.cpp:55
+msgid "Directory Count"
+msgstr "Колькасць тэчак"
+
+#: fsview.cpp:56
+msgid "Last Modified"
+msgstr "Апошняя змена"
+
+#: fsview.cpp:57 fsview.cpp:391
+msgid "Owner"
+msgstr "Уласнік"
+
+#: fsview.cpp:58 fsview.cpp:392
+msgid "Group"
+msgstr "Група"
+
+#: fsview.cpp:59 fsview.cpp:393
+msgid "Mime Type"
+msgstr "Тып MIME"
+
+#: fsview.cpp:281
+msgid "Go To"
+msgstr "Перайсці"
+
+#: fsview.cpp:283
+msgid "Go Up"
+msgstr "Угору"
+
+#: fsview.cpp:285
+msgid "Stop Refresh"
+msgstr "Спыніць абнаўленне"
+
+#: fsview.cpp:287
+msgid "Refresh"
+msgstr "Абнавіць"
+
+#: fsview.cpp:290
+#, kde-format
+msgid "Refresh '%1'"
+msgstr "Абнавіць '%1'"
+
+#: fsview.cpp:293 fsview_part.cpp:131
+msgid "Stop at Depth"
+msgstr "Спыніцца на глыбіні"
+
+#: fsview.cpp:295 fsview_part.cpp:128
+msgid "Stop at Area"
+msgstr "Спыніцца на вобласці"
+
+#: fsview.cpp:297
+msgid "Stop at Name"
+msgstr "Спыніцца на назве"
+
+#: fsview.cpp:303 fsview_part.cpp:138
+msgid "Color Mode"
+msgstr "Рэжым колераў"
+
+#: fsview.cpp:306 fsview_part.cpp:134
+msgid "Visualization"
+msgstr "Візуалізацыя"
+
+#: fsview.cpp:388
+msgid "None"
+msgstr "Няма"
+
+#: fsview.cpp:389
+msgid "Depth"
+msgstr "Глыбіня"
+
+#: fsview_part.cpp:82
+#, kde-format
+msgid "Read 1 folder, in %2"
+msgid_plural "Read %1 folders, in %2"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: fsview_part.cpp:87
+#, kde-format
+msgid "1 folder"
+msgid_plural "%1 folders"
+msgstr[0] "%1 тэчка"
+msgstr[1] "%1 тэчкі"
+msgstr[2] "%1 тэчкак"
+
+#: fsview_part.cpp:96 main.cpp:21
+msgid "FSView"
+msgstr "FSView"
+
+#: fsview_part.cpp:97
+msgid "Filesystem Utilization Viewer"
+msgstr "Прагляд выкарыстання файлавай сістэмы"
+
+#: fsview_part.cpp:99
+msgid "(c) 2003-2005, Josef Weidendorfer"
+msgstr "(c) 2003-2005, Josef Weidendorfer"
+
+#: fsview_part.cpp:112
+msgid ""
+"<p>This is the FSView plugin, a graphical browsing mode showing filesystem "
+"utilization by using a tree map visualization.</p><p>Note that in this mode, "
+"automatic updating when filesystem changes are made is intentionally <b>not</"
+"b> done.</p><p>For details on usage and options available, see the online "
+"help under menu 'Help/FSView Manual'.</p>"
+msgstr ""
+"<p>Гэта утулка FSView, графічны аглядны рэжым, які паказвае выкарыстанне "
+"файлавай сістэмы пры дапамозе дрэвападобнай структуры.</p><p>Звярніце увагу, "
+"што ў гэтым рэжыме, аўтаматычнага аднаўлення пры зменах у файлавай сістэме "
+"<b>НЕ</b> адбываецца.</p><p>Наконт выкарыстання і даступных опцый, глядзіце "
+"дапамогу ў меню 'Help/lДаведка па FSView'.</p>"
+
+#: fsview_part.cpp:144
+msgid "&FSView Manual"
+msgstr "Даведка па &FSView"
+
+#: fsview_part.cpp:146
+msgid "Show FSView manual"
+msgstr "Даведка па FSView"
+
+#: fsview_part.cpp:147
+msgid "Opens the help browser with the FSView documentation"
+msgstr "Адкрывае аглядчык дапамогі з дакументацыяй FSView"
+
+#: fsview_part.cpp:187
+msgctxt "@action:inmenu File"
+msgid "Move to Trash"
+msgstr ""
+
+#: fsview_part.cpp:195
+msgctxt "@action:inmenu File"
+msgid "Delete"
+msgstr ""
+
+#: fsview_part.cpp:200
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr ""
+
+#: fsview_part.cpp:204
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr ""
+
+#: fsview_part.cpp:245
+msgid ""
+"FSView intentionally does not support automatic updates when changes are "
+"made to files or directories, currently visible in FSView, from the "
+"outside.\n"
+"For details, see the 'Help/FSView Manual'."
+msgstr ""
+"FSView не падтрымлівае аўтаматычнага аднаўлення, калі змены адбываюцца з "
+"файламі і дырэкторыямі, якія бачны ў FSView.\n"
+"Падрабязней глядзіце ў 'Help/FSView Manual'."
+
+#: main.cpp:22
+msgid "Filesystem Viewer"
+msgstr "Прагляд файлавай сістэмы"
+
+#: main.cpp:24
+msgid "(c) 2002, Josef Weidendorfer"
+msgstr "(c) 2002, Josef Weidendorfer"
+
+#: main.cpp:28
+msgid "View filesystem starting from this folder"
+msgstr "Прагледзець файлавую сістэму, пачынаючы з гэтай тэчкі."
+
+#. i18n: file: fsview_part.rc:4
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:3
+msgid "&Edit"
+msgstr ""
+
+#. i18n: file: fsview_part.rc:13
+#. i18n: ectx: Menu (view)
+#: rc.cpp:6
+msgid "&View"
+msgstr "&Выгляд"
+
+#. i18n: file: fsview_part.rc:20
+#. i18n: ectx: Menu (help)
+#: rc.cpp:9
+msgid "&Help"
+msgstr "&Дапамога"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Дарафей Праляскоўскі, Конан Андрэй"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "komzpa@licei2.com, potlaty@gmail.com"
+
+#: treemap.cpp:1328
+#, kde-format
+msgid "Text %1"
+msgstr "Тэкст %1"
+
+#: treemap.cpp:2860
+msgid "Recursive Bisection"
+msgstr "Рэкурсіўны падзел папалам"
+
+#: treemap.cpp:2861
+msgid "Columns"
+msgstr "Слупкі"
+
+#: treemap.cpp:2862
+msgid "Rows"
+msgstr "Радкі"
+
+#: treemap.cpp:2863
+msgid "Always Best"
+msgstr "Заўсёды лепшы"
+
+#: treemap.cpp:2864
+msgid "Best"
+msgstr "Лепшы"
+
+#: treemap.cpp:2865
+msgid "Alternate (V)"
+msgstr "Дадатковы (V)"
+
+#: treemap.cpp:2866
+msgid "Alternate (H)"
+msgstr "Дадатковы (H)"
+
+#: treemap.cpp:2867
+msgid "Horizontal"
+msgstr "Гарызантальна"
+
+#: treemap.cpp:2868
+msgid "Vertical"
+msgstr "Вертыкальна"
+
+#: treemap.cpp:2923
+msgid "Nesting"
+msgstr "Укладанне"
+
+#: treemap.cpp:2925
+msgid "Border"
+msgstr "Поле"
+
+#: treemap.cpp:2926
+msgid "Correct Borders Only"
+msgstr ""
+
+#: treemap.cpp:2928 treemap.cpp:2929 treemap.cpp:2930 treemap.cpp:2931
+#, kde-format
+msgid "Width %1"
+msgstr "Шырыня %1"
+
+#: treemap.cpp:2938
+msgid "Allow Rotation"
+msgstr "Дазволіць паварот"
+
+#: treemap.cpp:2940
+msgid "Shading"
+msgstr "Зацяненне"
+
+#: treemap.cpp:2953
+msgid "Visible"
+msgstr "Бачны"
+
+#: treemap.cpp:2954
+msgid "Take Space From Children"
+msgstr ""
+
+#: treemap.cpp:2956
+msgid "Top Left"
+msgstr "Верхні левы"
+
+#: treemap.cpp:2957
+msgid "Top Center"
+msgstr "Уверсе пасярэдзіне"
+
+#: treemap.cpp:2958
+msgid "Top Right"
+msgstr "Правы верхні"
+
+#: treemap.cpp:2959
+msgid "Bottom Left"
+msgstr "Левы ніжні"
+
+#: treemap.cpp:2960
+msgid "Bottom Center"
+msgstr "Унізе пасярэдзіне"
+
+#: treemap.cpp:2961
+msgid "Bottom Right"
+msgstr "Правы ніжні"
+
+#: treemap.cpp:3038
+#, kde-format
+msgid "No %1 Limit"
+msgstr "Няма %1 межы"
+
+#: treemap.cpp:3090
+msgid "No Area Limit"
+msgstr "Няма межы вобласці"
+
+#: treemap.cpp:3096
+#, kde-format
+msgid "Area of '%1' (%2)"
+msgstr "Вобласць '%1' (%2)"
+
+#: treemap.cpp:3107 treemap.cpp:3118
+#, kde-format
+msgid "1 Pixel"
+msgid_plural "%1 Pixels"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: treemap.cpp:3122
+#, kde-format
+msgid "Double Area Limit (to %1)"
+msgstr "Двайная мяжа вобласці (да %1)"
+
+#: treemap.cpp:3124
+#, kde-format
+msgid "Halve Area Limit (to %1)"
+msgstr "Палавінчатая мяжа вобласці (да %1)"
+
+#: treemap.cpp:3155
+msgid "No Depth Limit"
+msgstr "Няма межы глыбіні"
+
+#: treemap.cpp:3161
+#, kde-format
+msgid "Depth of '%1' (%2)"
+msgstr "Глыбіня '%1' (%2)"
+
+#: treemap.cpp:3172 treemap.cpp:3183
+#, kde-format
+msgid "Depth %1"
+msgstr "Глыбіня %1"
+
+#: treemap.cpp:3187
+#, kde-format
+msgid "Decrement (to %1)"
+msgstr "Дэкрэмент (да %1)"
+
+#: treemap.cpp:3189
+#, kde-format
+msgid "Increment (to %1)"
+msgstr "Інкрэмент (да %1)"

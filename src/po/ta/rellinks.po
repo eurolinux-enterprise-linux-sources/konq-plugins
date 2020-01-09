@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rellinks\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2004-08-10 23:11--800\n"
+"Last-Translator: I. Felix <ifelix25@yahoo.co.in>\n"
+"Language-Team: KDE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: plugin_rellinks.cpp:56
+msgid "Rellinks"
+msgstr "மீளிணைப்பு"
+
+#: plugin_rellinks.cpp:71
+msgid "&Top"
+msgstr "மேல்"
+
+#: plugin_rellinks.cpp:74
+msgid "<p>This link references a home page or the top of some hierarchy.</p>"
+msgstr "<p>இந்த இணைப்பு முகப்பு பக்கத்தை குறிக்கும் அல்லது சில படிநிலையின் மேல்.</p>"
+
+#: plugin_rellinks.cpp:79
+msgid "&Up"
+msgstr "மேல்"
+
+#: plugin_rellinks.cpp:82
+msgid ""
+"<p>This link references the immediate parent of the current document.</p>"
+msgstr "<p>இந்த இணைப்பு தற்போதைய ஆவணத்தின் பெற்றோரை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:89
+msgid "&First"
+msgstr "முதல்"
+
+#: plugin_rellinks.cpp:92
+msgid ""
+"<p>This link type tells search engines which document is considered by the "
+"author to be the starting point of the collection.</p>"
+msgstr ""
+"<p>இந்த இணைப்பு வகை தேடுதல் இயந்திரத்தை குறிக்கும் ஆவணத்தின் ஆரம்ப புள்ளியின் தொகுப்பினை "
+"நினைவில் ஏற்று கொள்ளும்.</p>"
+
+#: plugin_rellinks.cpp:97
+msgid "&Previous"
+msgstr ""
+
+#: plugin_rellinks.cpp:101
+msgid ""
+"<p>This link references the previous document in an ordered series of "
+"documents.</p>"
+msgstr "<p>இந்த இணைப்பு முந்தைய ஆவணத்தின் ஆவண வரிசையை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:105
+msgid "&Next"
+msgstr ""
+
+#: plugin_rellinks.cpp:108
+msgid ""
+"<p>This link references the next document in an ordered series of documents."
+"</p>"
+msgstr "<p>இந்த இணைப்பு அடுத்த ஆவணத்தின் ஆவண வரிசையை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:113
+msgid "&Last"
+msgstr "இறுதி"
+
+#: plugin_rellinks.cpp:117
+msgid "<p>This link references the end of a sequence of documents.</p>"
+msgstr "<p>இந்த இணைப்பு ஆவணத்தின் இறுதி வரிசைமுறையை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:122
+msgid "&Search"
+msgstr "தேடல்"
+
+#: plugin_rellinks.cpp:125
+msgid "<p>This link references the search.</p>"
+msgstr "<p>இந்த இணைப்பு தேடலை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:130
+msgid "Document"
+msgstr "ஆவணம்"
+
+#: plugin_rellinks.cpp:132
+msgid "<p>This menu contains the links referring the document information.</p>"
+msgstr "<p>இந்த பட்டியலில் உள்ள இணைப்புகள் ஆவண தகவலை குறிக்கிறது.</p>"
+
+#: plugin_rellinks.cpp:136
+msgid "Table of &Contents"
+msgstr "அட்டவணை உள்கொண்டது"
+
+#: plugin_rellinks.cpp:138
+msgid "<p>This link references the table of contents.</p>"
+msgstr "<p>இந்த இணைப்பு அட்டவணை உள்கொண்டதை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:143
+msgid "Chapters"
+msgstr "அத்தியாயங்கள்"
+
+#: plugin_rellinks.cpp:148
+msgid "<p>This menu references the chapters of the document.</p>"
+msgstr "<p>இந்த பட்டியல் ஆவணத்தின் அத்தியாயத்தை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:151
+msgid "Sections"
+msgstr "பிரிவுகள்"
+
+#: plugin_rellinks.cpp:157
+msgid "<p>This menu references the sections of the document.</p>"
+msgstr "<p>இந்த பட்டியல் ஆவணத்தின் பிரிவை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:160
+msgid "Subsections"
+msgstr "உட்பிரிவுகள்"
+
+#: plugin_rellinks.cpp:165
+msgid "<p>This menu references the subsections of the document.</p>"
+msgstr "<p>இந்த பட்டியல் ஆவணத்தின் உட்பிரிவை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:168
+msgid "Appendix"
+msgstr "பின் இணைப்பு"
+
+#: plugin_rellinks.cpp:173
+msgid "<p>This link references the appendix.</p>"
+msgstr "<p>இந்த இணைப்பு பின் இணைப்பை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:177
+msgid "&Glossary"
+msgstr "அகராதி"
+
+#: plugin_rellinks.cpp:180
+msgid "<p>This link references the glossary.</p>"
+msgstr "<p>இந்த இணைப்பு அகராதியை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:185
+msgid "&Index"
+msgstr "சுட்டு"
+
+#: plugin_rellinks.cpp:187
+msgid "<p>This link references the index.</p>"
+msgstr "<p>இந்த இணைப்பு சுட்டிகையை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:193
+msgid "More"
+msgstr "பல"
+
+#: plugin_rellinks.cpp:195
+msgid "<p>This menu contains other important links.</p>"
+msgstr "<p>இந்த பட்டியல் மற்ற முக்கிய இணைப்புகளை கொண்டது.</p>"
+
+#: plugin_rellinks.cpp:199
+msgid "&Help"
+msgstr ""
+
+#: plugin_rellinks.cpp:202
+msgid "<p>This link references the help.</p>"
+msgstr "<p>இந்த இணைப்பு உதவியை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:208
+msgid "&Authors"
+msgstr "ஆசிரியர்கள்"
+
+#: plugin_rellinks.cpp:211
+msgid "<p>This link references the author.</p>"
+msgstr "<p>இந்த இணைப்பு ஆசிரியரை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:217
+msgid "Copy&right"
+msgstr "உரிமம்"
+
+#: plugin_rellinks.cpp:220
+msgid "<p>This link references the copyright.</p>"
+msgstr "<p>இந்த இணைப்பு உரிமைபெற்றதை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:225
+msgid "Bookmarks"
+msgstr ""
+
+#: plugin_rellinks.cpp:228
+msgid "<p>This menu references the bookmarks.</p>"
+msgstr "<p>இந்த பட்டியல் புத்தகக்குறியை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:232
+msgid "Other Versions"
+msgstr "மற்ற பதிப்புகள்"
+
+#: plugin_rellinks.cpp:235
+msgid "<p>This link references the alternate versions of this document.</p>"
+msgstr "<p>இந்த இணைப்பு இந்த ஆவணத்தின் மாற்று பதிப்பை குறிக்கும்.</p>"
+
+#: plugin_rellinks.cpp:240
+#, fuzzy
+msgid "Miscellaneous"
+msgstr "<p>பலவகை இணைப்புகள்.</p>"
+
+#: plugin_rellinks.cpp:243
+msgid "<p>Miscellaneous links.</p>"
+msgstr "<p>பலவகை இணைப்புகள்.</p>"
+
+#: plugin_rellinks.cpp:471 plugin_rellinks.cpp:485
+#, kde-format
+msgid "[Autodetected] %1"
+msgstr ""
+
+#. i18n: file: plugin_rellinks.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+#, fuzzy
+msgid "&Tools"
+msgstr "மேல்"
+
+#. i18n: file: plugin_rellinks.rc:5
+#. i18n: ectx: Menu (rellinksMenu)
+#. i18n: file: plugin_rellinks.rc:21
+#. i18n: ectx: ToolBar (rellinksToolBar)
+#: rc.cpp:6 rc.cpp:9
+msgid "Document Relations"
+msgstr "ஆவணத்தின் தொடர்புகள்"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "விஜய்"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "jvijay_19@yahoo.com"

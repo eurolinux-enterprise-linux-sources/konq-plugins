@@ -1,0 +1,98 @@
+# uachangerplugin Bahasa Melayu (Malay) (ms)
+# Malay translation.
+#
+# FIRST AUTHOR MIMOS <opensource@mimos.my>, 2005.
+# Sharuzzaman Ahmat Raslan <sharuzzaman@myrealbox.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: uachangerplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-05-05 11:29+0200\n"
+"PO-Revision-Date: 2008-07-22 22:06+0800\n"
+"Last-Translator: Sharuzzaman Ahmat Raslan <sharuzzaman@myrealbox.com>\n"
+"Language-Team: Malay <kedidiemas@yahoogroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=1;\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#. i18n: file: uachangerplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: uachangerplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Bar Alat Tambahan"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "MIMOS"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "opensource@mimos.my"
+
+#: uachangerplugin.cpp:47
+msgid "Change Browser Identification"
+msgstr "Ubah Identifikasi Pelayar"
+
+#: uachangerplugin.cpp:63
+msgid "Change Browser &Identification"
+msgstr "Ubah &Identifikasi Pelayar"
+
+#: uachangerplugin.cpp:133
+msgid "Other"
+msgstr "Lain"
+
+#: uachangerplugin.cpp:164
+#, fuzzy, kde-format
+#| msgid "Version %1"
+msgctxt "%1 = browser version (e.g. 2.0)"
+msgid "Version %1"
+msgstr "Versi %1"
+
+#: uachangerplugin.cpp:167
+#, fuzzy, kde-format
+#| msgid "%1 %2 on %3"
+msgctxt "%1 = browser name, %2 = browser version (e.g. Firefox, 2.0)"
+msgid "%1 %2"
+msgstr "%1 %2 dalam %3"
+
+#: uachangerplugin.cpp:173
+#, fuzzy, kde-format
+#| msgid "Version %1 on %2"
+msgctxt "%1 = browser version, %2 = platform (e.g. 2.0, Windows XP)"
+msgid "Version %1 on %2"
+msgstr "Versi %1 dalam %2"
+
+#: uachangerplugin.cpp:176
+#, fuzzy, kde-format
+#| msgid "%1 %2 on %3"
+msgctxt ""
+"%1 = browser name, %2 = browser version, %3 = platform (e.g. Firefox, 2.0, "
+"Windows XP)"
+msgid "%1 %2 on %3"
+msgstr "%1 %2 dalam %3"
+
+#: uachangerplugin.cpp:232
+msgid "Identify As"
+msgstr "Kenal Pasti Sebagai"
+
+#: uachangerplugin.cpp:238
+msgid "Default Identification"
+msgstr "Identifikasi Piawai"
+
+#: uachangerplugin.cpp:266
+msgid "Apply to Entire Site"
+msgstr "Laksanakan pada Seluruh Laman Web"
+
+#: uachangerplugin.cpp:271
+msgid "Configure..."
+msgstr "Tetapkan..."

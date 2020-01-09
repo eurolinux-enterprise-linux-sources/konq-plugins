@@ -1,0 +1,76 @@
+# translation of dirfilterplugin.po to Kazakh
+# Sairan Kikkarin <sairan@computer.org>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dirfilterplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2006-06-14 19:49+0000\n"
+"Last-Translator: Sairan Kikkarin <sairan@computer.org>\n"
+"Language-Team: Kazakh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "Сү&згілеп көрсету"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr "Файлдарды түріне қарай сүзгілеп көрсету."
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr "Сүзгі өрісі"
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "Келесі түріндегі нысандар ғана көрсетілсін"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "Бірнеше сүзгі қолданылсын"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "Санын көрсету"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "Ысырып тастау"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Қосымша құралдар панелі"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "Сүзгі панелі"
+
+#~ msgid "Clear Filter Field"
+#~ msgstr "Сүзгілемеу"
+
+#, fuzzy
+#~| msgid "Clear filter field<p>Clears the content of the filter field."
+#~ msgid "Clear filter field<p>Clears the content of the filter field.</p>"
+#~ msgstr "Сүзгілемеу<p>Сүзгі өрісін тазалау."
+
+#~ msgid ""
+#~ "Enter here a text which an item in the view must contain anywhere to be "
+#~ "shown."
+#~ msgstr "Осында көресетілетін нысандар атауларында бар мәтінді келтіріңіз."

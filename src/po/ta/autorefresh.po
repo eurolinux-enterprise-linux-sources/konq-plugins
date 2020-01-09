@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: autorefresh\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-07-07 11:39+0200\n"
+"PO-Revision-Date: 2004-08-09 23:49--800\n"
+"Last-Translator: I. Felix <ifelix25@yahoo.co.in>\n"
+"Language-Team: KDE <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: autorefresh.cpp:42
+msgid "&Auto Refresh"
+msgstr "&தானாக புதுப்பி "
+
+#: autorefresh.cpp:46
+msgid "None"
+msgstr "ஏதுமில்லை"
+
+#: autorefresh.cpp:47
+msgid "Every 15 Seconds"
+msgstr "ஒவ்வொரு 15  நொடிகளும் "
+
+#: autorefresh.cpp:48
+msgid "Every 30 Seconds"
+msgstr "ஒவ்வொரு 30 நொடிகளும் "
+
+#: autorefresh.cpp:49
+msgid "Every Minute"
+msgstr "ஒவ்வொரு ஒரு நிமிடமும்"
+
+#: autorefresh.cpp:50
+msgid "Every 5 Minutes"
+msgstr "ஒவ்வொரு 5 நிமிடமும்"
+
+#: autorefresh.cpp:51
+msgid "Every 10 Minutes"
+msgstr "ஒவ்வொரு 15 நொடிகளும் "
+
+#: autorefresh.cpp:52
+msgid "Every 15 Minutes"
+msgstr "ஒவ்வொரு 15 நிமிடமும்"
+
+#: autorefresh.cpp:53
+msgid "Every 30 Minutes"
+msgstr "ஒவ்வொரு 30 நிமிடமும்"
+
+#: autorefresh.cpp:54
+msgid "Every 60 Minutes"
+msgstr "ஒவ்வொரு 60 நிமிடமும்"
+
+#: autorefresh.cpp:105
+msgid "Cannot Refresh Source"
+msgstr "மூலத்தை புதுப்பிக்க முடியவில்லை"
+
+#: autorefresh.cpp:106
+msgid "<qt>This plugin cannot auto-refresh the current part.</qt>"
+msgstr "<qt> தற்போதைய பகுதியை தானாக புதுப்பிக்க முடியாது </qt>"
+
+#. i18n: file: autorefresh.rc:5
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""

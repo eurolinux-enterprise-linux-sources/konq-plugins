@@ -1,0 +1,161 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Victor Ibragimov <victor.ibragimov@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: adblock\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-31 06:46+0100\n"
+"PO-Revision-Date: 2009-07-25 01:48+0500\n"
+"Last-Translator: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
+"Language-Team: Tajik <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: adblock.cpp:71
+msgid "Adblock"
+msgstr "Adblock"
+
+#: adblock.cpp:77
+msgid "Show Blockable Elements..."
+msgstr "Намоиши қисмҳо басташуда..."
+
+#: adblock.cpp:82 adblockdialog.cpp:96
+msgid "Configure Filters..."
+msgstr "Танзимоти филтрҳо..."
+
+#: adblock.cpp:91
+msgid "No blocking for this page"
+msgstr "Барои ин саҳифа қулф намонед"
+
+#: adblock.cpp:96
+msgid "No blocking for this site"
+msgstr "Барои ин сайт қулф намонед"
+
+#: adblock.cpp:172
+msgid "Please enable Konqueror's Adblock"
+msgstr "Барои Konqueror's Adblock фаъол созед"
+
+#: adblock.cpp:173
+msgid "Adblock disabled"
+msgstr "Adblock хомӯш аст"
+
+#: adblock.cpp:206
+msgid "script"
+msgstr "скрипт"
+
+#: adblock.cpp:207 adblock.cpp:208
+msgid "object"
+msgstr "объект"
+
+#: adblock.cpp:210
+msgid "frame"
+msgstr "ром"
+
+#: adblock.cpp:231
+msgid "image"
+msgstr "тасвир"
+
+#: adblock.cpp:290
+#, kde-format
+msgid "Blocked by %1"
+msgstr ""
+
+#: adblock.cpp:293
+#, kde-format
+msgid "Allowed by %1"
+msgstr ""
+
+#: adblockdialog.cpp:93
+msgid "Blockable items on this page"
+msgstr "Чизҳои басташаванда барои ин саҳифа"
+
+#: adblockdialog.cpp:98
+msgid "Add filter"
+msgstr "Иловаи филтр"
+
+#: adblockdialog.cpp:107
+msgid "Search:"
+msgstr "Ҷустуҷӯ"
+
+#: adblockdialog.cpp:114
+msgid "Blockable items:"
+msgstr "Чизҳои басташаванда:"
+
+#: adblockdialog.cpp:123
+msgid "Source"
+msgstr "Манбаъ"
+
+#: adblockdialog.cpp:123
+msgid "Category"
+msgstr "Категория"
+
+#: adblockdialog.cpp:123
+msgid "Tag"
+msgstr "Тэг"
+
+#: adblockdialog.cpp:150
+#, fuzzy
+#| msgid "New filter (can use *?[] wildcards, prefix with @@ for white list):"
+msgid ""
+"New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
+"@@ for white list):"
+msgstr ""
+"Филтри нав (метавонед истифода баред *?[] wildcards, prefix бо @@ for white "
+"list):"
+
+#: adblockdialog.cpp:170
+msgid "Filter this item"
+msgstr "Ин чизро тартиб кунед"
+
+#: adblockdialog.cpp:171
+msgid "Filter all items at same path"
+msgstr "Ҳамаи чизҳоро ба ин роҳча тартиб диҳед"
+
+#: adblockdialog.cpp:172
+msgid "Filter all items from same host"
+msgstr "Ҳамаи чизҳоро ба ин роҳча тартиб диҳед"
+
+#: adblockdialog.cpp:173
+msgid "Filter all items from same domain"
+msgstr "Ҳамаи чизҳоро ба ин домейн тартиб диҳед"
+
+#: adblockdialog.cpp:175
+msgid "Add this item to white list"
+msgstr "Ин чизро ба рӯйхати сафед илова кунед"
+
+#: adblockdialog.cpp:177
+msgid "Copy Link Address"
+msgstr "Нусхаи пайванди суроға"
+
+#: adblockdialog.cpp:180
+msgid "View item"
+msgstr "Намоиши қисм"
+
+#. i18n: file: plugin_adblock.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Асбобҳо"
+
+#. i18n: file: plugin_adblock.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Панели асбобҳои иловагӣ"
+
+#~ msgid "Adblock dialog"
+#~ msgstr "Диалоги Adblock"
+
+#~ msgid "Node Name"
+#~ msgstr "Номи Node"
+
+#~ msgid "New filter (use * as a wildcard):"
+#~ msgstr "Филтри нав (аломати * ба ҷои фосила истифода баред):"
+
+#~ msgid "Show it"
+#~ msgstr "Нишон диҳед"

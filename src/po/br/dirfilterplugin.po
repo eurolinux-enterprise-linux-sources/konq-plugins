@@ -1,0 +1,60 @@
+# KDE breton translation
+# Thierry Vignaud <tvignaud@mandriva.com>, 2004-2005
+msgid ""
+msgstr ""
+"Project-Id-Version: messages/kdeaddons/dirfilterplugin.po\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2004-09-20 15:44+0200\n"
+"Last-Translator: Thierry Vignaud <tvignaud@mandriva.com>\n"
+"Language-Team: br <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "Sell ouzh ar s&il"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr ""
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr ""
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr ""
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "Implijit meur a sil"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr ""
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "Adkorañ"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Ostilhoù"
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Barenn ouzhpenn"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "Barenn ostilh ar siloù"

@@ -1,0 +1,81 @@
+# Translation of dirfilterplugin to Croatian
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dirfilterplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2007-03-05 01:20+0100\n"
+"Last-Translator: Renato Pavicic <renato@translator-shop.org>\n"
+"Language-Team: Croatian <kde-croatia-list@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr\n"
+"X-Generator: KBabel 0.9.5\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "Prikaži &filtar"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr "Dopusti filtriranje trenutno prikazanih stavki po vrsti."
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr "Polje filtra"
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "Prikaži samo stavke vrste"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "Upotrijebi višestruke filtre"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "Prikaži broj"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "Poništi"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Alati"
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Dodatna alatna traka"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "Alatna traka filtra"
+
+#~ msgid "Clear Filter Field"
+#~ msgstr "Izbriši polje filtra"
+
+#, fuzzy
+#~| msgid "Clear filter field<p>Clears the content of the filter field."
+#~ msgid "Clear filter field<p>Clears the content of the filter field.</p>"
+#~ msgstr "Brasnje polja filtra<p>briše njegov sadržaj."
+
+#~ msgid ""
+#~ "Enter here a text which an item in the view must contain anywhere to be "
+#~ "shown."
+#~ msgstr ""
+#~ "Unesite tekst koje stavka u prikazu mora uvijek sadržavati da bi bila "
+#~ "prikazana."

@@ -1,0 +1,179 @@
+# translation of babelfish.po to Khmer
+#
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2006, 2007, 2008.
+# Auk Piseth <piseth_dv@khmeros.info>, 2007, 2008.
+# AUK Piseth <piseth_dv@khmeros.info>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: babelfish\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-17 07:03+0200\n"
+"PO-Revision-Date: 2008-12-19 08:59+0700\n"
+"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
+"Language-Team: Khmer <support@khmeros.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"\n"
+
+#: plugin_babelfish.cpp:50
+msgid "Translate Web Page"
+msgstr "បកប្រែ​ទំព័រ​​បណ្ដាញ​"
+
+#: plugin_babelfish.cpp:60
+msgid "Translate Web &Page"
+msgstr "បក​ប្រែ​ទំព័រ​បណ្ដាញ"
+
+#: plugin_babelfish.cpp:66
+msgid "&English To"
+msgstr "ភាសា​អង់គ្លេស​ទៅជា​"
+
+#: plugin_babelfish.cpp:69
+msgid "&French To"
+msgstr "ភាសា​បារាំង​ទៅ​ជា"
+
+#: plugin_babelfish.cpp:72
+msgid "&German To"
+msgstr "ភាសា​អាល្លឺម៉ង់​ទៅ​ជា"
+
+#: plugin_babelfish.cpp:76
+msgid "&Spanish To"
+msgstr "ភាសា​អេស្ប៉ាញ​ទៅ​ជា"
+
+#: plugin_babelfish.cpp:80
+msgid "&Portuguese To"
+msgstr "ភាសា​ព័រទុយហ្គាល់​ទៅ​ជា"
+
+#: plugin_babelfish.cpp:84
+msgid "&Italian To"
+msgstr "ភាសា​អ៊ីតាលី​ទៅ​ជា"
+
+#: plugin_babelfish.cpp:88
+msgid "&Dutch To"
+msgstr "ភាសា​ហុល្លង់​​ទៅ​ជា"
+
+#: plugin_babelfish.cpp:94
+msgid "&Chinese (Simplified)"
+msgstr "ភាសា​ចិន (សាមញ្ញ)"
+
+#: plugin_babelfish.cpp:95
+msgid "Chinese (&Traditional)"
+msgstr "ភាសា​ចិន (បុរាណ)"
+
+#: plugin_babelfish.cpp:96 plugin_babelfish.cpp:107
+msgid "&Dutch"
+msgstr "ភាសា​ហុល្លង់"
+
+#: plugin_babelfish.cpp:97 plugin_babelfish.cpp:114 plugin_babelfish.cpp:116
+#: plugin_babelfish.cpp:118 plugin_babelfish.cpp:120 plugin_babelfish.cpp:122
+msgid "&French"
+msgstr "ភាសា​បារាំង"
+
+#: plugin_babelfish.cpp:98 plugin_babelfish.cpp:109
+msgid "&German"
+msgstr "ភាសា​អាល្លឺម៉ង់"
+
+#: plugin_babelfish.cpp:99 plugin_babelfish.cpp:110
+msgid "&Italian"
+msgstr "ភាសា​អ៊ីតាលី"
+
+#: plugin_babelfish.cpp:100
+msgid "&Japanese"
+msgstr "ភាសា​ជប៉ុន"
+
+#: plugin_babelfish.cpp:101
+msgid "&Korean"
+msgstr "ភាសាកូរ៉េ"
+
+#: plugin_babelfish.cpp:102
+msgid "&Norwegian"
+msgstr "ភាសា​ន័រវែស"
+
+#: plugin_babelfish.cpp:103 plugin_babelfish.cpp:111
+msgid "&Portuguese"
+msgstr "ភាសា​ព័រទុយហ្គាល់​"
+
+#: plugin_babelfish.cpp:104
+msgid "&Russian"
+msgstr "ភាសា​រុស្សី"
+
+#: plugin_babelfish.cpp:105 plugin_babelfish.cpp:112
+msgid "&Spanish"
+msgstr "ភាសា​អេស្ប៉ាញ"
+
+#: plugin_babelfish.cpp:106
+msgid "T&hai"
+msgstr "ភាសា​ថៃ"
+
+#: plugin_babelfish.cpp:108 plugin_babelfish.cpp:113 plugin_babelfish.cpp:115
+#: plugin_babelfish.cpp:117 plugin_babelfish.cpp:119 plugin_babelfish.cpp:121
+msgid "&English"
+msgstr "ភាសា​អង់គ្លេស"
+
+#: plugin_babelfish.cpp:123 plugin_babelfish.cpp:142
+msgid "&Chinese (Simplified) to English"
+msgstr "ភាសា​ចិន (សាមញ្ញ) ទៅ​ជា​ភាសា​អង់គ្លេស"
+
+#: plugin_babelfish.cpp:124 plugin_babelfish.cpp:147
+msgid "Chinese (&Traditional) to English"
+msgstr "ភាសា​ចិន (បុរាណ) ទៅជា​ភាសា​អង់គ្លេស"
+
+#: plugin_babelfish.cpp:158
+msgid "&Japanese to English"
+msgstr "ភាសា​ជប៉ុន​ទៅ​ជា​ភាសា​អង់គ្លេស"
+
+#: plugin_babelfish.cpp:163
+msgid "&Korean to English"
+msgstr "ភាសា​កូរ៉េ​ទៅ​ជា​ភាសា​អង់គ្លេស"
+
+#: plugin_babelfish.cpp:170
+msgid "&Russian to English"
+msgstr "ភាសា​រុស្សី​ទៅ​ជា​អង់គ្លេស"
+
+#: plugin_babelfish.cpp:214
+msgid "Cannot Translate Source"
+msgstr "មិន​អាច​បក​ប្រែ​ប្រភព"
+
+#: plugin_babelfish.cpp:215
+msgid "Only web pages can be translated using this plugin."
+msgstr "មាន​តែ​ទំព័រ​បណ្ដាញ​ប៉ុណ្ណោះ​អាច​ត្រូវ​បាន​បក​ប្រែ​ដោយ​ប្រើ​កម្មវិធី​ជំនួយ​នេះ ។"
+
+#: plugin_babelfish.cpp:261
+msgid "Only full webpages can be translated for this language pair."
+msgstr "មាន​តែ​ទំព័រ​បណ្ដាញ​ពេញលេញ​ប៉ុណ្ណោះ​អាច​ត្រូវ​បាន​បក​ប្រែ​សម្រាប់​គូ​ភាសា​នេះ ។"
+
+#: plugin_babelfish.cpp:261
+msgid "Translation Error"
+msgstr "កំហុស​​​​​បកប្រែ"
+
+#: plugin_babelfish.cpp:269
+msgid "Malformed URL"
+msgstr "URL វិរូប"
+
+#: plugin_babelfish.cpp:270
+msgid "The URL you entered is not valid, please correct it and try again."
+msgstr "URL ដែល​អ្នក​បាន​បញ្ចូល​មិន​ត្រឹមត្រូវ​ទេ ។ សូម​កែ​វា​ និង​ព្យាយាម​ម្ដង​ទៀត ។"
+
+#. i18n: file: plugin_babelfish.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "ឧបករណ៍"
+
+#. i18n: file: plugin_babelfish.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "របារ​ឧបករណ៍​បន្ថែម"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ខឹម សុខែម, អេង វណ្ណៈ, អោក ពិសិដ្ឋ​​"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "khoemsokhem@khmeros.info,​​evannak@khmeros.info,piseth_dv@khmeros.info"

@@ -1,0 +1,78 @@
+# translation of searchbarplugin.po to Arabic
+# translation of searchbarplugin.po to
+#
+# محمد سعد  Mohamed SAAD <metehyi@free.fr>, 2006.
+# Youssef Chahibi <chahibi@gmail.com>, 2007.
+# zayed <zayed.alsaidi@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: searchbarplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-11 06:35+0200\n"
+"PO-Revision-Date: 2008-12-30 20:33+0400\n"
+"Last-Translator: zayed <zayed.alsaidi@gmail.com>\n"
+"Language-Team: Arabic <linuxac-kde-arabic-team@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#. i18n: file: searchbar.rc:3
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:3
+msgid "Search Toolbar"
+msgstr "شريط أدوات البحث"
+
+#: searchbar.cpp:82
+msgid ""
+"Search Bar<p>Enter a search term. Click on the icon to change search mode or "
+"provider.</p>"
+msgstr ""
+"شريط البحث<p>ادخل كلمة البحث. انقر على الأيقونة لتغير نمط المبحث أو المزود.</"
+"p>"
+
+#: searchbar.cpp:90
+msgid "Search Bar"
+msgstr "شريط البحث"
+
+#: searchbar.cpp:95
+msgid "Focus Searchbar"
+msgstr "ركِز على شريط البحث"
+
+#: searchbar.cpp:318
+msgid "Find in This Page"
+msgstr "ابحث في هذه الصفحة"
+
+#: searchbar.cpp:347
+msgid "Select Search Engines..."
+msgstr "اختر محركات البحث..."
+
+#: searchbar.cpp:367
+msgid "Add "
+msgstr ""
+
+#: searchbar.cpp:631
+msgid "Enable Suggestion"
+msgstr ""
+
+#: WebShortcutWidget.cpp:43
+msgid "Set Uri Shortcuts"
+msgstr ""
+
+#: WebShortcutWidget.cpp:57
+msgid "Name:"
+msgstr ""
+
+#: WebShortcutWidget.cpp:61
+msgid "Shortcuts:"
+msgstr ""
+
+#: WebShortcutWidget.cpp:71
+msgid "Ok"
+msgstr ""
+
+#: WebShortcutWidget.cpp:76
+msgid "Cancel"
+msgstr ""

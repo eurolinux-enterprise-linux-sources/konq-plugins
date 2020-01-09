@@ -1,0 +1,245 @@
+# Heiko Evermann <heiko@evermann.de>, 2004.
+# Manfred Wiese <m.j.wiese@web.de>, 2006.
+# Sönke Dibbern <s_dibbern@web.de>, 2006, 2007.
+# Translation of imgalleryplugin.po to Low Saxon
+msgid ""
+msgstr ""
+"Project-Id-Version: imgalleryplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2007-08-28 19:34+0200\n"
+"Last-Translator: Sönke Dibbern <s_dibbern@web.de>\n"
+"Language-Team: Low Saxon <kde-i18n-nds@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: imgallerydialog.cpp:53
+msgid "Configure"
+msgstr "Instellen"
+
+#: imgallerydialog.cpp:61
+msgid "Create Image Gallery"
+msgstr "Bildgalerie opstellen"
+
+#: imgallerydialog.cpp:62
+msgid "Create"
+msgstr "Opstellen"
+
+#: imgallerydialog.cpp:72 imgallerydialog.cpp:113
+#, kde-format
+msgid "Image Gallery for %1"
+msgstr "Bildgalerie för %1"
+
+#: imgallerydialog.cpp:99
+msgid "Look"
+msgstr "Utsehn"
+
+#: imgallerydialog.cpp:100
+msgid "Page Look"
+msgstr "Siedenutsehn"
+
+#: imgallerydialog.cpp:110
+msgid "&Page title:"
+msgstr "&Siedentitel:"
+
+#: imgallerydialog.cpp:120
+msgid "I&mages per row:"
+msgstr "&Biller per Reeg:"
+
+#: imgallerydialog.cpp:128
+msgid "Show image file &name"
+msgstr "Bilddatei-&Naam wiesen"
+
+#: imgallerydialog.cpp:132
+msgid "Show image file &size"
+msgstr "Bilddatei-&Grött wiesen"
+
+#: imgallerydialog.cpp:136
+msgid "Show image &dimensions"
+msgstr "Bild&afmeten wiesen"
+
+#: imgallerydialog.cpp:149
+msgid "Fon&t name:"
+msgstr "Schriftoort&naam:"
+
+#: imgallerydialog.cpp:161
+msgid "Font si&ze:"
+msgstr "Schrift&grött:"
+
+#: imgallerydialog.cpp:173
+msgid "&Foreground color:"
+msgstr "&Vörgrundklöör:"
+
+#: imgallerydialog.cpp:185
+msgid "&Background color:"
+msgstr "&Achtergrundklöör:"
+
+#: imgallerydialog.cpp:196 imgallerydialog.cpp:197
+msgid "Folders"
+msgstr "Ornern"
+
+#: imgallerydialog.cpp:206
+msgid "&Save to HTML file:"
+msgstr "Na HTML-Datei &sekern:"
+
+#: imgallerydialog.cpp:209
+msgid "<p>The name of the HTML file this gallery will be saved to.</p>"
+msgstr "<p>De Naam vun de HTML-Datei, na de disse Galerie sekert warrt.</p>"
+
+#: imgallerydialog.cpp:220
+msgid "&Recurse subfolders"
+msgstr "Ünne&rornern insluten"
+
+#: imgallerydialog.cpp:222
+msgid ""
+"<p>Whether subfolders should be included for the image gallery creation or "
+"not.</p>"
+msgstr ""
+"<p>Dit leggt fast, wat Ünnerornern för de Bildgalerie inslaten warrt.</p>"
+
+#: imgallerydialog.cpp:230
+msgid "Rec&ursion depth:"
+msgstr "&Insluut-Deepde:"
+
+#: imgallerydialog.cpp:232
+msgid "Endless"
+msgstr "Ahn Enn"
+
+#: imgallerydialog.cpp:234
+msgid ""
+"<p>You can limit the number of folders the image gallery creator will "
+"traverse to by setting an upper bound for the recursion depth.</p>"
+msgstr ""
+"<p>Du kannst de Tall vun Ornern, de de Bildgalerie-Opsteller dörkieken "
+"schall, mit en Övergrenz för de Söökdeepde ingrenzen.</p>"
+
+#: imgallerydialog.cpp:246
+msgid "Copy or&iginal files"
+msgstr "Org&inaaldateien koperen"
+
+#: imgallerydialog.cpp:249
+msgid ""
+"<p>This makes a copy of all images and the gallery will refer to these "
+"copies instead of the original images.</p>"
+msgstr ""
+"<p>Dit maakt en Kopie vun all Biller, un de Galerie bruukt denn de Kopien "
+"ansteed de Orginaalbiller.</p>"
+
+#: imgallerydialog.cpp:255
+msgid "Use &comment file"
+msgstr "&Kommentardatei bruken"
+
+#: imgallerydialog.cpp:259
+msgid ""
+"<p>If you enable this option you can specify a comment file which will be "
+"used for generating subtitles for the images.</p><p>For details about the "
+"file format please see the \"What's This?\" help below.</p>"
+msgstr ""
+"<p>Wenn Du disse Optschoon anmaakst, kannst Du en Kommentardatei för't "
+"Opstellen vun Ünnertiteln för de Biller fastleggen.</p><p>Enkelheiten över "
+"dat Dateiformaat laat sik nerrn in de Hülp \"Wat is dat?\" finnen.</p>"
+
+#: imgallerydialog.cpp:266
+msgid "Comments &file:"
+msgstr "Kommentar&datei:"
+
+#: imgallerydialog.cpp:269
+msgid ""
+"<p>You can specify the name of the comment file here. The comment file "
+"contains the subtitles for the images. The format of this file is:</"
+"p><p>FILENAME1:<br />Description<br /><br />FILENAME2:<br />Description<br /"
+"><br />and so on</p>"
+msgstr ""
+"<p>Hier kannst Du den Naam för de Kommentardatei fastleggen. De "
+"Kommentardatei bargt de Ünnertiteln för de Biller. Ehr Formaat is:</"
+"p><p>DATEINAAM1:<br />Beschrieven<br /><br />DATEINAAM2:<br /"
+">Beschrieven<br /><br />un so wieder</p>"
+
+#: imgallerydialog.cpp:297 imgallerydialog.cpp:298
+msgid "Thumbnails"
+msgstr "Vöransichten"
+
+#: imgallerydialog.cpp:317
+msgid "Image format f&or the thumbnails:"
+msgstr "Bildf&ormaat för de Vöransichten:"
+
+#: imgallerydialog.cpp:325
+msgid "Thumbnail size:"
+msgstr "Grött vun de Vöransichten:"
+
+#: imgallerydialog.cpp:337
+msgid "&Set different color depth:"
+msgstr "Egen Klöördeepde fa&stleggen:"
+
+#: imgalleryplugin.cpp:59
+msgid "&Create Image Gallery..."
+msgstr "&Bildgalerie opstellen..."
+
+#: imgalleryplugin.cpp:70
+msgid "Could not create the plugin, please report a bug."
+msgstr "Dat Moduul lett sik nich opstellen, bitte mell den Fehler."
+
+#: imgalleryplugin.cpp:76
+msgid "Creating an image gallery works only on local folders."
+msgstr "Dat Opstellen vun en Bildgalerie löppt bloots op lokaal Ornern."
+
+#: imgalleryplugin.cpp:95
+msgid "Creating thumbnails"
+msgstr "Vöransichten warrt maakt"
+
+#: imgalleryplugin.cpp:116 imgalleryplugin.cpp:279
+#, kde-format
+msgid "Could not create folder: %1"
+msgstr "Orner \"%1\" lett sik nich opstellen."
+
+#: imgalleryplugin.cpp:177
+#, kde-format
+msgid "<i>Number of images</i>: %1"
+msgstr "<i>Tall vun Biller</i>: %1"
+
+#: imgalleryplugin.cpp:178
+#, kde-format
+msgid "<i>Created on</i>: %1"
+msgstr "<i>Opstellt an'n</i>: %1"
+
+#: imgalleryplugin.cpp:183
+msgid "<i>Subfolders</i>:"
+msgstr "<i>Ünnerornern</i>:"
+
+#: imgalleryplugin.cpp:216
+#, kde-format
+msgid ""
+"Created thumbnail for: \n"
+"%1"
+msgstr ""
+"Vöransicht opstellt för: \n"
+"%1"
+
+#: imgalleryplugin.cpp:219
+#, kde-format
+msgid ""
+"Creating thumbnail for: \n"
+"%1\n"
+" failed"
+msgstr ""
+"Vöransicht opstellen för: \n"
+"%1\n"
+" is fehlslaan"
+
+#: imgalleryplugin.cpp:237
+msgid "KB"
+msgstr "kB"
+
+#: imgalleryplugin.cpp:333 imgalleryplugin.cpp:428
+#, kde-format
+msgid "Could not open file: %1"
+msgstr "Datei \"%1\" lett sik nich opmaken"
+
+#. i18n: file: kimgalleryplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Warktüüch"

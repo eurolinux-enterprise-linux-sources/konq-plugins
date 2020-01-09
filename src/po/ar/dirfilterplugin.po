@@ -1,0 +1,69 @@
+# translation of dirfilterplugin.po to Arabic
+# translation of dirfilterplugin.po to
+# Copyright (C) 2001,2002, 2006, 2007, 2008 Free Software Foundation, Inc.
+#
+# Mohammed Gamal <f2c2001@yahoo.com>, 2001.
+# Isam Bayazidi <bayazidi@arabeyes.org>, 2002.
+# محمد سعد  Mohamed SAAD <metehyi@free.fr>, 2006.
+# Youssef Chahibi <chahibi@gmail.com>, 2007.
+# zayed <zayed.alsaidi@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: dirfilterplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2008-12-30 20:32+0400\n"
+"Last-Translator: zayed <zayed.alsaidi@gmail.com>\n"
+"Language-Team: Arabic <linuxac-kde-arabic-team@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "ا&عرض المرشح"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr "اسمح بترشيح البنود المعروضة حالياً حسب نوع الملف."
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr "حقل المرشح"
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "أعرض فقط البنود من النوع"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "إستعمال مرشحات متعددة"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "أظهر العدد"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "استعد"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "أ&دوات"
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "شريط أدوات إضافي"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "شريط أدوات المرشح"

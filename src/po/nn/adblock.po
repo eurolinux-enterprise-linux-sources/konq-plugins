@@ -1,0 +1,149 @@
+# Translation of adblock to Norwegian Nynorsk
+#
+# Karl Ove Hufthammer <karl@huftis.org>, 2008.
+# Eirik U. Birkeland <eirbir@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: adblock\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-31 06:46+0100\n"
+"PO-Revision-Date: 2009-01-08 15:30+0100\n"
+"Last-Translator: Eirik U. Birkeland <eirbir@gmail.com>\n"
+"Language-Team: Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: nn\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: adblock.cpp:71
+msgid "Adblock"
+msgstr "Reklamestopp"
+
+#: adblock.cpp:77
+msgid "Show Blockable Elements..."
+msgstr ""
+
+#: adblock.cpp:82 adblockdialog.cpp:96
+msgid "Configure Filters..."
+msgstr ""
+
+#: adblock.cpp:91
+msgid "No blocking for this page"
+msgstr ""
+
+#: adblock.cpp:96
+msgid "No blocking for this site"
+msgstr ""
+
+#: adblock.cpp:172
+msgid "Please enable Konqueror's Adblock"
+msgstr "Slå på reklamestopp i Konqueror"
+
+#: adblock.cpp:173
+msgid "Adblock disabled"
+msgstr "Reklamestopp slått av"
+
+#: adblock.cpp:206
+msgid "script"
+msgstr "skript"
+
+#: adblock.cpp:207 adblock.cpp:208
+msgid "object"
+msgstr "objekt"
+
+#: adblock.cpp:210
+msgid "frame"
+msgstr ""
+
+#: adblock.cpp:231
+msgid "image"
+msgstr "bilete"
+
+#: adblock.cpp:290
+#, kde-format
+msgid "Blocked by %1"
+msgstr ""
+
+#: adblock.cpp:293
+#, kde-format
+msgid "Allowed by %1"
+msgstr ""
+
+#: adblockdialog.cpp:93
+msgid "Blockable items on this page"
+msgstr ""
+
+#: adblockdialog.cpp:98
+msgid "Add filter"
+msgstr ""
+
+#: adblockdialog.cpp:107
+msgid "Search:"
+msgstr ""
+
+#: adblockdialog.cpp:114
+msgid "Blockable items:"
+msgstr ""
+
+#: adblockdialog.cpp:123
+msgid "Source"
+msgstr "Kjelde"
+
+#: adblockdialog.cpp:123
+msgid "Category"
+msgstr "Kategori"
+
+#: adblockdialog.cpp:123
+msgid "Tag"
+msgstr ""
+
+#: adblockdialog.cpp:150
+msgid ""
+"New filter (can use *?[] wildcards, /RE/ for regular expression, prefix with "
+"@@ for white list):"
+msgstr ""
+
+#: adblockdialog.cpp:170
+msgid "Filter this item"
+msgstr "Filtrer elementet"
+
+#: adblockdialog.cpp:171
+msgid "Filter all items at same path"
+msgstr "Filtrer alle elementa på same adresse"
+
+#: adblockdialog.cpp:172
+msgid "Filter all items from same host"
+msgstr ""
+
+#: adblockdialog.cpp:173
+msgid "Filter all items from same domain"
+msgstr ""
+
+#: adblockdialog.cpp:175
+msgid "Add this item to white list"
+msgstr "Legg til kvitelista"
+
+#: adblockdialog.cpp:177
+msgid "Copy Link Address"
+msgstr "Kopier lenkjeadresse"
+
+#: adblockdialog.cpp:180
+msgid "View item"
+msgstr ""
+
+#. i18n: file: plugin_adblock.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "V&erktøy"
+
+#. i18n: file: plugin_adblock.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Ekstra-verktøylinje"

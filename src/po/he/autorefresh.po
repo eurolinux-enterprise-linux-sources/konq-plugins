@@ -1,0 +1,69 @@
+# translation of autorefresh.po to hebrew
+# Diego Iastrubni <elcuco@kdemail.net>, 2004.
+msgid ""
+msgstr ""
+"Project-Id-Version: autorefresh\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-07-07 11:39+0200\n"
+"PO-Revision-Date: 2004-04-23 01:58+0300\n"
+"Last-Translator: Diego Iastrubni <elcuco@kdemail.net>\n"
+"Language-Team: hebrew <kde-il@yahoogroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: autorefresh.cpp:42
+msgid "&Auto Refresh"
+msgstr "רענון &אוטומטי"
+
+#: autorefresh.cpp:46
+msgid "None"
+msgstr "ללא"
+
+#: autorefresh.cpp:47
+msgid "Every 15 Seconds"
+msgstr "כל 15 שניות"
+
+#: autorefresh.cpp:48
+msgid "Every 30 Seconds"
+msgstr "כל 30 שניות"
+
+#: autorefresh.cpp:49
+msgid "Every Minute"
+msgstr "כל קדה"
+
+#: autorefresh.cpp:50
+msgid "Every 5 Minutes"
+msgstr "כל 5 דקות"
+
+#: autorefresh.cpp:51
+msgid "Every 10 Minutes"
+msgstr "כל 10 דקות"
+
+#: autorefresh.cpp:52
+msgid "Every 15 Minutes"
+msgstr "כל 15 דקות"
+
+#: autorefresh.cpp:53
+msgid "Every 30 Minutes"
+msgstr "כל 30 דקות"
+
+#: autorefresh.cpp:54
+msgid "Every 60 Minutes"
+msgstr "כל 60 דקות"
+
+#: autorefresh.cpp:105
+msgid "Cannot Refresh Source"
+msgstr "לא יכול לרענן מקור"
+
+#: autorefresh.cpp:106
+msgid "<qt>This plugin cannot auto-refresh the current part.</qt>"
+msgstr "<qt>תוסף זה לא יכול לרענן חלק זה</qt<"
+
+#. i18n: file: autorefresh.rc:5
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr ""

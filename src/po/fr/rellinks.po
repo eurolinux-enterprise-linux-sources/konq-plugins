@@ -1,0 +1,243 @@
+# translation of rellinks.po to Français
+# Cedric Pasteur <cedric.pasteur@free.fr>, 2004.
+# Matthieu Robin <matthieu@macolu.org>, 2005.
+# Nicolas Ternisien <nicolas.ternisien@gmail.com>, 2008.
+# traduction de rellinks.po en Français
+msgid ""
+msgstr ""
+"Project-Id-Version: rellinks\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2008-01-11 13:39+0100\n"
+"Last-Translator: Nicolas Ternisien <nicolas.ternisien@gmail.com>\n"
+"Language-Team: Français <kde-francophone@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Accelerator-Marker: &\n"
+
+#: plugin_rellinks.cpp:56
+msgid "Rellinks"
+msgstr "Rellinks"
+
+#: plugin_rellinks.cpp:71
+msgid "&Top"
+msgstr "&Accueil"
+
+#: plugin_rellinks.cpp:74
+msgid "<p>This link references a home page or the top of some hierarchy.</p>"
+msgstr ""
+"<p>Ce lien renvoie à la page d'accueil ou au sommet d'une hiérarchie.</p>"
+
+#: plugin_rellinks.cpp:79
+msgid "&Up"
+msgstr "&Document parent"
+
+#: plugin_rellinks.cpp:82
+msgid ""
+"<p>This link references the immediate parent of the current document.</p>"
+msgstr "<p>Ce lien renvoie au parent direct du document actuel.</p>"
+
+#: plugin_rellinks.cpp:89
+msgid "&First"
+msgstr "&Premier"
+
+#: plugin_rellinks.cpp:92
+msgid ""
+"<p>This link type tells search engines which document is considered by the "
+"author to be the starting point of the collection.</p>"
+msgstr ""
+"<p>Ce lien indique aux moteurs de recherche quel document est considéré par "
+"l'auteur comme le point de départ de la collection.</p>"
+
+#: plugin_rellinks.cpp:97
+msgid "&Previous"
+msgstr "&Précédent"
+
+#: plugin_rellinks.cpp:101
+msgid ""
+"<p>This link references the previous document in an ordered series of "
+"documents.</p>"
+msgstr ""
+"<p>Ce lien renvoie au document précédent dans une série ordonnée de "
+"documents.</p>"
+
+#: plugin_rellinks.cpp:105
+msgid "&Next"
+msgstr "&Suivant"
+
+#: plugin_rellinks.cpp:108
+msgid ""
+"<p>This link references the next document in an ordered series of documents."
+"</p>"
+msgstr ""
+"<p>Ce lien renvoie au document suivant dans une série ordonnée de documents."
+"</p>"
+
+#: plugin_rellinks.cpp:113
+msgid "&Last"
+msgstr "&Dernier"
+
+#: plugin_rellinks.cpp:117
+msgid "<p>This link references the end of a sequence of documents.</p>"
+msgstr "<p>Ce lien renvoie à la fin de la série de documents.</p>"
+
+#: plugin_rellinks.cpp:122
+msgid "&Search"
+msgstr "&Chercher"
+
+#: plugin_rellinks.cpp:125
+msgid "<p>This link references the search.</p>"
+msgstr "<p>Ce lien renvoie à la recherche.</p>"
+
+#: plugin_rellinks.cpp:130
+msgid "Document"
+msgstr "Document"
+
+#: plugin_rellinks.cpp:132
+msgid "<p>This menu contains the links referring the document information.</p>"
+msgstr ""
+"<p>Ce menu contient les liens relatifs aux informations sur le document.</p>"
+
+#: plugin_rellinks.cpp:136
+msgid "Table of &Contents"
+msgstr "Table des &matières"
+
+#: plugin_rellinks.cpp:138
+msgid "<p>This link references the table of contents.</p>"
+msgstr "<p>Ce lien renvoie à la table des matières.</p>"
+
+#: plugin_rellinks.cpp:143
+msgid "Chapters"
+msgstr "Chapitres"
+
+#: plugin_rellinks.cpp:148
+msgid "<p>This menu references the chapters of the document.</p>"
+msgstr "<p>Ce menu renvoie aux chapitres du document.</p>"
+
+#: plugin_rellinks.cpp:151
+msgid "Sections"
+msgstr "Sections"
+
+#: plugin_rellinks.cpp:157
+msgid "<p>This menu references the sections of the document.</p>"
+msgstr "<p>Ce menu renvoie aux sections du document.</p>"
+
+#: plugin_rellinks.cpp:160
+msgid "Subsections"
+msgstr "Sous-sections"
+
+#: plugin_rellinks.cpp:165
+msgid "<p>This menu references the subsections of the document.</p>"
+msgstr "<p>Ce menu renvoie aux sous-sections du document.</p>"
+
+#: plugin_rellinks.cpp:168
+msgid "Appendix"
+msgstr "Annexe"
+
+#: plugin_rellinks.cpp:173
+msgid "<p>This link references the appendix.</p>"
+msgstr "<p>Ce lien renvoie à l'annexe.</p>"
+
+#: plugin_rellinks.cpp:177
+msgid "&Glossary"
+msgstr "&Glossaire"
+
+#: plugin_rellinks.cpp:180
+msgid "<p>This link references the glossary.</p>"
+msgstr "<p>Ce lien renvoie au glossaire.</p>"
+
+#: plugin_rellinks.cpp:185
+msgid "&Index"
+msgstr "&Index"
+
+#: plugin_rellinks.cpp:187
+msgid "<p>This link references the index.</p>"
+msgstr "<p>Ce lien renvoie à l'index.</p>"
+
+#: plugin_rellinks.cpp:193
+msgid "More"
+msgstr "Plus"
+
+#: plugin_rellinks.cpp:195
+msgid "<p>This menu contains other important links.</p>"
+msgstr "<p>Ce menu contient d'autres liens importants.</p>"
+
+#: plugin_rellinks.cpp:199
+msgid "&Help"
+msgstr "&Aide"
+
+#: plugin_rellinks.cpp:202
+msgid "<p>This link references the help.</p>"
+msgstr "<p>Ce lien renvoie à l'aide.</p>"
+
+#: plugin_rellinks.cpp:208
+msgid "&Authors"
+msgstr "&Auteurs"
+
+#: plugin_rellinks.cpp:211
+msgid "<p>This link references the author.</p>"
+msgstr "<p>Ce lien renvoie à l'auteur.</p>"
+
+#: plugin_rellinks.cpp:217
+msgid "Copy&right"
+msgstr "Copy&right"
+
+#: plugin_rellinks.cpp:220
+msgid "<p>This link references the copyright.</p>"
+msgstr "<p>Ce lien renvoie au copyright.</p>"
+
+#: plugin_rellinks.cpp:225
+msgid "Bookmarks"
+msgstr "Signets"
+
+#: plugin_rellinks.cpp:228
+msgid "<p>This menu references the bookmarks.</p>"
+msgstr "<p>Ce menu renvoie aux signets.</p>"
+
+#: plugin_rellinks.cpp:232
+msgid "Other Versions"
+msgstr "Autres versions"
+
+#: plugin_rellinks.cpp:235
+msgid "<p>This link references the alternate versions of this document.</p>"
+msgstr "<p>Ce lien renvoie à d'autres versions du document.</p>"
+
+#: plugin_rellinks.cpp:240
+msgid "Miscellaneous"
+msgstr "Divers"
+
+#: plugin_rellinks.cpp:243
+msgid "<p>Miscellaneous links.</p>"
+msgstr "<p>Liens divers</p>"
+
+#: plugin_rellinks.cpp:471 plugin_rellinks.cpp:485
+#, kde-format
+msgid "[Autodetected] %1"
+msgstr "%1 [détecté automatiquement]"
+
+#. i18n: file: plugin_rellinks.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Outils"
+
+#. i18n: file: plugin_rellinks.rc:5
+#. i18n: ectx: Menu (rellinksMenu)
+#. i18n: file: plugin_rellinks.rc:21
+#. i18n: ectx: ToolBar (rellinksToolBar)
+#: rc.cpp:6 rc.cpp:9
+msgid "Document Relations"
+msgstr "Relations du document"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Cédric Pasteur"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "cedric.pasteur@free.fr"

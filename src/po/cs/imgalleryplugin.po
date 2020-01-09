@@ -1,0 +1,248 @@
+# translation of imgalleryplugin.po to
+# Copyright (C) 2002,2003, 2004, 2005, 2008 Free Software Foundation, Inc.
+#
+# Lukáš Tinkl <lukas@kde.org>, 2002, 2003, 2004, 2005.
+# Ivo Jánský <Ivo.Jansky@seznam.cz>, 2003.
+# David Kolibac <kolibac@gmail.com>, 2008.
+# Vit Pelcak <vit@pelcak.org>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: imgalleryplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2008-11-06 09:14+0100\n"
+"Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
+"Language-Team: Czech <kde-i18n-doc@lists.kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: imgallerydialog.cpp:53
+msgid "Configure"
+msgstr "Nastavit"
+
+#: imgallerydialog.cpp:61
+msgid "Create Image Gallery"
+msgstr "Vytvořit obrázkovou galerii"
+
+#: imgallerydialog.cpp:62
+msgid "Create"
+msgstr "Vytvořit"
+
+#: imgallerydialog.cpp:72 imgallerydialog.cpp:113
+#, kde-format
+msgid "Image Gallery for %1"
+msgstr "Galerie obrázků pro %1"
+
+#: imgallerydialog.cpp:99
+msgid "Look"
+msgstr "Vzhled"
+
+#: imgallerydialog.cpp:100
+msgid "Page Look"
+msgstr "Vzhled stránky"
+
+#: imgallerydialog.cpp:110
+msgid "&Page title:"
+msgstr "&Titulek stránky:"
+
+#: imgallerydialog.cpp:120
+msgid "I&mages per row:"
+msgstr "O&brázků na řádek:"
+
+#: imgallerydialog.cpp:128
+msgid "Show image file &name"
+msgstr "Zobrazit &název souboru s obrázkem"
+
+#: imgallerydialog.cpp:132
+msgid "Show image file &size"
+msgstr "Přidat velikost &souboru s obrázkem"
+
+#: imgallerydialog.cpp:136
+msgid "Show image &dimensions"
+msgstr "Při&dat rozměry obrázku"
+
+#: imgallerydialog.cpp:149
+msgid "Fon&t name:"
+msgstr "Náz&ev písma:"
+
+#: imgallerydialog.cpp:161
+msgid "Font si&ze:"
+msgstr "Velikost &písma:"
+
+#: imgallerydialog.cpp:173
+msgid "&Foreground color:"
+msgstr "Barv&a popředí:"
+
+#: imgallerydialog.cpp:185
+msgid "&Background color:"
+msgstr "&Barva pozadí:"
+
+#: imgallerydialog.cpp:196 imgallerydialog.cpp:197
+msgid "Folders"
+msgstr "Složky"
+
+#: imgallerydialog.cpp:206
+msgid "&Save to HTML file:"
+msgstr "Uložit do HTML &souboru:"
+
+#: imgallerydialog.cpp:209
+msgid "<p>The name of the HTML file this gallery will be saved to.</p>"
+msgstr "<p>Jméno HTML souboru, do kterého bude uložena tato galerie.</p>"
+
+#: imgallerydialog.cpp:220
+msgid "&Recurse subfolders"
+msgstr "&Rekurzivně prohledávat složky"
+
+#: imgallerydialog.cpp:222
+msgid ""
+"<p>Whether subfolders should be included for the image gallery creation or "
+"not.</p>"
+msgstr ""
+"<p>Jestli mají být podsložky začleněny k vytvoření obrázkové galerie nebo ne."
+"</p>"
+
+#: imgallerydialog.cpp:230
+msgid "Rec&ursion depth:"
+msgstr "Úroveň rek&urze:"
+
+#: imgallerydialog.cpp:232
+msgid "Endless"
+msgstr "nekonečná"
+
+#: imgallerydialog.cpp:234
+msgid ""
+"<p>You can limit the number of folders the image gallery creator will "
+"traverse to by setting an upper bound for the recursion depth.</p>"
+msgstr ""
+"<p>Můžete omezit počet složek, do kterých bude obrázková galerie zasahovat, "
+"nastavením horní hranice hloubky rekurze.</p>"
+
+#: imgallerydialog.cpp:246
+msgid "Copy or&iginal files"
+msgstr "Zk&opírovat původní soubory"
+
+#: imgallerydialog.cpp:249
+msgid ""
+"<p>This makes a copy of all images and the gallery will refer to these "
+"copies instead of the original images.</p>"
+msgstr ""
+"<p>Toto vytvoří kopie všech obrázků, aby s nimi mohla galerie pracovat "
+"namísto originálních obrázků.</p>"
+
+#: imgallerydialog.cpp:255
+msgid "Use &comment file"
+msgstr "Použít soubor s &komentáři"
+
+#: imgallerydialog.cpp:259
+msgid ""
+"<p>If you enable this option you can specify a comment file which will be "
+"used for generating subtitles for the images.</p><p>For details about the "
+"file format please see the \"What's This?\" help below.</p>"
+msgstr ""
+"<p>Pokud povolíte tuto volbu, budete moci určit soubor, který bude použit "
+"pro generování titulků k obrázkům.</p><p>Pro více detailů ohledně formátu "
+"souboru se podívejte na \"Co je toto?\" nápovědu níže.</p>"
+
+#: imgallerydialog.cpp:266
+msgid "Comments &file:"
+msgstr "Soubo&r s komentáři:"
+
+#: imgallerydialog.cpp:269
+msgid ""
+"<p>You can specify the name of the comment file here. The comment file "
+"contains the subtitles for the images. The format of this file is:</"
+"p><p>FILENAME1:<br />Description<br /><br />FILENAME2:<br />Description<br /"
+"><br />and so on</p>"
+msgstr ""
+"<p>Zde můžete určit jméno souboru pro titulky. Formát souboru je:</"
+"p><p>JMÉNOSOUBORU1:<br />Popis<br /><br />JMÉNOSOUBORU2:<br />Popis<br /"
+"><br /> a tak dále</p>"
+
+#: imgallerydialog.cpp:297 imgallerydialog.cpp:298
+msgid "Thumbnails"
+msgstr "Miniatury"
+
+#: imgallerydialog.cpp:317
+msgid "Image format f&or the thumbnails:"
+msgstr "Obrázkový &formát pro miniatury:"
+
+#: imgallerydialog.cpp:325
+msgid "Thumbnail size:"
+msgstr "Velikost miniatur:"
+
+#: imgallerydialog.cpp:337
+msgid "&Set different color depth:"
+msgstr "&Nastav jinou barevnou hloubku:"
+
+#: imgalleryplugin.cpp:59
+msgid "&Create Image Gallery..."
+msgstr "Vytvořit obrázkovou &galerii..."
+
+#: imgalleryplugin.cpp:70
+msgid "Could not create the plugin, please report a bug."
+msgstr "Nemohl se vytvořit plugin, prosím nahlašte chybu."
+
+#: imgalleryplugin.cpp:76
+msgid "Creating an image gallery works only on local folders."
+msgstr "Vytváření obrázkových galerií funguje pouze v lokálních složkách."
+
+#: imgalleryplugin.cpp:95
+msgid "Creating thumbnails"
+msgstr "Vytvářím miniatury"
+
+#: imgalleryplugin.cpp:116 imgalleryplugin.cpp:279
+#, kde-format
+msgid "Could not create folder: %1"
+msgstr "Nelze vytvořit složku: %1"
+
+#: imgalleryplugin.cpp:177
+#, kde-format
+msgid "<i>Number of images</i>: %1"
+msgstr "<i>Počet obrázků</i>: %1"
+
+#: imgalleryplugin.cpp:178
+#, kde-format
+msgid "<i>Created on</i>: %1"
+msgstr "<i>Vytvořeno dne</i>: %1"
+
+#: imgalleryplugin.cpp:183
+msgid "<i>Subfolders</i>:"
+msgstr "<i>Podsložky</i>:"
+
+#: imgalleryplugin.cpp:216
+#, kde-format
+msgid ""
+"Created thumbnail for: \n"
+"%1"
+msgstr ""
+"Vytvořena miniatura pro :\n"
+"%1"
+
+#: imgalleryplugin.cpp:219
+#, kde-format
+msgid ""
+"Creating thumbnail for: \n"
+"%1\n"
+" failed"
+msgstr ""
+"Vytvoření miniatury pro : \n"
+"%1\n"
+" selhalo"
+
+#: imgalleryplugin.cpp:237
+msgid "KB"
+msgstr "KB"
+
+#: imgalleryplugin.cpp:333 imgalleryplugin.cpp:428
+#, kde-format
+msgid "Could not open file: %1"
+msgstr "Nelze otevřít soubor: %1"
+
+#. i18n: file: kimgalleryplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Nástroje"

@@ -1,0 +1,74 @@
+# translation of dirfilterplugin.po to Khmer
+#
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2006, 2007, 2008.
+# Auk Piseth <piseth_dv@khmeros.info>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: dirfilterplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2008-08-21 09:00+0700\n"
+"Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
+"Language-Team: Khmer <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "មើល​តម្រង"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr "អនុញ្ញាតឲ្យ​​​​ត្រង​ធាតុ​ដែល​បាន​បង្ហាញ​​​បច្ចុប្បន្ន​​តាម​​ប្រភេទ​ឯកសារ ។​"
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr "វាល​តម្រង"
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "បង្ហាញ​តែ​ធាតុ​របស់​ប្រភេទ​"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "ប្រើ​តម្រង​ច្រើន​"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "បង្ហាញ​ចំនួន"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "កំណត់​ឡើង​វិញ"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "ឧបករណ៍"
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "របារ​ឧបករណ៍​បន្ថែម"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "របារ​ឧបករណ៍​តម្រង"
+
+#~ msgid "Clear Filter Field"
+#~ msgstr "ជម្រះ​វាល​តម្រង"
+
+#~ msgid "Clear filter field<p>Clears the content of the filter field.</p>"
+#~ msgstr "ជម្រះ​វាល​តម្រង <p>ជម្រះ​មាតិកា​របស់​វាល​តម្រង ។</p>"
+
+#~ msgid ""
+#~ "Enter here a text which an item in the view must contain anywhere to be "
+#~ "shown."
+#~ msgstr "នៅ​ទីនេះ​ បញ្ចូល​អត្ថបទ​ដែល​មាន​​ធាតុ​មួយ​ក្នុង​ទិដ្ឋភាព​​ត្រូវ​តែ​មាន​កន្លែង​ណា​មួយ​ត្រូវ​​បាន​បង្ហាញ ។"

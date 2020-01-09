@@ -1,0 +1,373 @@
+# Vietnamese translation for FSView.
+# Copyright © 2006 Free Software Foundation, Inc.
+# Clytie Siddall <clytie@riverland.net.au>, 2006.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fsview\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-11-01 06:25+0100\n"
+"PO-Revision-Date: 2006-08-07 20:40+0930\n"
+"Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
+"Language-Team: Vietnamese <kde-l10n-vi@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: LocFactoryEditor 1.6fc1\n"
+
+#: fsview.cpp:52 fsview.cpp:390
+msgid "Name"
+msgstr "Tên"
+
+#: fsview.cpp:53
+msgid "Size"
+msgstr "Cỡ"
+
+#: fsview.cpp:54
+msgid "File Count"
+msgstr "Số đếm tập tin"
+
+#: fsview.cpp:55
+msgid "Directory Count"
+msgstr "Số đếm thư mục"
+
+#: fsview.cpp:56
+msgid "Last Modified"
+msgstr "Sửa đổi cuối cùng"
+
+#: fsview.cpp:57 fsview.cpp:391
+msgid "Owner"
+msgstr "Sở hữu"
+
+#: fsview.cpp:58 fsview.cpp:392
+msgid "Group"
+msgstr "Nhóm"
+
+#: fsview.cpp:59 fsview.cpp:393
+msgid "Mime Type"
+msgstr "Kiểu MIME"
+
+#: fsview.cpp:281
+msgid "Go To"
+msgstr "Tới"
+
+#: fsview.cpp:283
+msgid "Go Up"
+msgstr "Lên"
+
+#: fsview.cpp:285
+msgid "Stop Refresh"
+msgstr "Thôi cập nhật"
+
+#: fsview.cpp:287
+msgid "Refresh"
+msgstr "Cập nhật"
+
+#: fsview.cpp:290
+#, kde-format
+msgid "Refresh '%1'"
+msgstr "Cập nhật « %1 »"
+
+#: fsview.cpp:293 fsview_part.cpp:131
+msgid "Stop at Depth"
+msgstr "Dừng ở độ sâu"
+
+#: fsview.cpp:295 fsview_part.cpp:128
+msgid "Stop at Area"
+msgstr "Dừng ở vùng"
+
+#: fsview.cpp:297
+msgid "Stop at Name"
+msgstr "Dừng ở tên"
+
+#: fsview.cpp:303 fsview_part.cpp:138
+msgid "Color Mode"
+msgstr "Chế độ màu"
+
+#: fsview.cpp:306 fsview_part.cpp:134
+msgid "Visualization"
+msgstr "Cách thức hiển thị"
+
+#: fsview.cpp:388
+msgid "None"
+msgstr "Không có"
+
+#: fsview.cpp:389
+msgid "Depth"
+msgstr "Độ sâu"
+
+#: fsview_part.cpp:82
+#, kde-format
+msgid "Read 1 folder, in %2"
+msgid_plural "Read %1 folders, in %2"
+msgstr[0] "Đọc %1 thư mục trong %2"
+
+#: fsview_part.cpp:87
+#, kde-format
+msgid "1 folder"
+msgid_plural "%1 folders"
+msgstr[0] "%1 thư mục"
+
+#: fsview_part.cpp:96 main.cpp:21
+msgid "FSView"
+msgstr "FSView"
+
+#: fsview_part.cpp:97
+msgid "Filesystem Utilization Viewer"
+msgstr "Bộ xem cách sử dụng hệ thống tập tin"
+
+#: fsview_part.cpp:99
+msgid "(c) 2003-2005, Josef Weidendorfer"
+msgstr "© 2003-2005, Josef Weidendorfer"
+
+#: fsview_part.cpp:112
+msgid ""
+"<p>This is the FSView plugin, a graphical browsing mode showing filesystem "
+"utilization by using a tree map visualization.</p><p>Note that in this mode, "
+"automatic updating when filesystem changes are made is intentionally <b>not</"
+"b> done.</p><p>For details on usage and options available, see the online "
+"help under menu 'Help/FSView Manual'.</p>"
+msgstr ""
+"<p>Đây là bổ sung FSView, một chế độ duyệt kiểu đồ họa, hiển thị cách sử "
+"dụng hệ thống tập tin theo sơ đồ cây.</p><p>Ghi chú rằng trong chế độ này, "
+"việc tự động cập nhật khi hệ thống tập tin thay đổi <b>không phải</b> được "
+"thực hiện một cách dự định.</p><p>Để tìm chi tiết về cách sử dụng và tùy "
+"chọn sẵn sàng, xem trợ giúp có sẵn dưới trình đơn « Trợ giúp > Sổ tay FSView "
+"».</p>"
+
+#: fsview_part.cpp:144
+msgid "&FSView Manual"
+msgstr "Sổ tay &FSView"
+
+#: fsview_part.cpp:146
+msgid "Show FSView manual"
+msgstr "Hiện sổ tay FSView"
+
+#: fsview_part.cpp:147
+msgid "Opens the help browser with the FSView documentation"
+msgstr "Mở bộ duyệt qua trợ giúp với tài liệu hướng dẫn FSView"
+
+#: fsview_part.cpp:187
+msgctxt "@action:inmenu File"
+msgid "Move to Trash"
+msgstr ""
+
+#: fsview_part.cpp:195
+msgctxt "@action:inmenu File"
+msgid "Delete"
+msgstr ""
+
+#: fsview_part.cpp:200
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr ""
+
+#: fsview_part.cpp:204
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr ""
+
+#: fsview_part.cpp:245
+msgid ""
+"FSView intentionally does not support automatic updates when changes are "
+"made to files or directories, currently visible in FSView, from the "
+"outside.\n"
+"For details, see the 'Help/FSView Manual'."
+msgstr ""
+"FSView không hỗ trợ dự định khả năng tự động cập nhật khi thay đổi xảy ra "
+"trong tập tin hay thư mục, hiện thời hiển thị trong FSView, từ bên ngoài.\n"
+"Để tìm chi tiết, xem « Trợ giúp > Sổ tay FSView »."
+
+#: main.cpp:22
+msgid "Filesystem Viewer"
+msgstr "Bộ xem hệ thống tập tin"
+
+#: main.cpp:24
+msgid "(c) 2002, Josef Weidendorfer"
+msgstr "© 2002, Josef Weidendorfer"
+
+#: main.cpp:28
+msgid "View filesystem starting from this folder"
+msgstr "Xem hệ thống tập tin, bắt đầu từ thư mục này"
+
+#. i18n: file: fsview_part.rc:4
+#. i18n: ectx: Menu (edit)
+#: rc.cpp:3
+msgid "&Edit"
+msgstr ""
+
+#. i18n: file: fsview_part.rc:13
+#. i18n: ectx: Menu (view)
+#: rc.cpp:6
+#, fuzzy
+msgid "&View"
+msgstr "FSView"
+
+#. i18n: file: fsview_part.rc:20
+#. i18n: ectx: Menu (help)
+#: rc.cpp:9
+msgid "&Help"
+msgstr ""
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Nhóm Việt hoá KDE"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "kde-l10n-vi@kde.org"
+
+#: treemap.cpp:1328
+#, kde-format
+msgid "Text %1"
+msgstr "Văn bản %1"
+
+#: treemap.cpp:2860
+msgid "Recursive Bisection"
+msgstr "Cắt đôi đệ quy"
+
+#: treemap.cpp:2861
+msgid "Columns"
+msgstr "Cột"
+
+#: treemap.cpp:2862
+msgid "Rows"
+msgstr "Hàng"
+
+#: treemap.cpp:2863
+msgid "Always Best"
+msgstr "Luôn tốt nhất"
+
+#: treemap.cpp:2864
+msgid "Best"
+msgstr "Tốt nhất"
+
+#: treemap.cpp:2865
+msgid "Alternate (V)"
+msgstr "Xen kẽ (V)"
+
+#: treemap.cpp:2866
+msgid "Alternate (H)"
+msgstr "Xen kẽ (H)"
+
+#: treemap.cpp:2867
+msgid "Horizontal"
+msgstr ""
+
+#: treemap.cpp:2868
+msgid "Vertical"
+msgstr ""
+
+#: treemap.cpp:2923
+msgid "Nesting"
+msgstr "Lồng nhau"
+
+#: treemap.cpp:2925
+msgid "Border"
+msgstr ""
+
+#: treemap.cpp:2926
+msgid "Correct Borders Only"
+msgstr "Chỉ sửa chữa viền"
+
+#: treemap.cpp:2928 treemap.cpp:2929 treemap.cpp:2930 treemap.cpp:2931
+#, kde-format
+msgid "Width %1"
+msgstr "Rộng %1"
+
+#: treemap.cpp:2938
+msgid "Allow Rotation"
+msgstr "Cho phép xoay"
+
+#: treemap.cpp:2940
+msgid "Shading"
+msgstr "Bóng"
+
+#: treemap.cpp:2953
+msgid "Visible"
+msgstr "Hiển thị"
+
+#: treemap.cpp:2954
+msgid "Take Space From Children"
+msgstr "Lấy sức chứa từ điều con"
+
+#: treemap.cpp:2956
+msgid "Top Left"
+msgstr "Trái trên"
+
+#: treemap.cpp:2957
+msgid "Top Center"
+msgstr "Trên giữa"
+
+#: treemap.cpp:2958
+msgid "Top Right"
+msgstr "Trên phải"
+
+#: treemap.cpp:2959
+msgid "Bottom Left"
+msgstr "Dưới trái"
+
+#: treemap.cpp:2960
+msgid "Bottom Center"
+msgstr "Dưới giữa"
+
+#: treemap.cpp:2961
+msgid "Bottom Right"
+msgstr "Dưới phải"
+
+#: treemap.cpp:3038
+#, kde-format
+msgid "No %1 Limit"
+msgstr "Vô hạn %1"
+
+#: treemap.cpp:3090
+msgid "No Area Limit"
+msgstr "Vô hạn diện tích"
+
+#: treemap.cpp:3096
+#, kde-format
+msgid "Area of '%1' (%2)"
+msgstr "Diện tích « %1 » (%2)"
+
+#: treemap.cpp:3107 treemap.cpp:3118
+#, kde-format
+msgid "1 Pixel"
+msgid_plural "%1 Pixels"
+msgstr[0] "%1 điểm ảnh"
+
+#: treemap.cpp:3122
+#, kde-format
+msgid "Double Area Limit (to %1)"
+msgstr "Nhân gấp đôi hạn chế diện tích (thành %1)"
+
+#: treemap.cpp:3124
+#, kde-format
+msgid "Halve Area Limit (to %1)"
+msgstr "Chia đôi hạn chế diện tích (thành %1)"
+
+#: treemap.cpp:3155
+msgid "No Depth Limit"
+msgstr "Vô hạn độ sâu"
+
+#: treemap.cpp:3161
+#, kde-format
+msgid "Depth of '%1' (%2)"
+msgstr "Độ sâu « %1 » (%2)"
+
+#: treemap.cpp:3172 treemap.cpp:3183
+#, kde-format
+msgid "Depth %1"
+msgstr "Độ sâu %1"
+
+#: treemap.cpp:3187
+#, kde-format
+msgid "Decrement (to %1)"
+msgstr "Giảm dần (thành %1)"
+
+#: treemap.cpp:3189
+#, kde-format
+msgid "Increment (to %1)"
+msgstr "Tăng dần (thành %1)"

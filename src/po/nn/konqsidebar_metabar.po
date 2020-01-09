@@ -1,0 +1,201 @@
+# Translation of konqsidebar_metabar to Norwegian Nynorsk
+#
+# Karl Ove Hufthammer <karl@huftis.org>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2008-11-26 16:37+0100\n"
+"Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
+"Language-Team: Norwegian Nynorsk <i18n-nn@lister.ping.uio.no>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: nn\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Oppsett – metalinje"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Element"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Opna med:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Handlingar:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "Utsjånad"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Animer endring av storleik"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Vis tenestemenyar"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Tema"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Installer nytt tema …"
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Ny …"
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "Slett"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Rediger …"
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Namn"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Adresse"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Generelt"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Handlingar"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Lenkjer"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Delt område"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Lag lenkje"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Ny lenkje"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Namn:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "Adresse:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Rediger lenkje"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Meir"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "Køyr %1"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Vel program"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Type"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Storleik"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Brukar"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Gruppe"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Løyve"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Endra"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Lesen"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "Lenkjemål"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "Filer"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Mapper"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Oppføringar totalt"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Trykk for å førehandsvisa"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Lagar førehandsvising"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Set opp metalinje …"
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "Mindre"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Legg til nettverksmappe"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Køyr"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Merknad"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Treng rotløyve"

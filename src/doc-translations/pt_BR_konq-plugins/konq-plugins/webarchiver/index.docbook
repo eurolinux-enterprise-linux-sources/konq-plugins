@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<!DOCTYPE article PUBLIC "-//KDE//DTD DocBook XML V4.2-Based Variant V1.1//EN"
+"dtd/kdex.dtd" [
+<!ENTITY % addindex "IGNORE">
+<!ENTITY % Brazilian-Portuguese "INCLUDE"
+> <!-- change language only here -->
+]>
+
+<article lang="&language;">
+
+<sect1 id="webarchiver">
+<sect1info>
+
+<authorgroup>
+<author
+><firstname
+>Gardner</firstname
+> <surname
+>Bell</surname
+> <affiliation
+><address
+><email
+>gbell72@rogers.com</email
+></address
+></affiliation>
+</author>
+
+<othercredit role="translator"
+><firstname
+>Marcus</firstname
+><surname
+>Gama</surname
+><affiliation
+><address
+><email
+>marcus.gama@gmail.com</email
+></address
+></affiliation
+><contrib
+>Tradução</contrib
+></othercredit
+><othercredit role="translator"
+><firstname
+>José</firstname
+> <surname
+>Monteiro</surname
+><affiliation
+><address
+> <email
+>monteiro@ajato.com.br</email
+></address
+></affiliation
+><contrib
+> Tradução</contrib
+></othercredit
+>  
+</authorgroup>
+<date
+>14-07-2004</date
+> <releaseinfo
+>3.10.00</releaseinfo
+> <abstract
+> <para
+>O plug-in de arquivamento da Internet para o &konqueror; permite arquivar páginas da Internet, documentos e imagens no formato <literal role="extension"
+>.war</literal
+>.</para>
+</abstract>
+
+<keywordset>
+<keyword
+>KDE</keyword>
+<keyword
+>kdeaddons</keyword>
+<keyword
+>konqueror</keyword>
+<keyword
+>plug-ins</keyword>
+<keyword
+>arquivador da Internet</keyword>
+</keywordset>
+
+</sect1info>
+
+<title
+>Arquivador da Internet</title>
+
+<sect2>
+<title
+>Usando o arquivador da Internet</title>
+
+<para
+>Para acessar o arquivador da Internet aponte seu mouse para <menuchoice
+><guimenu
+>Ferramentas</guimenu
+><guimenuitem
+>Arquivar página da Internet...</guimenuitem
+></menuchoice
+>. Um diálogo aparecerá permitindo que você salve o site da Internet atual que está sendo visto.</para>
+
+</sect2>
+
+<sect2>
+<title
+>Créditos</title>
+
+<para
+>Direitos autorais do plug-in de arquivador da Internet &copy; 2001-2003 Andreas Schlapbach, Antonio Larossa and Malte Starostik <email
+>schlpbch@iam.unibe.ch</email
+> <email
+>larossa@kde.org</email
+> <email
+>malte@kde.org</email
+></para>
+</sect2>
+
+</sect1>
+</article>

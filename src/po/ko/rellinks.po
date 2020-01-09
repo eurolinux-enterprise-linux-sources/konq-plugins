@@ -1,0 +1,234 @@
+# Translation of rellinks to Korean.
+# Copyright (C) 2008 This_file_is_part_of_KDE
+# This file is distributed under the same license as the extragear-base package.
+# Park Shinjo <peremen@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: rellinks\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-01-03 11:07+0100\n"
+"PO-Revision-Date: 2008-07-17 16:41+0900\n"
+"Last-Translator: Park Shinjo <peremen@gmail.com>\n"
+"Language-Team: Korean <cho.sungjae@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: plugin_rellinks.cpp:56
+msgid "Rellinks"
+msgstr "상대 링크"
+
+#: plugin_rellinks.cpp:71
+msgid "&Top"
+msgstr "맨 위(&T)"
+
+#: plugin_rellinks.cpp:74
+msgid "<p>This link references a home page or the top of some hierarchy.</p>"
+msgstr "<p>이 링크는 홈 페이지나 계층 구조의 맨 위를 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:79
+msgid "&Up"
+msgstr "위로(&U)"
+
+#: plugin_rellinks.cpp:82
+msgid ""
+"<p>This link references the immediate parent of the current document.</p>"
+msgstr "<p>이 링크는 현재 문서의 바로 위 단계를 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:89
+msgid "&First"
+msgstr "처음(&F)"
+
+#: plugin_rellinks.cpp:92
+msgid ""
+"<p>This link type tells search engines which document is considered by the "
+"author to be the starting point of the collection.</p>"
+msgstr ""
+"<p>이 링크는 검색 엔진에게 모음집의 맨 처음이 어디인지 알려 줍니다.</p>"
+
+#: plugin_rellinks.cpp:97
+msgid "&Previous"
+msgstr "이전(&P)"
+
+#: plugin_rellinks.cpp:101
+msgid ""
+"<p>This link references the previous document in an ordered series of "
+"documents.</p>"
+msgstr "<p>이 링크는 연속된 문서 중 이전 문서를 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:105
+msgid "&Next"
+msgstr "다음(&N)"
+
+#: plugin_rellinks.cpp:108
+msgid ""
+"<p>This link references the next document in an ordered series of documents."
+"</p>"
+msgstr "<p>이 링크는 연속된 문서 중 다음 문서를 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:113
+msgid "&Last"
+msgstr "마지막(&L)"
+
+#: plugin_rellinks.cpp:117
+msgid "<p>This link references the end of a sequence of documents.</p>"
+msgstr "<p>이 링크는 연속된 문서의 맨 마지막을 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:122
+msgid "&Search"
+msgstr "검색(&S)"
+
+#: plugin_rellinks.cpp:125
+msgid "<p>This link references the search.</p>"
+msgstr "<p>이 링크는 검색을 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:130
+msgid "Document"
+msgstr "문서"
+
+#: plugin_rellinks.cpp:132
+msgid "<p>This menu contains the links referring the document information.</p>"
+msgstr "<p>이 메뉴는 문서 정보를 참조하는 링크를 포함합니다.</p>"
+
+#: plugin_rellinks.cpp:136
+msgid "Table of &Contents"
+msgstr "차례(&C)"
+
+#: plugin_rellinks.cpp:138
+msgid "<p>This link references the table of contents.</p>"
+msgstr "<p>이 링크는 차례를 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:143
+msgid "Chapters"
+msgstr "장"
+
+#: plugin_rellinks.cpp:148
+msgid "<p>This menu references the chapters of the document.</p>"
+msgstr "<p>이 메뉴는 문서의 장을 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:151
+msgid "Sections"
+msgstr "절"
+
+#: plugin_rellinks.cpp:157
+msgid "<p>This menu references the sections of the document.</p>"
+msgstr "<p>이 메뉴는 문서의 절을 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:160
+msgid "Subsections"
+msgstr "하위 절"
+
+#: plugin_rellinks.cpp:165
+msgid "<p>This menu references the subsections of the document.</p>"
+msgstr "<p>이 메뉴는 문서의 하위 절을 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:168
+msgid "Appendix"
+msgstr "부록"
+
+#: plugin_rellinks.cpp:173
+msgid "<p>This link references the appendix.</p>"
+msgstr "<p>이 링크는 부록을 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:177
+msgid "&Glossary"
+msgstr "용어집(&G)"
+
+#: plugin_rellinks.cpp:180
+msgid "<p>This link references the glossary.</p>"
+msgstr "<p>이 링크는 용어집을 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:185
+msgid "&Index"
+msgstr "찾아보기(&I)"
+
+#: plugin_rellinks.cpp:187
+msgid "<p>This link references the index.</p>"
+msgstr "<p>이 링크는 찾아보기를 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:193
+msgid "More"
+msgstr "더 보기"
+
+#: plugin_rellinks.cpp:195
+msgid "<p>This menu contains other important links.</p>"
+msgstr "<p>이 메뉴는 다른 중요한 링크를 포함합니다.</p>"
+
+#: plugin_rellinks.cpp:199
+msgid "&Help"
+msgstr "도움말(&H)"
+
+#: plugin_rellinks.cpp:202
+msgid "<p>This link references the help.</p>"
+msgstr "<p>이 링크는 도움말을 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:208
+msgid "&Authors"
+msgstr "작성자(&A)"
+
+#: plugin_rellinks.cpp:211
+msgid "<p>This link references the author.</p>"
+msgstr "<p>이 링크는 작성자 정보를 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:217
+msgid "Copy&right"
+msgstr "저작권(&R)"
+
+#: plugin_rellinks.cpp:220
+msgid "<p>This link references the copyright.</p>"
+msgstr "<p>이 링크는 저작권 정보를 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:225
+msgid "Bookmarks"
+msgstr "책갈피"
+
+#: plugin_rellinks.cpp:228
+msgid "<p>This menu references the bookmarks.</p>"
+msgstr "<p>이 메뉴는 책갈피를 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:232
+msgid "Other Versions"
+msgstr "다른 버전"
+
+#: plugin_rellinks.cpp:235
+msgid "<p>This link references the alternate versions of this document.</p>"
+msgstr "<p>이 링크는 이 문서의 다른 버전을 참조합니다.</p>"
+
+#: plugin_rellinks.cpp:240
+msgid "Miscellaneous"
+msgstr "기타"
+
+#: plugin_rellinks.cpp:243
+msgid "<p>Miscellaneous links.</p>"
+msgstr "<p>기타 링크.</p>"
+
+#: plugin_rellinks.cpp:471 plugin_rellinks.cpp:485
+#, kde-format
+msgid "[Autodetected] %1"
+msgstr "[자동 감지됨] %1"
+
+#. i18n: file: plugin_rellinks.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "도구(&T)"
+
+#. i18n: file: plugin_rellinks.rc:5
+#. i18n: ectx: Menu (rellinksMenu)
+#. i18n: file: plugin_rellinks.rc:21
+#. i18n: ectx: ToolBar (rellinksToolBar)
+#: rc.cpp:6 rc.cpp:9
+msgid "Document Relations"
+msgstr "문서 관계"
+
+#: rc.cpp:10
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Park Shinjo"
+
+#: rc.cpp:11
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "peremen@gmail.com"

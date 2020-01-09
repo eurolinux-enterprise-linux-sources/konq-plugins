@@ -1,0 +1,183 @@
+# translation of babelfish.po to Belarusian
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Darafei Praliaskouski <komzpa@licei2.com>, 2007.
+# Darafei Praliaskouski <komzpa@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: babelfish\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-17 07:03+0200\n"
+"PO-Revision-Date: 2009-04-19 17:58+0300\n"
+"Last-Translator: Darafei Praliaskouski <komzpa@gmail.com>\n"
+"Language-Team: Belarusian <i18n@mova.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: plugin_babelfish.cpp:50
+msgid "Translate Web Page"
+msgstr "Перакласці вэб-старонку"
+
+#: plugin_babelfish.cpp:60
+msgid "Translate Web &Page"
+msgstr "Перакласці вэб-старонку"
+
+#: plugin_babelfish.cpp:66
+msgid "&English To"
+msgstr "З англійскай"
+
+#: plugin_babelfish.cpp:69
+msgid "&French To"
+msgstr "З французскай"
+
+#: plugin_babelfish.cpp:72
+msgid "&German To"
+msgstr "З нямецкай"
+
+#: plugin_babelfish.cpp:76
+msgid "&Spanish To"
+msgstr "З іспанскай"
+
+#: plugin_babelfish.cpp:80
+msgid "&Portuguese To"
+msgstr "З партугальскай "
+
+#: plugin_babelfish.cpp:84
+msgid "&Italian To"
+msgstr "З італьянскай"
+
+#: plugin_babelfish.cpp:88
+msgid "&Dutch To"
+msgstr "З дацкай"
+
+#: plugin_babelfish.cpp:94
+msgid "&Chinese (Simplified)"
+msgstr "&Кітайская (Спрошчаная)"
+
+#: plugin_babelfish.cpp:95
+msgid "Chinese (&Traditional)"
+msgstr "Кітайская (&Традыцыйная)"
+
+#: plugin_babelfish.cpp:96 plugin_babelfish.cpp:107
+msgid "&Dutch"
+msgstr "Галандская"
+
+#: plugin_babelfish.cpp:97 plugin_babelfish.cpp:114 plugin_babelfish.cpp:116
+#: plugin_babelfish.cpp:118 plugin_babelfish.cpp:120 plugin_babelfish.cpp:122
+msgid "&French"
+msgstr "Французская"
+
+#: plugin_babelfish.cpp:98 plugin_babelfish.cpp:109
+msgid "&German"
+msgstr "Нямецкая"
+
+#: plugin_babelfish.cpp:99 plugin_babelfish.cpp:110
+msgid "&Italian"
+msgstr "Італьянская"
+
+#: plugin_babelfish.cpp:100
+msgid "&Japanese"
+msgstr "Японская"
+
+#: plugin_babelfish.cpp:101
+msgid "&Korean"
+msgstr "Карэйская"
+
+#: plugin_babelfish.cpp:102
+msgid "&Norwegian"
+msgstr "Нарвежская"
+
+#: plugin_babelfish.cpp:103 plugin_babelfish.cpp:111
+msgid "&Portuguese"
+msgstr "Партугальская"
+
+#: plugin_babelfish.cpp:104
+msgid "&Russian"
+msgstr "Руская"
+
+#: plugin_babelfish.cpp:105 plugin_babelfish.cpp:112
+msgid "&Spanish"
+msgstr "Іспанская"
+
+#: plugin_babelfish.cpp:106
+msgid "T&hai"
+msgstr "Тайская"
+
+#: plugin_babelfish.cpp:108 plugin_babelfish.cpp:113 plugin_babelfish.cpp:115
+#: plugin_babelfish.cpp:117 plugin_babelfish.cpp:119 plugin_babelfish.cpp:121
+msgid "&English"
+msgstr "Англійская"
+
+#: plugin_babelfish.cpp:123 plugin_babelfish.cpp:142
+msgid "&Chinese (Simplified) to English"
+msgstr "Кітайская спрошчаная на англійскую"
+
+#: plugin_babelfish.cpp:124 plugin_babelfish.cpp:147
+msgid "Chinese (&Traditional) to English"
+msgstr "Кітайская традыцыйная на англійскую"
+
+#: plugin_babelfish.cpp:158
+msgid "&Japanese to English"
+msgstr "Японскую на англійскую"
+
+#: plugin_babelfish.cpp:163
+msgid "&Korean to English"
+msgstr "Карэйскую на англійскую"
+
+#: plugin_babelfish.cpp:170
+msgid "&Russian to English"
+msgstr "Рускую на англійскую"
+
+#: plugin_babelfish.cpp:214
+msgid "Cannot Translate Source"
+msgstr "Немагчыма перакласці крыніцу"
+
+#: plugin_babelfish.cpp:215
+msgid "Only web pages can be translated using this plugin."
+msgstr ""
+"Толькі вэб старонкі могуць быць перакладзены пры дапамозе гэтага плагіну."
+
+#: plugin_babelfish.cpp:261
+msgid "Only full webpages can be translated for this language pair."
+msgstr ""
+"Толькі поўныя вэб старонкі могуць быць перакладзены для гэтай моўнай пары"
+
+#: plugin_babelfish.cpp:261
+msgid "Translation Error"
+msgstr "Памылка перакладу"
+
+#: plugin_babelfish.cpp:269
+msgid "Malformed URL"
+msgstr "Недапушчальны URL"
+
+#: plugin_babelfish.cpp:270
+msgid "The URL you entered is not valid, please correct it and try again."
+msgstr ""
+"Вы ўвялі недапушчальны адрас, калі ласка, выпраўце яго і паспрабуйце зноў."
+
+#. i18n: file: plugin_babelfish.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "Н&ачынне"
+
+#. i18n: file: plugin_babelfish.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Дадатковая панель"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Дарафей Праляскоўскі, Конан Андрэй"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "komzpa@licei2.com,potlaty@gmail.com"

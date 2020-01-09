@@ -1,0 +1,178 @@
+# translation of babelfish.po to Thai
+# Copyright (C) 2003, 2008 Free Software Foundation, Inc.
+#
+# Thanomsub Noppaburana <donga_n@yahoo.com>, 2003.
+# Thanomsub Noppaburana <donga.nb@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: babelfish\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-10-17 07:03+0200\n"
+"PO-Revision-Date: 2008-12-14 12:24+0700\n"
+"Last-Translator: Thanomsub Noppaburana <donga.nb@gmail.com>\n"
+"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: plugin_babelfish.cpp:50
+msgid "Translate Web Page"
+msgstr "แปลภาษาบนหน้าเว็บ"
+
+#: plugin_babelfish.cpp:60
+msgid "Translate Web &Page"
+msgstr "แปลภาษาบนห&น้าเว็บ"
+
+#: plugin_babelfish.cpp:66
+msgid "&English To"
+msgstr "จากภาษา&อังกฤษ เป็น"
+
+#: plugin_babelfish.cpp:69
+msgid "&French To"
+msgstr "จากภาษา&ฝรั่งเศส เป็น"
+
+#: plugin_babelfish.cpp:72
+msgid "&German To"
+msgstr "จากภาษาเ&ยอรมัน เป็น"
+
+#: plugin_babelfish.cpp:76
+msgid "&Spanish To"
+msgstr "จากภาษา&สเปน เป็น"
+
+#: plugin_babelfish.cpp:80
+msgid "&Portuguese To"
+msgstr "จากภาษาโ&ปรตุเกส เป็น"
+
+#: plugin_babelfish.cpp:84
+msgid "&Italian To"
+msgstr "จากภาษาอิ&ตาลี เป็น"
+
+#: plugin_babelfish.cpp:88
+msgid "&Dutch To"
+msgstr "จากภาษา&ดัทช์ เป็น"
+
+#: plugin_babelfish.cpp:94
+msgid "&Chinese (Simplified)"
+msgstr "จากภาษา&จีนประยุกต์ เป็น"
+
+#: plugin_babelfish.cpp:95
+msgid "Chinese (&Traditional)"
+msgstr "จากภาษาจีนดั้&งเดิม เป็น"
+
+#: plugin_babelfish.cpp:96 plugin_babelfish.cpp:107
+msgid "&Dutch"
+msgstr "ภาษา&ดัทช์"
+
+#: plugin_babelfish.cpp:97 plugin_babelfish.cpp:114 plugin_babelfish.cpp:116
+#: plugin_babelfish.cpp:118 plugin_babelfish.cpp:120 plugin_babelfish.cpp:122
+msgid "&French"
+msgstr "ภาษา&ฝรั่งเศส"
+
+#: plugin_babelfish.cpp:98 plugin_babelfish.cpp:109
+msgid "&German"
+msgstr "ภาษาเ&ยอรมัน"
+
+#: plugin_babelfish.cpp:99 plugin_babelfish.cpp:110
+msgid "&Italian"
+msgstr "ภาษาอิ&ตาลี"
+
+#: plugin_babelfish.cpp:100
+msgid "&Japanese"
+msgstr "ภาษาญี่ปุ่&น"
+
+#: plugin_babelfish.cpp:101
+msgid "&Korean"
+msgstr "ภาษาเ&กาหลี"
+
+#: plugin_babelfish.cpp:102
+msgid "&Norwegian"
+msgstr "ภาษา&นอร์เวย์"
+
+#: plugin_babelfish.cpp:103 plugin_babelfish.cpp:111
+msgid "&Portuguese"
+msgstr "ภาษาโ&ปรตุเกส"
+
+#: plugin_babelfish.cpp:104
+msgid "&Russian"
+msgstr "ภาษา&รัสเซีย"
+
+#: plugin_babelfish.cpp:105 plugin_babelfish.cpp:112
+msgid "&Spanish"
+msgstr "ภาษา&สเปน"
+
+#: plugin_babelfish.cpp:106
+msgid "T&hai"
+msgstr "ภาษาไ&ทย"
+
+#: plugin_babelfish.cpp:108 plugin_babelfish.cpp:113 plugin_babelfish.cpp:115
+#: plugin_babelfish.cpp:117 plugin_babelfish.cpp:119 plugin_babelfish.cpp:121
+msgid "&English"
+msgstr "ภาษา&อังกฤษ"
+
+#: plugin_babelfish.cpp:123 plugin_babelfish.cpp:142
+msgid "&Chinese (Simplified) to English"
+msgstr "จากภาษา&จีนประยุกต์ เป็นภาษาอังกฤษ"
+
+#: plugin_babelfish.cpp:124 plugin_babelfish.cpp:147
+msgid "Chinese (&Traditional) to English"
+msgstr "จากภาษา&จีนดั้งเดิม เป็นภาษาอังกฤษ"
+
+#: plugin_babelfish.cpp:158
+msgid "&Japanese to English"
+msgstr "จากภาษา&ญี่ปุ่น เป็นภาษาอังกฤษ"
+
+#: plugin_babelfish.cpp:163
+msgid "&Korean to English"
+msgstr "จากภาษาเ&กาหลี เป็นภาษาอังกฤษ"
+
+#: plugin_babelfish.cpp:170
+msgid "&Russian to English"
+msgstr "จากภาษา&รัสเซีย เป็นภาษาอังกฤษ"
+
+#: plugin_babelfish.cpp:214
+msgid "Cannot Translate Source"
+msgstr "ไม่สามารถแปลภาษาของต้นทางได้"
+
+#: plugin_babelfish.cpp:215
+msgid "Only web pages can be translated using this plugin."
+msgstr "มีเพียงหน้าเว็บต่าง ๆ ท่านั้นที่สามารถใช้การแปลขภาษาองส่วนเสริมนี้ได้"
+
+#: plugin_babelfish.cpp:261
+msgid "Only full webpages can be translated for this language pair."
+msgstr "มีเพียงหน้าเว็บที่สมบูรณ์เท่านั้น ที่สามารถถูกแปลภาษาเป็นคู่ภาษานี้ได้"
+
+#: plugin_babelfish.cpp:261
+msgid "Translation Error"
+msgstr "การแปลภาษาผิดพลาด"
+
+#: plugin_babelfish.cpp:269
+msgid "Malformed URL"
+msgstr "รูปแบบที่อยู่ URL ไม่ถูกต้อง"
+
+#: plugin_babelfish.cpp:270
+msgid "The URL you entered is not valid, please correct it and try again."
+msgstr "ที่อยู่ URL ที่คุณป้อนมาใช้ไม่ได้หรือไม่ถูกต้อง โปรดแก้ไขก่อน แล้วลองใหม่อีกครั้ง"
+
+#. i18n: file: plugin_babelfish.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "เ&ครื่องมือ"
+
+#. i18n: file: plugin_babelfish.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "แถบเครื่องมือพิเศษ"
+
+#: rc.cpp:7
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ถนอมทรัพย์ นพบูรณ์"
+
+#: rc.cpp:8
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "donga.nb@gmail.com"

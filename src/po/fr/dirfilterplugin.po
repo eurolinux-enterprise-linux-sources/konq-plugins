@@ -1,0 +1,82 @@
+# translation of dirfilterplugin.po to Français
+# traduction de dirfilterplugin.po en Français
+# Copyright (C) 2002, 2003, 2004, 2005, 2008 Free Software Foundation, Inc.
+#
+# Laurent Rathle <lrathle@kde-france.org>, 2002.
+# Matthieu Robin <kde@macolu.org>, 2003.
+# Delafond <gerard@delafond.org>, 2004.
+# Nicolas Ternisien <nicolast@libertysurf.fr>, 2005.
+# Nicolas Ternisien <nicolas.ternisien@gmail.com>, 2008.
+msgid ""
+msgstr ""
+"Project-Id-Version: dirfilterplugin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2009-06-16 11:26+0200\n"
+"PO-Revision-Date: 2008-01-11 13:33+0100\n"
+"Last-Translator: Nicolas Ternisien <nicolas.ternisien@gmail.com>\n"
+"Language-Team: Français <kde-francophone@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Accelerator-Marker: &\n"
+
+#: dirfilterplugin.cpp:137
+msgid "View F&ilter"
+msgstr "&Filtre d'affichage"
+
+#: dirfilterplugin.cpp:141
+msgid "Allow to filter the currently displayed items by filetype."
+msgstr "Autoriser à filtrer les éléments affichés actuellement par leur type."
+
+#: dirfilterplugin.cpp:163
+msgid "Filter Field"
+msgstr "Champ de filtrage"
+
+#: dirfilterplugin.cpp:203
+msgid "Only Show Items of Type"
+msgstr "N'afficher que les éléments du type"
+
+#: dirfilterplugin.cpp:263
+msgid "Use Multiple Filters"
+msgstr "Utiliser plusieurs filtres"
+
+#: dirfilterplugin.cpp:269
+msgid "Show Count"
+msgstr "Afficher le compte"
+
+#: dirfilterplugin.cpp:274
+msgid "Reset"
+msgstr "Aucun filtre"
+
+#. i18n: file: dirfilterplugin.rc:4
+#. i18n: ectx: Menu (tools)
+#: rc.cpp:3
+msgid "&Tools"
+msgstr "&Outils"
+
+#. i18n: file: dirfilterplugin.rc:8
+#. i18n: ectx: ToolBar (extraToolBar)
+#: rc.cpp:6
+msgid "Extra Toolbar"
+msgstr "Barre d'outils supplémentaire"
+
+#. i18n: file: dirfilterplugin.rc:11
+#. i18n: ectx: ToolBar (locationToolBar)
+#: rc.cpp:9
+msgid "Filter Toolbar"
+msgstr "Barre d'outils de filtre"
+
+#~ msgid "Clear Filter Field"
+#~ msgstr "Effacer le filtre"
+
+#~ msgid "Clear filter field<p>Clears the content of the filter field.</p>"
+#~ msgstr "Effacer le filtre<p>Efface le contenu du champ de filtrage.</p>"
+
+#~ msgid ""
+#~ "Enter here a text which an item in the view must contain anywhere to be "
+#~ "shown."
+#~ msgstr ""
+#~ "Saisissez un texte ici que tout élément de la vue doit contenir pour être "
+#~ "affiché."

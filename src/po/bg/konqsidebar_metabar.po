@@ -1,0 +1,198 @@
+# translation of konqsidebar_metabar.po to Bulgarian
+#
+# Zlatko Popov <zlatkopopov@fsa-bg.org>, 2006, 2007, 2008.
+# Aleksandar Yordanov <punkin.drublik@gmail.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: konqsidebar_metabar\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
+"PO-Revision-Date: 2008-12-30 15:50+0000\n"
+"Last-Translator: Zlatko Popov <zlatkopopov@fsa-bg.org>\n"
+"Language-Team: Bulgarian <dict@fsa-bg.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: configdialog.cpp:69
+msgid "Configuration - Metabar"
+msgstr "Настройване - металента"
+
+#: configdialog.cpp:84
+msgid "Items"
+msgstr "Елементи"
+
+#: configdialog.cpp:87
+msgid "Open with:"
+msgstr "Отваряне с:"
+
+#: configdialog.cpp:95
+msgid "Actions:"
+msgstr "Действия:"
+
+#: configdialog.cpp:104
+msgid "Appearance"
+msgstr "Изглед"
+
+#: configdialog.cpp:107
+msgid "Animate resize"
+msgstr "Анимирано преоразмеряване"
+
+#: configdialog.cpp:110
+msgid "Show service menus"
+msgstr "Показване на менютата с услуги"
+
+#: configdialog.cpp:113
+msgid "Themes"
+msgstr "Теми"
+
+#: configdialog.cpp:119
+msgid "Install New Theme..."
+msgstr "Инсталиране на нова тема..."
+
+#: configdialog.cpp:128
+msgid "New..."
+msgstr "Нова..."
+
+#: configdialog.cpp:131
+msgid "Delete"
+msgstr "Изтрива&не"
+
+#: configdialog.cpp:134
+msgid "Edit..."
+msgstr "Редактиране..."
+
+#: configdialog.cpp:151 settingsplugin.cpp:103
+msgid "Name"
+msgstr "Име"
+
+#: configdialog.cpp:152
+msgid "Address"
+msgstr "Адрес"
+
+#: configdialog.cpp:161
+msgid "General"
+msgstr "Общи"
+
+#: configdialog.cpp:162
+msgid "Actions"
+msgstr "Действия"
+
+#: configdialog.cpp:163
+msgid "Links"
+msgstr "Връзки"
+
+#: configdialog.cpp:222 configdialog.cpp:558 defaultplugin.cpp:104
+msgid "Share"
+msgstr "Споделяне"
+
+#: configdialog.cpp:313
+msgid "Create Link"
+msgstr "Създаване на връзка"
+
+#: configdialog.cpp:322
+msgid "New link"
+msgstr "Нова връзка"
+
+#: configdialog.cpp:338 configdialog.cpp:421
+msgid "Name:"
+msgstr "Име:"
+
+#: configdialog.cpp:340 configdialog.cpp:423
+msgid "URL:"
+msgstr "URL:"
+
+#: configdialog.cpp:396
+msgid "Edit Link"
+msgstr "Редактиране на връзка"
+
+#: defaultplugin.cpp:133 defaultplugin.cpp:196 metabarwidget.cpp:436
+msgid "More"
+msgstr "Повече"
+
+#: defaultplugin.cpp:161
+#, kde-format
+msgid "Run %1"
+msgstr "Стартиране на %1"
+
+#: defaultplugin.cpp:200
+msgid "Choose Application"
+msgstr "Изберете програма"
+
+#: defaultplugin.cpp:220
+msgid "Type"
+msgstr "Тип"
+
+#: defaultplugin.cpp:222 defaultplugin.cpp:295
+msgid "Size"
+msgstr "Големина"
+
+#: defaultplugin.cpp:224
+msgid "User"
+msgstr "Потребител"
+
+#: defaultplugin.cpp:226
+msgid "Group"
+msgstr "Група"
+
+#: defaultplugin.cpp:228
+msgid "Permissions"
+msgstr "Права"
+
+#: defaultplugin.cpp:230
+msgid "Modified"
+msgstr "Променен"
+
+#: defaultplugin.cpp:232
+msgid "Accessed"
+msgstr "Отварян"
+
+#: defaultplugin.cpp:237
+msgid "Link target"
+msgstr "Цел"
+
+#: defaultplugin.cpp:297
+msgid "Files"
+msgstr "Файлове"
+
+#: defaultplugin.cpp:299
+msgid "Folders"
+msgstr "Директории"
+
+#: defaultplugin.cpp:301
+msgid "Total Entries"
+msgstr "Общо записи"
+
+#: defaultplugin.cpp:323 defaultplugin.cpp:383
+msgid "Click to start preview"
+msgstr "Щракнете за начало"
+
+#: defaultplugin.cpp:329
+msgid "Creating preview"
+msgstr "Създаване на предварителен преглед"
+
+#: metabarwidget.cpp:123
+msgid "Configure Metabar..."
+msgstr "Настройване - металента"
+
+#: metabarwidget.cpp:436
+msgid "Less"
+msgstr "По-малко"
+
+#: remoteplugin.cpp:41
+msgid "Add a Network Folder"
+msgstr "Добавяне на мрежова директория"
+
+#: settingsplugin.cpp:75
+msgid "Run"
+msgstr "Изпълнение"
+
+#: settingsplugin.cpp:105
+msgid "Comment"
+msgstr "Коментар"
+
+#: settingsplugin.cpp:111
+msgid "Needs root privileges"
+msgstr "Изисква права на администратор"
